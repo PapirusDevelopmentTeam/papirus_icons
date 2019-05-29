@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#000000;opacity:.2;stroke-width:1.0009008"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#3aa33a;stroke-width:1.0009008"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.167874 0.007647 0.333141 0.0117188 0.5 0.2646716-10.846137 9.0761552-19.5 19.988281-19.5s19.72361 8.653863 19.988281 19.5c0.004072-0.166859 0.011719-0.332126 0.011719-0.5 0-11.08-8.92-20-20-20z" style="fill:#ffffff;opacity:.2;stroke-width:1.0009008"/>
+ <path d="m35.005539 28.999541s-1 2-3.5 2-5.5 0-5.5-6 3-6 5.5-6 3.5 2 3.5 2" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m12.005539 18.999541 5 12 5-12" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <g transform="translate(.00553942 -2.0004588)">
+  <path d="m12 20 5 12 5-12" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#ffffff"/>
+  <path d="m35 30s-1 2-3.5 2-5.5 0-5.5-6 3-6 5.5-6 3.5 2 3.5 2" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#ffffff"/>
+ </g>
+</svg>

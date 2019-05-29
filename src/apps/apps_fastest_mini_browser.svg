@@ -1,0 +1,12 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#000000;opacity:.2;stroke-width:1.0009008"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#006da1;stroke-width:1.0009008"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-40" y="-39" width="30" height="30" rx="15" ry="15" style="fill:#000000;opacity:.2;stroke-width:.75067556"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-39" y="-39" width="30" height="30" rx="15" ry="15" style="fill:#cccccc;stroke-width:.75067556"/>
+ <path d="m14 34 8.2337-11.766 3.5323 3.5323z" style="fill:#f34235"/>
+ <path d="m34 14-11.766 8.2337 3.532 3.532z" style="fill:#00a170"/>
+ <circle cx="24" cy="25" r="4" style="fill:#151515;opacity:.2"/>
+ <circle cx="24" cy="24" r="4" style="fill:#ffffff"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.167874 0.007647 0.333141 0.0117188 0.5 0.2646716-10.846137 9.0761552-19.5 19.988281-19.5s19.72361 8.653863 19.988281 19.5c0.004072-0.166859 0.011719-0.332126 0.011719-0.5 0-11.08-8.92-20-20-20z" style="fill:#ffffff;opacity:.1;stroke-width:1.0009008"/>
+ <path d="m24 9c-8.31 0-15 6.69-15 15 0 0.168945 0.019903 0.332437 0.0253906 0.5 0.2644366-8.074471 6.8335544-14.5 14.974609-14.5s14.710173 6.425529 14.974609 14.5c0.005488-0.167563 0.025391-0.331055 0.025391-0.5 0-8.31-6.69-15-15-15z" style="fill:#ffffff;opacity:.1;stroke-width:.75067556"/>
+</svg>

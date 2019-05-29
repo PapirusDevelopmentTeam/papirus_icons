@@ -1,0 +1,15 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#2b7fe8;stroke-width:1.0000501"/>
+ <path d="m24 4c-11.079 0-19.998 8.92-19.998 20 0 0.16772-4e-3 0.33329 0 0.5 0.2642-10.846 9.087-19.5 19.998-19.5s19.734 8.6536 19.998 19.5c4e-3 -0.16671 0-0.33228 0-0.5 0-11.08-8.919-20-19.998-20z" fill="#fff" opacity=".2" style="opacity:.2"/>
+ <path d="m4.0117 24.5c-0.0041 0.167-0.0117 0.332-0.0117 0.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-0.168-8e-3 -0.333-0.012-0.5-0.264 10.846-9.076 19.5-19.988 19.5s-19.724-8.654-19.988-19.5z" opacity=".2"/>
+ <path d="m20.517954 28.385238 3.669546 2.118668 5.072266-2.845703-8.173249-4.718492z" style="fill:#000000;opacity:.2"/>
+ <path d="m20.517954 27.385238 3.669546 2.118668 5.072266-2.845703-8.173249-4.718492z" style="fill:#aaccf6"/>
+ <path d="m18 16v18l5-2.8125v-8.1875l4 2.25 3.277344 1.84375 3.722656-2.09375-8-4.5z" style="fill:#000000;opacity:.2"/>
+ <path d="m18 15v9 9l5-2.8125v-3.6875-4.5l4 2.25 3.277344 1.84375 3.722656-2.09375-16-9z" style="fill:#ffffff"/>
+</svg>

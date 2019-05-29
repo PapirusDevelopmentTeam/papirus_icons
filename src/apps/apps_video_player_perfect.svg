@@ -1,0 +1,11 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m24 4h-18c-1.108 0-2 0.892-2 2v18h20z" fill="#e44545" style="fill:#43c95a"/>
+ <path d="m24 4h18c1.108 0 2 0.892 2 2v18h-20z" fill="#38ac52" style="fill:#e4214c"/>
+ <path d="m24 44h-18c-1.108 0-2-0.892-2-2v-18h20z" fill="#f2ae37" style="fill:#2d8fc5"/>
+ <path d="m24 44h18c1.108 0 2-0.892 2-2v-18h-20z" fill="#37a0f2" style="fill:#ffd13e"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".2"/>
+ <path d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z" opacity=".2"/>
+ <rect x="11" y="12" width="26" height="26" rx="3" ry="3" style="fill:#000000;opacity:.2"/>
+ <rect x="11" y="11" width="26" height="26" rx="3" ry="3" style="fill:#ffffff"/>
+ <path transform="matrix(0 -.67738058 .6704329 0 14.954805 10.36054)" d="m-9.8016686 6.0337057-5.1669624 8.9494413-5.166962 8.949442-5.166963-8.949442-5.166962-8.9494412 10.333925-1e-7z" style="fill:#714480"/>
+</svg>
