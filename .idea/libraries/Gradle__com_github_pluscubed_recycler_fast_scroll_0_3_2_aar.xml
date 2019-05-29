@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pluscubed:recycler-fast-scroll:0.3.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/205796d430157817350bc1ab36bca30a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/205796d430157817350bc1ab36bca30a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pluscubed/recycler-fast-scroll/0.3.2/22dbcb429b18cd310aa22aa7a285292074866be2/recycler-fast-scroll-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

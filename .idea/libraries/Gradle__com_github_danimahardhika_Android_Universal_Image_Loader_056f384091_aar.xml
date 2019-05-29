@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.danimahardhika:Android-Universal-Image-Loader:056f384091@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0adde880b369fa20f5ee390e2e9ff5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ca0adde880b369fa20f5ee390e2e9ff5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.danimahardhika/Android-Universal-Image-Loader/056f384091/7d297ac0a252b5a8bc079d9e266c24c063565bf5/Android-Universal-Image-Loader-056f384091-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

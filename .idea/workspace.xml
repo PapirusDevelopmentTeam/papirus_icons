@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1559129487729</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76a1f284-327c-4b59-bf10-17ef03106981" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_9_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_palette_v7_26_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_27_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_anjlab_android_iab_v3_library_1_0_40_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_bluelinelabs_logansquare_1_3_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_KeepSafe_TapTargetView_1_9_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_chrisbanes_PhotoView_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_Android_Universal_Image_Loader_056f384091_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_DrawMe_4a672e78fc_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_android_helpers_animation_0_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_android_helpers_core_0_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_android_helpers_license_0_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_android_helpers_permission_0_0_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_cafebar_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_candybar_library_PreLollipopTransitions_3_5_0_b4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_danimahardhika_candybar_library_core_3_5_0_b4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_pluscubed_recycler_fast_scroll_0_3_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_apps_muzei_muzei_api_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mikhaellopez_circularimageview_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__cz_msebera_android_httpclient_4_4_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_grantland_autofittextview_0_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_sufficientlysecure_html_textview_3_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__uk_co_chrisjenx_calligraphy_2_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0convert.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_321_mediaplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_4g_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_4g_lte_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_8g_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_abbey_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ac3_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ac3_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ac_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_accountstudio_mp3_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_adblock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_adblock_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_adblock_plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_aimp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_allcast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_amazon_store.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ankit_musicplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_appsddoz_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_apus_browser_pro_video_booster.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_archos_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_armorfly_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_asus_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_audio_bassbooster.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_audio_beats.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_audioamp_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_audiovision_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ax_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_bbc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_bbc_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_beeline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_black_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_boat_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_boat_browser_mini.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_boomcap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_boostnote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_browser_apus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_browser_brave.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_browser_du.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_browser_orbitum.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_browser_puls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_bsplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_butterfly_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_casse_o_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_castbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_chromer_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_clean_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_clementine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_cloud_player_doubletwist.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_cloudskipper_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_cm_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_coocent_eq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_deadbeef.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_discord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_dolphin_web_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_dolphin_zero_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_double_twist_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_dreams_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_dub_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_dub_studio_eq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_duck_duck_go.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ellen_mp3_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_equalizer_music_player_booster.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_exsoul_web_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_fastest_mini_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_fbmessenger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_firefox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_firefox_focus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_firefox_trunk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_flv_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_flv_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_fm_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_folder_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_fotoable_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ghostery_privacy_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_gom_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_gonemad_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_gplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_gpodder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_green_apple_mp3_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_green_banana_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_habit_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_halo_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_hd_universal_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_hd_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_highsecure_mp3_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_hipchat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_htc_videoplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_icq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ijoy_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_inbrowser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ingenuity_eq_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_iron_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ivvovtech_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_jetaudio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_jrtstudio_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_just_listenit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_kdeconnect.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_kepler_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_kmplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_kx_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_lark_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_lastfm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_laya_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_lightning_web_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_linconnect.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_litter_web_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_localcast_for_chromecast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mail.ru_cloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_maple_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_max_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_maxthon_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mediamonkey.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mercury_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mezzo_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_miniandroid_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_moboplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mp3_music_download_search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mp3_player_white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mttcross_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_and_video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_folder_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_go.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_go_plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_hero.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_player_go.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_player_sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_music_player_vortex.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_musicolet_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_musicplayer_mp3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_musicplayer_rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_musix_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_musixmatch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mvideoplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_mx_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_n7player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_neutron_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_next_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_nrg_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_ok.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_omnich_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_one_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_onkyo_hf_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_opera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_opera_beta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_opera_developer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_opera_mini.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_opera_vpn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_orfox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_phoenix_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_phonograph_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_pi_musicplayer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_player_meridian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_player_pro_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_playermusic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_playerxtreme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_playo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_plex.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_pocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_pocketcasts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_podcast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_podcast_addict.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_podcast_go.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_podcast_republic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_power_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_power_media_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_poweramp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_prosto_radio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_puffin_web_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_pulsar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_pyrope_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_quark_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_reactive_fast_search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_real_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_rocket_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_rocket_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_s8_edge_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_samsung_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_sberbank.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_shazam.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_shuttle_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_skype.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_slack.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_smart_eq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_smart_swf_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_soundcloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_spotify_client.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_sputnik_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_stellio_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_stream_djit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_swf_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_tangram_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_telegram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_torrent_video_player_tvp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_transmission.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_trax_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_tunein.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_tunein_pro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_turtlerun_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_turtlerun_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_uc_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_usb_audio_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_vc_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_via_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_viber.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_video_player_all_format.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_video_player_audio_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_video_player_hd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_video_player_hd_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_video_player_perfect.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_videoplayer_ultimate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_vlc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_wechat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_whatsapp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_wondershare_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_xbrowser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_xeno_amp_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_xplay_music_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_yandex_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_yo_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_yolo_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_youtube_player_terekhine.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/apps_zgz_video_player.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_adaway.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_aeondroid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_afwall_plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_alarm_clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_andotp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_atimetracker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_authorizer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_autoairplanemode.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_bewegungsmelder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_bipolalarm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_birthdayadapter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_birthdaydroid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_bitmask.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_cryptfs_password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_cryptopass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_csploit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_d00r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_derandom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_etesync.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_etheremote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_f_droid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_hashdroid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_i2p.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_icsimport.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_is_phone_encrypted.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_keepass_dx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_keepassdroid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_locker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_motp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_netguard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_note_crypt_pro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_onetimepass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_ooniprobe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_open_keychain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_openmentoring.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_openpass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_orwall.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_orweb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_otpauth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_passcard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_passera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_passwordgenerator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_peanut_encryption.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_pgpauth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_pgpclipper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_pijaret.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_pinmnemonic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_pixelknot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_portauthority.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_portknocker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_puff.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_qrstream.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_ripple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_satoshiproof.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_secret_codes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_selinux.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_simpletextcrypt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_smssecure.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_snooperstopper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_snoopsnitch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_supergenpass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_superuser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_surespot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_tinc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_wherearetheeyes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps_wlanscanner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/games_badland.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/games/games_limbo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_accessibility_auditor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_adm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_admin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_adsense.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_adwords.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_adwords_express.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_agenda.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_allo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_analytics.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_auto.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_device_enrollment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_device_policy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_pay.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_tv_core_services.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_tv_launcher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_tv_remote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_android_wear.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_androidify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_ar_stickers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_arts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_auth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_blogger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_brailleback.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cardboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cardboard_design.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_carrier_services.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cast_receiver.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_chrome.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_chrome_canary.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_chrome_remote_desktop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_classroom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cloud_search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cloudconsole.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cloudprint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_contacts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_creative_preview.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_crowdsource.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_cyclops.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_datally.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_daydream.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_daydream_elements.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_dmagent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_docs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_drive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_duo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_emergencyassist.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_expeditions.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_files_go.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_fit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_forscience.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_gboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_gmail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_goggles.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_hangouts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_hangouts_meet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_help.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_inbox.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_input_handwriting.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_input_japanese.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_input_korean.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_input_pinyin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_intersection_explorersvg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_io.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_jamboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_keep.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_measure.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_messaging.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_my_maps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_myglass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_news.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_pdfviewer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_photos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_pixel_ambient_services.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_pixel_launcher.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play_book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play_game.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play_movie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_play_press.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_playconsole.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_santatracker.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_scanner.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_sheets.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_slides.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_snapseed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_spotlightstories.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_start.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_street.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_talkback.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_tango_core.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_toontastic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_translate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_trips.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_tts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_tv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_vega.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_voice_search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_vr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_wallpaper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_webview.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_wifi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_youtube_creator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/google_youtube_gaming.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_alarm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_android.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_api_dev.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_battery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_bluetooth.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_browser.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_calculator.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_camera.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_compass.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_contacts.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_dash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_dash_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_dash_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_downloads.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_eq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_file_manager.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_fingerprint.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_flashlight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_gallery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_gesture_builder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_hotspot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_keyboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_maps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_messages.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_mic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_music.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_notes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_photocam.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_preferences.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_radio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_recovery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_screenshot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_security.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_settings.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_sim.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_timer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_todo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_videocam.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_voicedialer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_voicemail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_weather.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_widget_preview.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_wifi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/system_worldtime.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="56" />
+    <option name="width" value="1392" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.papirus.icons" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28_x86" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a1f284-327c-4b59-bf10-17ef03106981" name="Default Changelist" comment="" />
+      <created>1559129315108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559129315108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="31" width="1922" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32977587" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" weight="0.3297062" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3297062" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
