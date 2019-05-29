@@ -1,0 +1,17 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m7 6c-1.662 0-3 1.338-3 3v25h40v-25c0-1.662-1.338-3-3-3z" fill="#c2352a" style="enable-background:new"/>
+ <path d="m7 6c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h34c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-34z" fill="#fff" opacity=".2" style="enable-background:new"/>
+ <path d="m4 34v5c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-5z" fill="#f2f2f2" style="enable-background:new;fill:#e4e4e4"/>
+ <rect x="28" y="37" width="13" height="2" rx="1" ry=".928" fill="#999" style="enable-background:new"/>
+ <rect x="7" y="37" width="21" height="2" rx="1" ry="1" fill="#c2352a" style="enable-background:new"/>
+ <circle cx="28" cy="39" r="2" opacity=".2" style="enable-background:new"/>
+ <circle cx="28" cy="38" r="2" fill="#fff" style="enable-background:new"/>
+ <rect x="4" y="34" width="40" height="1" fill="#fff" style="enable-background:new;opacity:.2"/>
+ <path d="m4 39v1c0 1.662 1.338 3 3 3h34c1.662 0 3-1.338 3-3v-1c0 1.662-1.338 3-3 3h-34c-1.662 0-3-1.338-3-3z" opacity=".2" style="enable-background:new"/>
+ <path d="m8.5212679 20.47911h5.9996931m-5.9996931-5.999697h5.9996931m-5.9995457 11.999319v-11.999168" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:bevel;stroke-width:2.9998109;stroke:#000000"/>
+ <path d="m8.5212679 19.47911h5.9996931m-5.9996931-5.999697h5.9996931m-5.9995457 11.999319v-11.999168" style="fill:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-width:2.9998109;stroke:#ffffff"/>
+ <path d="m20.500055 14.500455v11.99949h5.999622v0" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.9998109;stroke:#000000"/>
+ <path d="m20.500055 13.500455v11.99949h5.999622v0" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.9998109;stroke:#ffffff"/>
+ <path d="m39.506936 14.500882-4.499716 11.99949-4.499717-11.99949" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.9998109;stroke:#000000"/>
+ <path d="m39.506936 13.500882-4.499716 11.99949-4.499717-11.99949" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.9998109;stroke:#ffffff"/>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1"
+   id="svg12"
+   sodipodi:docname="google_myglass.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="12.14"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="M 4.0117,24 C 4.0076,24.167 4,24.332 4,24.5 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 0,-0.16787 -0.0076,-0.33314 -0.01172,-0.5 -0.264,10.846 -9.076,19.5 -19.988,19.5 -10.912,0 -19.724,-8.654 -19.988,-19.5 z"
+     style="opacity:0.2"
+     id="path6"
+     inkscape:connector-curvature="0" />
+  <rect
+     transform="matrix(0,-1,-1,0,0,0)"
+     x="-44"
+     y="-44"
+     width="40"
+     height="40"
+     rx="20"
+     ry="20"
+     style="fill:#4f4f4f"
+     id="rect2" />
+  <path
+     style="fill:#ffffff;opacity:.1"
+     d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.085968 4.0033179 24.170793 4.0058594 24.255859 C 4.1364976 13.289921 13.001971 4.5 24 4.5 C 35.00131 4.5 43.86868 13.295116 43.994141 24.265625 C 43.996778 24.177286 44 24.089178 44 24 C 44 12.92 35.08 4 24 4 z "
+     id="path4" />
+  <path
+     d="m 29.499689,31.999636 v -17 l -16,17 v 0"
+     style="opacity:0.2;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     id="path8"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m29.499689 31.499636v-17l-16 17v0"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:3;stroke:#ffffff"
+     id="path10" />
+</svg>

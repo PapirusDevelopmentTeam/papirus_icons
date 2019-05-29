@@ -1,0 +1,10 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#000000;opacity:.2;stroke-width:1.0009008"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" style="fill:#6868d1;stroke-width:1.0009008"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-37" y="-36" width="24" height="24" rx="12" ry="12" style="fill:#000000;opacity:.2;stroke-width:.60054046"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-36" y="-36" width="24" height="24" rx="12" ry="12" style="fill:#ffffff;stroke-width:.60054046"/>
+ <circle cx="36" cy="35" r="10" style="fill:#000000;opacity:.2"/>
+ <circle cx="36" cy="34" r="10" style="fill:#5ccac2"/>
+ <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.167874 0.007647 0.333141 0.0117188 0.5 0.2646716-10.846137 9.0761552-19.5 19.988281-19.5s19.72361 8.653863 19.988281 19.5c0.004072-0.166859 0.011719-0.332126 0.011719-0.5 0-11.08-8.92-20-20-20z" style="fill:#ffffff;opacity:.1;stroke-width:1.0009008"/>
+ <path d="M 36 24 A 10 10 0 0 0 26 34 A 10 10 0 0 0 26.021484 34.585938 A 10 10 0 0 1 36 25 A 10 10 0 0 1 45.978516 34.414062 A 10 10 0 0 0 46 34 A 10 10 0 0 0 36 24 z " style="fill:#ffffff;opacity:.1"/>
+</svg>
