@@ -1,393 +1,1286 @@
 {
-    "4g_browser": ["browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivity", "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivityOldbrowser", "fastbrowser4g.internetwebexplorer/internet.explorer.ienew.browser.activities.BrowserActivity"],
-    "4g_lte_browser": ["hero.browser4g.internet/acr.browser.lightning.activity.SplashScreenActivity"],
-    "8g_browser": ["com.js.browserjstechgroup/com.mmbox.xbrowser.BrowserActivity"],
-    "321_mediaplayer": ["photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity", "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"],
-    "abbey_music_player": ["com.omagrahari.abbeymusicplayernew/com.omagrahari.abbeymusicplayernew.MainActivity"],
-    "ac_browser": ["net.ac.browser/acr.browser.thunder.MainActivity"],
-    "ac3_player": ["nppl3.hd.video.player/org.videolan.vlc.gui.MainActivity", "nppl3.hd.video.player/nppl3.hd.video.player.gui.MainActivity"],
-    "ac3_video_player": ["grant.standard.ac3.player/grant.standard.ac3.player.HomeActivity"],
-    "accountstudio_mp3_player": ["mp3songs.mp3player.mp3cutter.ringtonemaker/com.music.player.mp3.player.cut.MainActivity"],
-    "adblock_browser": ["org.adblockplus.browser/org.adblockplus.browser.App"],
-    "adblock_plus": ["org.adblockplus.adblockplussbrowser/org.adblockplus.sbrowser.contentblocker.MainPreferences"],
-    "adblock": ["com.betafish.adblocksbrowser/com.betafish.sbrowser.contentblocker.MainPreferences"],
-    "aimp": ["com.aimp.player/com.aimp.player.views.Main.MainActivity", "com.aimp.player/com.aimp.player.views.MainActivity.MainActivity", "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity"],
-    "allcast": ["com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree", "com.koushikdutta.cast.receiver/com.koushikdutta.cast.receiver.MainActivity", "com.koushikdutta.cast/com.koushikdutta.cast.MainActivity", "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity", "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity"],
-    "amazon_store": ["com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity", "com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity", "com.amazon.windowshop/com.amazon.mShop.home.HomeActivity"],
-    "ankit_musicplayer": ["bitsie.playmee.musicplayer.free/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments", "bitsie.playmee.musicplayer.pro/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments"],
-    "appsddoz_video_player": ["video.audio.mp3.player.editor/video.audio.mp3.player.editor.gui.MainActivity"],
-    "apus_browser_pro_video_booster": ["com.apus.web.browser.pro/com.apusapps.browser.main.AppEnterActivity"],
-    "archos_video_player": ["com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo", "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo", "com.archos.mediacenter.videoqc/com.archos.mediacenter.videoqc.browser.BrowserActivityVideo", "com.archos.mediacenter.videomtk/com.archos.mediacenter.videomtk.browser.BrowserActivityVideo", "com.archos.mediacenter.video/com.archos.mediacenter.video.browser.BrowserActivityVideo", "com.archos.mediacenter.videoaw/com.archos.mediacenter.videoaw.browser.BrowserActivityVideo", "com.archos.mpeg2plugin/com.archos.mpeg2plugin.Mpeg2Installer", "com.archos.mediacenter.videoti/com.archos.mediacenter.videoti.browser.BrowserActivityVideo", "com.archos.mediacenter.videork/com.archos.mediacenter.videork.browser.BrowserActivityVideo"],
-    "armorfly_browser": ["com.cmcm.armorfly/com.ijinshan.browser.screen.SplashActivity"],
-    "asus_browser": ["com.asus.browser/com.android.browser.BrowserActivity"],
-    "audio_bassbooster": ["audio.virtualizer.equalizer.bassbooster.musicplayer/com.ijoysoft.music.activity.WelcomeActivity"],
-    "audio_beats": ["com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.activities.MainActivity"],
-    "audioamp_video_player": ["videoplayerhd.musicplayer.videoaudioplayer/videoplayerhd.musicplayer.videoaudioplayer.gui.MainActivity"],
-    "audiovision_music_player": ["stesch.visualplayer/stesch.visualplayer.activities.MainActivity"],
-    "ax_player": ["com.axhdplayer.videoplayer.ad/com.axhdplayer.videoplayer.ad.MediaListActivity"],
-    "badland": ["com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland", "com.frogmind.badland/com.frogmind.badland.Badland"],
-    "bbc_player": ["air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry"],
-    "bbc": ["bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity", "bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"],
-    "beeline": ["ru.beeline.services/ru.beeline.services.ui.activities.StartActivity", "ru.beeline.services/ru.beeline.services.ui.activities.MainActivity"],
-    "black_player": ["com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity", "com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity"],
-    "boat_browser_mini": ["com.boatgo.browser/com.boatgo.browser.BrowserActivity"],
-    "boat_browser": ["com.boatbrowser.free/com.boatbrowser.free.BrowserActivity", "com.boatbrowser.free/com.boatbrowser.free.SplashActivity"],
-    "boomcap": ["qodeSter.beatbox.media.flash/qodeSter.beatbox.media.flash.SplashScreen"],
-    "boostnote": ["io.boostnote/io.boostnote.MainActivity"],
-    "browser_apus": ["com.apusapps.browser/com.apusapps.browser.main.ApusBrowserActivity", "com.apusapps.browser/com.apusapps.browser.main.AppEnterActivity", "com.apusapps.browser/com.superapps.browser.main.AppEnterActivity", "com.apusapps.browser.turbo/com.apusapps.browser.main.AppEnterActivity"],
-    "browser_brave": ["com.brave.browser/com.google.android.apps.chrome.Main"],
-    "browser_du": ["com.baidu.browser.inter.mini/com.baidu.browser.inter.mini.BrowserActivity", "com.baidu.browser.inter/com.baidu.browser.inter.SplashActivity", "com.baidu.browserhd.inter/com.baidu.browser.inter.SplashActivity"],
-    "browser_orbitum": ["com.orbitum.browser/com.orbitum.browser.activity.StartActivity"],
-    "browser_puls": ["ru.mail.pulse/ru.mail.pulse.Main"],
-    "bsplayer": ["com.bsplayer.bspandroid.free/com.bsplayer.bsplayeran.BSPMain_new", "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.bspmain", "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.BSPMain_new"],
-    "butterfly_browser": ["acr.browser.butterfly/acr.browser.butterfly.MainActivity"],
-    "casse_o_player": ["com.hornwerk.compactcassetteplayer/com.hornwerk.compactcassetteplayer.Activities.ShowcaseActivity"],
-    "castbox": ["com.podcast.podcasts/com.podcast.podcasts.activity.MainActivity", "com.podcast.podcasts/fm.castbox.ui.main.MainActivity"],
-    "chromer_browser": ["arun.com.chromer/arun.com.chromer.MainActivity"],
-    "clean_music": ["com.myskyspark.music/com.myskyspark.music.OpenActivity"],
-    "clementine": ["de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog", "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectActivity"],
-    "cloud_player_doubletwist": ["com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity"],
-    "cloudskipper_music_player": ["cloudtv.cloudskipper/cloudtv.android.cs.activity.MainActivity"],
-    "cm_browser": ["com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity", "com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity"],
-    "coocent_eq": ["music.bassbooster.equalizer.pay/kx.com.app.equalizer.EQActivity"],
-    "deadbeef": ["org.deadbeef.android/org.deadbeef.android.Deadbeef"],
-    "discord": ["com.discord/com.discord.screens.ScreenLoading", "com.discord/com.discord.screens.ScreenMain", "com.discord/com.discord.screens.ScreenAux$Main", "com.discord/com.discord.app.AppActivity$Main"],
-    "dolphin_web_browser": ["mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity", "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity", "com.dolphin.web.browser.android/mobi.mgeek.TunnyBrowser.BrowserActivity"],
-    "dolphin_zero_browser": ["com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity"],
-    "double_twist_player": ["com.doubleTwist.androidPlayerProKey/com.doubleTwist.androidPlayerProKey.FreeAppRequiredActivity", "com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity", "com.doubleTwist.androidPlayer/com.doubleTwist.cloudPlayer.HomeActivity"],
-    "dreams_player": ["com.team48dreams.player/com.team48dreams.player.Load"],
-    "dub_music_player": ["hr.palamida/hr.palamida.Start"],
-    "dub_studio_eq": ["hr.podlanica/hr.podlanica.Start"],
-    "duck_duck_go": ["com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"],
-    "ellen_mp3_player": ["media.mp3.mp3player/com.tarena.fashionmusic.FashionMusicActivity"],
-    "equalizer_music_player_booster": ["com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.LoadingActivity", "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.MainActivity", "com.djit.equalizerplusforandroidfree/com.djit.equalizerplus.activities.HomeActivity"],
-    "exsoul_web_browser": ["com.exsoul/com.exsoul.ExsoulActivity"],
-    "facebook": ["com.facebook.katana/com.facebook.katana.LoginActivity"],
-    "fastest_mini_browser": ["com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"],
-    "fbmessenger": ["com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"],
-    "firefox_focus": ["org.mozilla.focus/org.mozilla.focus.activity.MainActivity"],
-    "firefox_trunk": ["org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"],
-    "firefox": ["org.mozilla.firefox/org.mozilla.firefox.App", "org.mozilla.firefox_beta/org.mozilla.firefox_beta.App", "org.mozilla.firefox_beta/org.mozilla.search.SearchActivity", "org.mozilla.firefox_beta/org.mozilla.gecko.BrowserApp"],
-    "flv_player": ["flv.mobile.android/flv.mobile.android.ui.activities.MainActivity"],
-    "flv_video_player": ["air.br.com.bitlabs.FLVPlayer/air.br.com.bitlabs.FLVPlayer.AppEntry", "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.TabActivity", "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.LaunchScreenActivity"],
-    "fm_player": ["fm.player/fm.player.ui.MainActivity_", "fm.player/fm.player.ui.MainActivity"],
-    "folder_player": ["com.folderplayer/com.folderplayer.StartActivity"],
-    "fotoable_music_player": ["com.fotoable.musicplayer/com.ytwd.mp3player.WelcomeActivity"],
-    "ghostery_privacy_browser": ["com.ghostery.android.ghostery/com.ghostery.android.ghostery.SplashActivity", "com.ghostery.android.ghostery/com.ghostery.android.ghostery.BrowserActivity"],
-    "gom_player": ["com.gretech.gomplayerko/com.gretech.activities.GSplashActivity", "com.gretech.gomplayerko/com.gomcorp.gomplayer.GSplashActivity"],
-    "gonemad_music_player": ["gonemad.gmmp/gonemad.gmmp.activities.MainActivity"],
-    "google_accessibility_auditor": ["com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity"],
-    "google_adm": ["com.google.android.apps.adm/com.google.android.apps.adm.MainActivity"],
-    "google_admin": ["com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity"],
-    "google_adsense": ["com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity", "com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity"],
-    "google_adwords_express": ["com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.LaunchActivity", "com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity"],
-    "google_adwords": ["com.google.android.apps.adwords/com.google.android.apps.adwords.home.InitialLoadingActivity", "com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity"],
-    "google_agenda": ["com.google.android.calendar/com.android.calendar.AllInOneActivity"],
-    "google_news": ["com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity"],
-    "google_allo": ["com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity"],
-    "google_analytics": ["com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsHome", "com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsLaunchActivity", "com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity"],
-    "google_android_auto": ["com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.AndroidAutoActivity", "com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.SplashScreenActivity", "com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity"],
-    "google_android_device_enrollment": ["com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity"],
-    "google_android_device_policy": ["com.google.android.apps.work.clouddpc/com.google.android.apps.work.clouddpc.ui.MainActivity"],
-    "google_android_pay": ["com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity", "com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.entrypoint.WalletRootActivity", "com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"],
-    "google_android_tv_core_services": ["com.google.android.tvrecommendations/com.google.android.tvrecommendations.application.TvRecommendationsApplication"],
-    "google_android_tv_launcher": ["com.google.android.leanbacklauncher/com.google.android.leanbacklauncher.DummyActivity"],
-    "google_android_tv_remote": ["com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity"],
-    "google_android_wear": ["com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity", "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity"],
-    "google_androidify": ["com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify"],
-    "google_ar_stickers": ["com.google.vr.apps.ornament/com.google.vr.apps.ornament.app.OrnamentApplication"],
-    "google_arts": ["com.google.android.apps.cultural/com.google.android.apps.cultural.stella.activity.MainActivity", "com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity"],
-    "google_auth": ["com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"],
-    "google_blogger": ["com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity"],
-    "google_brailleback": ["com.googlecode.eyesfree.brailleback/com.googlecode.eyesfree.brailleback.IMESetupWizardActivity"],
-    "google_calculator": ["com.google.android.calculator/com.android.calculator2.Calculator"],
-    "google_cardboard_design": ["com.google.vr.cardboard.apps.designlab/com.google.vrtoolkit.cardboard.plugins.unity.UnityCardboardActivity"],
-    "google_cardboard": ["com.google.samples.apps.cardboarddemo/com.google.research.airbender.paperscope.android.launcher.Launcher2D", "com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2D", "com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2"],
-    "google_carrier_services": ["com.google.android.ims/com.google.android.ims.ui.WifiCallingSettingsActivity"],
-    "google_cast_receiver": ["com.google.android.apps.mediashell/org.chromium.chromecast.shell.CastApplication"],
-    "google_chrome_canary": ["com.chrome.canary/com.google.android.apps.chrome.Main"],
-    "google_chrome_remote_desktop": ["com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting"],
-    "google_chrome": ["com.android.chrome/com.google.android.apps.chrome.Main"],
-    "google_classroom": ["com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity"],
-    "google_clock": ["com.google.android.deskclock/com.android.deskclock.DeskClock"],
-    "google_cloud_search": ["com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.SearchActivity", "com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.MainActivity"],
-    "google_cloudconsole": ["com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity"],
-    "google_cloudprint": ["com.google.android.apps.cloudprint/com.google.android.apps.cloudprint.printdialog.CloudPrintLauncherActivity", "com.google.android.apps.cloudprint/com.google.android.apps.cloudprint.printdialog.CloudPrintLauncherVisibility"],
-    "google_contacts": ["com.google.android.contacts/com.android.contacts.activities.PeopleActivity"],
-    "google_creative_preview": ["com.google.android.apps.audition/com.google.android.apps.audition.presenter.PreviewListActivity"],
-    "google_crowdsource": ["com.google.android.apps.village.boond/com.google.android.apps.village.boond.SplashActivity", "com.google.android.apps.village.boond/com.google.android.apps.village.boond.activities.SplashActivity"],
-    "google_cyclops": ["com.google.vr.cyclops/com.google.android.apps.cyclops.MainActivity", "com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity"],
-    "google_datally": ["com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.activities.SplashActivity"],
-    "google_daydream_elements": [],
-    "google_daydream": ["com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity"],
-    "google_dmagent": ["com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity"],
-    "google_docs": ["com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"],
-    "google_drive": ["com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"],
-    "google_duo": ["com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"],
-    "google_emergencyassist": ["com.google.android.apps.emergencyassist/com.google.android.apps.emergencyassist.MainActivity"],
-    "google_expeditions": ["com.google.vr.expeditions/com.google.vr.expeditions.guide.startup.GuideStartupActivity"],
-    "google_files_go": ["com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"],
-    "google_fit": ["com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity"],
-    "google_forscience": ["com.google.android.apps.forscience.whistlepunk/com.google.android.apps.forscience.whistlepunk.MainActivity"],
-    "google_gboard": ["com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity", "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"],
-    "google_gmail": ["com.google.android.gm/com.google.android.gm.ConversationListActivityGmail", "com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail", "com.google.android.gm/com.google.android.gm.AutoSendActivity", "com.google.android.gm/com.google.android.gm.GmailActivity", "com.google.android.gm/com.google.android.gm.ComposeActivityGmail", "com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity", "com.google.android.gm/com.google.android.gm.MailboxSelectionActivity", "com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail"],
-    "google_goggles": ["com.google.android.apps.unveil/com.google.android.apps.unveil.CaptureActivity"],
-    "google_hangouts_meet": ["com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity"],
-    "google_hangouts": ["com.google.android.talk/com.google.android.talk.SigningInActivity"],
-    "google_help": ["com.google.android.apps.helprtc/com.google.android.apps.helprtc.ui.ScreenshareActivity", "com.google.android.apps.helprtc.ui.InvitationActivity"],
-    "google_home": ["com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity"],
-    "google_inbox": ["com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity", "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.MainActivity"],
-    "google_input_handwriting": ["com.google.android.apps.handwriting.ime/com.google.android.apps.handwriting.ime.WelcomeActivity"],
-    "google_input_japanese": ["com.google.android.inputmethod.japanese/com.google.android.inputmethod.japanese.LauncherActivity", "com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"],
-    "google_input_korean": ["com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"],
-    "google_input_pinyin": ["com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"],
-    "google_intersection_explore": ["com.google.android.marvin.intersectionexplorer/com.google.android.marvin.intersectionexplorer.IntersectionExplorer"],
-    "google_io": ["com.google.samples.apps.iosched/com.google.samples.apps.iosched.ui.BrowseSessionsActivity", "com.google.samples.apps.iosched/com.google.samples.apps.iosched.explore.ExploreIOActivity"],
-    "google_jamboard": ["com.google.android.apps.jam/com.google.android.apps.jam.application.JamApplication", "com.google.android.apps.jam/com.google.android.apps.jam.activity.AuthActivity"],
-    "google_keep": ["com.google.android.keep/com.google.android.keep.activities.BrowseActivity"],
-    "google_measure": ["com.google.tango.measure/com.google.tango.measure.MainActivity"],
-    "google_messaging": ["com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"],
-    "google_my_maps": ["com.google.android.apps.m4b/com.google.android.apps.m4b.piC.Ul", "com.google.android.apps.m4b/com.google.android.apps.m4b.ui.signin.SignInActivity", "com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity"],
-    "google_myglass": ["com.google.glass.companion/com.google.glass.companion.MyGlassActivity", "com.google.glass.companion/com.google.glass.companion.Launcher"],
-    "google_pdfviewer": ["com.google.android.apps.pdfviewer/com.google.android.apps.viewer.PdfViewerActivity"],
-    "google_phone": ["com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"],
-    "google_photos": ["com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"],
-    "google_pixel_ambient_services": ["com.google.intelligence.sense/com.google.intelligence.sense.SenseApplication"],
-    "google_pixel_launcher": ["com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity"],
-    "google_play_book": ["com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"],
-    "google_play_game": ["com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"],
-    "google_play_movie": ["com.google.android.videos/com.google.android.youtube.videos.EntryPoint", "com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity", "com.google.android.videos/com.google.android.videos.activity.LauncherActivity"],
-    "google_play_music": ["com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"],
-    "google_play": ["com.android.vending/com.android.vending.AssetBrowserActivity"],
-    "google_playconsole": ["com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity"],
-    "google_plus": ["com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity", "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity", "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"],
-    "google_play_press": ["com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"],
-    "google_santatracker": ["com.google.android.apps.santatracker/com.google.android.santatracker.launch.StartupActivity", "com.google.android.apps.santatracker/com.google.android.apps.santatracker.launch.StartupActivity"],
-    "google_scanner": ["com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity"],
-    "google_sheets": ["com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"],
-    "google_slides": ["com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"],
-    "google_snapseed": ["com.niksoftware.snapseed/com.niksoftware.snapseed.MainActivity", "com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity", "com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"],
-    "google_spotlightstories": ["com.google.android.spotlightstories/com.google.android.spotlightstories.app.MainActivity", "com.google.android.spotlightstories/com.google.android.spotlightstories.app.SplashActivity", "com.google.android.spotlightstories/com.google.android.spotlightstories.app.ui.SplashActivity"],
-    "google_start": ["com.google.android.launcher/com.google.android.launcher.StubApp"],
-    "google_street": ["com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity"],
-    "google_talkback": [],
-    "google_tango_core": [],
-    "google_toontastic": ["com.google.toontastic/com.google.android.libraries.kids.creative.adapter.CreativeUnityAdapter"],
-    "google_translate": ["com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity", "com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"],
-    "google_trips": ["com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity"],
-    "google_tts": [],
-    "google_tv": [],
-    "google_vega": ["com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity"],
-    "google_vr": [],
-    "google_wallpaper": ["com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"],
-    "google_webview": [],
-    "google_wifi": ["com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity"],
-    "google_youtube_creator": ["com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity", "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity"],
-    "google_youtube_gaming": ["com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity"],
-    "google_youtube": ["com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity", "com.google.android.youtube/com.google.android.youtube.HomeActivity", "com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity", "com.google.android.youtube/com.ghareeb.YouTube.OGDownloadManager", "com.google.android.youtube/net.ogmods.youtube.OGDownloadManager1"],
-    "google": ["com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity", "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity", "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher"],
-    "gplayer": [],
-    "gpodder": [],
-    "green_apple_mp3_player": [],
-    "green_banana_music": [],
-    "grub_customizer": [],
-    "gtkpod": [],
-    "habit_browser": [],
-    "halo_browser": [],
-    "hd_universal_player": [],
-    "hd_video_player": [],
-    "highsecure_mp3_player": [],
-    "hipchat": [],
-    "htc_videoplayer": [],
-    "icq": [],
-    "ijoy_music_player": [],
-    "inbrowser": [],
-    "ingenuity_eq_player": [],
-    "instagram": [],
-    "iron_browser": [],
-    "ivvovtech_music_player": [],
-    "jetaudio": [],
-    "jrtstudio_music": [],
-    "just_listenit": [],
-    "kdeconnect": [],
-    "kepler_music_player": [],
-    "kmplayer": [],
-    "kx_music_player": [],
-    "lark_player": [],
-    "lastfm": [],
-    "laya_music_player": [],
-    "lightning_web_browser": [],
-    "limbo": [],
-    "linconnect": [],
-    "litter_web_browser": [],
-    "localcast_for_chromecast": [],
-    "mail.ru_cloud": [],
-    "maple_player": [],
-    "max_player": [],
-    "maxthon_browser": [],
-    "mediamonkey": [],
-    "mercury_browser": [],
-    "mezzo_player": [],
-    "miniandroid_music": [],
-    "moboplayer": [],
-    "mp3_music_download_search": [],
-    "mp3_player_white": [],
-    "mttcross_player": [],
-    "music_and_video": [],
-    "music_folder_player": [],
-    "music_go_plus": [],
-    "music_go": [],
-    "music_hero": [],
-    "music_player_go": [],
-    "music_player_sm": [],
-    "music_player_vortex": [],
-    "musicolet_music_player": [],
-    "musicplayer_mp3": [],
-    "musicplayer_rocket": [],
-    "musix_player": [],
-    "musixmatch": [],
-    "mvideoplayer": [],
-    "mx_player": [],
-    "n7player": [],
-    "neutron_music_player": [],
-    "next_browser": [],
-    "nrg_player": [],
-    "ok": [],
-    "omnich_player": [],
-    "one_browser": [],
-    "onkyo_hf_player": [],
-    "opera_beta": [],
-    "opera_developer": [],
-    "opera_mini": [],
-    "opera_vpn": [],
-    "opera": [],
-    "orfox": [],
-    "phoenix_browser": [],
-    "phonograph_music_player": [],
-    "pi_musicplayer": [],
-    "player_meridian": [],
-    "player_pro_music": [],
-    "playermusic": [],
-    "playerxtreme": [],
-    "playo": [],
-    "plex": [],
-    "pocket": [],
-    "pocketcasts": [],
-    "podcast_addict": [],
-    "podcast_go": [],
-    "podcast_republic": [],
-    "podcast": [],
-    "power_browser": [],
-    "power_media_player": [],
-    "poweramp": [],
-    "prosto_radio": [],
-    "puffin_web_browser": [],
-    "pulsar": [],
-    "pyrope_browser": [],
-    "quark_browser": [],
-    "reactive_fast_search": [],
-    "real_player": [],
-    "rocket_browser": [],
-    "rocket_player": [],
-    "s8_edge_music_player": [],
-    "samsung_music": [],
-    "sberbank": [],
-    "shazam": [],
-    "shuttle_music_player": [],
-    "skype": [],
-    "slack": [],
-    "smart_eq": [],
-    "smart_swf_player": [],
-    "soundcloud": [],
-    "spotify_client": [],
-    "sputnik_browser": [],
-    "stellio_player": [],
-    "stream_djit": [],
-    "swf_player": [],
-    "system_alarm": [],
-    "system_battery": [],
-    "system_bluetooth": [],
-    "system_browser_2": [],
-    "system_browser": [],
-    "system_calendar": [],
-    "system_camera_2": [],
-    "system_camera": [],
-    "system_clock": [],
-    "system_contacts": [],
-    "system_dash_2": [],
-    "system_dash_3": [],
-    "system_dash": [],
-    "system_downloads_2": [],
-    "system_downloads_3": [],
-    "system_downloads": [],
-    "system_eq": [],
-    "system_file_manager": [],
-    "system_flashlight": [],
-    "system_gallery": [],
-    "system_hotspot": [],
-    "system_internet_chat": [],
-    "system_keyboard": [],
-    "system_mail": [],
-    "system_maps": [],
-    "system_mic_2": [],
-    "system_mic": [],
-    "system_mms": [],
-    "system_music_2": [],
-    "system_music_3": [],
-    "system_music": [],
-    "system_notes": [],
-    "system_phone": [],
-    "system_photo": [],
-    "system_preferences_2": [],
-    "system_preferences_3": [],
-    "system_preferences_4": [],
-    "system_preferences_5": [],
-    "system_preferences": [],
-    "system_radio": [],
-    "system_screenshot": [],
-    "system_security": [],
-    "system_sim": [],
-    "system_smartphone": [],
-    "system_sms": [],
-    "system_timer": [],
-    "system_video_2": [],
-    "system_video": [],
-    "system_voicedialer": [],
-    "system_weather": [],
-    "system_wifi": [],
-    "tangram_browser": [],
-    "telegram": [],
-    "terminology": [],
-    "torrent_video_player_tvp": [],
-    "transmission": [],
-    "trax_music_player": [],
-    "tunein_pro": [],
-    "tunein": [],
-    "turtlerun_music_player": [],
-    "turtlerun_video_player": [],
-    "twitter": [],
-    "uc_browser": [],
-    "usb_audio_player": [],
-    "vc_browser": [],
-    "via_browser": [],
-    "viber": [],
-    "video_player_all_format": [],
-    "video_player_audio_player": [],
-    "video_player_hd_player": [],
-    "video_player_hd": [],
-    "video_player_perfect": [],
-    "videoplayer_ultimate": [],
-    "vk": [],
-    "vlc": [],
-    "wechat": [],
-    "whatsapp": [],
-    "wondershare_player": [],
-    "xbrowser": [],
-    "xeno_amp_music_player": [],
-    "xplay_music_player": [],
-    "yandex_browser": [],
-    "yo_browser": [],
-    "yolo_browser": [],
-    "youtube_player_terekhine": [],
-    "zgz_video_player": []
+  "321_mediaplayer": [
+    "photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity",
+    "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"
+  ],
+  "4g_browser": [
+    "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivity",
+    "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivityOldbrowser",
+    "fastbrowser4g.internetwebexplorer/internet.explorer.ienew.browser.activities.BrowserActivity"
+  ],
+  "4g_lte_browser": [
+    "hero.browser4g.internet/acr.browser.lightning.activity.SplashScreenActivity"
+  ],
+  "8g_browser": [
+    "com.js.browserjstechgroup/com.mmbox.xbrowser.BrowserActivity"
+  ],
+  "abbey_music_player": [
+    "com.omagrahari.abbeymusicplayernew/com.omagrahari.abbeymusicplayernew.MainActivity"
+  ],
+  "ac3_player": [
+    "nppl3.hd.video.player/org.videolan.vlc.gui.MainActivity",
+    "nppl3.hd.video.player/nppl3.hd.video.player.gui.MainActivity"
+  ],
+  "ac3_video_player": [
+    "grant.standard.ac3.player/grant.standard.ac3.player.HomeActivity"
+  ],
+  "ac_browser": [
+    "net.ac.browser/acr.browser.thunder.MainActivity"
+  ],
+  "accountstudio_mp3_player": [
+    "mp3songs.mp3player.mp3cutter.ringtonemaker/com.music.player.mp3.player.cut.MainActivity"
+  ],
+  "adblock": [
+    "com.betafish.adblocksbrowser/com.betafish.sbrowser.contentblocker.MainPreferences"
+  ],
+  "adblock_browser": [
+    "org.adblockplus.browser/org.adblockplus.browser.App"
+  ],
+  "adblock_plus": [
+    "org.adblockplus.adblockplussbrowser/org.adblockplus.sbrowser.contentblocker.MainPreferences"
+  ],
+  "aimp": [
+    "com.aimp.player/com.aimp.player.views.Main.MainActivity",
+    "com.aimp.player/com.aimp.player.views.MainActivity.MainActivity",
+    "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity"
+  ],
+  "allcast": [
+    "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
+    "com.koushikdutta.cast.receiver/com.koushikdutta.cast.receiver.MainActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.MainActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity"
+  ],
+  "amazon_store": [
+    "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity",
+    "com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity",
+    "com.amazon.windowshop/com.amazon.mShop.home.HomeActivity"
+  ],
+  "ankit_musicplayer": [
+    "bitsie.playmee.musicplayer.free/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments",
+    "bitsie.playmee.musicplayer.pro/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments"
+  ],
+  "apps_adaway": [
+    "org.adaway/org.adaway.ui.BaseActivity"
+  ],
+  "apps_aeondroid": [
+    "io.github.phora.aeondroid/io.github.phora.aeondroid.activities.MainActivity"
+  ],
+  "apps_afwall_plus": [
+    "dev.ukanth.ufirewall.donate/dev.ukanth.ufirewall.MainActivity",
+    "dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity"
+  ],
+  "apps_alarm_clock": [
+    "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.ActivityAlarmClock",
+    "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity"
+  ],
+  "apps_andotp": [
+    "org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity"
+  ],
+  "apps_atimetracker": [
+    "com.markuspage.android.atimetracker/com.markuspage.android.atimetracker.Tasks"
+  ],
+  "apps_authorizer": [
+    "net.tjado.passwdsafe/net.tjado.passwdsafe.FileListActivity"
+  ],
+  "apps_autoairplanemode": [
+    "org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity"
+  ],
+  "apps_bewegungsmelder": [
+    "de.arnefeil.bewegungsmelder/de.arnefeil.bewegungsmelder.MainActivity"
+  ],
+  "apps_bipolalarm": [
+    "net.iexos.musicalarm/net.iexos.musicalarm.AlarmViewActivity"
+  ],
+  "apps_birthdayadapter": [
+    "org.birthdayadapter.free/org.birthdayadapter.ui.BaseActivity",
+    "org.birthdayadapter/org.birthdayadapter.ui.BaseActivity"
+  ],
+  "apps_birthdaydroid": [
+    "com.tmendes.birthdaydroid/com.tmendes.birthdaydroid.MainActivity"
+  ],
+  "apps_bitmask": [
+    "se.leap.bitmaskclient/se.leap.bitmaskclient.Dashboard"
+  ],
+  "apps_cryptfs_password": [
+    "org.nick.cryptfs.passwdmanager/org.nick.cryptfs.passwdmanager.MainActivity"
+  ],
+  "apps_cryptopass": [
+    "krasilnikov.alexey.cryptopass/krasilnikov.alexey.cryptopass.v14.StartActivity",
+    "krasilnikov.alexey.cryptopass/krasilnikov.alexey.cryptopass.v8.StartActivity"
+  ],
+  "apps_csploit": [
+    "org.csploit.android/org.csploit.android.MainActivity"
+  ],
+  "apps_d00r": [
+    "com.hasi.hasid00r/com.hasi.d00r.MainActivity"
+  ],
+  "apps_derandom": [
+    "org.asnelt.derandom/org.asnelt.derandom.MainActivity"
+  ],
+  "apps_etesync": [
+    "com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity"
+  ],
+  "apps_etheremote": [
+    "org.ligi.etheremote/org.ligi.etheremote.StatsActivity"
+  ],
+  "apps_f_droid": [
+    "org.fdroid.fdroid/org.fdroid.fdroid.FDroid",
+    "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity"
+  ],
+  "apps_hashdroid": [
+    "com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity"
+  ],
+  "apps_i2p": [
+    "net.i2p.android.router/net.i2p.android.I2PActivity"
+  ],
+  "apps_icsimport": [
+    "org.dgtale.icsimport/org.dgtale.icsimport.MainActivity"
+  ],
+  "apps_is_phone_encrypted": [
+    "name.seguri.android.isphoneencrypted/name.seguri.android.isphoneencrypted.MainActivity"
+  ],
+  "apps_keepass_dx": [
+    "com.kunzisoft.keepass.libre/com.kunzisoft.keepass.KeePass"
+  ],
+  "apps_keepassdroid": [
+    "com.android.keepass/com.android.keepass.KeePass"
+  ],
+  "apps_locker": [
+    "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
+  ],
+  "apps_motp": [
+    "org.cry.otp/org.cry.otp.Profiles"
+  ],
+  "apps_netguard": [
+    "eu.faircode.netguard/eu.faircode.netguard.ActivityMain"
+  ],
+  "apps_note_crypt_pro": [
+    "com.notecryptpro/com.notecrypt.ui.MainActivity",
+    "com.notecryptpro/com.notecrypt.ui.SelectDatabaseActivity"
+  ],
+  "apps_onetimepass": [
+    "com.github.onetimepass/com.github.onetimepass.SplashActivity"
+  ],
+  "apps_ooniprobe": [
+    "org.openobservatory.ooniprobe/org.openobservatory.ooniprobe.activity.MainActivity"
+  ],
+  "apps_open_keychain": [
+    "org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity",
+    "org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity"
+  ],
+  "apps_openmentoring": [
+    "org.iilab.openmentoring/org.iilab.openmentoring.MainActivity"
+  ],
+  "apps_openpass": [
+    "com.example.openpass/com.example.openpass.TokenListActivity",
+    "com.u17od.upm/com.u17od.upm.AppEntryActivity"
+  ],
+  "apps_orwall": [
+    "org.ethack.orwall/org.ethack.orwall.TabbedMain"
+  ],
+  "apps_orweb": [
+    "info.guardianproject.browser/info.guardianproject.browser.Browser"
+  ],
+  "apps_otpauth": [
+    "net.bierbaumer.otp_authenticator/net.bierbaumer.otp_authenticator.MainActivity"
+  ],
+  "apps_passcard": [
+    "com.passcard/com.passcard.MainActivity"
+  ],
+  "apps_passera": [
+    "gg.mw.passera/gg.mw.passera.Passera"
+  ],
+  "apps_passwordgenerator": [
+    "org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.MainActivity",
+    "org.secuso.privacyfriendlypasswordgenerator/org.secuso.privacyfriendlypasswordgenerator.activities.SplashActivity"
+  ],
+  "apps_peanut_encryption": [
+    "peanutencryption.peanutencryption.peanutencryption.peanutencryption.MainActivity"
+  ],
+  "apps_pgpauth": [
+    "org.lf_net.pgpunlocker/org.lf_net.pgpunlocker.MainActivity"
+  ],
+  "apps_pgpclipper": [
+    "moe.minori.pgpclipper/moe.minori.pgpclipper.activities.PGPClipperSettingsActivity"
+  ],
+  "apps_pijaret": [
+    "dmusiolik.pijaret/dmusiolik.pijaret.MainActivity"
+  ],
+  "apps_pinmnemonic": [
+    "org.secuso.privacyfriendlypin/org.secuso.privacyfriendlypinmnemonic.MainActivity",
+    "org.secuso.privacyfriendlypin/org.secuso.privacyfriendlypinmnemonic.SplashActivity"
+  ],
+  "apps_pixelknot": [
+    "info.guardianproject.pixelknot/info.guardianproject.pixelknot.PixelKnotActivity",
+    "info.guardianproject.pixelknot/info.guardianproject.pixelknot.SendActivity"
+  ],
+  "apps_portauthority": [
+    "com.aaronjwood.portauthority/com.aaronjwood.portauthority.activity.MainActivity"
+  ],
+  "apps_portknocker": [
+    "com.xargsgrep.portknocker/com.xargsgrep.portknocker.activity.HostListActivity"
+  ],
+  "apps_puff": [
+    "sun.bob.leela/sun.bob.leela.ui.activities.SplashActivity"
+  ],
+  "apps_qrstream": [
+    "com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher"
+  ],
+  "apps_ripple": [
+    "info.guardianproject.ripple/info.guardianproject.ripple.MainActivity"
+  ],
+  "apps_satoshiproof": [
+    "org.ligi.satoshiproof/org.ligi.satoshiproof.MainActivity"
+  ],
+  "apps_secret_codes": [
+    "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.MainActivity",
+    "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.ui.MainActivity"
+  ],
+  "apps_selinux": [
+    "com.mrbimc.selinux/com.mrbimc.selinux.MainActivity"
+  ],
+  "apps_simpletextcrypt": [
+    "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.LockActivity",
+    "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.MainActivity"
+  ],
+  "apps_smssecure": [
+    "org.smssecure.smssecure/org.smssecure.smssecure.ConversationListActivity",
+    "org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity"
+  ],
+  "apps_snooperstopper": [
+    "cz.eutopia.snooperstopper/cz.eutopia.snooperstopper.MainActivity"
+  ],
+  "apps_snoopsnitch": [
+    "de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity"
+  ],
+  "apps_supergenpass": [
+    "info.staticfree.SuperGenPass/info.staticfree.SuperGenPass.Super_Gen_Pass"
+  ],
+  "apps_superuser": [
+    "me.phh.superuser/com.koushikdutta.superuser.MainActivity"
+  ],
+  "apps_surespot": [
+    "com.twofours.surespot/com.twofours.surespot.activities.MainActivity"
+  ],
+  "apps_tinc": [
+    "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"
+  ],
+  "apps_wherearetheeyes": [
+    "org.daylightingsociety.wherearetheeyes/org.daylightingsociety.wherearetheeyes.MainActivity"
+  ],
+  "apps_wlanscanner": [
+    "org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity"
+  ],
+  "appsddoz_video_player": [
+    "video.audio.mp3.player.editor/video.audio.mp3.player.editor.gui.MainActivity"
+  ],
+  "apus_browser_pro_video_booster": [
+    "com.apus.web.browser.pro/com.apusapps.browser.main.AppEnterActivity"
+  ],
+  "archos_video_player": [
+    "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videoqc/com.archos.mediacenter.videoqc.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videomtk/com.archos.mediacenter.videomtk.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.video/com.archos.mediacenter.video.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videoaw/com.archos.mediacenter.videoaw.browser.BrowserActivityVideo",
+    "com.archos.mpeg2plugin/com.archos.mpeg2plugin.Mpeg2Installer",
+    "com.archos.mediacenter.videoti/com.archos.mediacenter.videoti.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videork/com.archos.mediacenter.videork.browser.BrowserActivityVideo"
+  ],
+  "armorfly_browser": [
+    "com.cmcm.armorfly/com.ijinshan.browser.screen.SplashActivity"
+  ],
+  "asus_browser": [
+    "com.asus.browser/com.android.browser.BrowserActivity"
+  ],
+  "audio_bassbooster": [
+    "audio.virtualizer.equalizer.bassbooster.musicplayer/com.ijoysoft.music.activity.WelcomeActivity"
+  ],
+  "audio_beats": [
+    "com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.activities.MainActivity"
+  ],
+  "audioamp_video_player": [
+    "videoplayerhd.musicplayer.videoaudioplayer/videoplayerhd.musicplayer.videoaudioplayer.gui.MainActivity"
+  ],
+  "audiovision_music_player": [
+    "stesch.visualplayer/stesch.visualplayer.activities.MainActivity"
+  ],
+  "ax_player": [
+    "com.axhdplayer.videoplayer.ad/com.axhdplayer.videoplayer.ad.MediaListActivity"
+  ],
+  "badland": [
+    "com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland",
+    "com.frogmind.badland/com.frogmind.badland.Badland"
+  ],
+  "bbc": [
+    "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
+    "bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"
+  ],
+  "bbc_player": [
+    "air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry"
+  ],
+  "beeline": [
+    "ru.beeline.services/ru.beeline.services.ui.activities.StartActivity",
+    "ru.beeline.services/ru.beeline.services.ui.activities.MainActivity"
+  ],
+  "black_player": [
+    "com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity",
+    "com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity"
+  ],
+  "boat_browser": [
+    "com.boatbrowser.free/com.boatbrowser.free.BrowserActivity",
+    "com.boatbrowser.free/com.boatbrowser.free.SplashActivity"
+  ],
+  "boat_browser_mini": [
+    "com.boatgo.browser/com.boatgo.browser.BrowserActivity"
+  ],
+  "boomcap": [
+    "qodeSter.beatbox.media.flash/qodeSter.beatbox.media.flash.SplashScreen"
+  ],
+  "boostnote": [
+    "io.boostnote/io.boostnote.MainActivity"
+  ],
+  "browser_apus": [
+    "com.apusapps.browser/com.apusapps.browser.main.ApusBrowserActivity",
+    "com.apusapps.browser/com.apusapps.browser.main.AppEnterActivity",
+    "com.apusapps.browser/com.superapps.browser.main.AppEnterActivity",
+    "com.apusapps.browser.turbo/com.apusapps.browser.main.AppEnterActivity"
+  ],
+  "browser_brave": [
+    "com.brave.browser/com.google.android.apps.chrome.Main"
+  ],
+  "browser_du": [
+    "com.baidu.browser.inter.mini/com.baidu.browser.inter.mini.BrowserActivity",
+    "com.baidu.browser.inter/com.baidu.browser.inter.SplashActivity",
+    "com.baidu.browserhd.inter/com.baidu.browser.inter.SplashActivity"
+  ],
+  "browser_orbitum": [
+    "com.orbitum.browser/com.orbitum.browser.activity.StartActivity"
+  ],
+  "browser_puls": [
+    "ru.mail.pulse/ru.mail.pulse.Main"
+  ],
+  "bsplayer": [
+    "com.bsplayer.bspandroid.free/com.bsplayer.bsplayeran.BSPMain_new",
+    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.bspmain",
+    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.BSPMain_new"
+  ],
+  "butterfly_browser": [
+    "acr.browser.butterfly/acr.browser.butterfly.MainActivity"
+  ],
+  "casse_o_player": [
+    "com.hornwerk.compactcassetteplayer/com.hornwerk.compactcassetteplayer.Activities.ShowcaseActivity"
+  ],
+  "castbox": [
+    "com.podcast.podcasts/com.podcast.podcasts.activity.MainActivity",
+    "com.podcast.podcasts/fm.castbox.ui.main.MainActivity"
+  ],
+  "chromer_browser": [
+    "arun.com.chromer/arun.com.chromer.MainActivity"
+  ],
+  "clean_music": [
+    "com.myskyspark.music/com.myskyspark.music.OpenActivity"
+  ],
+  "clementine": [
+    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog",
+    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectActivity"
+  ],
+  "cloud_player_doubletwist": [
+    "com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
+  ],
+  "cloudskipper_music_player": [
+    "cloudtv.cloudskipper/cloudtv.android.cs.activity.MainActivity"
+  ],
+  "cm_browser": [
+    "com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity",
+    "com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity"
+  ],
+  "coocent_eq": [
+    "music.bassbooster.equalizer.pay/kx.com.app.equalizer.EQActivity"
+  ],
+  "deadbeef": [
+    "org.deadbeef.android/org.deadbeef.android.Deadbeef"
+  ],
+  "discord": [
+    "com.discord/com.discord.screens.ScreenLoading",
+    "com.discord/com.discord.screens.ScreenMain",
+    "com.discord/com.discord.screens.ScreenAux$Main",
+    "com.discord/com.discord.app.AppActivity$Main"
+  ],
+  "dolphin_web_browser": [
+    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity",
+    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity",
+    "com.dolphin.web.browser.android/mobi.mgeek.TunnyBrowser.BrowserActivity"
+  ],
+  "dolphin_zero_browser": [
+    "com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity"
+  ],
+  "double_twist_player": [
+    "com.doubleTwist.androidPlayerProKey/com.doubleTwist.androidPlayerProKey.FreeAppRequiredActivity",
+    "com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity",
+    "com.doubleTwist.androidPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
+  ],
+  "dreams_player": [
+    "com.team48dreams.player/com.team48dreams.player.Load"
+  ],
+  "dub_music_player": [
+    "hr.palamida/hr.palamida.Start"
+  ],
+  "dub_studio_eq": [
+    "hr.podlanica/hr.podlanica.Start"
+  ],
+  "duck_duck_go": [
+    "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
+  ],
+  "ellen_mp3_player": [
+    "media.mp3.mp3player/com.tarena.fashionmusic.FashionMusicActivity"
+  ],
+  "equalizer_music_player_booster": [
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.LoadingActivity",
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.MainActivity",
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplus.activities.HomeActivity"
+  ],
+  "exsoul_web_browser": [
+    "com.exsoul/com.exsoul.ExsoulActivity"
+  ],
+  "facebook": [
+    "com.facebook.katana/com.facebook.katana.LoginActivity"
+  ],
+  "fastest_mini_browser": [
+    "com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"
+  ],
+  "fbmessenger": [
+    "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+  ],
+  "firefox": [
+    "org.mozilla.firefox/org.mozilla.firefox.App",
+    "org.mozilla.firefox_beta/org.mozilla.firefox_beta.App",
+    "org.mozilla.firefox_beta/org.mozilla.search.SearchActivity",
+    "org.mozilla.firefox_beta/org.mozilla.gecko.BrowserApp"
+  ],
+  "firefox_focus": [
+    "org.mozilla.focus/org.mozilla.focus.activity.MainActivity"
+  ],
+  "firefox_trunk": [
+    "org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"
+  ],
+  "flv_player": [
+    "flv.mobile.android/flv.mobile.android.ui.activities.MainActivity"
+  ],
+  "flv_video_player": [
+    "air.br.com.bitlabs.FLVPlayer/air.br.com.bitlabs.FLVPlayer.AppEntry",
+    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.TabActivity",
+    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.LaunchScreenActivity"
+  ],
+  "fm_player": [
+    "fm.player/fm.player.ui.MainActivity_",
+    "fm.player/fm.player.ui.MainActivity"
+  ],
+  "folder_player": [
+    "com.folderplayer/com.folderplayer.StartActivity"
+  ],
+  "fotoable_music_player": [
+    "com.fotoable.musicplayer/com.ytwd.mp3player.WelcomeActivity"
+  ],
+  "ghostery_privacy_browser": [
+    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.SplashActivity",
+    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.BrowserActivity"
+  ],
+  "gom_player": [
+    "com.gretech.gomplayerko/com.gretech.activities.GSplashActivity",
+    "com.gretech.gomplayerko/com.gomcorp.gomplayer.GSplashActivity"
+  ],
+  "gonemad_music_player": [
+    "gonemad.gmmp/gonemad.gmmp.activities.MainActivity"
+  ],
+  "google": [
+    "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity",
+    "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity",
+    "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher"
+  ],
+  "google_accessibility_auditor": [
+    "com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity"
+  ],
+  "google_adm": [
+    "com.google.android.apps.adm/com.google.android.apps.adm.MainActivity"
+  ],
+  "google_admin": [
+    "com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity"
+  ],
+  "google_adsense": [
+    "com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.BaseActivity",
+    "com.google.android.apps.ads.publisher/com.google.android.apps.ads.publisher.activity.ReportActivity"
+  ],
+  "google_adwords": [
+    "com.google.android.apps.adwords/com.google.android.apps.adwords.home.InitialLoadingActivity",
+    "com.google.android.apps.adwords/com.google.android.apps.adwords.InitialLoadingActivity"
+  ],
+  "google_adwords_express": [
+    "com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.LaunchActivity",
+    "com.google.android.apps.ads.express/com.google.android.apps.ads.express.activities.entrypoint.LaunchActivity"
+  ],
+  "google_agenda": [
+    "com.google.android.calendar/com.android.calendar.AllInOneActivity"
+  ],
+  "google_allo": [
+    "com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity"
+  ],
+  "google_analytics": [
+    "com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsHome",
+    "com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsLaunchActivity",
+    "com.google.android.apps.giant/com.google.android.apps.giant.activity.LauncherActivity"
+  ],
+  "google_android_auto": [
+    "com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.AndroidAutoActivity",
+    "com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.SplashScreenActivity",
+    "com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity"
+  ],
+  "google_android_device_enrollment": [
+    "com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity"
+  ],
+  "google_android_device_policy": [
+    "com.google.android.apps.work.clouddpc/com.google.android.apps.work.clouddpc.ui.MainActivity"
+  ],
+  "google_android_pay": [
+    "com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity",
+    "com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.entrypoint.WalletRootActivity",
+    "com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+  ],
+  "google_android_tv_core_services": [
+    "com.google.android.tvrecommendations/com.google.android.tvrecommendations.application.TvRecommendationsApplication"
+  ],
+  "google_android_tv_launcher": [
+    "com.google.android.leanbacklauncher/com.google.android.leanbacklauncher.DummyActivity"
+  ],
+  "google_android_tv_remote": [
+    "com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity"
+  ],
+  "google_android_wear": [
+    "com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity",
+    "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity"
+  ],
+  "google_androidify": [
+    "com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify"
+  ],
+  "google_ar_stickers": [
+    "com.google.vr.apps.ornament/com.google.vr.apps.ornament.app.OrnamentApplication"
+  ],
+  "google_arts": [
+    "com.google.android.apps.cultural/com.google.android.apps.cultural.stella.activity.MainActivity",
+    "com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity"
+  ],
+  "google_auth": [
+    "com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity"
+  ],
+  "google_blogger": [
+    "com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity"
+  ],
+  "google_brailleback": [
+    "com.googlecode.eyesfree.brailleback/com.googlecode.eyesfree.brailleback.IMESetupWizardActivity"
+  ],
+  "google_calculator": [
+    "com.google.android.calculator/com.android.calculator2.Calculator"
+  ],
+  "google_cardboard": [
+    "com.google.samples.apps.cardboarddemo/com.google.research.airbender.paperscope.android.launcher.Launcher2D",
+    "com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2D",
+    "com.google.samples.apps.cardboarddemo/com.google.vr.cardboard.paperscope.carton.Home2Dv2"
+  ],
+  "google_cardboard_design": [
+    "com.google.vr.cardboard.apps.designlab/com.google.vrtoolkit.cardboard.plugins.unity.UnityCardboardActivity"
+  ],
+  "google_carrier_services": [
+    "com.google.android.ims/com.google.android.ims.ui.WifiCallingSettingsActivity"
+  ],
+  "google_cast_receiver": [
+    "com.google.android.apps.mediashell/org.chromium.chromecast.shell.CastApplication"
+  ],
+  "google_chrome": [
+    "com.android.chrome/com.google.android.apps.chrome.Main"
+  ],
+  "google_chrome_canary": [
+    "com.chrome.canary/com.google.android.apps.chrome.Main"
+  ],
+  "google_chrome_remote_desktop": [
+    "com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting"
+  ],
+  "google_classroom": [
+    "com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity"
+  ],
+  "google_clock": [
+    "com.google.android.deskclock/com.android.deskclock.DeskClock"
+  ],
+  "google_cloud_search": [
+    "com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.SearchActivity",
+    "com.google.enterprise.topaz.mobile.android/com.google.enterprise.topaz.mobile.android.MainActivity"
+  ],
+  "google_cloudconsole": [
+    "com.google.android.apps.cloudconsole/com.google.android.apps.cloudconsole.MainContainerActivity"
+  ],
+  "google_cloudprint": [
+    "com.google.android.apps.cloudprint/com.google.android.apps.cloudprint.printdialog.CloudPrintLauncherActivity",
+    "com.google.android.apps.cloudprint/com.google.android.apps.cloudprint.printdialog.CloudPrintLauncherVisibility"
+  ],
+  "google_contacts": [
+    "com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+  ],
+  "google_creative_preview": [
+    "com.google.android.apps.audition/com.google.android.apps.audition.presenter.PreviewListActivity"
+  ],
+  "google_crowdsource": [
+    "com.google.android.apps.village.boond/com.google.android.apps.village.boond.SplashActivity",
+    "com.google.android.apps.village.boond/com.google.android.apps.village.boond.activities.SplashActivity"
+  ],
+  "google_cyclops": [
+    "com.google.vr.cyclops/com.google.android.apps.cyclops.MainActivity",
+    "com.google.vr.cyclops/com.google.android.apps.cyclops.StartActivity"
+  ],
+  "google_datally": [
+    "com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.activities.SplashActivity"
+  ],
+  "google_daydream": [
+    "com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity"
+  ],
+  "google_daydream_elements": [],
+  "google_dmagent": [
+    "com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity"
+  ],
+  "google_docs": [
+    "com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+  ],
+  "google_drive": [
+    "com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+  ],
+  "google_duo": [
+    "com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity"
+  ],
+  "google_emergencyassist": [
+    "com.google.android.apps.emergencyassist/com.google.android.apps.emergencyassist.MainActivity"
+  ],
+  "google_expeditions": [
+    "com.google.vr.expeditions/com.google.vr.expeditions.guide.startup.GuideStartupActivity"
+  ],
+  "google_files_go": [
+    "com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
+  ],
+  "google_fit": [
+    "com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity"
+  ],
+  "google_forscience": [
+    "com.google.android.apps.forscience.whistlepunk/com.google.android.apps.forscience.whistlepunk.MainActivity"
+  ],
+  "google_gboard": [
+    "com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity",
+    "com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+  ],
+  "google_gmail": [
+    "com.google.android.gm/com.google.android.gm.ConversationListActivityGmail",
+    "com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail",
+    "com.google.android.gm/com.google.android.gm.AutoSendActivity",
+    "com.google.android.gm/com.google.android.gm.GmailActivity",
+    "com.google.android.gm/com.google.android.gm.ComposeActivityGmail",
+    "com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity",
+    "com.google.android.gm/com.google.android.gm.MailboxSelectionActivity",
+    "com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail"
+  ],
+  "google_goggles": [
+    "com.google.android.apps.unveil/com.google.android.apps.unveil.CaptureActivity"
+  ],
+  "google_hangouts": [
+    "com.google.android.talk/com.google.android.talk.SigningInActivity"
+  ],
+  "google_hangouts_meet": [
+    "com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity"
+  ],
+  "google_help": [
+    "com.google.android.apps.helprtc/com.google.android.apps.helprtc.ui.ScreenshareActivity",
+    "com.google.android.apps.helprtc.ui.InvitationActivity"
+  ],
+  "google_home": [
+    "com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity"
+  ],
+  "google_inbox": [
+    "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity",
+    "com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.MainActivity"
+  ],
+  "google_input_handwriting": [
+    "com.google.android.apps.handwriting.ime/com.google.android.apps.handwriting.ime.WelcomeActivity"
+  ],
+  "google_input_japanese": [
+    "com.google.android.inputmethod.japanese/com.google.android.inputmethod.japanese.LauncherActivity",
+    "com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+  ],
+  "google_input_korean": [
+    "com.google.android.inputmethod.korean/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+  ],
+  "google_input_pinyin": [
+    "com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+  ],
+  "google_intersection_explore": [
+    "com.google.android.marvin.intersectionexplorer/com.google.android.marvin.intersectionexplorer.IntersectionExplorer"
+  ],
+  "google_io": [
+    "com.google.samples.apps.iosched/com.google.samples.apps.iosched.ui.BrowseSessionsActivity",
+    "com.google.samples.apps.iosched/com.google.samples.apps.iosched.explore.ExploreIOActivity"
+  ],
+  "google_jamboard": [
+    "com.google.android.apps.jam/com.google.android.apps.jam.application.JamApplication",
+    "com.google.android.apps.jam/com.google.android.apps.jam.activity.AuthActivity"
+  ],
+  "google_keep": [
+    "com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
+  ],
+  "google_measure": [
+    "com.google.tango.measure/com.google.tango.measure.MainActivity"
+  ],
+  "google_messaging": [
+    "com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"
+  ],
+  "google_my_maps": [
+    "com.google.android.apps.m4b/com.google.android.apps.m4b.piC.Ul",
+    "com.google.android.apps.m4b/com.google.android.apps.m4b.ui.signin.SignInActivity",
+    "com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity"
+  ],
+  "google_myglass": [
+    "com.google.glass.companion/com.google.glass.companion.MyGlassActivity",
+    "com.google.glass.companion/com.google.glass.companion.Launcher"
+  ],
+  "google_news": [
+    "com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity"
+  ],
+  "google_pdfviewer": [
+    "com.google.android.apps.pdfviewer/com.google.android.apps.viewer.PdfViewerActivity"
+  ],
+  "google_phone": [
+    "com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+  ],
+  "google_photos": [
+    "com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"
+  ],
+  "google_pixel_ambient_services": [
+    "com.google.intelligence.sense/com.google.intelligence.sense.SenseApplication"
+  ],
+  "google_pixel_launcher": [
+    "com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity"
+  ],
+  "google_play": [
+    "com.android.vending/com.android.vending.AssetBrowserActivity"
+  ],
+  "google_play_book": [
+    "com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+  ],
+  "google_play_game": [
+    "com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"
+  ],
+  "google_play_movie": [
+    "com.google.android.videos/com.google.android.youtube.videos.EntryPoint",
+    "com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity",
+    "com.google.android.videos/com.google.android.videos.activity.LauncherActivity"
+  ],
+  "google_play_music": [
+    "com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+  ],
+  "google_play_press": [
+    "com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+  ],
+  "google_playconsole": [
+    "com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity"
+  ],
+  "google_plus": [
+    "com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity",
+    "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity",
+    "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
+  ],
+  "google_santatracker": [
+    "com.google.android.apps.santatracker/com.google.android.santatracker.launch.StartupActivity",
+    "com.google.android.apps.santatracker/com.google.android.apps.santatracker.launch.StartupActivity"
+  ],
+  "google_scanner": [
+    "com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity"
+  ],
+  "google_sheets": [
+    "com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
+  ],
+  "google_slides": [
+    "com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity"
+  ],
+  "google_snapseed": [
+    "com.niksoftware.snapseed/com.niksoftware.snapseed.MainActivity",
+    "com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity",
+    "com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity"
+  ],
+  "google_spotlightstories": [
+    "com.google.android.spotlightstories/com.google.android.spotlightstories.app.MainActivity",
+    "com.google.android.spotlightstories/com.google.android.spotlightstories.app.SplashActivity",
+    "com.google.android.spotlightstories/com.google.android.spotlightstories.app.ui.SplashActivity"
+  ],
+  "google_start": [
+    "com.google.android.launcher/com.google.android.launcher.StubApp"
+  ],
+  "google_street": [
+    "com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity"
+  ],
+  "google_talkback": [],
+  "google_tango_core": [],
+  "google_toontastic": [
+    "com.google.toontastic/com.google.android.libraries.kids.creative.adapter.CreativeUnityAdapter"
+  ],
+  "google_translate": [
+    "com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity",
+    "com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
+  ],
+  "google_trips": [
+    "com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity"
+  ],
+  "google_tts": [],
+  "google_tv": [],
+  "google_vega": [
+    "com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity"
+  ],
+  "google_voice_search": [
+    "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity",
+    "com.google.android.voicesearch/com.google.android.voicesearch.AudioProvider",
+    "com.google.android.voicesearch/com.google.android.voicesearch.GoogleRecognitionService",
+    "com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity",
+    "com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession",
+    "com.vlingo.midas/com.vlingo.midas.gui.ConversationActivity"
+  ],
+  "google_vr": [],
+  "google_wallpaper": [
+    "com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
+  ],
+  "google_webview": [],
+  "google_wifi": [
+    "com.google.android.apps.access.wifi.consumer/com.google.android.apps.access.wifi.consumer.app.MainActivity"
+  ],
+  "google_youtube": [
+    "com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+    "com.google.android.youtube/com.google.android.youtube.HomeActivity",
+    "com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity",
+    "com.google.android.youtube/com.ghareeb.YouTube.OGDownloadManager",
+    "com.google.android.youtube/net.ogmods.youtube.OGDownloadManager1"
+  ],
+  "google_youtube_creator": [
+    "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity",
+    "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity"
+  ],
+  "google_youtube_gaming": [
+    "com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity"
+  ],
+  "gplayer": [],
+  "gpodder": [],
+  "green_apple_mp3_player": [],
+  "green_banana_music": [],
+  "grub_customizer": [],
+  "gtkpod": [],
+  "habit_browser": [],
+  "halo_browser": [],
+  "hd_universal_player": [],
+  "hd_video_player": [],
+  "highsecure_mp3_player": [],
+  "hipchat": [],
+  "htc_videoplayer": [],
+  "icq": [],
+  "ijoy_music_player": [],
+  "inbrowser": [],
+  "ingenuity_eq_player": [],
+  "instagram": [],
+  "iron_browser": [],
+  "ivvovtech_music_player": [],
+  "jetaudio": [],
+  "jrtstudio_music": [],
+  "just_listenit": [],
+  "kdeconnect": [],
+  "kepler_music_player": [],
+  "kmplayer": [],
+  "kx_music_player": [],
+  "lark_player": [],
+  "lastfm": [],
+  "laya_music_player": [],
+  "lightning_web_browser": [],
+  "limbo": [],
+  "linconnect": [],
+  "litter_web_browser": [],
+  "localcast_for_chromecast": [],
+  "mail.ru_cloud": [],
+  "maple_player": [],
+  "max_player": [],
+  "maxthon_browser": [],
+  "mediamonkey": [],
+  "mercury_browser": [],
+  "mezzo_player": [],
+  "miniandroid_music": [],
+  "moboplayer": [],
+  "mp3_music_download_search": [],
+  "mp3_player_white": [],
+  "mttcross_player": [],
+  "music_and_video": [],
+  "music_folder_player": [],
+  "music_go": [],
+  "music_go_plus": [],
+  "music_hero": [],
+  "music_player_go": [],
+  "music_player_sm": [],
+  "music_player_vortex": [],
+  "musicolet_music_player": [],
+  "musicplayer_mp3": [],
+  "musicplayer_rocket": [],
+  "musix_player": [],
+  "musixmatch": [],
+  "mvideoplayer": [],
+  "mx_player": [],
+  "n7player": [],
+  "neutron_music_player": [],
+  "next_browser": [],
+  "nrg_player": [],
+  "ok": [],
+  "omnich_player": [],
+  "one_browser": [],
+  "onkyo_hf_player": [],
+  "opera": [],
+  "opera_beta": [],
+  "opera_developer": [],
+  "opera_mini": [],
+  "opera_vpn": [],
+  "orfox": [],
+  "phoenix_browser": [],
+  "phonograph_music_player": [],
+  "pi_musicplayer": [],
+  "player_meridian": [],
+  "player_pro_music": [],
+  "playermusic": [],
+  "playerxtreme": [],
+  "playo": [],
+  "plex": [],
+  "pocket": [],
+  "pocketcasts": [],
+  "podcast": [],
+  "podcast_addict": [],
+  "podcast_go": [],
+  "podcast_republic": [],
+  "power_browser": [],
+  "power_media_player": [],
+  "poweramp": [],
+  "prosto_radio": [],
+  "puffin_web_browser": [],
+  "pulsar": [],
+  "pyrope_browser": [],
+  "quark_browser": [],
+  "reactive_fast_search": [],
+  "real_player": [],
+  "rocket_browser": [],
+  "rocket_player": [],
+  "s8_edge_music_player": [],
+  "samsung_music": [],
+  "sberbank": [],
+  "shazam": [],
+  "shuttle_music_player": [],
+  "skype": [],
+  "slack": [],
+  "smart_eq": [],
+  "smart_swf_player": [],
+  "soundcloud": [],
+  "spotify_client": [],
+  "sputnik_browser": [],
+  "stellio_player": [],
+  "stream_djit": [],
+  "swf_player": [],
+  "system_alarm": [],
+  "system_android": [
+    "org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity"
+  ],
+  "system_api_dev": [
+    "com.example.android.apis/com.example.android.apis.ApiDemos"
+  ],
+  "system_battery": [],
+  "system_bluetooth": [],
+  "system_browser": [],
+  "system_browser_2": [],
+  "system_calculator": [
+    "cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator",
+    "com.amazon.calculator/com.android.calculator2.Calculator",
+    "com.android.bbkcalculator/com.android.bbkcalculator.Calculator",
+    "com.android.calculator2/com.android.calculator2.Calculator",
+    "com.android.calculator2/com.dot.calculator.material.Calculator",
+    "com.android.calculatortecno/com.android.calculatortecno.Calculator",
+    "com.android2.calculator3/com.android2.calculator3.Calculator",
+    "com.ape.calculator2/com.ape.calculator2.Calculator",
+    "com.asus.calculator/com.asus.calculator.Calculator",
+    "com.fineos.calculator/com.fineos.calculator.Calculator",
+    "com.google.android.calculator/com.android.calculator2.Calculator",
+    "com.htc.calculator/com.htc.calculator.Calculator",
+    "com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator",
+    "com.miui.calculator/com.miui.calculator.cal.CalculatorActivity",
+    "com.oneplus.calculator/com.oneplus.calculator.Calculator",
+    "com.pantech.app.calculator/com.pantech.app.calculator.SkyEngCalculator",
+    "com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator",
+    "com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator",
+    "com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator",
+    "com.tct.calculator.bb/com.tct.calculator.Calculator",
+    "com.tct.calculator/com.tct.calculator.Calculator",
+    "com.tct.calculator2/com.tct.calculator2.Calculator",
+    "com.wingtech.calc/com.wingtech.calc.Calculator",
+    "com.zui.calculator/com.zui.calculator.Calculator",
+    "my.android.calc/my.android.calc.MainActivity",
+    "org.mmin.handycalc/org.mmin.handycalc.HandyCalc"
+  ],
+  "system_calendar": [],
+  "system_camera": [],
+  "system_camera_2": [],
+  "system_clock": [],
+  "system_color": [
+    "com.huaqin.personcenter/com.huaqin.personcenter.PersonCenterActivity"
+  ],
+  "system_compass": [
+    "apps.r.compass/apps.r.compass.StartActivity",
+    "com.android.hicompass/com.android.hicompass.HiCompassActivity",
+    "com.coloros.compass/com.coloros.compass.flat.FlatCompass",
+    "com.fulminesoftware.compass/com.fulminesoftware.compass.CompassWelcomeActivity",
+    "com.gn.android.compass/com.gn.android.common.controller.AppInitActivity",
+    "com.huawei.compass/com.huawei.compass.MainActivity",
+    "com.jrdcom.compass/com.jrdcom.compass.CompassMainActivity",
+    "com.lenovo.compass/com.lenovo.compass.CompassActivity",
+    "com.letv.android.compass/com.letv.android.compass.MainActivity",
+    "com.miui.compass/com.miui.compass.CompassActivity",
+    "com.oppo.compass/com.oppo.compass.flat.FlatCompass",
+    "com.pro.app.compass/com.student.studio.app.compass.Splash",
+    "com.vincentlee.compass/com.vincentlee.compass.MainActivity",
+    "com.vivo.compass/com.vivo.compass.CalibrationActivity",
+    "com.wingtech.compass/com.wingtech.compass.CompassActivity",
+    "com.yulong.android.compass/com.yulong.android.compass.CompassActivity",
+    "com.zui.compass/com.zui.compass.CompassActivity",
+    "fr.avianey.compass/fr.avianey.compass.Compass",
+    "jlzn.com.android.compass/jlzn.com.android.compass.JLZN_CompassActivity",
+    "kr.sira.compass/kr.sira.compass.MsgCheck",
+    "net.micode.compass/net.micode.compass.CompassActivity"
+  ],
+  "system_contacts": [],
+  "system_dash": [],
+  "system_dash_2": [],
+  "system_dash_3": [],
+  "system_downloads": [],
+  "system_downloads_2": [],
+  "system_downloads_3": [],
+  "system_eq": [],
+  "system_file_manager": [],
+  "system_fingerprint": [
+    "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
+  ],
+  "system_flashlight": [],
+  "system_gallery": [],
+  "system_gesture_builder": [
+    "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
+  ],
+  "system_hotspot": [],
+  "system_internet_chat": [],
+  "system_keyboard": [],
+  "system_mail": [],
+  "system_maps": [],
+  "system_messages": [
+    "cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity",
+    "com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity",
+    "com.android.mms/com.android.mms.mainUISelection",
+    "com.android.mms/com.android.mms.ui.BootActivity",
+    "com.android.mms/com.android.mms.ui.ConversationComposer",
+    "com.android.mms/com.android.mms.ui.ConversationList",
+    "com.android.mms/com.android.mms.ui.EntryActivity",
+    "com.android.mms/com.android.mms.ui.MessageTabActivity",
+    "com.android.mms/com.android.mms.ui.MmsTabActivity",
+    "com.android.mms/com.android.mms.ui.PermissionActivity",
+    "com.android.mms/com.android.mms.ui.UiController",
+    "com.android.mms/com.android.mms.ui.traditional.MessageLaunchActivity",
+    "com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity",
+    "com.asus.message/com.android.mms.ui.ConversationList",
+    "com.dot.messenging/com.dot.messenging.ui.MainActivity-Default",
+    "com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity",
+    "com.htc.sense.mms/com.htc.sense.mms.ui.CmasListActivityShortCut",
+    "com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList",
+    "com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity",
+    "com.lge.message/com.lge.message.ui.ConversationList",
+    "com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList",
+    "com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity",
+    "com.motorola.messaging/com.android.mms.ui.ConversationList",
+    "com.pantech.app.mms/com.pantech.app.mms.ui.EntryActivity",
+    "com.samsung.android.messaging/com.android.mms.ui.ConversationComposer",
+    "com.samsung.android.messaging/com.android.mms.ui.ConversationComposer",
+    "com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity",
+    "com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity"
+  ],
+  "system_mic": [],
+  "system_mic_2": [],
+  "system_mms": [],
+  "system_music": [],
+  "system_music_2": [],
+  "system_music_3": [],
+  "system_notes": [],
+  "system_phone": [],
+  "system_photo": [],
+  "system_photocam": [
+    "co.paranoidandroid.camera/com.android.camera.CameraLauncher",
+    "com.acer.camera/com.acer.camera.CameraActivity",
+    "com.amazon.camera/com.amazon.camera.AmazonCameraActivity",
+    "com.android.camera/com.android.camera.CamcorderEntry",
+    "com.android.camera/com.android.camera.Camera",
+    "com.android.camera/com.android.camera.CameraActivity",
+    "com.android.camera/com.android.camera.CameraActivityWraper",
+    "com.android.camera/com.android.camera.CameraEntry",
+    "com.android.camera/com.android.camera.CameraLauncher",
+    "com.android.camera2/com.android.camera.CameraActivity",
+    "com.android.camera2/com.android.camera.CameraLauncher",
+    "com.android.camera2/com.android.camera.CameraLauncher",
+    "com.android.camera3/com.android.camera.CameraLauncher",
+    "com.android.camerabq/com.android.camera.CameraLauncher",
+    "com.android.gallery3d/com.android.camera.Camera",
+    "com.android.gallery3d/com.android.camera.CameraLauncher",
+    "com.android.gallery3d/com.android.camera.LauncherActivity",
+    "com.android.gallery3d/com.android.hwcamera",
+    "com.android.hwcamera/com.android.hwcamera.Camera",
+    "com.asus.camera/com.asus.camera.CameraApp",
+    "com.asus.camera/com.asus.camera.MirrorApp",
+    "com.bellabytes.xcamlg/com.bellabytes.xcamlg.CameraAppLauncher",
+    "com.blackberry.camera/com.blackberry.camera.ui.coordination.MainActivity",
+    "com.bq.camerabq/com.bq.camerabq.CameraLauncher",
+    "com.cyngn.cameranext/com.android.camera.CameraLauncher",
+    "com.cyngn.cameranextmod2/com.android.camera.CameraLauncher",
+    "com.dama.camera2/com.dama.camera2.MainActivity",
+    "com.fineos.camera/com.fineos.camera.CameraLauncher",
+    "com.freeme.camera/com.freeme.camera.CameraLauncher",
+    "com.fujitsu.mobile_phone.camera/com.android.camera.CameraLauncher",
+    "com.google.android.camera/com.android.camera.Camera",
+    "com.htc.camera/com.htc.camera.CameraEntry",
+    "com.huawei.camera/com.huawei.camera",
+    "com.jrdcom.android.gallery3d/com.android.jrdcamera.CameraLauncher",
+    "com.lenovo.camera/com.android.camera.Camera",
+    "com.lenovo.scg/com.android.camera.CameraLauncher",
+    "com.lenovo.scg/com.lenovo.minicamera.activity.MiniCameraActivity",
+    "com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher",
+    "com.lge.camera/com.lge.camera.CamLoading",
+    "com.lge.camera/com.lge.camera.CameraApp",
+    "com.lge.camera/com.lge.camera.CameraAppLauncher",
+    "com.lge.camera8i8h/com.lge.camera8i8h.CameraAppLauncher",
+    "com.lge.cammra/com.lge.cammra.CameraAppLauncher",
+    "com.mados.madcamera/com.android.camera.CameraLauncher",
+    "com.mediatek.camera/com.android.camera.CameraLauncher",
+    "com.mediatek.camera/com.mediatek.camera.Camera",
+    "com.meizu.media.camera/com.meizu.media.camera.CameraLauncher",
+    "com.modaco.cameralauncher/com.modaco.cameralauncherActivity",
+    "com.motorola.camera/com.motorola.camera.Camera",
+    "com.myos.camera/com.myos.camera.CameraLauncher2",
+    "com.myos.camera/com.myos.camera.activity.CameraActivity",
+    "com.netco.camera/com.netco.camera.Main",
+    "com.oneplus.camera/com.oneplus.camera.OPCameraActivity",
+    "com.oppo.camera/com.oppo.camera.Camera",
+    "com.oppo.camera/com.oppo.camera.activity.CameraActivity",
+    "com.pantech.app.skycamera/com.pantech.app.skycamera.Camera",
+    "com.pms.cameranextmod7/com.android.camera.CameraLauncher",
+    "com.sec.android.app.camera/com.sec.android.app.camera.Camera",
+    "com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity",
+    "com.sonyericsson.android.camera3d/com.sonyericsson.android.camera3d.CameraActivity",
+    "com.sonyericsson.android.camera3d/com.sonyericsson.android.camera3d.viewer.Browser",
+    "com.tct.camera/com.android.camera.CameraLauncher",
+    "com.thundersoft.ucam/com.android.camera.CameraLauncher",
+    "com.wileyfox.camera/com.android.camera.CameraLauncher",
+    "com.zte.camera/com.zte.camera.CameraActivity",
+    "com.zui.camera/com.zui.camera.CameraActivity",
+    "com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity",
+    "jp.kyocera.camera/jp.kyocera.camera.activity.CameraActivity",
+    "org.codeaurora.snapcam/com.android.camera.CameraActivity",
+    "org.codeaurora.snapcam/com.android.camera.CameraLauncher",
+    "org.cyanogenmod.snap/com.android.camera.CameraLauncher"
+  ],
+  "system_preferences": [],
+  "system_preferences_2": [],
+  "system_preferences_3": [],
+  "system_preferences_4": [],
+  "system_preferences_5": [],
+  "system_radio": [],
+  "system_recovery": [
+    "com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity"
+  ],
+  "system_screenshot": [],
+  "system_security": [],
+  "system_settings": [
+    "com.android.customlocale2/com.android.customlocale2.CustomLocaleActivity",
+    "com.android.development/com.android.development.Development"
+  ],
+  "system_sim": [],
+  "system_smartphone": [],
+  "system_sms": [],
+  "system_timer": [],
+  "system_todo": [
+    "com.mediatek.todos/com.mediatek.todos.TodosActivity"
+  ],
+  "system_video": [],
+  "system_video_2": [],
+  "system_videocam": [
+    "com.android.camera2/com.android.camera.VideoCamera",
+    "com.android.gallery3d/com.android.camera.VideoCamera",
+    "org.codeaurora.snapcam/com.android.camera.VideoCamera"
+  ],
+  "system_voicedialer": [],
+  "system_voicemail": [
+    "com.android.mms/com.android.mms.ui.VoiceMailTabActivity",
+    "com.coremobility.app.vnotes/com.coremobility.app.vnotes.CM_VnoteInbox",
+    "com.htc.sense.mms/com.htc.sense.mms.ui.VoiceMailTabActivity",
+    "com.lge.vvm/com.lge.vvm.ProvisioningStateMachine",
+    "com.motorola.vvm/com.motorola.vvm.ui.VvmMainActivity",
+    "com.motorola.vzw.vvm/com.motorola.vzw.vvm.ui.VvmMainActivity",
+    "com.samsung.vvm/com.samsung.vvm.ui.VVMActivity",
+    "com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication",
+    "com.sprint.voicemail/com.sprint.voicemail.VoiceMailActivity",
+    "com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity"
+  ],
+  "system_voicemail_alt": [
+    "com.motorola.visualvoicemail/com.motorola.visualvoicemail.ui.VvmMainActivity",
+    "fr.freemobile.android.vvm/fr.freemobile.android.vvm.customui.launchscreens.FirstLaunchActivity",
+    "org.lineageos.recorder/org.lineageos.recorder.RecorderActivity"
+  ],
+  "system_voicemail_alt1": [
+    "com.mizmowireless.vvm/com.mizmowireless.vvm.screen.MainSetupActivity"
+  ],
+  "system_weather": [],
+  "system_widget_preview": [
+    "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
+  ],
+  "system_wifi": [],
+  "system_worldtime": [
+    "com.android.qworldclock/com.android.qworldclock.QWorldClock"
+  ],
+  "tangram_browser": [],
+  "telegram": [],
+  "terminology": [],
+  "torrent_video_player_tvp": [],
+  "transmission": [],
+  "trax_music_player": [],
+  "tunein": [],
+  "tunein_pro": [],
+  "turtlerun_music_player": [],
+  "turtlerun_video_player": [],
+  "twitter": [],
+  "uc_browser": [],
+  "usb_audio_player": [],
+  "vc_browser": [],
+  "via_browser": [],
+  "viber": [],
+  "video_player_all_format": [],
+  "video_player_audio_player": [],
+  "video_player_hd": [],
+  "video_player_hd_player": [],
+  "video_player_perfect": [],
+  "videoplayer_ultimate": [],
+  "vk": [],
+  "vlc": [],
+  "wechat": [],
+  "whatsapp": [],
+  "wondershare_player": [],
+  "xbrowser": [],
+  "xeno_amp_music_player": [],
+  "xplay_music_player": [],
+  "yandex_browser": [],
+  "yo_browser": [],
+  "yolo_browser": [],
+  "youtube_player_terekhine": [],
+  "zgz_video_player": []
 }
