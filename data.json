@@ -1,64 +1,43 @@
 {
-  "321_mediaplayer": [
+  "apps_321_mediaplayer": [
     "photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity",
     "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"
   ],
-  "4g_browser": [
+  "apps_4g_browser": [
     "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivity",
     "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivityOldbrowser",
     "fastbrowser4g.internetwebexplorer/internet.explorer.ienew.browser.activities.BrowserActivity"
   ],
-  "4g_lte_browser": [
+  "apps_4g_lte_browser": [
     "hero.browser4g.internet/acr.browser.lightning.activity.SplashScreenActivity"
   ],
-  "8g_browser": [
+  "apps_8g_browser": [
     "com.js.browserjstechgroup/com.mmbox.xbrowser.BrowserActivity"
   ],
-  "abbey_music_player": [
+  "apps_abbey_music_player": [
     "com.omagrahari.abbeymusicplayernew/com.omagrahari.abbeymusicplayernew.MainActivity"
   ],
-  "ac3_player": [
+  "apps_ac3_player": [
     "nppl3.hd.video.player/org.videolan.vlc.gui.MainActivity",
     "nppl3.hd.video.player/nppl3.hd.video.player.gui.MainActivity"
   ],
-  "ac3_video_player": [
+  "apps_ac3_video_player": [
     "grant.standard.ac3.player/grant.standard.ac3.player.HomeActivity"
   ],
-  "ac_browser": [
+  "apps_ac_browser": [
     "net.ac.browser/acr.browser.thunder.MainActivity"
   ],
-  "accountstudio_mp3_player": [
+  "apps_accountstudio_mp3_player": [
     "mp3songs.mp3player.mp3cutter.ringtonemaker/com.music.player.mp3.player.cut.MainActivity"
   ],
-  "adblock": [
+  "apps_adblock": [
     "com.betafish.adblocksbrowser/com.betafish.sbrowser.contentblocker.MainPreferences"
   ],
-  "adblock_browser": [
+  "apps_adblock_browser": [
     "org.adblockplus.browser/org.adblockplus.browser.App"
   ],
-  "adblock_plus": [
+  "apps_adblock_plus": [
     "org.adblockplus.adblockplussbrowser/org.adblockplus.sbrowser.contentblocker.MainPreferences"
-  ],
-  "aimp": [
-    "com.aimp.player/com.aimp.player.views.Main.MainActivity",
-    "com.aimp.player/com.aimp.player.views.MainActivity.MainActivity",
-    "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity"
-  ],
-  "allcast": [
-    "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
-    "com.koushikdutta.cast.receiver/com.koushikdutta.cast.receiver.MainActivity",
-    "com.koushikdutta.cast/com.koushikdutta.cast.MainActivity",
-    "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity",
-    "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity"
-  ],
-  "amazon_store": [
-    "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity",
-    "com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity",
-    "com.amazon.windowshop/com.amazon.mShop.home.HomeActivity"
-  ],
-  "ankit_musicplayer": [
-    "bitsie.playmee.musicplayer.free/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments",
-    "bitsie.playmee.musicplayer.pro/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments"
   ],
   "apps_aeondroid": [
     "io.github.phora.aeondroid/io.github.phora.aeondroid.activities.MainActivity"
@@ -67,21 +46,90 @@
     "dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity",
     "dev.ukanth.ufirewall.donate/dev.ukanth.ufirewall.MainActivity"
   ],
+  "apps_aimp": [
+    "com.aimp.player/com.aimp.player.views.Main.MainActivity",
+    "com.aimp.player/com.aimp.player.views.MainActivity.MainActivity",
+    "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity"
+  ],
   "apps_alarm_clock": [
     "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.ActivityAlarmClock",
     "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity"
   ],
+  "apps_allcast": [
+    "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
+    "com.koushikdutta.cast.receiver/com.koushikdutta.cast.receiver.MainActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.MainActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.StartActivity",
+    "com.koushikdutta.cast/com.koushikdutta.cast.SearchActivity"
+  ],
+  "apps_amazon_store": [
+    "com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity",
+    "com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity",
+    "com.amazon.windowshop/com.amazon.mShop.home.HomeActivity"
+  ],
   "apps_andotp": [
     "org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity"
   ],
+  "apps_ankit_musicplayer": [
+    "bitsie.playmee.musicplayer.free/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments",
+    "bitsie.playmee.musicplayer.pro/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments"
+  ],
+  "apps_appsddoz_video_player": [
+    "video.audio.mp3.player.editor/video.audio.mp3.player.editor.gui.MainActivity"
+  ],
+  "apps_apus_browser_pro_video_booster": [
+    "com.apus.web.browser.pro/com.apusapps.browser.main.AppEnterActivity"
+  ],
+  "apps_archos_video_player": [
+    "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videoqc/com.archos.mediacenter.videoqc.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videomtk/com.archos.mediacenter.videomtk.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.video/com.archos.mediacenter.video.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videoaw/com.archos.mediacenter.videoaw.browser.BrowserActivityVideo",
+    "com.archos.mpeg2plugin/com.archos.mpeg2plugin.Mpeg2Installer",
+    "com.archos.mediacenter.videoti/com.archos.mediacenter.videoti.browser.BrowserActivityVideo",
+    "com.archos.mediacenter.videork/com.archos.mediacenter.videork.browser.BrowserActivityVideo"
+  ],
+  "apps_armorfly_browser": [
+    "com.cmcm.armorfly/com.ijinshan.browser.screen.SplashActivity"
+  ],
+  "apps_asus_browser": [
+    "com.asus.browser/com.android.browser.BrowserActivity"
+  ],
   "apps_atimetracker": [
     "com.markuspage.android.atimetracker/com.markuspage.android.atimetracker.Tasks"
+  ],
+  "apps_audio_bassbooster": [
+    "audio.virtualizer.equalizer.bassbooster.musicplayer/com.ijoysoft.music.activity.WelcomeActivity"
+  ],
+  "apps_audio_beats": [
+    "com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.activities.MainActivity"
+  ],
+  "apps_audioamp_video_player": [
+    "videoplayerhd.musicplayer.videoaudioplayer/videoplayerhd.musicplayer.videoaudioplayer.gui.MainActivity"
+  ],
+  "apps_audiovision_music_player": [
+    "stesch.visualplayer/stesch.visualplayer.activities.MainActivity"
   ],
   "apps_authorizer": [
     "net.tjado.passwdsafe/net.tjado.passwdsafe.FileListActivity"
   ],
   "apps_autoairplanemode": [
     "org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity"
+  ],
+  "apps_ax_player": [
+    "com.axhdplayer.videoplayer.ad/com.axhdplayer.videoplayer.ad.MediaListActivity"
+  ],
+  "apps_bbc": [
+    "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
+    "bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"
+  ],
+  "apps_bbc_player": [
+    "air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry"
+  ],
+  "apps_beeline": [
+    "ru.beeline.services/ru.beeline.services.ui.activities.StartActivity",
+    "ru.beeline.services/ru.beeline.services.ui.activities.MainActivity"
   ],
   "apps_bewegungsmelder": [
     "de.arnefeil.bewegungsmelder/de.arnefeil.bewegungsmelder.MainActivity"
@@ -99,6 +147,81 @@
   "apps_bitmask": [
     "se.leap.bitmaskclient/se.leap.bitmaskclient.Dashboard"
   ],
+  "apps_black_player": [
+    "com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity",
+    "com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity"
+  ],
+  "apps_boat_browser": [
+    "com.boatbrowser.free/com.boatbrowser.free.BrowserActivity",
+    "com.boatbrowser.free/com.boatbrowser.free.SplashActivity"
+  ],
+  "apps_boat_browser_mini": [
+    "com.boatgo.browser/com.boatgo.browser.BrowserActivity"
+  ],
+  "apps_boomcap": [
+    "qodeSter.beatbox.media.flash/qodeSter.beatbox.media.flash.SplashScreen"
+  ],
+  "apps_boostnote": [
+    "io.boostnote/io.boostnote.MainActivity"
+  ],
+  "apps_browser_apus": [
+    "com.apusapps.browser/com.apusapps.browser.main.ApusBrowserActivity",
+    "com.apusapps.browser/com.apusapps.browser.main.AppEnterActivity",
+    "com.apusapps.browser/com.superapps.browser.main.AppEnterActivity",
+    "com.apusapps.browser.turbo/com.apusapps.browser.main.AppEnterActivity"
+  ],
+  "apps_browser_brave": [
+    "com.brave.browser/com.google.android.apps.chrome.Main"
+  ],
+  "apps_browser_du": [
+    "com.baidu.browser.inter.mini/com.baidu.browser.inter.mini.BrowserActivity",
+    "com.baidu.browser.inter/com.baidu.browser.inter.SplashActivity",
+    "com.baidu.browserhd.inter/com.baidu.browser.inter.SplashActivity"
+  ],
+  "apps_browser_orbitum": [
+    "com.orbitum.browser/com.orbitum.browser.activity.StartActivity"
+  ],
+  "apps_browser_puls": [
+    "ru.mail.pulse/ru.mail.pulse.Main"
+  ],
+  "apps_bsplayer": [
+    "com.bsplayer.bspandroid.free/com.bsplayer.bsplayeran.BSPMain_new",
+    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.bspmain",
+    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.BSPMain_new"
+  ],
+  "apps_butterfly_browser": [
+    "acr.browser.butterfly/acr.browser.butterfly.MainActivity"
+  ],
+  "apps_casse_o_player": [
+    "com.hornwerk.compactcassetteplayer/com.hornwerk.compactcassetteplayer.Activities.ShowcaseActivity"
+  ],
+  "apps_castbox": [
+    "com.podcast.podcasts/com.podcast.podcasts.activity.MainActivity",
+    "com.podcast.podcasts/fm.castbox.ui.main.MainActivity"
+  ],
+  "apps_chromer_browser": [
+    "arun.com.chromer/arun.com.chromer.MainActivity"
+  ],
+  "apps_clean_music": [
+    "com.myskyspark.music/com.myskyspark.music.OpenActivity"
+  ],
+  "apps_clementine": [
+    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog",
+    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectActivity"
+  ],
+  "apps_cloud_player_doubletwist": [
+    "com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
+  ],
+  "apps_cloudskipper_music_player": [
+    "cloudtv.cloudskipper/cloudtv.android.cs.activity.MainActivity"
+  ],
+  "apps_cm_browser": [
+    "com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity",
+    "com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity"
+  ],
+  "apps_coocent_eq": [
+    "music.bassbooster.equalizer.pay/kx.com.app.equalizer.EQActivity"
+  ],
   "apps_cryptfs_password": [
     "org.nick.cryptfs.passwdmanager/org.nick.cryptfs.passwdmanager.MainActivity"
   ],
@@ -112,8 +235,50 @@
   "apps_d00r": [
     "com.hasi.hasid00r/com.hasi.d00r.MainActivity"
   ],
+  "apps_deadbeef": [
+    "org.deadbeef.android/org.deadbeef.android.Deadbeef"
+  ],
   "apps_derandom": [
     "org.asnelt.derandom/org.asnelt.derandom.MainActivity"
+  ],
+  "apps_discord": [
+    "com.discord/com.discord.screens.ScreenLoading",
+    "com.discord/com.discord.screens.ScreenMain",
+    "com.discord/com.discord.screens.ScreenAux$Main",
+    "com.discord/com.discord.app.AppActivity$Main"
+  ],
+  "apps_dolphin_web_browser": [
+    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity",
+    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity",
+    "com.dolphin.web.browser.android/mobi.mgeek.TunnyBrowser.BrowserActivity"
+  ],
+  "apps_dolphin_zero_browser": [
+    "com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity"
+  ],
+  "apps_double_twist_player": [
+    "com.doubleTwist.androidPlayerProKey/com.doubleTwist.androidPlayerProKey.FreeAppRequiredActivity",
+    "com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity",
+    "com.doubleTwist.androidPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
+  ],
+  "apps_dreams_player": [
+    "com.team48dreams.player/com.team48dreams.player.Load"
+  ],
+  "apps_dub_music_player": [
+    "hr.palamida/hr.palamida.Start"
+  ],
+  "apps_dub_studio_eq": [
+    "hr.podlanica/hr.podlanica.Start"
+  ],
+  "apps_duck_duck_go": [
+    "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
+  ],
+  "apps_ellen_mp3_player": [
+    "media.mp3.mp3player/com.tarena.fashionmusic.FashionMusicActivity"
+  ],
+  "apps_equalizer_music_player_booster": [
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.LoadingActivity",
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.MainActivity",
+    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplus.activities.HomeActivity"
   ],
   "apps_etesync": [
     "com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity"
@@ -121,44 +286,164 @@
   "apps_etheremote": [
     "org.ligi.etheremote/org.ligi.etheremote.StatsActivity"
   ],
+  "apps_exsoul_web_browser": [
+    "com.exsoul/com.exsoul.ExsoulActivity"
+  ],
   "apps_f_droid": [
     "org.fdroid.fdroid/org.fdroid.fdroid.FDroid",
     "org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity"
   ],
+  "apps_facebook": [
+    "com.facebook.katana/com.facebook.katana.LoginActivity"
+  ],
+  "apps_fastest_mini_browser": [
+    "com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"
+  ],
+  "apps_fbmessenger": [
+    "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+  ],
+  "apps_firefox": [
+    "org.mozilla.firefox/org.mozilla.firefox.App",
+    "org.mozilla.firefox_beta/org.mozilla.firefox_beta.App",
+    "org.mozilla.firefox_beta/org.mozilla.search.SearchActivity",
+    "org.mozilla.firefox_beta/org.mozilla.gecko.BrowserApp"
+  ],
+  "apps_firefox_focus": [
+    "org.mozilla.focus/org.mozilla.focus.activity.MainActivity"
+  ],
+  "apps_firefox_trunk": [
+    "org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"
+  ],
+  "apps_flv_player": [
+    "flv.mobile.android/flv.mobile.android.ui.activities.MainActivity"
+  ],
+  "apps_flv_video_player": [
+    "air.br.com.bitlabs.FLVPlayer/air.br.com.bitlabs.FLVPlayer.AppEntry",
+    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.TabActivity",
+    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.LaunchScreenActivity"
+  ],
+  "apps_fm_player": [
+    "fm.player/fm.player.ui.MainActivity_",
+    "fm.player/fm.player.ui.MainActivity"
+  ],
+  "apps_folder_player": [
+    "com.folderplayer/com.folderplayer.StartActivity"
+  ],
+  "apps_fotoable_music_player": [
+    "com.fotoable.musicplayer/com.ytwd.mp3player.WelcomeActivity"
+  ],
+  "apps_ghostery_privacy_browser": [
+    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.SplashActivity",
+    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.BrowserActivity"
+  ],
+  "apps_gom_player": [
+    "com.gretech.gomplayerko/com.gretech.activities.GSplashActivity",
+    "com.gretech.gomplayerko/com.gomcorp.gomplayer.GSplashActivity"
+  ],
+  "apps_gonemad_music_player": [
+    "gonemad.gmmp/gonemad.gmmp.activities.MainActivity"
+  ],
+  "apps_gplayer": [],
+  "apps_gpodder": [],
+  "apps_green_apple_mp3_player": [],
+  "apps_green_banana_music": [],
+  "apps_habit_browser": [],
+  "apps_halo_browser": [],
   "apps_hashdroid": [
     "com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity"
   ],
+  "apps_hd_universal_player": [],
+  "apps_hd_video_player": [],
+  "apps_highsecure_mp3_player": [],
+  "apps_hipchat": [],
+  "apps_htc_videoplayer": [],
   "apps_i2p": [
     "net.i2p.android.router/net.i2p.android.I2PActivity"
   ],
+  "apps_icq": [],
   "apps_icsimport": [
     "org.dgtale.icsimport/org.dgtale.icsimport.MainActivity"
   ],
+  "apps_ijoy_music_player": [],
+  "apps_inbrowser": [],
+  "apps_ingenuity_eq_player": [],
+  "apps_instagram": [],
+  "apps_iron_browser": [],
   "apps_is_phone_encrypted": [
     "name.seguri.android.isphoneencrypted/name.seguri.android.isphoneencrypted.MainActivity"
   ],
+  "apps_ivvovtech_music_player": [],
+  "apps_jetaudio": [],
+  "apps_jrtstudio_music": [],
+  "apps_just_listenit": [],
+  "apps_kdeconnect": [],
   "apps_keepass_dx": [
     "com.kunzisoft.keepass.libre/com.kunzisoft.keepass.KeePass"
   ],
   "apps_keepassdroid": [
     "com.android.keepass/com.android.keepass.KeePass"
   ],
+  "apps_kepler_music_player": [],
+  "apps_kmplayer": [],
+  "apps_kx_music_player": [],
+  "apps_lark_player": [],
+  "apps_lastfm": [],
+  "apps_laya_music_player": [],
+  "apps_lightning_web_browser": [],
+  "apps_linconnect": [],
+  "apps_litter_web_browser": [],
+  "apps_localcast_for_chromecast": [],
   "apps_locker": [
     "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
   ],
+  "apps_mail.ru_cloud": [],
+  "apps_maple_player": [],
+  "apps_max_player": [],
+  "apps_maxthon_browser": [],
+  "apps_mediamonkey": [],
+  "apps_mercury_browser": [],
+  "apps_mezzo_player": [],
+  "apps_miniandroid_music": [],
+  "apps_moboplayer": [],
   "apps_motp": [
     "org.cry.otp/org.cry.otp.Profiles"
   ],
+  "apps_mp3_music_download_search": [],
+  "apps_mp3_player_white": [],
+  "apps_mttcross_player": [],
+  "apps_music_and_video": [],
+  "apps_music_folder_player": [],
+  "apps_music_go": [],
+  "apps_music_go_plus": [],
+  "apps_music_hero": [],
+  "apps_music_player_go": [],
+  "apps_music_player_sm": [],
+  "apps_music_player_vortex": [],
+  "apps_musicolet_music_player": [],
+  "apps_musicplayer_mp3": [],
+  "apps_musicplayer_rocket": [],
+  "apps_musix_player": [],
+  "apps_musixmatch": [],
+  "apps_mvideoplayer": [],
+  "apps_mx_player": [],
+  "apps_n7player": [],
   "apps_netguard": [
     "eu.faircode.netguard/eu.faircode.netguard.ActivityMain"
   ],
+  "apps_neutron_music_player": [],
+  "apps_next_browser": [],
   "apps_note_crypt_pro": [
     "com.notecryptpro/com.notecrypt.ui.MainActivity",
     "com.notecryptpro/com.notecrypt.ui.SelectDatabaseActivity"
   ],
+  "apps_nrg_player": [],
+  "apps_ok": [],
+  "apps_omnich_player": [],
+  "apps_one_browser": [],
   "apps_onetimepass": [
     "com.github.onetimepass/com.github.onetimepass.SplashActivity"
   ],
+  "apps_onkyo_hf_player": [],
   "apps_ooniprobe": [
     "org.openobservatory.ooniprobe/org.openobservatory.ooniprobe.activity.MainActivity"
   ],
@@ -173,6 +458,12 @@
     "com.example.openpass/com.example.openpass.TokenListActivity",
     "com.u17od.upm/com.u17od.upm.AppEntryActivity"
   ],
+  "apps_opera": [],
+  "apps_opera_beta": [],
+  "apps_opera_developer": [],
+  "apps_opera_mini": [],
+  "apps_opera_vpn": [],
+  "apps_orfox": [],
   "apps_orwall": [
     "org.ethack.orwall/org.ethack.orwall.TabbedMain"
   ],
@@ -201,6 +492,9 @@
   "apps_pgpclipper": [
     "moe.minori.pgpclipper/moe.minori.pgpclipper.activities.PGPClipperSettingsActivity"
   ],
+  "apps_phoenix_browser": [],
+  "apps_phonograph_music_player": [],
+  "apps_pi_musicplayer": [],
   "apps_pijaret": [
     "dmusiolik.pijaret/dmusiolik.pijaret.MainActivity"
   ],
@@ -212,24 +506,51 @@
     "info.guardianproject.pixelknot/info.guardianproject.pixelknot.PixelKnotActivity",
     "info.guardianproject.pixelknot/info.guardianproject.pixelknot.SendActivity"
   ],
+  "apps_player_meridian": [],
+  "apps_player_pro_music": [],
+  "apps_playermusic": [],
+  "apps_playerxtreme": [],
+  "apps_playo": [],
+  "apps_plex": [],
+  "apps_pocket": [],
+  "apps_pocketcasts": [],
+  "apps_podcast": [],
+  "apps_podcast_addict": [],
+  "apps_podcast_go": [],
+  "apps_podcast_republic": [],
   "apps_portauthority": [
     "com.aaronjwood.portauthority/com.aaronjwood.portauthority.activity.MainActivity"
   ],
   "apps_portknocker": [
     "com.xargsgrep.portknocker/com.xargsgrep.portknocker.activity.HostListActivity"
   ],
+  "apps_power_browser": [],
+  "apps_power_media_player": [],
+  "apps_poweramp": [],
+  "apps_prosto_radio": [],
   "apps_puff": [
     "sun.bob.leela/sun.bob.leela.ui.activities.SplashActivity"
   ],
+  "apps_puffin_web_browser": [],
+  "apps_pulsar": [],
+  "apps_pyrope_browser": [],
   "apps_qrstream": [
     "com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher"
   ],
+  "apps_quark_browser": [],
+  "apps_reactive_fast_search": [],
+  "apps_real_player": [],
   "apps_ripple": [
     "info.guardianproject.ripple/info.guardianproject.ripple.MainActivity"
   ],
+  "apps_rocket_browser": [],
+  "apps_rocket_player": [],
+  "apps_s8_edge_music_player": [],
+  "apps_samsung_music": [],
   "apps_satoshiproof": [
     "org.ligi.satoshiproof/org.ligi.satoshiproof.MainActivity"
   ],
+  "apps_sberbank": [],
   "apps_secret_codes": [
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.MainActivity",
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.ui.MainActivity"
@@ -237,10 +558,16 @@
   "apps_selinux": [
     "com.mrbimc.selinux/com.mrbimc.selinux.MainActivity"
   ],
+  "apps_shazam": [],
+  "apps_shuttle_music_player": [],
   "apps_simpletextcrypt": [
     "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.LockActivity",
     "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.MainActivity"
   ],
+  "apps_skype": [],
+  "apps_slack": [],
+  "apps_smart_eq": [],
+  "apps_smart_swf_player": [],
   "apps_smssecure": [
     "org.smssecure.smssecure/org.smssecure.smssecure.ConversationListActivity",
     "org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity"
@@ -251,6 +578,11 @@
   "apps_snoopsnitch": [
     "de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity"
   ],
+  "apps_soundcloud": [],
+  "apps_spotify_client": [],
+  "apps_sputnik_browser": [],
+  "apps_stellio_player": [],
+  "apps_stream_djit": [],
   "apps_supergenpass": [
     "info.staticfree.SuperGenPass/info.staticfree.SuperGenPass.Super_Gen_Pass"
   ],
@@ -260,238 +592,55 @@
   "apps_surespot": [
     "com.twofours.surespot/com.twofours.surespot.activities.MainActivity"
   ],
+  "apps_swf_player": [],
+  "apps_tangram_browser": [],
+  "apps_telegram": [],
   "apps_tinc": [
     "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"
   ],
+  "apps_torrent_video_player_tvp": [],
+  "apps_transmission": [],
+  "apps_trax_music_player": [],
+  "apps_tunein": [],
+  "apps_tunein_pro": [],
+  "apps_turtlerun_music_player": [],
+  "apps_turtlerun_video_player": [],
+  "apps_twitter": [],
+  "apps_uc_browser": [],
+  "apps_usb_audio_player": [],
+  "apps_vc_browser": [],
+  "apps_via_browser": [],
+  "apps_viber": [],
+  "apps_video_player_all_format": [],
+  "apps_video_player_audio_player": [],
+  "apps_video_player_hd": [],
+  "apps_video_player_hd_player": [],
+  "apps_video_player_perfect": [],
+  "apps_videoplayer_ultimate": [],
+  "apps_vk": [],
+  "apps_vlc": [],
+  "apps_wechat": [],
+  "apps_whatsapp": [],
   "apps_wherearetheeyes": [
     "org.daylightingsociety.wherearetheeyes/org.daylightingsociety.wherearetheeyes.MainActivity"
   ],
   "apps_wlanscanner": [
     "org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity"
   ],
-  "appsddoz_video_player": [
-    "video.audio.mp3.player.editor/video.audio.mp3.player.editor.gui.MainActivity"
-  ],
-  "apus_browser_pro_video_booster": [
-    "com.apus.web.browser.pro/com.apusapps.browser.main.AppEnterActivity"
-  ],
-  "archos_video_player": [
-    "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.videofree/com.archos.mediacenter.videofree.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.videoqc/com.archos.mediacenter.videoqc.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.videomtk/com.archos.mediacenter.videomtk.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.video/com.archos.mediacenter.video.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.videoaw/com.archos.mediacenter.videoaw.browser.BrowserActivityVideo",
-    "com.archos.mpeg2plugin/com.archos.mpeg2plugin.Mpeg2Installer",
-    "com.archos.mediacenter.videoti/com.archos.mediacenter.videoti.browser.BrowserActivityVideo",
-    "com.archos.mediacenter.videork/com.archos.mediacenter.videork.browser.BrowserActivityVideo"
-  ],
-  "armorfly_browser": [
-    "com.cmcm.armorfly/com.ijinshan.browser.screen.SplashActivity"
-  ],
-  "asus_browser": [
-    "com.asus.browser/com.android.browser.BrowserActivity"
-  ],
-  "audio_bassbooster": [
-    "audio.virtualizer.equalizer.bassbooster.musicplayer/com.ijoysoft.music.activity.WelcomeActivity"
-  ],
-  "audio_beats": [
-    "com.shaiban.audioplayer.mplayer/com.shaiban.audioplayer.mplayer.activities.MainActivity"
-  ],
-  "audioamp_video_player": [
-    "videoplayerhd.musicplayer.videoaudioplayer/videoplayerhd.musicplayer.videoaudioplayer.gui.MainActivity"
-  ],
-  "audiovision_music_player": [
-    "stesch.visualplayer/stesch.visualplayer.activities.MainActivity"
-  ],
-  "ax_player": [
-    "com.axhdplayer.videoplayer.ad/com.axhdplayer.videoplayer.ad.MediaListActivity"
-  ],
-  "badland": [
+  "apps_wondershare_player": [],
+  "apps_xbrowser": [],
+  "apps_xeno_amp_music_player": [],
+  "apps_xplay_music_player": [],
+  "apps_yandex_browser": [],
+  "apps_yo_browser": [],
+  "apps_yolo_browser": [],
+  "apps_youtube_player_terekhine": [],
+  "apps_zgz_video_player": [],
+  "games_badland": [
     "com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland",
     "com.frogmind.badland/com.frogmind.badland.Badland"
   ],
-  "bbc": [
-    "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
-    "bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"
-  ],
-  "bbc_player": [
-    "air.uk.co.bbc.android.mediaplayer/air.uk.co.bbc.android.mediaplayer.AppEntry"
-  ],
-  "beeline": [
-    "ru.beeline.services/ru.beeline.services.ui.activities.StartActivity",
-    "ru.beeline.services/ru.beeline.services.ui.activities.MainActivity"
-  ],
-  "black_player": [
-    "com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity",
-    "com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity"
-  ],
-  "boat_browser": [
-    "com.boatbrowser.free/com.boatbrowser.free.BrowserActivity",
-    "com.boatbrowser.free/com.boatbrowser.free.SplashActivity"
-  ],
-  "boat_browser_mini": [
-    "com.boatgo.browser/com.boatgo.browser.BrowserActivity"
-  ],
-  "boomcap": [
-    "qodeSter.beatbox.media.flash/qodeSter.beatbox.media.flash.SplashScreen"
-  ],
-  "boostnote": [
-    "io.boostnote/io.boostnote.MainActivity"
-  ],
-  "browser_apus": [
-    "com.apusapps.browser/com.apusapps.browser.main.ApusBrowserActivity",
-    "com.apusapps.browser/com.apusapps.browser.main.AppEnterActivity",
-    "com.apusapps.browser/com.superapps.browser.main.AppEnterActivity",
-    "com.apusapps.browser.turbo/com.apusapps.browser.main.AppEnterActivity"
-  ],
-  "browser_brave": [
-    "com.brave.browser/com.google.android.apps.chrome.Main"
-  ],
-  "browser_du": [
-    "com.baidu.browser.inter.mini/com.baidu.browser.inter.mini.BrowserActivity",
-    "com.baidu.browser.inter/com.baidu.browser.inter.SplashActivity",
-    "com.baidu.browserhd.inter/com.baidu.browser.inter.SplashActivity"
-  ],
-  "browser_orbitum": [
-    "com.orbitum.browser/com.orbitum.browser.activity.StartActivity"
-  ],
-  "browser_puls": [
-    "ru.mail.pulse/ru.mail.pulse.Main"
-  ],
-  "bsplayer": [
-    "com.bsplayer.bspandroid.free/com.bsplayer.bsplayeran.BSPMain_new",
-    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.bspmain",
-    "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.BSPMain_new"
-  ],
-  "butterfly_browser": [
-    "acr.browser.butterfly/acr.browser.butterfly.MainActivity"
-  ],
-  "casse_o_player": [
-    "com.hornwerk.compactcassetteplayer/com.hornwerk.compactcassetteplayer.Activities.ShowcaseActivity"
-  ],
-  "castbox": [
-    "com.podcast.podcasts/com.podcast.podcasts.activity.MainActivity",
-    "com.podcast.podcasts/fm.castbox.ui.main.MainActivity"
-  ],
-  "chromer_browser": [
-    "arun.com.chromer/arun.com.chromer.MainActivity"
-  ],
-  "clean_music": [
-    "com.myskyspark.music/com.myskyspark.music.OpenActivity"
-  ],
-  "clementine": [
-    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog",
-    "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectActivity"
-  ],
-  "cloud_player_doubletwist": [
-    "com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
-  ],
-  "cloudskipper_music_player": [
-    "cloudtv.cloudskipper/cloudtv.android.cs.activity.MainActivity"
-  ],
-  "cm_browser": [
-    "com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity",
-    "com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity"
-  ],
-  "coocent_eq": [
-    "music.bassbooster.equalizer.pay/kx.com.app.equalizer.EQActivity"
-  ],
-  "deadbeef": [
-    "org.deadbeef.android/org.deadbeef.android.Deadbeef"
-  ],
-  "discord": [
-    "com.discord/com.discord.screens.ScreenLoading",
-    "com.discord/com.discord.screens.ScreenMain",
-    "com.discord/com.discord.screens.ScreenAux$Main",
-    "com.discord/com.discord.app.AppActivity$Main"
-  ],
-  "dolphin_web_browser": [
-    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity",
-    "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity",
-    "com.dolphin.web.browser.android/mobi.mgeek.TunnyBrowser.BrowserActivity"
-  ],
-  "dolphin_zero_browser": [
-    "com.dolphin.browser.zero/com.dolphin.browser.zero.main.MainActivity"
-  ],
-  "double_twist_player": [
-    "com.doubleTwist.androidPlayerProKey/com.doubleTwist.androidPlayerProKey.FreeAppRequiredActivity",
-    "com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity",
-    "com.doubleTwist.androidPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
-  ],
-  "dreams_player": [
-    "com.team48dreams.player/com.team48dreams.player.Load"
-  ],
-  "dub_music_player": [
-    "hr.palamida/hr.palamida.Start"
-  ],
-  "dub_studio_eq": [
-    "hr.podlanica/hr.podlanica.Start"
-  ],
-  "duck_duck_go": [
-    "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
-  ],
-  "ellen_mp3_player": [
-    "media.mp3.mp3player/com.tarena.fashionmusic.FashionMusicActivity"
-  ],
-  "equalizer_music_player_booster": [
-    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.LoadingActivity",
-    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.MainActivity",
-    "com.djit.equalizerplusforandroidfree/com.djit.equalizerplus.activities.HomeActivity"
-  ],
-  "exsoul_web_browser": [
-    "com.exsoul/com.exsoul.ExsoulActivity"
-  ],
-  "facebook": [
-    "com.facebook.katana/com.facebook.katana.LoginActivity"
-  ],
-  "fastest_mini_browser": [
-    "com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"
-  ],
-  "fbmessenger": [
-    "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
-  ],
-  "firefox": [
-    "org.mozilla.firefox/org.mozilla.firefox.App",
-    "org.mozilla.firefox_beta/org.mozilla.firefox_beta.App",
-    "org.mozilla.firefox_beta/org.mozilla.search.SearchActivity",
-    "org.mozilla.firefox_beta/org.mozilla.gecko.BrowserApp"
-  ],
-  "firefox_focus": [
-    "org.mozilla.focus/org.mozilla.focus.activity.MainActivity"
-  ],
-  "firefox_trunk": [
-    "org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"
-  ],
-  "flv_player": [
-    "flv.mobile.android/flv.mobile.android.ui.activities.MainActivity"
-  ],
-  "flv_video_player": [
-    "air.br.com.bitlabs.FLVPlayer/air.br.com.bitlabs.FLVPlayer.AppEntry",
-    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.TabActivity",
-    "air.br.com.bitlabs.FLVPlayer/br.com.bitlabs.videoplayer.LaunchScreenActivity"
-  ],
-  "fm_player": [
-    "fm.player/fm.player.ui.MainActivity_",
-    "fm.player/fm.player.ui.MainActivity"
-  ],
-  "folder_player": [
-    "com.folderplayer/com.folderplayer.StartActivity"
-  ],
-  "fotoable_music_player": [
-    "com.fotoable.musicplayer/com.ytwd.mp3player.WelcomeActivity"
-  ],
-  "ghostery_privacy_browser": [
-    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.SplashActivity",
-    "com.ghostery.android.ghostery/com.ghostery.android.ghostery.BrowserActivity"
-  ],
-  "gom_player": [
-    "com.gretech.gomplayerko/com.gretech.activities.GSplashActivity",
-    "com.gretech.gomplayerko/com.gomcorp.gomplayer.GSplashActivity"
-  ],
-  "gonemad_music_player": [
-    "gonemad.gmmp/gonemad.gmmp.activities.MainActivity"
-  ],
+  "games_limbo": [],
   "google": [
     "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
@@ -862,124 +1011,6 @@
   "google_youtube_gaming": [
     "com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity"
   ],
-  "gplayer": [],
-  "gpodder": [],
-  "green_apple_mp3_player": [],
-  "green_banana_music": [],
-  "grub_customizer": [],
-  "gtkpod": [],
-  "habit_browser": [],
-  "halo_browser": [],
-  "hd_universal_player": [],
-  "hd_video_player": [],
-  "highsecure_mp3_player": [],
-  "hipchat": [],
-  "htc_videoplayer": [],
-  "icq": [],
-  "ijoy_music_player": [],
-  "inbrowser": [],
-  "ingenuity_eq_player": [],
-  "instagram": [],
-  "iron_browser": [],
-  "ivvovtech_music_player": [],
-  "jetaudio": [],
-  "jrtstudio_music": [],
-  "just_listenit": [],
-  "kdeconnect": [],
-  "kepler_music_player": [],
-  "kmplayer": [],
-  "kx_music_player": [],
-  "lark_player": [],
-  "lastfm": [],
-  "laya_music_player": [],
-  "lightning_web_browser": [],
-  "limbo": [],
-  "linconnect": [],
-  "litter_web_browser": [],
-  "localcast_for_chromecast": [],
-  "mail.ru_cloud": [],
-  "maple_player": [],
-  "max_player": [],
-  "maxthon_browser": [],
-  "mediamonkey": [],
-  "mercury_browser": [],
-  "mezzo_player": [],
-  "miniandroid_music": [],
-  "moboplayer": [],
-  "mp3_music_download_search": [],
-  "mp3_player_white": [],
-  "mttcross_player": [],
-  "music_and_video": [],
-  "music_folder_player": [],
-  "music_go": [],
-  "music_go_plus": [],
-  "music_hero": [],
-  "music_player_go": [],
-  "music_player_sm": [],
-  "music_player_vortex": [],
-  "musicolet_music_player": [],
-  "musicplayer_mp3": [],
-  "musicplayer_rocket": [],
-  "musix_player": [],
-  "musixmatch": [],
-  "mvideoplayer": [],
-  "mx_player": [],
-  "n7player": [],
-  "neutron_music_player": [],
-  "next_browser": [],
-  "nrg_player": [],
-  "ok": [],
-  "omnich_player": [],
-  "one_browser": [],
-  "onkyo_hf_player": [],
-  "opera": [],
-  "opera_beta": [],
-  "opera_developer": [],
-  "opera_mini": [],
-  "opera_vpn": [],
-  "orfox": [],
-  "phoenix_browser": [],
-  "phonograph_music_player": [],
-  "pi_musicplayer": [],
-  "player_meridian": [],
-  "player_pro_music": [],
-  "playermusic": [],
-  "playerxtreme": [],
-  "playo": [],
-  "plex": [],
-  "pocket": [],
-  "pocketcasts": [],
-  "podcast": [],
-  "podcast_addict": [],
-  "podcast_go": [],
-  "podcast_republic": [],
-  "power_browser": [],
-  "power_media_player": [],
-  "poweramp": [],
-  "prosto_radio": [],
-  "puffin_web_browser": [],
-  "pulsar": [],
-  "pyrope_browser": [],
-  "quark_browser": [],
-  "reactive_fast_search": [],
-  "real_player": [],
-  "rocket_browser": [],
-  "rocket_player": [],
-  "s8_edge_music_player": [],
-  "samsung_music": [],
-  "sberbank": [],
-  "shazam": [],
-  "shuttle_music_player": [],
-  "skype": [],
-  "slack": [],
-  "smart_eq": [],
-  "smart_swf_player": [],
-  "soundcloud": [],
-  "spotify_client": [],
-  "sputnik_browser": [],
-  "stellio_player": [],
-  "stream_djit": [],
-  "swf_player": [],
   "system_alarm": [],
   "system_android": [
     "org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity"
@@ -1875,40 +1906,5 @@
   ],
   "system_worldtime": [
     "com.android.qworldclock/com.android.qworldclock.QWorldClock"
-  ],
-  "tangram_browser": [],
-  "telegram": [],
-  "terminology": [],
-  "torrent_video_player_tvp": [],
-  "transmission": [],
-  "trax_music_player": [],
-  "tunein": [],
-  "tunein_pro": [],
-  "turtlerun_music_player": [],
-  "turtlerun_video_player": [],
-  "twitter": [],
-  "uc_browser": [],
-  "usb_audio_player": [],
-  "vc_browser": [],
-  "via_browser": [],
-  "viber": [],
-  "video_player_all_format": [],
-  "video_player_audio_player": [],
-  "video_player_hd": [],
-  "video_player_hd_player": [],
-  "video_player_perfect": [],
-  "videoplayer_ultimate": [],
-  "vk": [],
-  "vlc": [],
-  "wechat": [],
-  "whatsapp": [],
-  "wondershare_player": [],
-  "xbrowser": [],
-  "xeno_amp_music_player": [],
-  "xplay_music_player": [],
-  "yandex_browser": [],
-  "yo_browser": [],
-  "yolo_browser": [],
-  "youtube_player_terekhine": [],
-  "zgz_video_player": []
+  ]
 }
