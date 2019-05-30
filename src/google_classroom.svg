@@ -1,149 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   version="1"
-   id="svg38"
-   sodipodi:docname="google_classroom.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <metadata
-     id="metadata44">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs42" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview40"
-     showgrid="false"
-     inkscape:zoom="16.01"
-     inkscape:cx="24"
-     inkscape:cy="16.504685"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
-  <path
-     d="m 4,37.5 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z"
-     id="path20"
-     inkscape:connector-curvature="0"
-     style="opacity:0.2" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-40"
-     y="-44"
-     width="32"
-     height="40"
-     rx="2"
-     ry="2"
-     style="fill:#f4b504"
-     id="rect2" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-37"
-     y="-41"
-     width="26"
-     height="34"
-     rx="0"
-     ry="0"
-     style="fill:#18a15f"
-     id="rect4" />
-  <g
-     transform="translate(5,15)"
-     style="opacity:.5"
-     id="g10">
-    <path
-       d="m12 5c-1.6572 0-3 1.3434-3 3s1.3428 3 3 3 3-1.3434 3-3-1.3428-3-3-3z"
-       style="fill:#ffffff"
-       id="path6" />
-    <path
-       d="m12 12.000001c-4.9995 0.0032-5 3.446153-5 3.446153v1.4s0.923071 2.153846 5 2.153846 5-2.153846 5-2.153846v-1.4s0-3.448307-4.999-3.446153z"
-       style="fill:#ffffff"
-       id="path8" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g>
+  <path style="opacity:0.2" d="m 4,37.5 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z"/>
+  <rect style="fill:#f4b504" width="32" height="40" x="-40" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect style="fill:#18a15f" width="26" height="34" x="-37" y="-41" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
+  <g style="opacity:0.5" transform="translate(5,15)">
+   <path style="fill:#ffffff" d="m12 5c-1.6572 0-3 1.3434-3 3s1.3428 3 3 3 3-1.3434 3-3-1.3428-3-3-3z"/>
+   <path style="fill:#ffffff" d="m12 12.000001c-4.9995 0.0032-5 3.446153-5 3.446153v1.4s0.923071 2.153846 5 2.153846 5-2.153846 5-2.153846v-1.4s0-3.448307-4.999-3.446153z"/>
   </g>
-  <g
-     transform="translate(19,15)"
-     style="opacity:.5"
-     id="g16">
-    <path
-       d="m12 5c-1.6572 0-3 1.3434-3 3s1.3428 3 3 3 3-1.3434 3-3-1.3428-3-3-3z"
-       style="fill:#ffffff"
-       id="path12" />
-    <path
-       d="m12 12.000001c-4.9995 0.0032-5 3.446153-5 3.446153v1.4s0.923071 2.153846 5 2.153846 5-2.153846 5-2.153846v-1.4s0-3.448307-4.999-3.446153z"
-       style="fill:#ffffff"
-       id="path14" />
+  <g style="opacity:0.5" transform="translate(19,15)">
+   <path style="fill:#ffffff" d="m12 5c-1.6572 0-3 1.3434-3 3s1.3428 3 3 3 3-1.3434 3-3-1.3428-3-3-3z"/>
+   <path style="fill:#ffffff" d="m12 12.000001c-4.9995 0.0032-5 3.446153-5 3.446153v1.4s0.923071 2.153846 5 2.153846 5-2.153846 5-2.153846v-1.4s0-3.448307-4.999-3.446153z"/>
   </g>
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     d="M 6 8 C 4.892 8 4 8.892 4 10 L 4 10.5 C 4 9.392 4.892 8.5 6 8.5 L 42 8.5 C 43.108 8.5 44 9.392 44 10.5 L 44 10 C 44 8.892 43.108 8 42 8 L 6 8 z "
-     id="path18" />
-  <g
-     transform="translate(8,9.5)"
-     style="opacity:0.2;fill:#000000"
-     id="g26">
-    <path
-       d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"
-       style="fill:#000000"
-       id="path22"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"
-       style="fill:#000000"
-       id="path24"
-       inkscape:connector-curvature="0" />
+  <path style="opacity:0.2;fill:#ffffff" d="M 6 8 C 4.892 8 4 8.892 4 10 L 4 10.5 C 4 9.392 4.892 8.5 6 8.5 L 42 8.5 C 43.108 8.5 44 9.392 44 10.5 L 44 10 C 44 8.892 43.108 8 42 8 L 6 8 z"/>
+  <g style="opacity:0.2" transform="translate(8,9.5)">
+   <path d="m 16,6 c -2.2096,0 -4,1.7912 -4,4 0,2.2088 1.7904,4 4,4 2.2096,0 4,-1.7912 4,-4 0,-2.2088 -1.7904,-4 -4,-4 z"/>
+   <path d="m 16,16.000001 c -6.9993,0.0042 -7,4.430769 -7,4.430769 v 1.8 c 0,0 1.292299,2.76923 7,2.76923 5.707701,0 7,-2.76923 7,-2.76923 v -1.8 c 0,0 0,-4.433538 -6.9986,-4.430769 z"/>
   </g>
-  <g
-     transform="translate(8,9)"
-     id="g32">
-    <path
-       d="m16 6c-2.2096 0-4 1.7912-4 4s1.7904 4 4 4 4-1.7912 4-4-1.7904-4-4-4z"
-       style="fill:#ffffff"
-       id="path28" />
-    <path
-       d="m16 16.000001c-6.9993 0.0042-7 4.430769-7 4.430769v1.8s1.292299 2.76923 7 2.76923 7-2.76923 7-2.76923v-1.8s0-4.433538-6.9986-4.430769z"
-       style="fill:#ffffff"
-       id="path30" />
+  <g transform="translate(8,9)">
+   <path style="fill:#ffffff" d="m16 6c-2.2096 0-4 1.7912-4 4s1.7904 4 4 4 4-1.7912 4-4-1.7904-4-4-4z"/>
+   <path style="fill:#ffffff" d="m16 16.000001c-6.9993 0.0042-7 4.430769-7 4.430769v1.8s1.292299 2.76923 7 2.76923 7-2.76923 7-2.76923v-1.8s0-4.433538-6.9986-4.430769z"/>
   </g>
-  <rect
-     x="30"
-     y="35.500008"
-     width="8"
-     height="2"
-     rx="1"
-     ry="1"
-     style="opacity:0.2;fill:#000000"
-     id="rect34" />
-  <rect
-     x="30"
-     y="35"
-     width="8"
-     height="2"
-     rx="1"
-     ry="1"
-     style="fill:#ffffff"
-     id="rect36" />
+  <rect style="opacity:0.2" width="8" height="2" x="30" y="35.5" rx="1" ry="1"/>
+  <rect style="fill:#ffffff" width="8" height="2" x="30" y="35" rx="1" ry="1"/>
+ </g>
 </svg>

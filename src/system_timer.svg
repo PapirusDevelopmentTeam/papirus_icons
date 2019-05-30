@@ -1,186 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   version="1"
-   id="svg44"
-   sodipodi:docname="system_timer.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <metadata
-     id="metadata50">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs48" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview46"
-     showgrid="false"
-     inkscape:zoom="10.57"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg44" />
-  <rect
-     transform="rotate(-45)"
-     x="-6.3466282"
-     y="10.826629"
-     width="12"
-     height="12"
-     rx="2"
-     ry="2"
-     id="rect2"
-     style="opacity:0.2" />
-  <rect
-     transform="rotate(-45)"
-     x="-5.99"
-     y="10.48"
-     width="12"
-     height="12"
-     rx="2"
-     ry="2"
-     fill="#597123"
-     id="rect4" />
-  <path
-     d="M 11.658203 3.9824219 C 11.146963 3.9824219 10.635941 4.1785725 10.244141 4.5703125 L 4.5878906 10.226562 C 4.1337207 10.680732 3.9650756 11.293791 4.0390625 11.882812 C 4.0918626 11.461534 4.2626444 11.051809 4.5878906 10.726562 L 10.244141 5.0703125 C 10.635941 4.6785725 11.146963 4.4824219 11.658203 4.4824219 C 12.169203 4.4824219 12.681266 4.6786125 13.072266 5.0703125 L 18.730469 10.726562 C 19.055422 11.051565 19.226321 11.459922 19.279297 11.880859 C 19.352919 11.292183 19.184336 10.6805 18.730469 10.226562 L 13.072266 4.5703125 C 12.681266 4.1786125 12.169203 3.9824219 11.658203 3.9824219 z "
-     id="path6"
-     style="fill:#ffffff;opacity:0.1" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-44.5"
-     y="-44"
-     width="40"
-     height="40"
-     rx="20"
-     ry="20"
-     id="rect8"
-     style="opacity:0.2" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-44"
-     y="-44"
-     width="40"
-     height="40"
-     rx="20"
-     ry="20"
-     fill="#96ba42"
-     id="rect10" />
-  <path
-     d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.085968 4.0033666 24.170793 4.0058594 24.255859 C 4.1364976 13.289921 13.001971 4.5 24 4.5 C 34.998029 4.5 43.863502 13.289921 43.994141 24.255859 C 43.996722 24.170793 44 24.085968 44 24 C 44 12.92 35.08 4 24 4 z "
-     id="path12"
-     style="fill:#ffffff;opacity:0.2" />
-  <circle
-     cx="24"
-     cy="24.499998"
-     r="15"
-     id="circle14"
-     style="opacity:0.2" />
-  <circle
-     cx="24"
-     cy="24"
-     r="15"
-     fill="#ffffff"
-     id="circle16" />
-  <rect
-     transform="rotate(30)"
-     x="30.79"
-     y="-3.22"
-     width="4"
-     height="14"
-     rx="2"
-     ry="2"
-     fill="#f45246"
-     id="rect18" />
-  <g
-     transform="translate(0,0.5)"
-     id="g28"
-     style="opacity:0.1">
-    <circle
-       cx="24"
-       cy="36"
-       r="2"
-       id="circle20" />
-    <circle
-       cx="24"
-       cy="12"
-       r="2"
-       id="circle22" />
-    <circle
-       transform="rotate(90)"
-       cx="24"
-       cy="-12"
-       r="2"
-       id="circle24" />
-    <circle
-       transform="rotate(90)"
-       cx="24"
-       cy="-36"
-       r="2"
-       id="circle26" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g>
+  <rect style="opacity:0.2" width="12" height="12" x="-6.35" y="10.83" rx="2" ry="2" transform="rotate(-45)"/>
+  <rect fill="#597123" width="12" height="12" x="-5.99" y="10.48" rx="2" ry="2" transform="rotate(-45)"/>
+  <path style="fill:#ffffff;opacity:0.1" d="M 11.658203 3.9824219 C 11.146963 3.9824219 10.635941 4.1785725 10.244141 4.5703125 L 4.5878906 10.226562 C 4.1337207 10.680732 3.9650756 11.293791 4.0390625 11.882812 C 4.0918626 11.461534 4.2626444 11.051809 4.5878906 10.726562 L 10.244141 5.0703125 C 10.635941 4.6785725 11.146963 4.4824219 11.658203 4.4824219 C 12.169203 4.4824219 12.681266 4.6786125 13.072266 5.0703125 L 18.730469 10.726562 C 19.055422 11.051565 19.226321 11.459922 19.279297 11.880859 C 19.352919 11.292183 19.184336 10.6805 18.730469 10.226562 L 13.072266 4.5703125 C 12.681266 4.1786125 12.169203 3.9824219 11.658203 3.9824219 z"/>
+  <rect style="opacity:0.2" width="40" height="40" x="-44.5" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
+  <rect fill="#96ba42" width="40" height="40" x="-44" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:#ffffff;opacity:0.2" d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.085968 4.0033666 24.170793 4.0058594 24.255859 C 4.1364976 13.289921 13.001971 4.5 24 4.5 C 34.998029 4.5 43.863502 13.289921 43.994141 24.255859 C 43.996722 24.170793 44 24.085968 44 24 C 44 12.92 35.08 4 24 4 z"/>
+  <circle style="opacity:0.2" cx="24" cy="24.5" r="15"/>
+  <circle fill="#ffffff" cx="24" cy="24" r="15"/>
+  <rect fill="#f45246" width="4" height="14" x="30.79" y="-3.22" rx="2" ry="2" transform="rotate(30)"/>
+  <g style="opacity:0.1" transform="translate(0,0.5)">
+   <circle cx="24" cy="36" r="2"/>
+   <circle cx="24" cy="12" r="2"/>
+   <circle cx="24" cy="-12" r="2" transform="rotate(90)"/>
+   <circle cx="24" cy="-36" r="2" transform="rotate(90)"/>
   </g>
-  <ellipse
-     cx="24"
-     cy="24.499998"
-     rx="3.9990001"
-     ry="4"
-     id="ellipse30"
-     style="opacity:0.1" />
-  <ellipse
-     cx="24"
-     cy="24"
-     rx="4"
-     ry="4"
-     fill="#4d4d4d"
-     id="ellipse32" />
-  <g
-     fill="#4d4d4d"
-     id="g42">
-    <circle
-       cx="24"
-       cy="36"
-       r="2"
-       id="circle34" />
-    <circle
-       cx="24"
-       cy="12"
-       r="2"
-       id="circle36" />
-    <circle
-       transform="rotate(90)"
-       cx="24"
-       cy="-12"
-       r="2"
-       id="circle38" />
-    <circle
-       transform="rotate(90)"
-       cx="24"
-       cy="-36"
-       r="2"
-       id="circle40" />
+  <ellipse id="ellipse30" style="opacity:0.1" cx="24" cy="24.5" rx="3.999" ry="4"/>
+  <ellipse id="ellipse32" fill="#4d4d4d" cx="24" cy="24" rx="4" ry="4"/>
+  <g fill="#4d4d4d">
+   <circle cx="24" cy="36" r="2"/>
+   <circle cx="24" cy="12" r="2"/>
+   <circle cx="24" cy="-12" r="2" transform="rotate(90)"/>
+   <circle cx="24" cy="-36" r="2" transform="rotate(90)"/>
   </g>
+ </g>
 </svg>

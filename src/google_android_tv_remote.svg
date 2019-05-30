@@ -1,110 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   version="1"
-   id="svg26"
-   sodipodi:docname="google_android_tv_remote.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <metadata
-     id="metadata32">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs30" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview28"
-     showgrid="false"
-     inkscape:zoom="10.57"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
-  <path
-     d="m 4,33.5 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z"
-     style="opacity:0.2"
-     id="path6"
-     inkscape:connector-curvature="0" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-36.000031"
-     y="-44"
-     width="32"
-     height="40"
-     rx="2"
-     ry="2"
-     style="fill:#0fa0e6"
-     id="rect2" />
-  <path
-     style="fill:#ffffff;opacity:.2"
-     d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 6.5 C 4 5.392 4.892 4.5 6 4.5 L 42 4.5 C 43.108 4.5 44 5.392 44 6.5 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z "
-     id="path4" />
-  <path
-     d="m 24,16.5 a 14,14 0 0 0 -14,14 14,14 0 0 0 14,14 14,14 0 0 0 14,-14 14,14 0 0 0 -14,-14 z"
-     style="opacity:0.2;fill:#000000;fill-rule:evenodd"
-     id="path8"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m24 16a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14z"
-     style="fill-rule:evenodd;fill:#e4e4e4"
-     id="path10" />
-  <path
-     d="m 24,24.5 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-     style="opacity:0.1;fill:#000000;fill-rule:evenodd"
-     id="path12"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m24 24a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"
-     style="fill-rule:evenodd;fill:#4f4f4f"
-     id="path14" />
-  <path
-     transform="matrix(.9677057 0 0 .74494018 6.3442567 11.490183)"
-     d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"
-     style="fill-rule:evenodd;fill:#000000;opacity:.3"
-     id="path16" />
-  <path
-     transform="matrix(.9677057 0 0 -.74494018 6.3442567 48.509817)"
-     d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"
-     style="fill-rule:evenodd;fill:#000000;opacity:.3"
-     id="path18" />
-  <path
-     transform="matrix(0 .9677057 -.74494018 0 42.509817 12.344257)"
-     d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"
-     style="fill-rule:evenodd;fill:#000000;opacity:.3"
-     id="path20" />
-  <path
-     transform="matrix(0 .9677057 .74494018 0 5.490183 12.344257)"
-     d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"
-     style="fill-rule:evenodd;fill:#000000;opacity:.3"
-     id="path22" />
-  <path
-     style="fill-rule:evenodd;fill:#ffffff;opacity:.2"
-     d="M 24 16 A 14 14 0 0 0 10 30 A 14 14 0 0 0 10.009766 30.203125 A 14 14 0 0 1 24 16.5 A 14 14 0 0 1 37.990234 30.289062 A 14 14 0 0 0 38 30 A 14 14 0 0 0 24 16 z "
-     id="path24" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g>
+  <path style="opacity:0.2" d="m 4,33.5 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z"/>
+  <rect style="fill:#0fa0e6" width="32" height="40" x="-36" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="fill:#ffffff;opacity:0.2" d="M 6 4 C 4.892 4 4 4.892 4 6 L 4 6.5 C 4 5.392 4.892 4.5 6 4.5 L 42 4.5 C 43.108 4.5 44 5.392 44 6.5 L 44 6 C 44 4.892 43.108 4 42 4 L 6 4 z"/>
+  <path style="opacity:0.2;fill-rule:evenodd" d="m 24,16.5 a 14,14 0 0 0 -14,14 14,14 0 0 0 14,14 14,14 0 0 0 14,-14 14,14 0 0 0 -14,-14 z"/>
+  <path style="fill-rule:evenodd;fill:#e4e4e4" d="m24 16a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14z"/>
+  <path style="opacity:0.1;fill-rule:evenodd" d="m 24,24.5 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"/>
+  <path style="fill-rule:evenodd;fill:#4f4f4f" d="m24 24a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"/>
+  <path style="fill-rule:evenodd;opacity:0.3" transform="matrix(.9677057 0 0 .74494018 6.3442567 11.490183)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"/>
+  <path style="fill-rule:evenodd;opacity:0.3" transform="matrix(.9677057 0 0 -.74494018 6.3442567 48.509817)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"/>
+  <path style="fill-rule:evenodd;opacity:0.3" transform="matrix(0 .9677057 -.74494018 0 42.509817 12.344257)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"/>
+  <path style="fill-rule:evenodd;opacity:0.3" transform="matrix(0 .9677057 .74494018 0 5.490183 12.344257)" d="m18.244951 8.7387109 1.550058 2.6847791 1.550058 2.68478-3.100116-1e-6h-3.100116l1.550058-2.684779z"/>
+  <path style="fill-rule:evenodd;fill:#ffffff;opacity:0.2" d="M 24 16 A 14 14 0 0 0 10 30 A 14 14 0 0 0 10.009766 30.203125 A 14 14 0 0 1 24 16.5 A 14 14 0 0 1 37.990234 30.289062 A 14 14 0 0 0 38 30 A 14 14 0 0 0 24 16 z"/>
+ </g>
 </svg>

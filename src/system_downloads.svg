@@ -1,78 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   version="1"
-   id="svg12"
-   sodipodi:docname="system_downloads.svg"
-   inkscape:version="0.92.2 (unknown)">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="9.2"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <path
-     d="M 4.0117,24 C 4.0076,24.167 4,24.332 4,24.5 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 C 44,24.332 43.992,24.167 43.988,24 43.724,34.846 34.912,43.5 24,43.5 13.088,43.5 4.276,34.846 4.012,24 Z"
-     id="path10"
-     inkscape:connector-curvature="0"
-     style="opacity:0.2" />
-  <rect
-     transform="matrix(0,-1,-1,0,0,0)"
-     x="-44"
-     y="-44"
-     width="40"
-     height="40"
-     rx="20"
-     ry="20"
-     fill="#37a0f2"
-     id="rect2" />
-  <path
-     d="m 22,12.5 c -0.554,0 -1,0.32812 -1,0.73633 v 11.264 h -4 l 7,9 7,-9 h -4 v -11.264 c 0,-0.408 -0.446,-0.736 -1,-0.736 h -4 z m 2,21 h -8.0996 c -0.498,0 -0.9,0.446 -0.9,1 0,0.554 0.40179,1 0.90039,1 h 16.199 c 0.499,0 0.901,-0.446 0.901,-1 0,-0.554 -0.402,-1 -0.9,-1 h -8.1 z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="opacity:0.2" />
-  <path
-     d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.168 3.996 24.333 4 24.5 C 4 13.42 12.92 4.5 24 4.5 C 35.08 4.5 44 13.42 44 24.5 C 44.004 24.333 44 24.168 44 24 C 44 12.92 35.08 4 24 4 z "
-     id="path6"
-     style="fill:#ffffff;opacity:0.2" />
-  <path
-     d="m 21.999405,12 c -0.554,0 -1,0.32812 -1,0.73633 v 11.264 h -4 l 7,9 7,-9 h -4 v -11.264 c 0,-0.408 -0.446,-0.736 -1,-0.736 h -4 z m 2,21 h -8.0996 c -0.498,0 -0.9,0.446 -0.9,1 0,0.554 0.40179,1 0.90039,1 h 16.199 c 0.499,0 0.901,-0.446 0.901,-1 0,-0.554 -0.402,-1 -0.9,-1 h -8.1 z"
-     id="path8"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <g>
+  <path style="opacity:0.2" d="M 4.0117,24 C 4.0076,24.167 4,24.332 4,24.5 c 0,11.08 8.92,20 20,20 11.08,0 20,-8.92 20,-20 C 44,24.332 43.992,24.167 43.988,24 43.724,34.846 34.912,43.5 24,43.5 13.088,43.5 4.276,34.846 4.012,24 Z"/>
+  <rect fill="#37a0f2" width="40" height="40" x="-44" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
+  <path style="opacity:0.2" d="m 22,12.5 c -0.554,0 -1,0.32812 -1,0.73633 v 11.264 h -4 l 7,9 7,-9 h -4 v -11.264 c 0,-0.408 -0.446,-0.736 -1,-0.736 h -4 z m 2,21 h -8.0996 c -0.498,0 -0.9,0.446 -0.9,1 0,0.554 0.40179,1 0.90039,1 h 16.199 c 0.499,0 0.901,-0.446 0.901,-1 0,-0.554 -0.402,-1 -0.9,-1 h -8.1 z"/>
+  <path style="fill:#ffffff;opacity:0.2" d="M 24 4 C 12.92 4 4 12.92 4 24 C 4 24.168 3.996 24.333 4 24.5 C 4 13.42 12.92 4.5 24 4.5 C 35.08 4.5 44 13.42 44 24.5 C 44.004 24.333 44 24.168 44 24 C 44 12.92 35.08 4 24 4 z"/>
+  <path style="fill:#ffffff" d="m 21.999405,12 c -0.554,0 -1,0.32812 -1,0.73633 v 11.264 h -4 l 7,9 7,-9 h -4 v -11.264 c 0,-0.408 -0.446,-0.736 -1,-0.736 h -4 z m 2,21 h -8.0996 c -0.498,0 -0.9,0.446 -0.9,1 0,0.554 0.40179,1 0.90039,1 h 16.199 c 0.499,0 0.901,-0.446 0.901,-1 0,-0.554 -0.402,-1 -0.9,-1 h -8.1 z"/>
+ </g>
 </svg>
