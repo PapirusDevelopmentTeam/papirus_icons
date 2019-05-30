@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
  <defs>
   <clipPath id="clipPath4421">
    <path fill="#ebebeb" d="m142 252c-1.108 0-2 0.892-2 2v24c0 1.108 0.892 2 2 2h26v-28h-26z"/>
   </clipPath>
  </defs>
- <g>
+ <g transform="scale(4)">
   <path style="opacity:0.2" d="m 4,41.5 v 1 c 0,1.108 0.892,2 2,2 h 26 v -1 H 6 c -1.108,0 -2,-0.892 -2,-2 z"/>
   <path opacity=".5" transform="translate(-136,-236)" d="m152 268 16 12v-24l-16-16z" clip-path="url(#clipPath4421)"/>
   <path fill="#e4e4e4" d="m6 16c-1.108 0-2 0.892-2 2v24c0 1.108 0.892 2 2 2h26v-28h-26z"/>

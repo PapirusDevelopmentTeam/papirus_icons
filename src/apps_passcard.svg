@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <rect style="opacity:0.2" width="42" height="40" x="-45.5" y="-44" rx="2.1" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
   <path style="fill:#6767cf" d="m 4,38 v 4.900391 C 4,44.063791 4.892,45 6,45 h 36 c 1.108,0 2,-0.936209 2,-2.099609 V 38 Z"/>
   <path style="fill:#e4e4e4" d="M 6,3 C 4.892,3 4,3.9362094 4,5.0996094 V 10 H 44 V 5.0996094 C 44,3.9362094 43.108,3 42,3 Z"/>

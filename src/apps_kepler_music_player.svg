@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <path style="fill:#cf67df" d="m9.84885 9.367c3.9141-3.9141 9.0341-5.8728 14.142-5.8761v20.018z"/>
   <path style="fill:#ef4646" d="m38.13295 9.367c-3.914-3.9141-9.034-5.8728-14.142-5.8761v20.018z"/>
   <path style="fill:#636ad8" d="m9.86705 9.3648c-3.9141 3.9143-5.8728 9.0343-5.8761 14.142h20.018z"/>

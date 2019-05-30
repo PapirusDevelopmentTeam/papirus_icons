@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <circle style="fill:#c2434e" cx="24" cy="24" r="20"/>
   <rect style="fill:#32424a" width="30" height="30" x="-39" y="-39" rx="15" ry="15" transform="matrix(0,-1,-1,0,0,0)"/>
   <g style="opacity:0.2" transform="translate(-469,-164.9975)">

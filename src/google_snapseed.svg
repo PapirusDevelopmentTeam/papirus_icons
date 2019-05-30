@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1">
+ <g transform="scale(4)">
   <rect style="opacity:0.2" width="27" height="23" x="15" y="21.5" rx="2" ry="2"/>
   <rect style="fill:#e4e4e4" width="27" height="23" x="15" y="21" rx="2" ry="2"/>
   <path style="fill-rule:evenodd;fill:#ffffff;opacity:0.2" d="M 17 21 C 15.892 21 15 21.892 15 23 L 15 23.5 C 15 22.392 15.892 21.5 17 21.5 L 40 21.5 C 41.108 21.5 42 22.392 42 23.5 L 42 23 C 42 21.892 41.108 21 40 21 L 17 21 z"/>

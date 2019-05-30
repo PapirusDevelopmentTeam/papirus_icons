@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <path fill="#e74c3c" d="m24 4a20 20 0 0 0-20 20 20 20 0 0 0 20 20 20 20 0 0 0 20-20 20 20 0 0 0-20-20zm0 8a9 12 0 0 1 9 12 9 12 0 0 1-9 12 9 12 0 0 1-9-12 9 12 0 0 1 9-12z"/>
   <circle opacity="0" cx="286" cy="26" r="10" transform="matrix(2,0,0,2,-548,-28)"/>
   <circle opacity="0" cx="286" cy="26" r="10" transform="matrix(2,0,0,2,-548,-28)"/>

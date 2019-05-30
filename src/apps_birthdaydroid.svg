@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <ellipse id="ellipse1068" style="opacity:0.2" cx="24" cy="36" rx="20" ry="8.5"/>
   <ellipse style="fill:#1c58a6" cx="24" cy="35.5" rx="20" ry="8.5"/>
   <path style="opacity:0.2" d="M 39.962891,34.181641 A 18,8 0 0 1 24,38.5 18,8 0 0 1 8.0527344,34.191406 16,8.5 0 0 0 13.21875,39.896484 18,8 0 0 0 24,41.5 18,8 0 0 0 34.789062,39.892578 16,8.5 0 0 0 39.962891,34.181641 Z"/>

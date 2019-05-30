@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <path style="fill:#e4e4e4" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
   <g transform="translate(-144,-236)">
    <path style="fill:#4f4f4f" d="m150 242c-1.108 0-2 0.892-2 2v6h40v-6c0-1.108-0.892-2-2-2z"/>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <rect style="fill:#5294e2" width="36" height="24" x="6" y="4" rx="1.5" ry="1.5"/>
   <rect style="opacity:0.1" width="36" height="24" x="6" y="7.5" rx="1.5" ry="1.5"/>
   <rect style="fill:#89e058" width="36" height="24" x="6" y="8" rx="1.5" ry="1.5"/>

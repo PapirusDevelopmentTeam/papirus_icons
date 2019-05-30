@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <path style="fill:#008dc4" transform="matrix(0,-1,-1,0,0,0)" d="m-24-44c4.601341 0.07622 19.92378 13.264512 20 20 0 11.08-8.92 20-20 20s-20-8.92-20-20 8.92-20 20-20z"/>
   <path style="fill:#edad32" d="m24 4v20h20c0-11.08-8.92-20-20-20z"/>
   <path fill="#fff" style="opacity:0.1" d="m24 4c-11.079 0-19.998 8.92-19.998 20 0 0.16772-4e-3 0.33329 0 0.5 0.2642-10.846 9.087-19.5 19.998-19.5s19.734 8.6536 19.998 19.5c4e-3 -0.16671 0-0.33228 0-0.5 0-11.08-8.919-20-19.998-20z"/>

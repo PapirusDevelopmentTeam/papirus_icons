@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
  <defs>
   <linearGradient id="linearGradient4602" x1="26.989" x2="17.772" y1="21.699" y2="30.607" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#ffb381" offset="0"/>
    <stop style="stop-color:#ffb381;stop-opacity:0" offset="1"/>
   </linearGradient>
  </defs>
- <g>
+ <g transform="scale(4)">
   <rect style="opacity:0.2" width="40" height="40" x="-45" y="-44" rx="20" ry="20" transform="matrix(0,-1,-1,0,0,0)"/>
   <path style="fill:#ff8a40" transform="matrix(0,-1,-1,0,0,0)" d="m-24-44c11.08 0 20 8.92 20 20 0 6.785294-3.3452042 12.760538-8.483106 16.373226-3.252001 2.2866271-7.046441 1.3420636-11.341147 1.3420636-11.08 0-18.47686-7.103948-18.47686-18.183948 0-3.842978-0.625834-6.957455 1.238218-9.998695 3.510348-5.727205 9.825873-9.532647 17.062895-9.532647z"/>
   <path style="fill:#ffffff;opacity:0.2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.167874 0.007647 0.333141 0.0117188 0.5 0.2646716-10.846137 9.0761552-19.5 19.988281-19.5s19.72361 8.653863 19.988281 19.5c0.004072-0.166859 0.011719-0.332126 0.011719-0.5 0-11.08-8.92-20-20-20z"/>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <g transform="scale(4)">
   <path style="opacity:0.2" d="m 6,3.5 c -1.108,0 -2,0.892 -2,2 v 36 c 0,1.108 0.892,2 2,2 h 22 l 16,-16 v -22 c 0,-1.108 -0.892,-2 -2,-2 z"/>
   <path fill="#fecd38" d="m6 3c-1.108 0-2 0.892-2 2v36c0 1.108 0.892 2 2 2h22l16-16v-22c0-1.108-0.892-2-2-2z"/>
   <path fill="#ffe69b" d="m44 27h-14c-1.1046 0-2 0.89544-2 2v14z"/>
