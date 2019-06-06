@@ -1,9 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
- <g transform="scale(4)">
-  <rect style="fill:#39597e" width="32" height="40" x="-40" y="-44" rx="2" ry="2" transform="matrix(0,-1,-1,0,0,0)"/>
-  <path fill="#fff" style="opacity:0.1" d="m6 8c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z"/>
-  <path opacity=".2" d="m4 38v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z"/>
-  <path style="opacity:0.2" d="m34 25.000127-9 4.999937-9 4.999936v-20l9 4.999936z"/>
-  <path style="fill:#c7c7c7" d="m34 24.000127-9 4.999937-9 4.999936v-20l9 4.999936z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   version="1"
+   id="svg14"
+   sodipodi:docname="apps_neutron_music_player.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter850"
+       x="-0.0432"
+       width="1.0864"
+       y="-0.054"
+       height="1.108">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.88"
+         id="feGaussianBlur852" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter869"
+       x="-0.050666667"
+       width="1.1013333"
+       y="-0.0456"
+       height="1.0912">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.52"
+         id="feGaussianBlur871" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="96"
+     inkscape:cy="96"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter850)"
+     width="128"
+     height="160"
+     x="-164"
+     y="-176"
+     rx="8"
+     ry="8"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="rect832" />
+  <rect
+     id="rect2"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="8"
+     rx="8"
+     y="-176"
+     x="-160"
+     height="160"
+     width="128"
+     style="fill:#2e5889;stroke-width:4;fill-opacity:1" />
+  <path
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="M 24 32 C 19.568 32 16 35.568 16 40 L 16 41 C 16 36.568 19.568 33 24 33 L 168 33 C 172.432 33 176 36.568 176 41 L 176 40 C 176 35.568 172.432 32 168 32 L 24 32 z "
+     id="path4" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="M 136,100.00051 100,120.00026 64,140 V 60 l 36,19.999744 z"
+     style="opacity:0.2;stroke-width:4;filter:url(#filter869)" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="M 136,96.000508 100,116.00026 64,136 V 56 l 36,19.999744 z"
+     style="fill:#c7c7c7;stroke-width:4" />
+  <path
+     style="fill:#ffffff;stroke-width:4;opacity:0.2"
+     d="M 64 56 L 64 57 L 100 77 L 135.09961 96.5 L 136 96 L 100 76 L 64 56 z "
+     id="path873" />
 </svg>

@@ -30,41 +30,41 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter889"
-       x="-0.024"
-       width="1.048"
-       y="-0.024"
-       height="1.048">
+       id="filter851"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.6"
-         id="feGaussianBlur891" />
+         stdDeviation="3.2"
+         id="feGaussianBlur853" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter880"
-       x="-0.016363636"
-       width="1.0327273"
-       y="-0.045"
-       height="1.09">
+       id="filter859"
+       x="-0.032727273"
+       width="1.0654545"
+       y="-0.09"
+       height="1.18">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.6"
-         id="feGaussianBlur882" />
+         stdDeviation="1.2"
+         id="feGaussianBlur861" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter891"
-       x="-0.019888308"
-       width="1.0397766"
-       y="-0.030254865"
-       height="1.0605097">
+       id="filter863"
+       x="-0.039776616"
+       width="1.0795532"
+       y="-0.06050973"
+       height="1.1210195">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.50444796"
-         id="feGaussianBlur893" />
+         stdDeviation="1.0088959"
+         id="feGaussianBlur865" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -80,18 +80,23 @@
      inkscape:window-height="1018"
      id="namedview30"
      showgrid="false"
-     inkscape:zoom="3.77"
-     inkscape:cx="47.193634"
-     inkscape:cy="96"
+     inkscape:zoom="1"
+     inkscape:cx="110.45439"
+     inkscape:cy="85.183285"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg28"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
   <rect
-     style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter889)"
+     style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter851)"
      width="160"
      height="160"
-     x="-177"
+     x="-180"
      y="-176"
      rx="8"
      ry="8"
@@ -112,8 +117,8 @@
      d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "
      id="path4" />
   <g
-     transform="matrix(1.9993038,0,0,1.9993038,20.002402,25.030633)"
-     style="opacity:0.2;fill:#000000;filter:url(#filter891)"
+     transform="matrix(1.9993038,0,0,1.9993038,20.002402,28.030633)"
+     style="opacity:0.2;fill:#000000;filter:url(#filter863)"
      id="g12-7">
     <path
        inkscape:connector-curvature="0"
@@ -142,8 +147,8 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     d="m 52,125 v 32 h 24 v -8 H 60 v -24 z m 32,0 v 8 h 8 v 24 h 8 v -24 h 8 v -8 z m 32,0 v 32 h 24 v -8 h -16 v -4 h 16 v -8 h -16 v -4 h 16 v -8 z"
-     style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter880)"
+     d="m 52,128 v 32 h 24 v -8 H 60 v -24 z m 32,0 v 8 h 8 v 24 h 8 v -24 h 8 v -8 z m 32,0 v 32 h 24 v -8 h -16 v -4 h 16 v -8 h -16 v -4 h 16 v -8 z"
+     style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter859)"
      id="path20-9" />
   <path
      inkscape:connector-curvature="0"
