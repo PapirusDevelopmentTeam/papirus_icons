@@ -1,9 +1,9 @@
-package com.papirus.icons.activities;
+package io.github.papirusdevelopmentteam.android-icons.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarMuzeiActivity;
-import com.papirus.icons.services.MuzeiService;
+import io.github.papirusdevelopmentteam.android-icons.services.MuzeiService;
 
 public class MuzeiActivity extends CandyBarMuzeiActivity {
 

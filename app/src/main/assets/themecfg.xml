@@ -2,7 +2,7 @@
 <theme>
     <version>1</version>
 
-    <pkgName>com.papirus.icons</pkgName>
+    <pkgName>io.github.papirusdevelopmentteam.android-icons</pkgName>
 	<themeName>Papirus Icon Pack</themeName>
 	<themeInfo>Info</themeInfo>
 	<preview img1="preview1" img2="preview2" />

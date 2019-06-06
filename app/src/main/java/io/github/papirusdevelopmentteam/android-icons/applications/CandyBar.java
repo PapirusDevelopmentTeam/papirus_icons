@@ -1,4 +1,4 @@
-package com.papirus.icons.applications;
+package io.github.papirusdevelopmentteam.android-icons.applications;
 
 import android.support.annotation.NonNull;
 

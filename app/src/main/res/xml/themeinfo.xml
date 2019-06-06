@@ -3,7 +3,7 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>com.papirus.icons</packageName>
+    <packageName>io.github.papirusdevelopmentteam.android-icons</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
     <themeName>Papirus Icon Pack</themeName>

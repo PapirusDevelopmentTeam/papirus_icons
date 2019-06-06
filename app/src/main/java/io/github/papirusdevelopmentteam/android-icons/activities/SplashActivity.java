@@ -1,10 +1,10 @@
-package com.papirus.icons.activities;
+package io.github.papirusdevelopmentteam.android-icons.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.material.dashboard.candybar.activities.CandyBarSplashActivity;
 import com.dm.material.dashboard.candybar.activities.configurations.SplashScreenConfiguration;
-import com.papirus.icons.R;
+import io.github.papirusdevelopmentteam.android-icons.R;
 
 public class SplashActivity extends CandyBarSplashActivity {
 
