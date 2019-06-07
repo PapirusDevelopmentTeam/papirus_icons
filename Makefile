@@ -1,16 +1,22 @@
 DB_FILE ?= ./data.json
 APPFILTER_FILE ?= ./app/src/main/res/xml/appfilter.xml
+DRAWABLE_FILE ?= ./app/src/main/res/xml/drawable.xml
 SRC_DIR ?= ./src
+BITMAPS_DIR ?= ./app/src/main/res/drawable-nodpi
 
-build: test generate_appfilter convert
+build: test generate_appfilter convert generate_drawable
 
 convert:
-	@env SRC_DIR=$(SRC_DIR) \
+	@env SRC_DIR=$(SRC_DIR) DEST_DIR=$(BITMAPS_DIR) \
 		bash scripts/convert_to_png.sh
 
 generate_appfilter:
 	@env DB_FILE=$(DB_FILE) APPFILTER_FILE=$(APPFILTER_FILE) \
 		python scripts/generate_appfilter.py
+
+generate_drawable:
+	@env DRAWABLE_DIR=$(BITMAPS_DIR) DRAWABLE_FILE=$(DRAWABLE_FILE) \
+		bash scripts/generate_drawable.sh
 
 __validate_json:
 	## Validate '$(DB_FILE)' file
