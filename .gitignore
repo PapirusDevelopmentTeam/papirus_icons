@@ -1,4 +1,7 @@
-app/build/
-local.properties
 .gradle/
 .idea/
+local.properties
+app/build/
+app/src/main/res/xml/drawable.xml
+app/src/main/res/xml/appfilter.xml
+app/src/main/res/drawable-nodpi/
