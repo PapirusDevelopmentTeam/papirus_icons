@@ -31,4 +31,4 @@ PHONY: __find_missing_icons
 
 test: __validate_json __find_missing_icons
 
-PHONY: convert generate_appfilter test
+PHONY: build convert generate_appfilter generate_drawable test
