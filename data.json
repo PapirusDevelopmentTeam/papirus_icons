@@ -346,32 +346,61 @@
   "apps_gonemad_music_player": [
     "gonemad.gmmp/gonemad.gmmp.activities.MainActivity"
   ],
-  "apps_gplayer": [],
-  "apps_gpodder": [],
-  "apps_green_apple_mp3_player": [],
-  "apps_green_banana_music": [],
-  "apps_habit_browser": [],
-  "apps_halo_browser": [],
+  "apps_gplayer": [
+    "gpc.myweb.hinet.net.PopupVideo/gpc.myweb.hinet.net.PopupVideo.PopupVideoActivity"
+  ],
+  "apps_green_apple_mp3_player": [
+    "com.app.studio.mp3player/com.app.studio.mp3player.activity.PermissionSeekActivity"
+  ],
+  "apps_green_banana_music": [
+    "com.amapps.media.music/com.amapps.media.music.ui.main.MainActivity"
+  ],
+  "apps_habit_browser": [
+    "jp.ddo.pigsty.HabitBrowser/jp.ddo.pigsty.HabitBrowser.Features.Browser.BrowserActivity"
+  ],
+  "apps_halo_browser": [
+    "com.halo.browser/com.hawk.android.browser.StartPageActivity"
+  ],
   "apps_hashdroid": [
     "com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity"
   ],
   "apps_hd_universal_player": [],
-  "apps_hd_video_player": [],
+  "apps_hd_video_player": [
+    "com.elift.hdplayer/com.ijoysoft.hdplayer.StartActivity"
+  ],
   "apps_highsecure_mp3_player": [],
-  "apps_hipchat": [],
-  "apps_htc_videoplayer": [],
+  "apps_hipchat": [
+    "com.hipchat/com.hipchat.activities.SignedOutActivity_"
+  ],
+  "apps_htc_videoplayer": [
+    "com.htc.video/com.htc.video.VideoPlayerActivity"
+  ],
   "apps_i2p": [
     "net.i2p.android.router/net.i2p.android.I2PActivity"
   ],
-  "apps_icq": [],
+  "apps_icq": [
+    "com.icq.mobile.client/com.icq.mobile.client.ui.IcqActivity",
+    "com.icq.mobile.client/com.icq.mobile.client.ui.AimActivity",
+    "com.icq.mobile.client/ru.mail.instantmessanger.flat.main.MainActivity"
+  ],
   "apps_icsimport": [
     "org.dgtale.icsimport/org.dgtale.icsimport.MainActivity"
   ],
-  "apps_ijoy_music_player": [],
-  "apps_inbrowser": [],
-  "apps_ingenuity_eq_player": [],
-  "apps_instagram": [],
-  "apps_iron_browser": [],
+  "apps_ijoy_music_player": [
+    "media.music.musicplayer.mp3player/com.ijoysoft.music.activity.WelcomeActivity"
+  ],
+  "apps_inbrowser": [
+    "nu.tommie.inbrowser/nu.tommie.inbrowser.lib.Inbrowser"
+  ],
+  "apps_ingenuity_eq_player": [
+    "universal.equalizer.bass.booster.visualizer.virtrualizer.music.player/org.videolan.vlc.gui.MainActivity"
+  ],
+  "apps_instagram": [
+    "com.instagram.android/com.instagram.android.activity.MainTabActivity"
+  ],
+  "apps_iron_browser": [
+    "org.iron.srware/com.google.android.apps.chrome.Main"
+  ],
   "apps_is_phone_encrypted": [
     "name.seguri.android.isphoneencrypted/name.seguri.android.isphoneencrypted.MainActivity"
   ],
