@@ -471,21 +471,40 @@
   "apps_locker": [
     "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
   ],
-  "apps_mail_ru_cloud": [],
-  "apps_maple_player": [],
-  "apps_max_player": [],
-  "apps_maxthon_browser": [],
-  "apps_mediamonkey": [],
-  "apps_mercury_browser": [],
-  "apps_mezzo_player": [],
-  "apps_miniandroid_music": [],
-  "apps_moboplayer": [],
+  "apps_mail_ru_cloud": [
+    "ru.mail.cloud/ru.mail.cloud.ui.views.MainActivity",
+    "ru.mail.cloud/ru.mail.cloud.FileListActivity",
+    "ru.mail.cloud/ru.mail.cloud.SplashActivity"
+  ],
+  "apps_maple_player": [
+    "com.sqr5.android.player_jb/com.sqr5.android.player_jb.PlayerActivity"
+  ],
+  "apps_maxthon_browser": [
+    "com.mx.browser/com.mx.browser.MxSplashActivity"
+  ],
+  "apps_mediamonkey": [
+    "com.ventismedia.android.mediamonkeybeta/com.ventismedia.android.mediamonkeybeta.StartActivity",
+    "com.ventismedia.android.mediamonkeybeta/com.ventismedia.android.mediamonkey.StartActivity",
+    "com.ventismedia.android.mediamonkeypro/com.ventismedia.android.mediamonkeypro.MediaMonkeyPro"
+  ],
+  "apps_mercury_browser": [
+    "com.ilegendsoft.mercury/com.ilegendsoft.mercury.ui.activities.SplashActivity"
+  ],
+  "apps_mezzo_player": [
+    "mr.dzianis.music_player/mr.dzianis.music_player.ActivityMain"
+  ],
+  "apps_moboplayer": [
+    "com.clov4r.android.nil.noplug/com.clov4r.android.nil.noplug.entrance.WelcomeActivity"
+  ],
   "apps_motp": [
     "org.cry.otp/org.cry.otp.Profiles"
   ],
-  "apps_mp3_music_download_search": [],
-  "apps_mp3_player_white": [],
-  "apps_mttcross_player": [],
+  "apps_mp3_player_white": [
+    "com.music.player.mp3player.white/com.music.player.mp3player.white.activity.MainActivity"
+  ],
+  "apps_mttcross_player": [
+    "player.mp3.mp3player/com.music_equalizer.activity.Welcome"
+  ],
   "apps_music_and_video": [],
   "apps_music_folder_player": [],
   "apps_music_go": [],
