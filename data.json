@@ -505,16 +505,26 @@
   "apps_mttcross_player": [
     "player.mp3.mp3player/com.music_equalizer.activity.Welcome"
   ],
-  "apps_music_and_video": [],
-  "apps_music_folder_player": [],
-  "apps_music_go": [],
-  "apps_music_go_plus": [],
-  "apps_music_hero": [],
-  "apps_music_player_go": [],
-  "apps_music_player_sm": [],
-  "apps_music_player_vortex": [],
-  "apps_musicolet_music_player": [],
-  "apps_musicplayer_mp3": [],
+  "apps_music_folder_player": [
+    "de.zorillasoft.musicfolderplayer/de.zorillasoft.musicfolderplayer.FolderBrowser",
+    "de.zorillasoft.musicfolderplayer.donate/de.zorillasoft.musicfolderplayer.donate.FolderBrowser"
+  ],
+  "apps_music_go": [
+    "com.jiubang.go.music/com.jiubang.go.music.activity.common.startup.GOMusicStartupActivity"
+  ],
+  "apps_music_go_plus": [
+    "com.jb.go.musicplayer.mp3player/com.jiubang.go.music.gdpr.GDPRSplashActivity"
+  ],
+  "apps_music_hero": [
+    "com.music.hero.music.player.mp3.free/com.music.hero.RequestPermActivity"
+  ],
+  "apps_musicolet_music_player": [
+    "in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity"
+  ],
+  "apps_musicplayer_mp3": [
+    "com.musicplayer.player.mp3player.white/com.musicplayer.player.mp3player.white.Activity_main",
+    "com.musicplayer.player.mp3player.white/com.musicplayer.player.mp3player.white.start.MainActivity"
+  ],
   "apps_musicplayer_rocket": [
     "com.jrtstudio.AnotherMusicPlayer/com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser",
     "com.jrtstudio.AnotherMusicPlayer.Unlocker/com.jrtstudio.AnotherMusicPlayer.Unlocker.Activity",
