@@ -1,4 +1,4 @@
-package io.github.papirusdevelopmentteam.android-icons.services;
+package io.github.PapirusDevelopmentTeam.papirus_icons.services;
 
 import com.dm.material.dashboard.candybar.services.CandyBarMuzeiService;
 

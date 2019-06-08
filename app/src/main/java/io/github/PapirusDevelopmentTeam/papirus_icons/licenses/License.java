@@ -1,4 +1,4 @@
-package io.github.papirusdevelopmentteam.android-icons.licenses;
+package io.github.PapirusDevelopmentTeam.papirus_icons.licenses;
 
 import com.dm.material.dashboard.candybar.items.InAppBilling;
 

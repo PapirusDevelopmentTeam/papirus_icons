@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto"
-    package="io.github.papirusdevelopmentteam.android-icons">
+    package="io.github.PapirusDevelopmentTeam.papirus_icons">
 
     <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -17,7 +17,7 @@
         android:xlargeScreens="true" />
 
     <application
-        android:name="io.github.papirusdevelopmentteam.android-icons.applications.CandyBar"
+        android:name="io.github.PapirusDevelopmentTeam.papirus_icons.applications.CandyBar"
         android:allowBackup="true"
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
@@ -25,7 +25,7 @@
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
 
-        <activity android:name="io.github.papirusdevelopmentteam.android-icons.activities.SplashActivity"
+        <activity android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -36,7 +36,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="io.github.papirusdevelopmentteam.android-icons.activities.MainActivity"
+        <activity android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme"
             android:configChanges="orientation|keyboardHidden|screenSize">
@@ -150,13 +150,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="io.github.papirusdevelopmentteam.android-icons.activities.MuzeiActivity"
+        <activity android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.MuzeiActivity"
             android:label="@string/muzei_settings"
             android:theme="@style/AppTheme"
             android:exported="true"
             android:configChanges="orientation|keyboardHidden|screenSize"/>
 
-        <service android:name="io.github.papirusdevelopmentteam.android-icons.services.MuzeiService"
+        <service android:name="io.github.PapirusDevelopmentTeam.papirus_icons.services.MuzeiService"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
             android:icon="@drawable/ic_muzei_logo"
@@ -166,7 +166,7 @@
             </intent-filter>
             <meta-data android:name="color" android:value="@color/muzei_color" />
             <meta-data android:name="settingsActivity"
-                android:value="io.github.papirusdevelopmentteam.android-icons.activities.MuzeiActivity"/>
+                android:value="io.github.PapirusDevelopmentTeam.papirus_icons.activities.MuzeiActivity"/>
         </service>
 
         <!-- This is important -->
