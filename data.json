@@ -429,15 +429,45 @@
   "apps_kepler_music_player": [
     "com.cmdev.music.player/com.cmdev.music.player.MainActivity"
   ],
-  "apps_kmplayer": [],
-  "apps_kx_music_player": [],
-  "apps_lark_player": [],
-  "apps_lastfm": [],
-  "apps_laya_music_player": [],
-  "apps_lightning_web_browser": [],
-  "apps_linconnect": [],
-  "apps_litter_web_browser": [],
-  "apps_localcast_for_chromecast": [],
+  "apps_kmplayer": [
+    "com.kmplayer/com.kmplayer.activity.IntroActivity",
+    "com.kmplayer/com.kmplayer.activity.googleAdVerIntro",
+    "com.kmplayer/com.kmplayer.activity.SplashActivity",
+    "com.kmplayerpro/com.kmplayerpro.activity.googleAdVerIntro",
+    "com.kmplayerpro/com.kmplayer.activity.SplashActivity"
+  ],
+  "apps_kx_music_player": [
+    "kx.music.equalizer.player/kx.music.equalizer.player.SplashActivity"
+    ],
+  "apps_lark_player": [
+    "com.dywx.larkplayer/com.dywx.larkplayer.gui.MainActivity"
+  ],
+  "apps_lastfm": [
+    "fm.last.android/fm.last.android.ui.activity.SplashScreen"
+  ],
+  "apps_laya_music_player": [
+    "com.mjc.mediaplayer/com.mjc.mediaplayer.LayaMainActivity"
+  ],
+  "apps_lightning_web_browser": [
+    "acr.browser.barebones/acr.browser.barebones.BrowserActivity",
+    "acr.browser.barebones/acr.browser.barebones.Barebones",
+    "acr.browser.barebones/acr.browser.barebones.activities.BrowserActivity",
+    "acr.browser.barebones/acr.browser.barebones.MainActivity",
+    "acr.browser.barebones/acr.browser.lightning.activity.MainActivity",
+    "acr.browser.lightning/acr.browser.lightning.BrowserActivity",
+    "acr.browser.lightning/acr.browser.lightning.MainActivity",
+    "acr.browser.lightning/acr.browser.lightning.activity.MainActivity"
+  ],
+  "apps_linconnect": [
+    "com.willhauck.linconnectclient/com.willhauck.linconnectclient.SettingsActivity"
+  ],
+  "apps_litter_web_browser": [
+    "com.explore.web.browser/com.ijoysoft.browser.activity.ActivityWelcome"
+  ],
+  "apps_localcast_for_chromecast": [
+    "de.stefanpledl.localcast/de.stefanpledl.localcast.refplayer.MainActivity",
+    "de.stefanpledl.localcast/de.stefanpledl.localcast.main.MainActivity"
+  ],
   "apps_locker": [
     "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
   ],
