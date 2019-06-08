@@ -404,18 +404,31 @@
   "apps_is_phone_encrypted": [
     "name.seguri.android.isphoneencrypted/name.seguri.android.isphoneencrypted.MainActivity"
   ],
-  "apps_ivvovtech_music_player": [],
-  "apps_jetaudio": [],
-  "apps_jrtstudio_music": [],
-  "apps_just_listenit": [],
-  "apps_kdeconnect": [],
+  "apps_ivvovtech_music_player": [
+    "com.innovtechmusic.music/com.innovtechmusic.music.MusicBrowserActivity"
+  ],
+  "apps_jetaudio": [
+    "com.jetappfactory.jetaudioplus/com.jetappfactory.jetaudioplus.MusicBrowserActivity",
+    "com.jetappfactory.jetaudio/com.jetappfactory.jetaudio.MusicBrowserActivity"
+  ],
+  "apps_jrtstudio_music": [
+    "com.jrtstudio.music/com.android.music.MusicBrowserActivity"
+  ],
+  "apps_just_listenit": [
+    "com.ushareit.listenit/com.ushareit.listenit.main.StartupActivity"
+  ],
+  "apps_kdeconnect": [
+    "org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity"
+  ],
   "apps_keepass_dx": [
     "com.kunzisoft.keepass.libre/com.kunzisoft.keepass.KeePass"
   ],
   "apps_keepassdroid": [
     "com.android.keepass/com.android.keepass.KeePass"
   ],
-  "apps_kepler_music_player": [],
+  "apps_kepler_music_player": [
+    "com.cmdev.music.player/com.cmdev.music.player.MainActivity"
+  ],
   "apps_kmplayer": [],
   "apps_kx_music_player": [],
   "apps_lark_player": [],
@@ -453,7 +466,11 @@
   "apps_music_player_vortex": [],
   "apps_musicolet_music_player": [],
   "apps_musicplayer_mp3": [],
-  "apps_musicplayer_rocket": [],
+  "apps_musicplayer_rocket": [
+    "com.jrtstudio.AnotherMusicPlayer/com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser",
+    "com.jrtstudio.AnotherMusicPlayer.Unlocker/com.jrtstudio.AnotherMusicPlayer.Unlocker.Activity",
+    "com.jrtstudio.AnotherMusicPlayer/com.jrtstudio.AnotherMusicPlayer.MusicBrowserActivity"
+  ],
   "apps_musix_player": [],
   "apps_musixmatch": [],
   "apps_mvideoplayer": [],

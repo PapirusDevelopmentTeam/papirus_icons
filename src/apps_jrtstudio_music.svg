@@ -80,7 +80,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="96"
+     inkscape:cx="-120"
      inkscape:cy="96"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -124,7 +124,7 @@
      inkscape:connector-curvature="0"
      id="path12"
      d="m 96,28 c -37.672,0 -68,30.328 -68,68 0,37.672 30.328,68 68,68 37.672,0 68,-30.328 68,-68 0,-37.672 -30.328,-68 -68,-68 z m 0,12 c 31.024,0 56,24.976 56,56 0,31.024 -24.976,56 -56,56 C 64.976,152 40,127.024 40,96 40,64.976 64.976,40 96,40 Z"
-     style="fill:#2be2e4;stroke-width:4" />
+     style="fill:#ff2764;stroke-width:4;fill-opacity:1" />
   <g
      id="g16"
      transform="matrix(4,0,0,4,-1876,-655.99)"
@@ -142,7 +142,7 @@
        inkscape:connector-curvature="0"
        id="path18"
        d="m 489,183 v 8.1875 c -0.32,-0.12 -0.64,-0.19 -1,-0.19 -1.6568,0 -3,1.3432 -3,3 0,1.6568 1.3432,3 3,3 1.6568,0 3,-1.3432 3,-3 v -7.7995 l 6,-1.2005 v 4.1875 c -0.32,-0.12 -0.64,-0.19 -1,-0.19 -1.6568,0 -3,1.3432 -3,3 0,1.6568 1.3432,3 3,3 1.6568,0 3,-1.3432 3,-3 v -11 z"
-       style="fill:#2be2e4" />
+       style="fill:#ff2764;fill-opacity:1" />
   </g>
   <path
      style="fill:#ffffff;stroke-width:4;opacity:0.2"
