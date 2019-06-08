@@ -30,6 +30,9 @@
   "apps_accountstudio_mp3_player": [
     "mp3songs.mp3player.mp3cutter.ringtonemaker/com.music.player.mp3.player.cut.MainActivity"
   ],
+  "apps_adaway": [
+    "org.adaway/org.adaway.ui.MainActivity"
+  ],
   "apps_adblock": [
     "com.betafish.adblocksbrowser/com.betafish.sbrowser.contentblocker.MainPreferences"
   ],
@@ -396,7 +399,7 @@
   "apps_locker": [
     "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
   ],
-  "apps_mail.ru_cloud": [],
+  "apps_mail_ru_cloud": [],
   "apps_maple_player": [],
   "apps_max_player": [],
   "apps_maxthon_browser": [],
@@ -1552,7 +1555,6 @@
     "com.yulong.coolmessage/com.yulong.android.contacts.dial.DialActivity",
     "com.zui.contacts/com.android.newcontact.vl.activity.DialpadShutcut"
   ],
-  "system_photo": [],
   "system_photocam": [
     "com.acer.camera/com.acer.camera.CameraActivity",
     "com.amazon.camera/com.amazon.camera.AmazonCameraActivity",
@@ -1662,10 +1664,6 @@
     "com.pantech.app.skysettings.simplemode/com.pantech.app.skysettings.simplemode.simplemodesettingshrotcutActivity",
     "it.ptoti.g2_tweaksbox/it.ptoti.g2_tweaksbox.SettingsActivity"
   ],
-  "system_preferences_2": [],
-  "system_preferences_3": [],
-  "system_preferences_4": [],
-  "system_preferences_5": [],
   "system_radio": [
     "caf.com.fmapp2/com.caf.fmradio.FMRadio",
     "com.android.fmradio/com.android.fmradio.FmActivity",
@@ -1786,8 +1784,6 @@
     "com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection",
     "com.qualcomm.stk/com.qualcomm.stk.StkLauncherActivity2"
   ],
-  "system_smartphone": [],
-  "system_sms": [],
   "system_timer": [
     "An.stop/An.stop.Anstop",
     "com.android.stoptimer/com.android.stoptimer.StopTimer"
@@ -1848,7 +1844,6 @@
     "com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity",
     "com.zui.videoplayer/com.zui.videoplayer.activity.MainActivity"
   ],
-  "system_video_2": [],
   "system_videocam": [
     "com.android.camera2/com.android.camera.VideoCamera",
     "com.android.gallery3d/com.android.camera.VideoCamera",
@@ -1867,15 +1862,10 @@
     "com.samsung.vvm/com.samsung.vvm.ui.VVMActivity",
     "com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication",
     "com.sprint.voicemail/com.sprint.voicemail.VoiceMailActivity",
-    "com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity"
-  ],
-  "system_voicemail_alt": [
+    "com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity",
     "com.motorola.visualvoicemail/com.motorola.visualvoicemail.ui.VvmMainActivity",
     "fr.freemobile.android.vvm/fr.freemobile.android.vvm.customui.launchscreens.FirstLaunchActivity",
     "org.lineageos.recorder/org.lineageos.recorder.RecorderActivity"
-  ],
-  "system_voicemail_alt1": [
-    "com.mizmowireless.vvm/com.mizmowireless.vvm.screen.MainSetupActivity"
   ],
   "system_weather": [
     "com.amazon.weather/com.amazon.weather.WeatherTabletActivity",
