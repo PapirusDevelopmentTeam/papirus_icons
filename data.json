@@ -530,28 +530,72 @@
     "com.jrtstudio.AnotherMusicPlayer.Unlocker/com.jrtstudio.AnotherMusicPlayer.Unlocker.Activity",
     "com.jrtstudio.AnotherMusicPlayer/com.jrtstudio.AnotherMusicPlayer.MusicBrowserActivity"
   ],
-  "apps_musix_player": [],
-  "apps_musixmatch": [],
-  "apps_mvideoplayer": [],
-  "apps_mx_player": [],
-  "apps_n7player": [],
+  "apps_musix_player": [
+    "com.mobineon.musix/com.mobineon.musix.ActivityMain",
+    "com.mobineon.musix.lite.MusixLiteApplication/com.mobineon.musix.lite.ActivityMain"
+  ],
+  "apps_musixmatch": [
+    "com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity"
+  ],
+  "apps_mvideoplayer": [
+    "afzkl.development.mVideoPlayer.pro/afzkl.development.mVideoPlayer.activities.MediaBrowserActivity"
+  ],
+  "apps_mx_player": [
+    "com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ActivityMediaList",
+    "com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList",
+    "com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList",
+    "com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX",
+    "com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.MainActivity",
+    "com.mxtech.videoplayer.beta/com.mxtech.videoplayer.ad.startup.WelcomeActivity",
+    "com.mxtech.videoplayer.beta/com.mxtech.videoplayer.beta.ActivityMediaList",
+    "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityMediaList",
+    "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityVideoList",
+    "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList",
+    "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX"
+  ],
+  "apps_n7player": [
+    "com.n7mobile.nplayer/com.av111236.android.Launcher",
+    "com.n7mobile.nplayer/com.n7mobile.nplayer.glscreen.Main",
+    "com.n7mobile.nplayer/com.n7mobile.nplayer.mobi.vserv.android.appwrapper.VservAdManager",
+    "com.n7mobile.nplayerunlocker/com.n7mobile.nplayerunlocker.NPlayerunlockerActivity"
+  ],
   "apps_netguard": [
     "eu.faircode.netguard/eu.faircode.netguard.ActivityMain"
   ],
-  "apps_neutron_music_player": [],
-  "apps_next_browser": [],
+  "apps_neutron_music_player": [
+   "com.neutroncode.mpeval/com.neutroncode.mp.NeutronMPCore",
+   "com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore"
+  ],
+  "apps_next_browser": [
+    "com.jiubang.browser/com.jiubang.browser.main.BrowserActivity"
+  ],
   "apps_note_crypt_pro": [
     "com.notecryptpro/com.notecrypt.ui.MainActivity",
     "com.notecryptpro/com.notecrypt.ui.SelectDatabaseActivity"
   ],
-  "apps_nrg_player": [],
-  "apps_ok": [],
-  "apps_omnich_player": [],
-  "apps_one_browser": [],
+  "apps_nrg_player": [
+    "com.mrgreensoft.nrg.player/com.mrgreensoft.nrg.player.activity.StartActivity",
+    "com.mrgreensoft.nrg.player/com.mrgreensoft.nrg.player.startup.StartActivity"
+  ],
+  "apps_ok": [
+    "ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity"
+  ],
+  "apps_ok_video": [
+    "ru.ok.androidtv/ru.interfaced.tvplatform.MainActivity"
+  ],
+  "apps_omnich_player": [
+    "com.omichsoft.newplayer/com.omichsoft.newplayer.Main"
+  ],
+  "apps_one_browser": [
+    "com.tencent.ibibo.mtt/com.tencent.qbx.SplashActivity",
+    "com.tencent.ibibo.mtt/com.tencent.mtt.SplashActivity"
+  ],
   "apps_onetimepass": [
     "com.github.onetimepass/com.github.onetimepass.SplashActivity"
   ],
-  "apps_onkyo_hf_player": [],
+  "apps_onkyo_hf_player": [
+    "com.onkyo.jp.musicplayer/com.onkyo.jp.musicplayer.library.LibraryListActivity"
+  ],
   "apps_ooniprobe": [
     "org.openobservatory.ooniprobe/org.openobservatory.ooniprobe.activity.MainActivity"
   ],
@@ -566,10 +610,23 @@
     "com.example.openpass/com.example.openpass.TokenListActivity",
     "com.u17od.upm/com.u17od.upm.AppEntryActivity"
   ],
-  "apps_opera": [],
-  "apps_opera_beta": [],
-  "apps_opera_developer": [],
-  "apps_opera_mini": [],
+  "apps_opera": [
+    "com.opera.browser/com.opera.Opera",
+    "com.opera.browser.classic/com.opera.Opera"
+  ],
+  "apps_opera_beta": [
+    "com.opera.browser.beta/com.opera.Opera",
+    "com.opera.browser.beta/com.opera.android.OperaStartActivity"
+  ],
+  "apps_opera_mini": [
+    "com.opera.mini.native/com.opera.mini.android.Browser"
+  ],
+  "apps_opera_mini_beta": [
+    "com.opera.mini.native.beta/com.opera.mini.android.Browser"
+  ],
+  "apps_opera_touch": [
+    "com.opera.touch/com.opera.touch.MainActivity"
+  ],
   "apps_opera_vpn": [],
   "apps_orfox": [],
   "apps_orwall": [
