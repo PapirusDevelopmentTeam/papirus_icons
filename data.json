@@ -628,7 +628,9 @@
     "com.opera.touch/com.opera.touch.MainActivity"
   ],
   "apps_opera_vpn": [],
-  "apps_orfox": [],
+  "apps_orfox": [
+    "info.guardianproject.orfox/info.guardianproject.orfox.App"
+  ],
   "apps_orwall": [
     "org.ethack.orwall/org.ethack.orwall.TabbedMain"
   ],
@@ -657,9 +659,15 @@
   "apps_pgpclipper": [
     "moe.minori.pgpclipper/moe.minori.pgpclipper.activities.PGPClipperSettingsActivity"
   ],
-  "apps_phoenix_browser": [],
-  "apps_phonograph_music_player": [],
-  "apps_pi_musicplayer": [],
+  "apps_phoenix_browser": [
+    "com.transsion.phoenix/com.proj.sun.activity.LaunchActivity"
+  ],
+  "apps_phonograph_music_player": [
+    "com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity"
+  ],
+  "apps_pi_musicplayer": [
+    "com.Project100Pi.themusicplayer/com.Project100Pi.themusicplayer.ui.activity.SplashActivity"
+  ],
   "apps_pijaret": [
     "dmusiolik.pijaret/dmusiolik.pijaret.MainActivity"
   ],
@@ -671,12 +679,32 @@
     "info.guardianproject.pixelknot/info.guardianproject.pixelknot.PixelKnotActivity",
     "info.guardianproject.pixelknot/info.guardianproject.pixelknot.SendActivity"
   ],
-  "apps_player_meridian": [],
-  "apps_player_pro_music": [],
-  "apps_playermusic": [],
-  "apps_playerxtreme": [],
-  "apps_playo": [],
-  "apps_plex": [],
+  "apps_player_meridian": [
+    "org.iii.romulus.meridian/org.iii.romulus.meridian.MainActivity"
+  ],
+  "apps_player_pro_music": [
+    "com.tbig.playerpro/com.tbig.playerpro.MusicBrowserActivity",
+    "com.tbig.playerprotrial/com.tbig.playerprotrial.MusicBrowserActivity",
+    "com.tbig.playerprolegacy/com.tbig.playerprolegacy.MusicBrowserActivity"
+  ],
+  "apps_playermusic": [
+    "com.playermusic.musicplayerapp/com.playermusic.musicplayerapp.SplashActivity"
+  ],
+  "apps_playerxtreme": [
+    "xmw.app.playerxtreme/com.pentaloop.playerxtreme.presentation.activities.StartActivity"
+  ],
+  "apps_playo": [
+    "com.plus.music.playrv1/com.plus.music.playrv1.SplashActivity"
+  ],
+  "apps_plex": [
+    "com.plexapp.android/com.plexapp.plex.activities.SplashActivity"
+  ],
+  "apps_plex_vr": [
+    "com.plexapp.android.vr/com.plexapp.plex.activities.UnityPlayerActivity"
+  ],
+  "apps_plex_server": [
+    "com.plexapp.mediaserver.smb/com.plexapp.mediaserver.ui.main.MainActivity"
+  ],
   "apps_pocket": [],
   "apps_pocketcasts": [],
   "apps_podcast": [],
