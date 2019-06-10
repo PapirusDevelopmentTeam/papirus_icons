@@ -839,11 +839,24 @@
   "apps_snoopsnitch": [
     "de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity"
   ],
-  "apps_soundcloud": [],
-  "apps_spotify_client": [],
-  "apps_sputnik_browser": [],
-  "apps_stellio_player": [],
-  "apps_stream_djit": [],
+  "apps_soundcloud": [
+    "com.soundcloud.android/com.soundcloud.android.main.LauncherActivity"
+  ],
+  "apps_soundcloud_pulse": [
+    "com.soundcloud.creators/com.soundcloud.creators.MainActivity"
+  ],
+  "apps_spotify_client": [
+    "com.spotify.music/com.spotify.music.MainActivity"
+  ],
+  "apps_sputnik_browser": [
+    "ru.sputnik.browser/ru.sputnik.browser.app.MainActivity"
+  ],
+  "apps_stellio_player": [
+    "io.stellio.player/io.stellio.player.MainActivity"
+  ],
+  "apps_stream_djit": [
+    "com.djit.apps.stream/com.djit.apps.stream.Launcher"
+  ],
   "apps_supergenpass": [
     "info.staticfree.SuperGenPass/info.staticfree.SuperGenPass.Super_Gen_Pass"
   ],
@@ -853,14 +866,31 @@
   "apps_surespot": [
     "com.twofours.surespot/com.twofours.surespot.activities.MainActivity"
   ],
-  "apps_swf_player": [],
-  "apps_tangram_browser": [],
-  "apps_telegram": [],
+  "apps_swf_player": [
+    "com.issess.flashplayer/com.issess.flashplayer.activity.MainListActivity",
+    "com.issess.flashplayerpro/com.issess.flashplayer.activity.MainListActivity"
+  ],
+  "apps_tangram_browser": [
+    "com.onedepth.search/com.onedepth.search.MainActivity"
+  ],
+  "apps_telegram": [
+    "org.telegram.messenger/org.telegram.ui.LaunchActivity"
+  ],
   "apps_tinc": [
     "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"
   ],
-  "apps_torrent_video_player_tvp": [],
-  "apps_transmission": [],
+  "apps_torrent_video_player_tvp": [
+    "com.mobilityflow.tvp.prof/org.videolan.vlc.StartActivity",
+    "com.mobilityflow.tvp/com.mobilityflow.vlc.gui.MainActivity"
+  ],
+  "apps_transmission": [
+    "net.yupol.transmissionremote.app/net.yupol.transmissionremote.app.MainActivity",
+    "com.ap.transmission.btc/com.ap.transmission.btc.activities.MainActivity",
+    "com.neogb.rtac/com.neogb.rtac.TorrentsActivity",
+    "com.rsa.transguip/com.rsa.transguip.TransGUIActivity",
+    "org.equeim.tremotesf/org.equeim.tremotesf.mainactivity.MainActivity",
+    "com.gabordemko.torrnado/com.gabordemko.torrnado.ui.main.MainActivity"
+  ],
   "apps_trax_music_player": [],
   "apps_tunein": [],
   "apps_tunein_pro": [],
