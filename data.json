@@ -705,28 +705,61 @@
   "apps_plex_server": [
     "com.plexapp.mediaserver.smb/com.plexapp.mediaserver.ui.main.MainActivity"
   ],
-  "apps_pocket": [],
-  "apps_pocketcasts": [],
+  "apps_pocket": [
+    "com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity"
+  ],
+  "apps_pocketcasts": [
+    "au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity"
+  ],
   "apps_podcast": [],
-  "apps_podcast_addict": [],
-  "apps_podcast_go": [],
-  "apps_podcast_republic": [],
+  "apps_podcast_addict": [
+    "com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity"
+  ],
+  "apps_podcast_go": [
+    "sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity",
+    "sanity.podcast.freak/sanity.podcast.freak.activities.SplashActivity"
+  ],
+  "apps_podcast_republic": [
+    "com.itunestoppodcastplayer.app/com.itunestoppodcastplayer.app.StartupActivity"
+  ],
   "apps_portauthority": [
     "com.aaronjwood.portauthority/com.aaronjwood.portauthority.activity.MainActivity"
   ],
   "apps_portknocker": [
     "com.xargsgrep.portknocker/com.xargsgrep.portknocker.activity.HostListActivity"
   ],
-  "apps_power_browser": [],
-  "apps_power_media_player": [],
-  "apps_poweramp": [],
-  "apps_prosto_radio": [],
+  "apps_power_browser": [
+    "com.hsv.powerbrowser/com.google.android.apps.chrome.Main"
+  ],
+  "apps_power_media_player": [
+    "com.cyberlink.powerdvd.PMA140804_01/com.cyberlink.huf4android.MainPage"
+  ],
+  "apps_poweramp": [
+    "com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity",
+    "com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity"
+  ],
+  "apps_prosto_radio": [
+    "com.radio.helloworld/com.radio.helloworld.MainActivity"
+  ],
   "apps_puff": [
     "sun.bob.leela/sun.bob.leela.ui.activities.SplashActivity"
   ],
-  "apps_puffin_web_browser": [],
-  "apps_pulsar": [],
-  "apps_pyrope_browser": [],
+  "apps_puffin_web_browser": [
+    "com.cloudmosa.puffinFree/com.cloudmosa.app.LemonActivity"
+  ],
+  "apps_puffin_web_browser_pro": [
+    "com.cloudmosa.puffin/com.cloudmosa.app.LemonActivity"
+  ],
+  "apps_puffin_web_browser_tv": [
+    "com.cloudmosa.puffinTV/com.cloudmosa.app.LemonActivity"
+  ],
+  "apps_pulsar": [
+    "com.rhmsoft.pulsar/com.rhmsoft.play.MainActivity",
+    "com.rhmsoft.pulsar.pro/com.rhmsoft.play.MainActivity"
+  ],
+  "apps_pyrope_browser": [
+    "com.ninnix96.pyrope.browser/com.android.browser.BrowserLauncher"
+  ],
   "apps_qrstream": [
     "com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher"
   ],

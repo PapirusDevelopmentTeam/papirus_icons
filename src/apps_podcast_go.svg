@@ -93,7 +93,7 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="96"
+     inkscape:cx="-120"
      inkscape:cy="96"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -118,7 +118,7 @@
      x="-176"
      height="160"
      width="160"
-     style="fill:#df423d;stroke-width:4" />
+     style="fill:#3f3f3f;fill-opacity:1;stroke-width:4" />
   <path
      inkscape:connector-curvature="0"
      id="path4"
@@ -128,10 +128,11 @@
      inkscape:connector-curvature="0"
      id="path6"
      d="M 96,44 A 52,52 0 0 0 51.375,69.414064 l 10.281248,6.16406 A 40,40 0 0 1 96,56 40,40 0 0 1 136,96 40,40 0 0 1 96,136 40,40 0 0 1 61.664064,116.42188 l -10.281252,6.16406 A 52,52 0 0 0 96,148 52,52 0 0 0 148,96 52,52 0 0 0 96,44 Z m 0,24 A 28,28 0 0 0 71.9375,81.75 l 10.281252,6.164064 A 16,16 0 0 1 96,80 16,16 0 0 1 112,96 16,16 0 0 1 96,112 16,16 0 0 1 82.218752,104.08594 L 71.9375,110.25 A 28,28 0 0 0 96,124 28,28 0 0 0 124,96 28,28 0 0 0 96,68 Z"
-     style="fill:#ffffff;stroke-width:4" />
+     style="fill:#f3ac00;fill-opacity:1;stroke-width:4" />
   <path
-     style="opacity:0.2;fill:#ffffff;stroke-width:4"
-     d="M 95.998047 16 C 51.678955 16.001052 16 51.680653 16 96 C 16 96.115498 16.006172 96.228859 16.007812 96.34375 C 16.358829 52.329731 51.898462 17.001046 95.998047 17 L 96 17 C 140.10547 17.001047 175.64856 52.339122 175.99023 96.361328 C 175.99198 96.240601 175.99805 96.121307 175.99805 96 C 175.99805 51.680653 140.31909 16.001052 96 16 L 95.998047 16 z "
+     inkscape:connector-curvature="0"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="M 95.998047,16 C 51.678955,16.001052 16,51.680653 16,96 c 0,0.115498 0.0062,0.228859 0.0078,0.34375 C 16.358829,52.329731 51.898462,17.001046 95.998047,17 H 96 c 44.10547,0.001 79.64856,35.339122 79.99023,79.361328 0.002,-0.120727 0.008,-0.240021 0.008,-0.361328 0,-44.319347 -35.67896,-79.998948 -79.99805,-80 z"
      id="path8" />
   <circle
      id="circle12"
@@ -144,7 +145,7 @@
      r="8"
      cy="96"
      cx="96"
-     style="fill:#ffb0b0;stroke-width:4" />
+     style="fill:#ffffff;stroke-width:4" />
   <path
      inkscape:connector-curvature="0"
      id="path16"
@@ -154,5 +155,5 @@
      inkscape:connector-curvature="0"
      id="path18"
      d="M 79.999998,95.999998 60,108 40,120 V 95.999998 72 l 20,12.000001 z"
-     style="fill:#ffb0b0;stroke-width:3.72169781" />
+     style="fill:#ffffff;stroke-width:3.72169781" />
 </svg>
