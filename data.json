@@ -763,20 +763,34 @@
   "apps_qrstream": [
     "com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher"
   ],
-  "apps_quark_browser": [],
-  "apps_reactive_fast_search": [],
-  "apps_real_player": [],
+  "apps_quark_browser": [
+    "com.quark.browser/com.ucpro.MainActivity"
+  ],
+  "apps_reactive_fast_search": [
+    "reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity"
+  ],
+  "apps_real_player": [
+    "com.real.RealPlayer/com.real.IMP.home.Home"
+  ],
   "apps_ripple": [
     "info.guardianproject.ripple/info.guardianproject.ripple.MainActivity"
   ],
-  "apps_rocket_browser": [],
+  "apps_rocket_browser": [
+    "net.rocket.browser/acr.browser.lightning.activity.MainActivity"
+  ],
   "apps_rocket_player": [],
-  "apps_s8_edge_music_player": [],
-  "apps_samsung_music": [],
+  "apps_s8_edge_music_player": [
+    "com.fourhorsemen.musicvault/com.fourhorsemen.musicvault.activities.WelcomeActivity"
+  ],
+  "apps_samsung_music": [
+    "com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity"
+  ],
   "apps_satoshiproof": [
     "org.ligi.satoshiproof/org.ligi.satoshiproof.MainActivity"
   ],
-  "apps_sberbank": [],
+  "apps_sberbank": [
+    "ru.sberbankmobile/ru.sberbankmobile.SplashActivity"
+  ],
   "apps_secret_codes": [
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.MainActivity",
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.ui.MainActivity"
@@ -784,16 +798,37 @@
   "apps_selinux": [
     "com.mrbimc.selinux/com.mrbimc.selinux.MainActivity"
   ],
-  "apps_shazam": [],
-  "apps_shuttle_music_player": [],
+  "apps_shazam": [
+    "com.shazam.android/com.shazam.android.activities.SplashActivity"
+  ],
+  "apps_shuttle_music_player": [
+    "another.music.player/com.simplecity.amp_library.ui.activities.MainActivity",
+    "com.simplecity.amp_pro/com.simplecity.amp_library.ui.activities.MainActivity"
+  ],
   "apps_simpletextcrypt": [
     "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.LockActivity",
     "com.aidinhut.simpletextcrypt/com.aidinhut.simpletextcrypt.MainActivity"
   ],
-  "apps_skype": [],
-  "apps_slack": [],
-  "apps_smart_eq": [],
-  "apps_smart_swf_player": [],
+  "apps_skype": [
+    "com.skype.raider/com.skype.raider.Main",
+    "com.skype.insiders/com.skype.raider.Main"
+  ],
+  "apps_skype_lite": [
+    "com.skype.m2/com.skype.m2.views.HubActivity"
+  ],
+  "apps_skype_business": [
+    "com.microsoft.office.lync15/com.microsoft.office.sfb.common.ui.splash.EntryPoint"
+  ],
+  "apps_slack": [
+    "com.Slack/com.Slack.ui.HomeActivity"
+  ],
+  "apps_smart_eq": [
+    "com.smartandroidapps.equalizer/com.smartandroidapps.equalizer.activities.MainActivity",
+    "com.smartandroidapps.equalizer.unlock/com.smartandroidapps.unlocker.ThankYou"
+  ],
+  "apps_smart_swf_player": [
+    "com.andy.flash/com.andy.flash.FileBrowser"
+  ],
   "apps_smssecure": [
     "org.smssecure.smssecure/org.smssecure.smssecure.ConversationListActivity",
     "org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity"
