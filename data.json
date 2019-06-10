@@ -364,11 +364,9 @@
   "apps_hashdroid": [
     "com.hobbyone.HashDroid/com.hobbyone.HashDroid.MainActivity"
   ],
-  "apps_hd_universal_player": [],
   "apps_hd_video_player": [
     "com.elift.hdplayer/com.ijoysoft.hdplayer.StartActivity"
   ],
-  "apps_highsecure_mp3_player": [],
   "apps_hipchat": [
     "com.hipchat/com.hipchat.activities.SignedOutActivity_"
   ],
@@ -627,7 +625,6 @@
   "apps_opera_touch": [
     "com.opera.touch/com.opera.touch.MainActivity"
   ],
-  "apps_opera_vpn": [],
   "apps_orfox": [
     "info.guardianproject.orfox/info.guardianproject.orfox.App"
   ],
@@ -711,7 +708,6 @@
   "apps_pocketcasts": [
     "au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity"
   ],
-  "apps_podcast": [],
   "apps_podcast_addict": [
     "com.bambuna.podcastaddict/com.bambuna.podcastaddict.activity.PodcastListActivity"
   ],
@@ -778,7 +774,6 @@
   "apps_rocket_browser": [
     "net.rocket.browser/acr.browser.lightning.activity.MainActivity"
   ],
-  "apps_rocket_player": [],
   "apps_s8_edge_music_player": [
     "com.fourhorsemen.musicvault/com.fourhorsemen.musicvault.activities.WelcomeActivity"
   ],
@@ -932,7 +927,6 @@
   "apps_video_player_audio_player": [
     "video.player.audio.player.music/video.player.audio.player.music.gui.MainActivity"
   ],
-  "apps_video_player_hd_player": [],
   "apps_video_player_perfect_hd": [
     "com.tr.videoplayer3/com.tr.videoplayer3.StartActivity"
   ],
@@ -1135,7 +1129,9 @@
   "google_daydream": [
     "com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity"
   ],
-  "google_daydream_elements": [],
+  "google_daydream_elements": [
+    "com.google.vr.unity.ddelements/com.unity3d.player.UnityPlayerActivity"
+  ],
   "google_dmagent": [
     "com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity"
   ],
@@ -1314,8 +1310,6 @@
   "google_street": [
     "com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity"
   ],
-  "google_talkback": [],
-  "google_tango_core": [],
   "google_toontastic": [
     "com.google.toontastic/com.google.android.libraries.kids.creative.adapter.CreativeUnityAdapter"
   ],
@@ -1326,8 +1320,6 @@
   "google_trips": [
     "com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity"
   ],
-  "google_tts": [],
-  "google_tv": [],
   "google_vega": [
     "com.google.android.apps.vega/com.google.android.apps.vega.VegaMainActivity"
   ],
@@ -1339,7 +1331,6 @@
     "com.nuance.android.vsuite.vsuiteapp/com.nuance.android.vsuite.vsuiteapp.VSuiteStartSession",
     "com.vlingo.midas/com.vlingo.midas.gui.ConversationActivity"
   ],
-  "google_vr": [],
   "google_wallpaper": [
     "com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
   ],
