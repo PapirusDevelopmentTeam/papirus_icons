@@ -891,47 +891,104 @@
     "org.equeim.tremotesf/org.equeim.tremotesf.mainactivity.MainActivity",
     "com.gabordemko.torrnado/com.gabordemko.torrnado.ui.main.MainActivity"
   ],
-  "apps_trax_music_player": [],
-  "apps_tunein": [],
-  "apps_tunein_pro": [],
-  "apps_turtlerun_music_player": [],
-  "apps_turtlerun_video_player": [],
-  "apps_twitter": [],
-  "apps_uc_browser": [],
-  "apps_usb_audio_player": [],
-  "apps_vc_browser": [],
-  "apps_via_browser": [],
-  "apps_viber": [],
-  "apps_video_player_all_format": [],
-  "apps_video_player_audio_player": [],
-  "apps_video_player_hd": [],
+  "apps_trax_music_player": [
+    "com.mhonn.dragtrax.b/com.mhonn.dragtrax.b.Trax"
+  ],
+  "apps_tunein": [
+    "tunein.player/tunein.ui.actvities.TuneInHomeActivity"
+  ],
+  "apps_tunein_pro": [
+    "radiotime.player/tunein.player.pro.Activity",
+    "radiotime.player/tunein.ui.actvities.TuneInHomeActivity"
+  ],
+  "apps_twitter": [
+    "com.twitter.android/com.twitter.android.StartActivity",
+    "com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity"
+  ],
+  "apps_uc_browser": [
+    "com.UCMobile.intl/com.UCMobile.main.UCMobile"
+  ],
+  "apps_uc_browser_turbo": [
+    "com.ucturbo/com.ucturbo.MainActivity"
+  ],
+  "apps_uc_browser_mini": [
+    "com.uc.browser.en/com.uc.browser.ActivityBrowser"
+  ],
+  "apps_usb_audio_player": [
+    "com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity"
+  ],
+  "apps_vc_browser": [
+    "com.vcbrowser.mini/acr.vcbrowser.mini.SplashActivity"
+  ],
+  "apps_via_browser": [
+    "mark.via.gp/mark.via.ui.activity.BrowserActivity"
+  ],
+  "apps_viber": [
+    "com.viber.voip/com.viber.voip.WelcomeActivity"
+  ],
+  "apps_video_player_all_format": [
+    "video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity"
+  ],
+  "apps_video_player_audio_player": [
+    "video.player.audio.player.music/video.player.audio.player.music.gui.MainActivity"
+  ],
   "apps_video_player_hd_player": [],
-  "apps_video_player_perfect": [],
-  "apps_videoplayer_ultimate": [],
-  "apps_vk": [],
-  "apps_vlc": [],
-  "apps_wechat": [],
-  "apps_whatsapp": [],
+  "apps_video_player_perfect_hd": [
+    "com.tr.videoplayer3/com.tr.videoplayer3.StartActivity"
+  ],
+  "apps_videoplayer_ultimate": [
+    "media.hd.video.player/com.ijoysoft.videoplayer.activity.WelcomeActivity"
+  ],
+  "apps_vk": [
+    "com.vkontakte.android/com.vkontakte.android.MainActivity"
+  ],
+  "apps_vlc": [
+    "org.videolan.vlc/org.videolan.vlc.StartActivity"
+  ],
+  "apps_wechat": [
+    "com.tencent.mm/com.tencent.mm.ui.LauncherUI"
+  ],
+  "apps_whatsapp": [
+    "com.whatsapp/com.whatsapp.Main"
+  ],
+  "apps_whatsapp_business": [
+    "com.whatsapp.w4b/com.whatsapp.Main"
+  ],
   "apps_wherearetheeyes": [
     "org.daylightingsociety.wherearetheeyes/org.daylightingsociety.wherearetheeyes.MainActivity"
   ],
   "apps_wlanscanner": [
     "org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity"
   ],
-  "apps_wondershare_player": [],
-  "apps_xbrowser": [],
-  "apps_xeno_amp_music_player": [],
-  "apps_xplay_music_player": [],
-  "apps_yandex_browser": [],
-  "apps_yo_browser": [],
-  "apps_yolo_browser": [],
-  "apps_youtube_player_terekhine": [],
-  "apps_zgz_video_player": [],
+  "apps_wondershare_player": [
+    "com.wondershare.player/com.wondershare.player.MainActivity"
+  ],
+  "apps_xenoamp_music_player": [
+    "pl.qus.xenoamp/pl.qus.xenoamp.NewMainActivity"
+  ],
+  "apps_xplay_music_player": [
+    "com.kane.xplay.activities/com.kane.xplay.activities.XplayActivity"
+  ],
+  "apps_yandex_browser": [
+    "com.yandex.browser/com.yandex.browser.YandexBrowserActivity"
+  ],
+  "apps_yo_browser": [
+    "com.browser.yo.indian/io.github.mthli.Ninja.Activity.BrowserActivity"
+  ],
+  "apps_yolo_browser": [
+    "net.yoloapps.browser/com.google.android.apps.chrome.Main"
+  ],
+  "apps_zgz_video_player": [
+    "com.zgz.supervideo/com.zgz.videoplayer.activity.H5View"
+  ],
   "games_badland": [
     "com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland",
     "com.frogmind.badland/com.frogmind.badland.Badland"
   ],
-  "games_limbo": [],
+  "games_limbo": [
+    "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
+    "com.playdead.limbo/com.playdead.limbo.LimboActivity"
+  ],
   "google": [
     "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
