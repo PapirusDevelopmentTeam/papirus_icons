@@ -5,6 +5,18 @@
   "miui_file_manager": [
     "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
   ],
+  "apps_megabonus": [
+    "com.alibonus.alibonus/com.alibonus.alibonus.ui.activity.StartActivity"
+  ],
+  "apps_listen_audiobook_player": [
+    "com.acmeandroid.listen/com.acmeandroid.listen.SplashActivity"
+  ],
+  "apps_lichess": [
+    "org.lichess.mobileapp/org.lichess.mobileapp.MainActivity"
+  ],
+  "apps_l_speed": [
+    "com.paget96.lspeed/com.paget96.lspeed.activities.SplashScreenActivity"
+  ],
   "apps_keepass2android_offline": [
     "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass"
   ],
