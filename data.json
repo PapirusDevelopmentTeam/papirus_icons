@@ -1,4 +1,22 @@
 {
+  "apps_fasthub": [
+    "com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity"
+  ],
+  "apps_e_num": [
+    "ru.e_num/ru.e_num.app.view.EMainActivity"
+  ],
+  "apps_difm_radio": [
+    "com.audioaddict.di/md5256881233f05e1a12873c405322115cb.SplashActivity"
+  ],
+  "apps_clocksync": [
+    "ru.org.amip.ClockSync/ru.org.amip.ClockSync.view.Main"
+  ],
+  "apps_bluebatt": [
+    "tk.alessio.bluebatt/tk.alessio.bluebatt.SplashActivity"
+  ],
+  "apps_bitwarden": [
+    "com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity"
+  ],
   "apps_banggood": [
     "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
   ],
