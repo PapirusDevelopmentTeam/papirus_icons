@@ -1,4 +1,29 @@
 {
+  "apps_banggood": [
+    "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
+  ],
+  "apps_antennapod": [
+    "de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity"
+  ],
+  "apps_ankidroid": [
+    "com.ichi2.anki/com.ichi2.anki.IntentHandler"
+  ],
+  "apps_aliexpress": [
+    "com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity"
+  ],
+  "apps_novaposhtaa": [
+    "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity"
+  ],
+  "apps_activity_launcher": [
+    "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
+  ],
+  "apps_adguard": [
+    "com.adguard.android/com.adguard.android.ui.SplashActivity"
+  ],
+  "apps_alfabank": [
+    "ru.alfabank.mobile.android/ru.alfabank.mobile.android.presentation.feature.splash.activity.SplashActivity",
+    "ru.alfabank.mobile.ua.android/ru.alfabank.mobile.ua.android.presentation.feature.splash.activity.SplashActivity"
+  ],
   "apps_321_mediaplayer": [
     "photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity",
     "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"
