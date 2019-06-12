@@ -35,6 +35,9 @@
   "apps_track24": [
     "net.track24.android/net.track24.android.SplashActivity"
   ],
+  "apps_trackbook": [
+    "org.y20k.trackbook/org.y20k.trackbook.MainActivity"
+  ],
   "apps_syncthing": [
     "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
   ],
@@ -148,6 +151,9 @@
   ],
   "apps_novaposhtaa": [
     "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity"
+  ],
+  "apps_nova_launcher": [
+    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
   ],
   "apps_activity_launcher": [
     "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
