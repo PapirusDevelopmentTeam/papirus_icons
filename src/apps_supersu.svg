@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,15 +43,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter873"
-       x="-0.053023256"
-       width="1.1060465"
-       y="-0.043846154"
-       height="1.0876923">
+       id="filter835"
+       x="-0.052363636"
+       width="1.1047273"
+       y="-0.044307692"
+       height="1.0886154">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.9"
-         id="feGaussianBlur875" />
+         stdDeviation="1.92"
+         id="feGaussianBlur837" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -67,8 +67,8 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="2.02"
-     inkscape:cx="111.36365"
+     inkscape:zoom="3.52"
+     inkscape:cx="56.210088"
      inkscape:cy="92.928281"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -102,13 +102,15 @@
      d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"
      id="path6" />
   <path
-     id="path858"
-     d="M 82.326172,46 76.375,75 H 53 v 10 h 21.322266 l -5.335938,26 H 53 v 10 h 13.933594 l -5.951172,29 h 10.207031 l 5.953125,-29 h 28.783202 l -5.951171,29 h 10.207031 l 5.95313,-29 H 139 v -10 h -20.81445 l 5.33789,-26 H 139 V 75 h -13.42578 l 5.95312,-29 h -10.20898 l -5.95117,29 H 86.582031 l 5.953125,-29 z m 2.205078,39 h 28.7832 l -5.33593,26 H 79.193359 Z"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter873);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
+     id="path821"
+     d="M 82.326172,46 76.574757,74 H 52 v 10 h 22.522023 l -5.735267,28 H 52 v 10 h 14.734022 l -5.7516,28 h 10.207031 l 5.753553,-28 h 28.783204 l -5.751601,28 h 10.207031 l 5.75356,-28 H 140 V 112 H 117.98598 L 123.7232,84 H 140 V 74 h -14.22602 l 5.75336,-28 h -10.20898 l -5.75141,28 H 86.781788 l 5.753368,-28 z m 2.404835,38 h 28.783203 l -5.73526,28 H 78.993787 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.2;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter835)"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 82.326172,44 76.375,73 H 53 v 10 h 21.322266 l -5.335938,26 H 53 v 10 h 13.933594 l -5.951172,29 h 10.207031 l 5.953125,-29 h 28.783202 l -5.951171,29 h 10.207031 l 5.95313,-29 H 139 v -10 h -20.81445 l 5.33789,-26 H 139 V 73 h -13.42578 l 5.95312,-29 h -10.20898 l -5.95117,29 H 86.582031 l 5.953125,-29 z m 2.205078,39 h 28.7832 l -5.33593,26 H 79.193359 Z"
-     id="path832" />
+     d="M 82.326172,44 76.574757,72 H 52 v 10 h 22.522023 l -5.735267,28 H 52 v 10 h 14.734022 l -5.7516,28 h 10.207031 l 5.753553,-28 h 28.783204 l -5.751601,28 h 10.207031 l 5.75356,-28 H 140 V 110 H 117.98598 L 123.7232,82 H 140 V 72 h -14.22602 l 5.75336,-28 h -10.20898 l -5.75141,28 H 86.781788 l 5.753368,-28 z m 2.404835,38 h 28.783203 l -5.73526,28 H 78.993787 Z"
+     id="path832"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
 </svg>

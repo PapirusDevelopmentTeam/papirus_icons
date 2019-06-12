@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,8 +67,8 @@
      inkscape:window-height="1018"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="1.52"
-     inkscape:cx="83.194781"
+     inkscape:zoom="2.49"
+     inkscape:cx="-37.857851"
      inkscape:cy="123.97203"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -97,12 +97,12 @@
      id="path8" />
   <path
      id="path840"
-     d="M 127.73438,24.593671 C 86.098896,24.989092 52,56.666331 52,94.017499 c 0,27.672151 19.697862,49.029911 44,48.982421 24.44453,0 44,-19.03152 44,-42.57422 0,-24.39706 -15.47731,-38.068616 -35.83984,-41.818357 0.27185,-15.949248 12.30554,-29.711848 26.19726,-32.746094 a 80,80 0 0 0 -2.62304,-1.267578 z"
+     d="M 127.73438,23.593912 C 86.098896,23.989333 52,55.666572 52,93.01774 c 0,27.67215 19.697862,49.02991 44,48.98242 24.44453,0 44,-19.03152 44,-42.574219 0,-24.39706 -15.47731,-38.068616 -35.83984,-41.818357 0.27185,-15.949248 12.30554,-29.711848 26.19726,-32.746094 a 80,80 0 0 0 -2.62304,-1.267578 z"
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.99893498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter854)"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.99893498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 127.73438,22.59375 C 86.098896,22.989171 52,54.66641 52,92.017578 52,119.68973 71.697862,141.04749 96,141 c 24.44453,0 44,-19.03152 44,-42.574219 0,-24.397062 -15.47731,-38.068618 -35.83984,-41.818359 0.27185,-15.949248 12.30554,-29.711848 26.19726,-32.746094 a 80,80 0 0 0 -2.62304,-1.267578 z"
+     d="M 127.73438,21.593991 C 86.098896,21.989412 52,53.666651 52,91.017819 c 0,27.672151 19.697862,49.029911 44,48.982421 24.44453,0 44,-19.03152 44,-42.574218 0,-24.397062 -15.47731,-38.068618 -35.83984,-41.818359 0.27185,-15.949248 12.30554,-29.711848 26.19726,-32.746094 a 80,80 0 0 0 -2.62304,-1.267578 z"
      id="rect826" />
 </svg>

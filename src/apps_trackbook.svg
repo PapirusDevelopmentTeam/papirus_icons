@@ -21,25 +21,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs26">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter898"
-       x="-0.042070588"
-       width="1.0841412"
-       y="-0.055875"
-       height="1.11175">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.98"
-         id="feGaussianBlur900" />
-    </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -52,6 +39,19 @@
          inkscape:collect="always"
          stdDeviation="2.72"
          id="feGaussianBlur923" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter848"
+       x="-0.041860465"
+       width="1.0837209"
+       y="-0.05625"
+       height="1.1125">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3"
+         id="feGaussianBlur850" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -67,9 +67,9 @@
      inkscape:window-height="1018"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="2.16"
+     inkscape:cx="73.237996"
+     inkscape:cy="79.555556"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -77,19 +77,19 @@
   <rect
      id="rect880"
      ry="12.8"
-     rx="12.75"
+     rx="12.9"
      y="36"
-     x="11"
+     x="10"
      height="128"
-     width="170"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4.2583251;filter:url(#filter898)" />
+     width="172"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4.28330088;filter:url(#filter848)" />
   <rect
-     style="fill:#128ce5;fill-opacity:1;stroke-width:4.2583251"
-     width="170"
+     style="fill:#128ce5;fill-opacity:1;stroke-width:4.28330088"
+     width="172"
      height="128"
-     x="11"
+     x="10"
      y="32"
-     rx="12.75"
+     rx="12.9"
      ry="12.8"
      id="rect4" />
   <path
@@ -123,8 +123,7 @@
      style="opacity:0.1;fill:#000000;stroke-width:4.25095129"
      inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4.2583251"
-     d="M 23.75,32 C 16.6865,32 11,37.709581 11,44.800781 v 1 C 11,38.709581 16.6865,33 23.75,33 h 144.5 c 7.0635,0 12.75,5.709581 12.75,12.800781 v -1 C 181,37.709581 175.3135,32 168.25,32 Z"
-     id="rect902" />
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4.28330088;opacity:0.2"
+     d="M 22.900391 32 C 15.753791 32 10 37.709581 10 44.800781 L 10 45.800781 C 10 38.709581 15.753791 33 22.900391 33 L 169.09961 33 C 176.24621 33 182 38.709581 182 45.800781 L 182 44.800781 C 182 37.709581 176.24621 32 169.09961 32 L 22.900391 32 z "
+     id="rect852" />
 </svg>

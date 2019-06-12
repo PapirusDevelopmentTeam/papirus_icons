@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,8 +80,8 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="33.773024"
+     inkscape:zoom="2.49"
+     inkscape:cx="-59.952515"
      inkscape:cy="92.928281"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -157,17 +157,17 @@
      id="circle946" />
   <path
      id="path973"
-     d="M 96,73 83.289062,109 H 47 L 76.193359,129.84375 64,167 96,145 128,167 115.80664,129.84375 145,109 h -36.28906 z"
+     d="M 96,73.999995 83.289062,110 H 47 L 76.193359,130.84375 64,168 96,146 128,168 115.80664,130.84375 145,110 h -36.28906 z"
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.18500328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter987)"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:1;fill:#ffc11f;fill-opacity:1;stroke:none;stroke-width:4.18500328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 96,71 83.289062,107 H 47 L 76.193359,127.84375 64,165 96,143 128,165 115.80664,127.84375 145,107 h -36.28906 z"
+     d="M 96,71.999995 83.289062,108 H 47 L 76.193359,128.84375 64,166 96,144 128,166 115.80664,128.84375 145,108 h -36.28906 z"
      id="rect964" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.18500328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 96,71 83.289062,107 H 47 l 1.400391,1 H 83.289062 L 96,72 l 12.71094,36 h 34.88867 L 145,107 H 108.71094 Z M 75.927734,128.6543 64,165 l 0.423828,-0.29102 11.769531,-35.86523 z m 40.144536,0 -0.26563,0.18945 11.76953,35.86523 L 128,165 Z"
+     d="M 96,71.999995 83.289062,108 H 47 l 1.400391,1 H 83.289062 L 96,72.999995 108.71094,109 h 34.88867 L 145,108 H 108.71094 Z M 75.927734,129.6543 64,166 l 0.423828,-0.29102 11.769531,-35.86523 z m 40.144536,0 -0.26563,0.18945 11.76953,35.86523 L 128,166 Z"
      id="path991" />
 </svg>

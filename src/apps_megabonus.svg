@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,15 +43,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter878"
-       x="-0.045767442"
-       width="1.0915349"
-       y="-0.050461538"
-       height="1.1009231">
+       id="filter835"
+       x="-0.045818295"
+       width="1.0916366"
+       y="-0.050399862"
+       height="1.1007997">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.64"
-         id="feGaussianBlur880" />
+         stdDeviation="1.6799878"
+         id="feGaussianBlur837" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -67,8 +67,8 @@
      inkscape:window-height="1018"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="86.650458"
+     inkscape:zoom="4.3299648"
+     inkscape:cx="75.785253"
      inkscape:cy="63.225311"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -102,13 +102,15 @@
      d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"
      id="path6" />
   <path
+     sodipodi:nodetypes="cccccccccccccccccccc"
      inkscape:connector-curvature="0"
-     id="path864"
-     d="m 53,59 v 78 H 69 V 82.03125 L 87.539062,135.92773 87.869141,137 h 16.261719 l 0.33008,-1.07227 L 123,82.03125 V 137 h 16 V 59 H 130.92188 123 114.00391 L 96,111.33398 77.996094,59 H 69 61.078125 Z"
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.86052036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter878)" />
+     id="path821"
+     d="M 52.00043,58.000365 V 138 h 16 V 81.031615 L 86.539492,136.92773 86.869571,138 h 18.260859 l 0.33008,-1.07227 18.53906,-55.896115 V 138 h 16 V 58.000365 h -8.07812 -7.92188 -8.99609 L 96.000001,112.33398 76.996524,58.000365 H 68.00043 60.078555 Z"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.86052036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter835)" />
   <path
      style="opacity:1;fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:13.86052036;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 53,57 v 78 H 69 V 80.03125 L 87.539062,133.92773 87.869141,135 h 16.261719 l 0.33008,-1.07227 L 123,80.03125 V 135 h 16 V 57 H 130.92188 123 114.00391 L 96,109.33398 77.996094,57 H 69 61.078125 Z"
+     d="m 52.00043,56.000375 v 79.999635 h 16 V 79.031625 l 18.539062,55.896115 0.330079,1.07227 h 18.260859 l 0.33008,-1.07227 18.53906,-55.896115 v 56.968385 h 16 V 56.000375 h -8.07812 -7.92188 -8.99609 L 96.000001,110.33399 76.996524,56.000375 H 68.00043 60.078555 Z"
      id="rect832"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccc" />
 </svg>
