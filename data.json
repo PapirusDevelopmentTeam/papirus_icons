@@ -1,4 +1,7 @@
 {
+  "miui_themes": [
+    "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+  ],
   "miui_security": [
     "com.miui.securitycenter/com.miui.securityscan.MainActivity"
   ],
@@ -19,6 +22,27 @@
   ],
   "miui_file_manager": [
     "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+  ],
+  "apps_zerotier_one": [
+    "com.zerotier.one/com.zerotier.one.ui.NetworkListActivity"
+  ],
+  "apps_zenmoney": [
+    "ru.zenmoney.androidsub/ru.zenmoney.android.activities.EnterActivity"
+  ],
+  "apps_wifi_adb": [
+    "com.ttxapps.wifiadb/com.ttxapps.wifiadb.MainActivity"
+  ],
+  "apps_track24": [
+    "net.track24.android/net.track24.android.SplashActivity"
+  ],
+  "apps_syncthing": [
+    "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+  ],
+  "apps_supersu": [
+    "eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
+  ],
+  "apps_strava": [
+    "com.strava/com.strava.SplashActivity"
   ],
   "apps_secure_settings": [
     "com.intangibleobject.securesettings.plugin/com.intangibleobject.securesettings.plugin.Activities.MainTabsActivity"
