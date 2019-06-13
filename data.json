@@ -1,4 +1,17 @@
 {
+  "miui_notes": [
+    "com.miui.notes/com.miui.notes.ui.NotesListActivity"
+  ],
+  "miui_mipay": [
+    "com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity"
+  ],
+  "miui_weather": [
+    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
+  ],
+  "miui_gallery": [
+    "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
+    "com.miui.gallery/com.miui.gallery.app.Gallery"
+  ],
   "miui_themes": [
     "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
   ],
@@ -12,7 +25,8 @@
     "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
   ],
   "miui_mi_video": [
-    "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+    "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity",
+    "com.miui.video/com.miui.video.HomeActivity"
   ],
   "miui_mi_drop": [
     "com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
@@ -22,6 +36,9 @@
   ],
   "miui_file_manager": [
     "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+  ],
+  "apps_duokan_reader": [
+    "com.duokan.reader/com.duokan.reader.DkReaderActivity"
   ],
   "apps_zarchiver_pro": [
     "ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver"
@@ -1867,8 +1884,6 @@
     "com.lenovo.scg/com.lenovo.scg.app.Gallery",
     "com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity",
     "com.mimedia.gallery/com.mimedia.gallery.GalleryStartupActivity_",
-    "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
-    "com.miui.gallery/com.miui.gallery.app.Gallery",
     "com.motorola.gallery/com.motorola.gallery.TopScreen",
     "com.nomotorola.MotGallery2/com.android.gallery3d.app.GalleryActivity",
     "com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery",
@@ -2020,7 +2035,6 @@
     "com.lge.Notebook/com.lge.Notebook.viewallnotes.RNote_AllNotesView",
     "com.mediatek.notebook/com.mediatek.notebook.NotesList",
     "com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity",
-    "com.miui.notes/com.miui.notes.ui.NotesListActivity",
     "com.nearme.note/com.nearme.note.view.SetAndCheckPasswordActivity",
     "com.oneplus.note/com.oneplus.note.ui.MainActivity",
     "com.pantech.app.notepad/com.pantech.app.notepad.NotePadLauncher",
@@ -2424,7 +2438,6 @@
     "com.lava.weather/com.lava.weather.WelcomeActivity",
     "com.lge.sizechangable.weather/.activities.WeatherActivity_Default",
     "com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity",
-    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain",
     "com.moji.zuk/com.moji.zuk.CSplashScreen",
     "com.pantech.weather/com.pantech.weather.app.WeatherDetail",
     "com.rlk.weathers/com.rlk.weathers.activity.WeatherMainActivity",
