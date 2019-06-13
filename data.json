@@ -1,4 +1,7 @@
 {
+  "miui_community": [
+    "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
+  ],
   "miui_smarthome": [
     "com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
   ],
