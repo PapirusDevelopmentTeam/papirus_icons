@@ -202,7 +202,7 @@
     "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
   ],
   "apps_nova_launcher_settings": [
-    "com.teslacoilsw.launcher.preferences.SettingsActivity"
+    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
   ],
   "apps_activity_launcher": [
     "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
