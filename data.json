@@ -1158,7 +1158,7 @@
     "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
     "com.playdead.limbo/com.playdead.limbo.LimboActivity"
   ],
-  "google": [
+  "google_google": [
     "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
   "google_accessibility_auditor": [
