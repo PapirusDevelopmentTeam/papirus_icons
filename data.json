@@ -23,6 +23,33 @@
   "miui_file_manager": [
     "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
   ],
+  "apps_rutaxi": [
+    "com.its.rto/com.its.app.client.activity.SplashActivity"
+  ],
+  "apps_readera": [
+    "org.readera/com.readera.MainActivity"
+  ],
+  "apps_quickedit": [
+    "com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity"
+  ],
+  "apps_twrp": [
+    "me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity"
+  ],
+  "apps_guitartuna": [
+    "com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_dukto": [
+    "it.msec.dukto/it.msec.dukto.Dukto"
+  ],
+  "apps_audioknigi_online": [
+    "com.audioknigi.app/com.audioknigi.app.SplashActivity"
+  ],
+  "apps_avito": [
+    "com.avito.android/com.avito.android.Launcher"
+  ],
+  "apps_4pda": [
+    "ru.fourpda.client/ru.fourpda.client.MainActivity"
+  ],
   "apps_termux": [
     "com.termux/com.termux.app.TermuxActivity"
   ],
@@ -1158,7 +1185,7 @@
     "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
     "com.playdead.limbo/com.playdead.limbo.LimboActivity"
   ],
-  "google": [
+  "google_google": [
     "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
   "google_accessibility_auditor": [
