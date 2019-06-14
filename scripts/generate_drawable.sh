@@ -39,9 +39,6 @@ $(get_icons_from_category "System")
     <category title="Google" />
 $(get_icons_from_category "Google")
 
-    <category title="MIUI" />
-$(get_icons_from_category "MIUI")
-
     <category title="Apps" />
 $(get_icons_from_category "Apps")
 
