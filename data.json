@@ -1,56 +1,43 @@
 {
-  "miui_community": [
+  "apps_miui_community": [
     "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
   ],
-  "miui_smarthome": [
+  "apps_miui_smarthome": [
     "com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
   ],
-  "miui_shop": [
+  "apps_miui_shop": [
    "com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity"
   ],
-  "miui_market": [
+  "apps_miui_market": [
     "com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
   ],
-  "miui_games": [
+  "apps_miui_games": [
     "com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
   ],
-  "miui_notes": [
+  "apps_miui_notes": [
     "com.miui.notes/com.miui.notes.ui.NotesListActivity"
   ],
-  "miui_mipay": [
+  "apps_miui_mipay": [
     "com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity"
   ],
-  "miui_weather": [
-    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
-  ],
-  "miui_gallery": [
-    "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
-    "com.miui.gallery/com.miui.gallery.app.Gallery"
-  ],
-  "miui_themes": [
-    "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
-  ],
-  "miui_security": [
+  "apps_miui_security": [
     "com.miui.securitycenter/com.miui.securityscan.MainActivity"
   ],
-  "miui_screen_recorder": [
+  "apps_miui_screen_recorder": [
     "com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
   ],
-  "miui_scanner": [
+  "apps_miui_scanner": [
     "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
   ],
-  "miui_mi_video": [
+  "apps_miui_mi_video": [
     "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity",
     "com.miui.video/com.miui.video.HomeActivity"
   ],
-  "miui_mi_drop": [
+  "apps_miui_mi_drop": [
     "com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
   ],
-  "miui_feedback": [
+  "apps_miui_feedback": [
     "com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
-  ],
-  "miui_file_manager": [
-    "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
   ],
   "apps_ximalaya_fm":[
     "com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity"
@@ -1707,7 +1694,8 @@
     "zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock"
   ],
   "system_color": [
-    "com.huaqin.personcenter/com.huaqin.personcenter.PersonCenterActivity"
+    "com.huaqin.personcenter/com.huaqin.personcenter.PersonCenterActivity",
+    "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
   ],
   "system_compass": [
     "apps.r.compass/apps.r.compass.StartActivity",
@@ -1844,6 +1832,7 @@
     "com.meizu.filemanager/com.meizu.filemanager.managefile.FileManagerActivity",
     "com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity",
     "com.mhoffs.filemanagerplusfree/com.mhoffs.filemanagerplusfree.AMain",
+    "com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity",
     "com.motorola.filemanager/com.motorola.filemanager.FileManagerActivity",
     "com.motorola.filemanager/com.motorola.filemanager.MainFileManagerActivity",
     "com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity",
@@ -1915,7 +1904,9 @@
     "com.zui.gallery/com.zui.gallery.app.GalleryActivity",
     "jp.kyocera.kyoceradrmgallery/jp.kyocera.kyoceradrmgallery.ThumbnailViewerActivity",
     "org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity",
-    "org.mokee.venus/com.android.gallery3d.app.GalleryActivity"
+    "org.mokee.venus/com.android.gallery3d.app.GalleryActivity",
+    "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
+    "com.miui.gallery/com.miui.gallery.app.Gallery"
   ],
   "system_gesture_builder": [
     "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
@@ -2463,7 +2454,8 @@
     "com.sec.android.widgetapp.ap.hero.kweather/com.sec.android.widgetapp.ap.hero.kweather.WeatherLauncher",
     "com.tct.weather.bb/com.tct.weather.MainActivity",
     "com.tct.weather/com.tct.weather.MainActivity",
-    "net.oneplus.weather/net.oneplus.weather.app.MainActivity"
+    "net.oneplus.weather/net.oneplus.weather.app.MainActivity",
+    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
