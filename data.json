@@ -1,4 +1,52 @@
 {
+  "apps_cisco_anyconnect": [
+    "com.cisco.anyconnect.vpn.android.avf/com.cisco.anyconnect.ui.PrimaryActivity"
+  ],
+  "apps_buttercup": [
+    "com.buttercup/com.buttercup.MainActivity"
+  ],
+  "games_bridge_constructor_portal": [
+    "com.headupgames.bridgeconstructorportal/com.feng.ym.ad.YMLoginActivity"
+  ],
+  "games_borderlands_2": [
+    "com.tt2kgames.Borderlands2/Downloader"
+  ],
+  "apps_boinc": [
+    "edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity",
+    "sk.boinc.androboinc/sk.boinc.androboinc.BoincManagerActivity"
+  ],
+  "apps_bluejeans": [
+    "com.bluejeansnet.Base/com.bluejeansnet.Base.entry.SplashActivity"
+  ],
+  "apps_bitcoin": [
+    "de.schildbach.wallet/de.schildbach.wallet.WalletActivity",
+    "com.bitcoin.mwallet/com.bitcoin.mwallet.MainActivity"
+  ],
+  "apps_bisq_notifications": [
+    "com.joachimneumann.bisq/com.joachimneumann.bisq.ActivityWelcome"
+  ],
+  "apps_authy": [
+    "com.authy.authy/com.authy.authy.activities.InitializationActivity"
+  ],
+  "games_ark": [
+    "com.studiowildcard.wardrumstudios.ark/com.epicgames.ue4.SplashActivity"
+  ],
+  "apps_anydesk": [
+    "com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity"
+  ],
+  "apps_androidstudio": [
+    "com.okcoding.sai.androidstudio/com.okcoding.sai.androidstudio.MainActivity"
+  ],
+  "apps_adobe_reader": [
+    "com.adobe.reader/com.adobe.reader.AdobeReader"
+  ],
+  "apps_adobe_photoshop_express": [
+    "com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
+  ],
+  "apps_qbittorrent": [
+    "com.lgallardo.qbittorrentclient/com.lgallardo.qbittorrentclient.MainActivity",
+    "com.lgallardo.qbittorrentclientpro/com.lgallardo.qbittorrentclient.MainActivity"
+  ],
   "apps_miui_community": [
     "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
   ],
