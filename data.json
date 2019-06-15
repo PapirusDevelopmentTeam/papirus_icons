@@ -1,4 +1,8 @@
 {
+  "apps_deltachat": [
+    "chat.delta/org.thoughtcrime.securesms.RoutingActivity",
+    "chat.delta/org.thoughtcrime.securesms.ConversationListActivity"
+  ],
   "apps_deflemask": [
     "com.deflemask.mobile/com.deflemask.mobile.DefleMask"
   ],
