@@ -1,4 +1,19 @@
 {
+  "apps_deflemask": [
+    "com.deflemask.mobile/com.deflemask.mobile.DefleMask"
+  ],
+  "apps_deezer": [
+    "deezer.android.app/com.deezer.android.ui.activity.LauncherActivity"
+  ],
+  "apps_datovka": [
+    "cz.nic.mobiledatovka/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_cryptomator": [
+    "org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity"
+  ],
+  "apps_citrix_receiver": [
+    "com.citrix.Receiver/com.citrix.client.Receiver.ui.activities.SplashActivity"
+  ],
   "apps_cisco_anyconnect": [
     "com.cisco.anyconnect.vpn.android.avf/com.cisco.anyconnect.ui.PrimaryActivity"
   ],
