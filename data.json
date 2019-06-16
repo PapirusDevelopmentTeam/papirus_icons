@@ -1,4 +1,34 @@
 {
+  "apps_emby": [
+    "com.mb.android/com.mb.android.MainActivity"
+  ],
+  "apps_emacs": [
+    "com.zielm.emacs/jackpal.androidterm.Term",
+    "com.zdivdev.ebook.emacs/com.zdivdev.ebook.emacs.MainActivity",
+    "teo.emacsreference/teo.emacsreference.EmacsQuickReferenceMainActivity"
+  ],
+  "apps_drweb": [
+    "com.drweb.pro.market/com.drweb.ui.main.MainActivity",
+    "com.drweb/com.drweb.ui.main.MainActivity"
+  ],
+  "apps_drweb_mcc": [
+    "com.drweb.mcc/com.drweb.mcc.ui.MainActivity"
+  ],
+  "apps_dropbox": [
+    "com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
+  ],
+  "games_door_kickers": [
+    "com.khg.doorkickers/com.vmax.android.service.VmaxServiceManager"
+  ],
+  "games_dont_starve": [
+    "com.kleientertainment.doNotStarvePocket/com.kleientertainment.doNotStarvePocket.DoNotStarveActivity"
+  ],
+  "games_dont_starve_shipwrecked": [
+    "com.kleientertainment.doNotStarveShipwrecked/com.kleientertainment.doNotStarveShipwrecked.DoNotStarveActivity"
+  ],
+  "apps_dolphin_emu": [
+    "org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity"
+  ],
   "apps_deltachat": [
     "chat.delta/org.thoughtcrime.securesms.RoutingActivity",
     "chat.delta/org.thoughtcrime.securesms.ConversationListActivity"
