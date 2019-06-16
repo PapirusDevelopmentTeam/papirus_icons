@@ -1,4 +1,38 @@
 {
+  "apps_everdo": [
+    "net.everdo.everdo/net.everdo.everdo.activity_main.MainActivity"
+  ],
+  "games_evedroid": [
+    "dk.alxb.evedroid/dk.alxb.evedroid.character.CharacterActivity"
+  ],
+  "apps_ettercap": [
+    "jolt151.ettercapforandroid/jolt151.ettercapforandroid.MainActivity"
+  ],
+  "apps_ethereum_wallet": [
+    "eth.org.freewallet.app/eth.org.freewallet.app.MainActivity"
+  ],
+  "games_eternal_lands": [
+    "com.purebinary.elc/ELCActivity"
+  ],
+  "apps_estmob_sendanywhere": [
+    "com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity"
+  ],
+  "apps_enpass": [
+    "io.enpass.app/io.enpass.app.SplashScreenActivity",
+    "io.enpass.app/in.sinew.enpass.MainActivity",
+    "io.enpass.app.beta/io.enpass.app.SplashScreenActivity"
+  ],
+  "apps_encryptr": [
+    "org.devgeeks.encryptr/org.devgeeks.encryptr.MainActivity"
+  ],
+  "apps_emule": [
+    "org.dkfsoft.AMule",
+    "org.dkfsoft.AndroidMuleFree/org.dkfsoft.AndroidMuleFree.FreeDonkey",
+    "it.emrc.android/it.emrc.android.activity.SplashActivity",
+    "org.dkf.jmule/org.dkf.jmule.activities.SplashActivity",
+    "com.devwom.amldonkey/com.devwom.amldonkey.MainActivity",
+    "org.genux.muledroid/org.genux.muledroid.MainActivity"
+  ],
   "apps_emby": [
     "com.mb.android/com.mb.android.MainActivity"
   ],
