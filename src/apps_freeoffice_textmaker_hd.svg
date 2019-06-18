@@ -21,25 +21,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs20">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter881"
-       x="-0.056000001"
-       width="1.112"
-       y="-0.041999999"
-       height="1.084">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.68"
-         id="feGaussianBlur883" />
-    </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -52,6 +39,19 @@
          inkscape:collect="always"
          stdDeviation="3.2"
          id="feGaussianBlur845" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter839"
+       x="-0.056470588"
+       width="1.1129412"
+       y="-0.04173913"
+       height="1.0834783">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6"
+         id="feGaussianBlur841" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -67,8 +67,8 @@
      inkscape:window-height="1018"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="1.87"
-     inkscape:cx="-58.129278"
+     inkscape:zoom="2.82"
+     inkscape:cx="71.109023"
      inkscape:cy="100.04563"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -97,13 +97,15 @@
      id="circle847"
      inkscape:connector-curvature="0" />
   <path
-     id="path8"
-     d="m 132,51.999997 v 16 H 104 V 148 H 88 V 67.999997 H 60 v -16 z"
-     style="font-size:medium;line-height:1.25;letter-spacing:0px;word-spacing:0px;opacity:0.2;stroke-width:3.35747433;filter:url(#filter881)"
-     inkscape:connector-curvature="0" />
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:connector-curvature="0"
+     style="font-size:medium;line-height:1.25;letter-spacing:0px;word-spacing:0px;opacity:0.2;fill:#000000;stroke-width:3.35747433;filter:url(#filter839)"
+     d="m 130,56 v 16 h -26 v 76 H 88 V 72 H 62 V 56 Z"
+     id="path821" />
   <path
      id="path10"
-     d="m 132,49.999997 v 16 H 104 V 146 H 88 V 65.999997 H 60 v -16 z"
+     d="m 130,54 v 16 h -26 v 76 H 88 V 70 H 62 V 54 Z"
      style="font-size:medium;line-height:1.25;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:3.35747433"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
 </svg>
