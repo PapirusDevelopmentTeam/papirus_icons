@@ -1,4 +1,34 @@
 {
+  "google_gmail_go": [
+    "com.google.android.gm.lite/com.google.android.gm.ConversationListActivityGmail"
+  ],
+  "apps_gitter": [
+    "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
+  ],
+  "apps_gitkraken": [
+    "com.axosoft.glo/com.axosoft.glo.MainActivity"
+  ],
+  "apps_octodroid": [
+    "com.gh4a/com.gh4a.activities.Github4AndroidActivity"
+  ],
+  "apps_openhub": [
+    "com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity"
+  ],
+  "apps_gimp": [
+    "org.dandroidmobile.xgimp/org.dandroidmobile.xgimp.gui.MainActivity"
+  ],
+  "apps_geogebra_classic": [
+    "org.geogebra/org.geogebra.GeoGebra"
+  ],
+  "apps_gcstar_scanner": [
+    "com.gcstar.scanner/com.gcstar.scanner.GCstarScanner"
+  ],
+  "apps_gcstar": [
+    "com.gcstar.viewer/com.gcstar.viewer.GCstarViewer"
+  ],
+  "games_frozen_bubble": [
+    "org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen"
+  ],
   "apps_freeoffice_textmaker_hd": [
     "softmaker.applications.textmaker.hd.basic/softmaker.applications.textmaker.hd.basic.TextMakerHDBasic",
     "softmaker.applications.textmaker.hdtrial/softmaker.applications.textmaker.hdtrial.TextMakerHDTrial",
