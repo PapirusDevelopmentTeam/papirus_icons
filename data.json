@@ -1,4 +1,52 @@
 {
+  "apps_freeoffice_textmaker_hd": [
+    "softmaker.applications.textmaker.hd.basic/softmaker.applications.textmaker.hd.basic.TextMakerHDBasic",
+    "softmaker.applications.textmaker.hdtrial/softmaker.applications.textmaker.hdtrial.TextMakerHDTrial",
+    "softmaker.applications.textmaker.hd/softmaker.applications.textmaker.hd.TextMakerHD"
+  ],
+  "apps_freeoffice_presentations_hd": [
+    "softmaker.applications.presentations.hd.basic/softmaker.applications.presentations.hd.basic.PresentationsHDBasic",
+    "softmaker.applications.presentations.hdtrial/softmaker.applications.presentations.hdtrial.PresentationsHDTrial",
+    "softmaker.applications.presentations.hd/softmaker.applications.presentations.hd.PresentationsHD"
+  ],
+  "apps_freeoffice_planmaker_hd": [
+   "softmaker.applications.planmaker.hd.basic/softmaker.applications.planmaker.hd.basic.PlanMakerHDBasic",
+   "softmaker.applications.planmaker.hdtrial/softmaker.applications.planmaker.hdtrial.PlanMakerHDTrial",
+   "softmaker.applications.planmaker.hd/softmaker.applications.planmaker.hd.PlanMakerHD"
+  ],
+  "apps_freeoffice_textmaker": [
+    "softmaker.applications.textmakertrial/softmaker.applications.textmakertrial.TextMaker",
+    "softmaker.applications.textmaker/softmaker.applications.textmaker.TextMaker"
+  ],
+  "apps_freeoffice_presentations": [
+    "softmaker.applications.presentationstrial/softmaker.applications.presentationstrial.Presentations",
+    "softmaker.applications.presentations/softmaker.applications.presentations.Presentations"
+  ],
+  "apps_freeoffice_planmaker": [
+    "softmaker.applications.planmakertrial/softmaker.applications.planmakertrial.PlanMaker",
+    "softmaker.applications.planmaker/softmaker.applications.planmaker.PlanMaker"
+  ],
+  "games_freedoom": [
+    "net.nullsum.freedoom/net.nullsum.freedoom.EntryActivity"
+  ],
+  "apps_freeciv": [
+    "pl.org.zielinscy.freeciv/org.libsdl.app.SDLActivity"
+  ],
+  "apps_foxit_pdfscanner": [
+    "com.luratech.android.pdfscanner/com.luratech.android.pdfscanner.activity.BrowserAddDocumentActivity"
+  ],
+  "apps_foxit_mobile": [
+    "com.foxit.mobile.pdf.lite/com.fuxin.app.frame.AppActivity"
+  ],
+  "apps_foursquare": [
+    "com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity"
+  ],
+  "apps_flux": [
+    "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
+  ],
+  "apps_flickr": [
+    "com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity"
+  ],
   "apps_firefox_reality": [
     "org.mozilla.vrbrowser/org.mozilla.vrbrowser.VRBrowserActivity"
   ],
