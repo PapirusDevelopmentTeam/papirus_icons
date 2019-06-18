@@ -1,475 +1,4 @@
 {
-  "google_gmail_go": [
-    "com.google.android.gm.lite/com.google.android.gm.ConversationListActivityGmail"
-  ],
-  "apps_gitter": [
-    "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
-  ],
-  "apps_gitkraken": [
-    "com.axosoft.glo/com.axosoft.glo.MainActivity"
-  ],
-  "apps_octodroid": [
-    "com.gh4a/com.gh4a.activities.Github4AndroidActivity"
-  ],
-  "apps_openhub": [
-    "com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity"
-  ],
-  "apps_gimp": [
-    "org.dandroidmobile.xgimp/org.dandroidmobile.xgimp.gui.MainActivity"
-  ],
-  "apps_geogebra_classic": [
-    "org.geogebra/org.geogebra.GeoGebra"
-  ],
-  "apps_gcstar_scanner": [
-    "com.gcstar.scanner/com.gcstar.scanner.GCstarScanner"
-  ],
-  "apps_gcstar": [
-    "com.gcstar.viewer/com.gcstar.viewer.GCstarViewer"
-  ],
-  "games_frozen_bubble": [
-    "org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen"
-  ],
-  "apps_freeoffice_textmaker_hd": [
-    "softmaker.applications.textmaker.hd.basic/softmaker.applications.textmaker.hd.basic.TextMakerHDBasic",
-    "softmaker.applications.textmaker.hdtrial/softmaker.applications.textmaker.hdtrial.TextMakerHDTrial",
-    "softmaker.applications.textmaker.hd/softmaker.applications.textmaker.hd.TextMakerHD"
-  ],
-  "apps_freeoffice_presentations_hd": [
-    "softmaker.applications.presentations.hd.basic/softmaker.applications.presentations.hd.basic.PresentationsHDBasic",
-    "softmaker.applications.presentations.hdtrial/softmaker.applications.presentations.hdtrial.PresentationsHDTrial",
-    "softmaker.applications.presentations.hd/softmaker.applications.presentations.hd.PresentationsHD"
-  ],
-  "apps_freeoffice_planmaker_hd": [
-   "softmaker.applications.planmaker.hd.basic/softmaker.applications.planmaker.hd.basic.PlanMakerHDBasic",
-   "softmaker.applications.planmaker.hdtrial/softmaker.applications.planmaker.hdtrial.PlanMakerHDTrial",
-   "softmaker.applications.planmaker.hd/softmaker.applications.planmaker.hd.PlanMakerHD"
-  ],
-  "apps_freeoffice_textmaker": [
-    "softmaker.applications.textmakertrial/softmaker.applications.textmakertrial.TextMaker",
-    "softmaker.applications.textmaker/softmaker.applications.textmaker.TextMaker"
-  ],
-  "apps_freeoffice_presentations": [
-    "softmaker.applications.presentationstrial/softmaker.applications.presentationstrial.Presentations",
-    "softmaker.applications.presentations/softmaker.applications.presentations.Presentations"
-  ],
-  "apps_freeoffice_planmaker": [
-    "softmaker.applications.planmakertrial/softmaker.applications.planmakertrial.PlanMaker",
-    "softmaker.applications.planmaker/softmaker.applications.planmaker.PlanMaker"
-  ],
-  "games_freedoom": [
-    "net.nullsum.freedoom/net.nullsum.freedoom.EntryActivity"
-  ],
-  "apps_freeciv": [
-    "pl.org.zielinscy.freeciv/org.libsdl.app.SDLActivity"
-  ],
-  "apps_foxit_pdfscanner": [
-    "com.luratech.android.pdfscanner/com.luratech.android.pdfscanner.activity.BrowserAddDocumentActivity"
-  ],
-  "apps_foxit_mobile": [
-    "com.foxit.mobile.pdf.lite/com.fuxin.app.frame.AppActivity"
-  ],
-  "apps_foursquare": [
-    "com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity"
-  ],
-  "apps_flux": [
-    "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
-  ],
-  "apps_flickr": [
-    "com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity"
-  ],
-  "apps_firefox_reality": [
-    "org.mozilla.vrbrowser/org.mozilla.vrbrowser.VRBrowserActivity"
-  ],
-  "apps_figma": [
-    "com.figma.mirror/com.figma.mirror.ViewerActivity"
-  ],
-  "apps_fbreader": [
-    "org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader",
-    "com.fbreader/com.fbreader.android.fbreader.FBReader"
-  ],
-  "apps_facebook_pages": [
-    "com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity"
-  ],
-  "apps_fbmessenger_lite": [
-    "com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity"
-  ],
-  "apps_facebook_lite": [
-    "com.facebook.lite/com.facebook.lite.MainActivity"
-  ],
-  "apps_exodus_wallet": [
-    "exodusmovement.exodus/exodusmovement.exodus.MainActivity"
-  ],
-  "apps_evernote": [
-    "com.evernote/com.evernote.ui.HomeActivity"
-  ],
-  "apps_everdo": [
-    "net.everdo.everdo/net.everdo.everdo.activity_main.MainActivity"
-  ],
-  "games_evedroid": [
-    "dk.alxb.evedroid/dk.alxb.evedroid.character.CharacterActivity"
-  ],
-  "apps_ettercap": [
-    "jolt151.ettercapforandroid/jolt151.ettercapforandroid.MainActivity"
-  ],
-  "apps_ethereum_wallet": [
-    "eth.org.freewallet.app/eth.org.freewallet.app.MainActivity"
-  ],
-  "games_eternal_lands": [
-    "com.purebinary.elc/ELCActivity"
-  ],
-  "apps_estmob_sendanywhere": [
-    "com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity"
-  ],
-  "apps_enpass": [
-    "io.enpass.app/io.enpass.app.SplashScreenActivity",
-    "io.enpass.app/in.sinew.enpass.MainActivity",
-    "io.enpass.app.beta/io.enpass.app.SplashScreenActivity"
-  ],
-  "apps_encryptr": [
-    "org.devgeeks.encryptr/org.devgeeks.encryptr.MainActivity"
-  ],
-  "apps_emule": [
-    "org.dkfsoft.AMule",
-    "org.dkfsoft.AndroidMuleFree/org.dkfsoft.AndroidMuleFree.FreeDonkey",
-    "it.emrc.android/it.emrc.android.activity.SplashActivity",
-    "org.dkf.jmule/org.dkf.jmule.activities.SplashActivity",
-    "com.devwom.amldonkey/com.devwom.amldonkey.MainActivity",
-    "org.genux.muledroid/org.genux.muledroid.MainActivity"
-  ],
-  "apps_emby": [
-    "com.mb.android/com.mb.android.MainActivity"
-  ],
-  "apps_emacs": [
-    "com.zielm.emacs/jackpal.androidterm.Term",
-    "com.zdivdev.ebook.emacs/com.zdivdev.ebook.emacs.MainActivity",
-    "teo.emacsreference/teo.emacsreference.EmacsQuickReferenceMainActivity"
-  ],
-  "apps_drweb": [
-    "com.drweb.pro.market/com.drweb.ui.main.MainActivity",
-    "com.drweb/com.drweb.ui.main.MainActivity"
-  ],
-  "apps_drweb_mcc": [
-    "com.drweb.mcc/com.drweb.mcc.ui.MainActivity"
-  ],
-  "apps_dropbox": [
-    "com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
-  ],
-  "games_door_kickers": [
-    "com.khg.doorkickers/com.vmax.android.service.VmaxServiceManager"
-  ],
-  "games_dont_starve": [
-    "com.kleientertainment.doNotStarvePocket/com.kleientertainment.doNotStarvePocket.DoNotStarveActivity"
-  ],
-  "games_dont_starve_shipwrecked": [
-    "com.kleientertainment.doNotStarveShipwrecked/com.kleientertainment.doNotStarveShipwrecked.DoNotStarveActivity"
-  ],
-  "apps_dolphin_emu": [
-    "org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity"
-  ],
-  "apps_deltachat": [
-    "chat.delta/org.thoughtcrime.securesms.RoutingActivity",
-    "chat.delta/org.thoughtcrime.securesms.ConversationListActivity"
-  ],
-  "apps_deflemask": [
-    "com.deflemask.mobile/com.deflemask.mobile.DefleMask"
-  ],
-  "apps_deezer": [
-    "deezer.android.app/com.deezer.android.ui.activity.LauncherActivity"
-  ],
-  "apps_datovka": [
-    "cz.nic.mobiledatovka/org.qtproject.qt5.android.bindings.QtActivity"
-  ],
-  "apps_cryptomator": [
-    "org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity"
-  ],
-  "apps_citrix_receiver": [
-    "com.citrix.Receiver/com.citrix.client.Receiver.ui.activities.SplashActivity"
-  ],
-  "apps_cisco_anyconnect": [
-    "com.cisco.anyconnect.vpn.android.avf/com.cisco.anyconnect.ui.PrimaryActivity"
-  ],
-  "apps_buttercup": [
-    "com.buttercup/com.buttercup.MainActivity"
-  ],
-  "games_bridge_constructor_portal": [
-    "com.headupgames.bridgeconstructorportal/com.feng.ym.ad.YMLoginActivity"
-  ],
-  "games_borderlands_2": [
-    "com.tt2kgames.Borderlands2/Downloader"
-  ],
-  "apps_boinc": [
-    "edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity",
-    "sk.boinc.androboinc/sk.boinc.androboinc.BoincManagerActivity"
-  ],
-  "apps_bluejeans": [
-    "com.bluejeansnet.Base/com.bluejeansnet.Base.entry.SplashActivity"
-  ],
-  "apps_bitcoin": [
-    "de.schildbach.wallet/de.schildbach.wallet.WalletActivity",
-    "com.bitcoin.mwallet/com.bitcoin.mwallet.MainActivity"
-  ],
-  "apps_bisq_notifications": [
-    "com.joachimneumann.bisq/com.joachimneumann.bisq.ActivityWelcome"
-  ],
-  "apps_authy": [
-    "com.authy.authy/com.authy.authy.activities.InitializationActivity"
-  ],
-  "games_ark": [
-    "com.studiowildcard.wardrumstudios.ark/com.epicgames.ue4.SplashActivity"
-  ],
-  "apps_anydesk": [
-    "com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity"
-  ],
-  "apps_androidstudio": [
-    "com.okcoding.sai.androidstudio/com.okcoding.sai.androidstudio.MainActivity"
-  ],
-  "apps_adobe_reader": [
-    "com.adobe.reader/com.adobe.reader.AdobeReader"
-  ],
-  "apps_adobe_photoshop_express": [
-    "com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
-  ],
-  "apps_qbittorrent": [
-    "com.lgallardo.qbittorrentclient/com.lgallardo.qbittorrentclient.MainActivity",
-    "com.lgallardo.qbittorrentclientpro/com.lgallardo.qbittorrentclient.MainActivity"
-  ],
-  "apps_miui_community": [
-    "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
-  ],
-  "apps_miui_smarthome": [
-    "com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
-  ],
-  "apps_miui_shop": [
-   "com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity"
-  ],
-  "apps_miui_market": [
-    "com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
-  ],
-  "apps_miui_games": [
-    "com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
-  ],
-  "apps_miui_notes": [
-    "com.miui.notes/com.miui.notes.ui.NotesListActivity"
-  ],
-  "apps_miui_mipay": [
-    "com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity"
-  ],
-  "apps_miui_security": [
-    "com.miui.securitycenter/com.miui.securityscan.MainActivity"
-  ],
-  "apps_miui_screen_recorder": [
-    "com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
-  ],
-  "apps_miui_scanner": [
-    "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
-  ],
-  "apps_miui_mi_video": [
-    "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity",
-    "com.miui.video/com.miui.video.HomeActivity"
-  ],
-  "apps_miui_mi_drop": [
-    "com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
-  ],
-  "apps_miui_feedback": [
-    "com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
-  ],
-  "apps_ximalaya_fm":[
-    "com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity"
-  ],
-  "apps_duokan_reader": [
-    "com.duokan.reader/com.duokan.reader.DkReaderActivity"
-  ],
-  "apps_zarchiver_pro": [
-    "ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver"
-  ],
-  "apps_zarchiver": [
-    "ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver"
-  ],
-  "apps_wps_wpa_tester": [
-    "as.wps.wpatester/as.wps.wpatester.ui.splash.SplashActivity",
-    "com.tester.wpswpatester/as.wps.wpatester.ui.splash.SplashActivity"
-  ],
-  "apps_sound_meter": [
-    "com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi"
-  ],
-  "apps_rutaxi": [
-    "com.its.rto/com.its.app.client.activity.SplashActivity"
-  ],
-  "apps_readera": [
-    "org.readera/com.readera.MainActivity"
-  ],
-  "apps_quickedit": [
-    "com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity"
-  ],
-  "apps_twrp": [
-    "me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity"
-  ],
-  "apps_guitartuna": [
-    "com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity"
-  ],
-  "apps_dukto": [
-    "it.msec.dukto/it.msec.dukto.Dukto"
-  ],
-  "apps_audioknigi_online": [
-    "com.audioknigi.app/com.audioknigi.app.SplashActivity"
-  ],
-  "apps_avito": [
-    "com.avito.android/com.avito.android.Launcher"
-  ],
-  "apps_4pda": [
-    "ru.fourpda.client/ru.fourpda.client.MainActivity"
-  ],
-  "apps_termux": [
-    "com.termux/com.termux.app.TermuxActivity"
-  ],
-  "apps_komoot": [
-    "de.komoot.android/de.komoot.android.app.InspirationActivity"
-  ],
-  "apps_zerotier_one": [
-    "com.zerotier.one/com.zerotier.one.ui.NetworkListActivity"
-  ],
-  "apps_zenmoney": [
-    "ru.zenmoney.androidsub/ru.zenmoney.android.activities.EnterActivity"
-  ],
-  "apps_wifi_adb": [
-    "com.ttxapps.wifiadb/com.ttxapps.wifiadb.MainActivity"
-  ],
-  "apps_track24": [
-    "net.track24.android/net.track24.android.SplashActivity"
-  ],
-  "apps_trackbook": [
-    "org.y20k.trackbook/org.y20k.trackbook.MainActivity"
-  ],
-  "apps_syncthing": [
-    "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
-  ],
-  "apps_supersu": [
-    "eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
-  ],
-  "apps_strava": [
-    "com.strava/com.strava.SplashActivity"
-  ],
-  "apps_secure_settings": [
-    "com.intangibleobject.securesettings.plugin/com.intangibleobject.securesettings.plugin.Activities.MainTabsActivity"
-  ],
-  "apps_seconds_clock": [
-    "wan.util.barclock/wan.util.barclock.BarClockConfigActivity"
-  ],
-  "apps_relive": [
-    "cc.relive.reliveapp/cc.relive.reliveapp.MainActivity"
-  ],
-  "apps_privat24": [
-    "ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity"
-  ],
-  "apps_osmand": [
-    "net.osmand/net.osmand.plus.activities.MapActivity"
-  ],
-  "apps_osmand_plus": [
-    "net.osmand.plus/net.osmand.plus.activities.MapActivity"
-  ],
-  "apps_olx": [
-    "ua.slando/pl.tablica2.app.startup.activity.StartupActivity"
-  ],
-  "apps_nightshift": [
-    "com.waddensky.nightshift/com.waddensky.nightshift.ActivitySplash"
-  ],
-  "apps_network_tools": [
-    "net.he.networktools/net.he.networktools.MainActivity"
-  ],
-  "apps_my_vodafone": [
-    "ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity"
-  ],
-  "apps_my_shows": [
-    "ru.myshows.activity/ru.myshows.activity.MainActivity"
-  ],
-  "apps_mixplorer": [
-    "com.mixplorer/com.mixplorer.activities.BrowseActivity"
-  ],
-  "apps_mikrotik": [
-    "com.mikrotik.android.tikapp/com.mikrotik.android.tikapp.activities.MainActivity"
-  ],
-  "apps_megabonus": [
-    "com.alibonus.alibonus/com.alibonus.alibonus.ui.activity.StartActivity"
-  ],
-  "apps_listen_audiobook_player": [
-    "com.acmeandroid.listen/com.acmeandroid.listen.SplashActivity"
-  ],
-  "apps_lichess": [
-    "org.lichess.mobileapp/org.lichess.mobileapp.MainActivity"
-  ],
-  "apps_l_speed": [
-    "com.paget96.lspeed/com.paget96.lspeed.activities.SplashScreenActivity"
-  ],
-  "apps_keepass2android_offline": [
-    "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass"
-  ],
-  "apps_keepass2android": [
-    "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
-  ],
-  "apps_here_wego": [
-    "com.here.app.maps/com.here.app.OneAppLauncherAlias"
-  ],
-  "apps_heavens_above": [
-    "com.heavens_above.viewer/com.heavens_above.viewer.ViewerActivity"
-  ],
-  "apps_gps_data": [
-    "com.pierwiastek.gpsdata/com.pierwiastek.gpsdata.activities.MainActivity"
-  ],
-  "apps_gearcalculator": [
-    "com.gearcalculator/com.gearcalculator.ui.activities.MainActivity"
-  ],
-  "apps_feedly_classic": [
-    "com.devhd.feedly.classic/com.devhd.feedly.Main"
-  ],
-  "apps_fasthub": [
-    "com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity"
-  ],
-  "apps_e_num": [
-    "ru.e_num/ru.e_num.app.view.EMainActivity"
-  ],
-  "apps_difm_radio": [
-    "com.audioaddict.di/md5256881233f05e1a12873c405322115cb.SplashActivity"
-  ],
-  "apps_clocksync": [
-    "ru.org.amip.ClockSync/ru.org.amip.ClockSync.view.Main"
-  ],
-  "apps_bluebatt": [
-    "tk.alessio.bluebatt/tk.alessio.bluebatt.SplashActivity"
-  ],
-  "apps_bitwarden": [
-    "com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity"
-  ],
-  "apps_banggood": [
-    "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
-  ],
-  "apps_antennapod": [
-    "de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity"
-  ],
-  "apps_ankidroid": [
-    "com.ichi2.anki/com.ichi2.anki.IntentHandler"
-  ],
-  "apps_aliexpress": [
-    "com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity"
-  ],
-  "apps_novaposhtaa": [
-    "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity"
-  ],
-  "apps_nova_launcher": [
-    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
-  ],
-  "apps_nova_launcher_settings": [
-    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
-  ],
-  "apps_activity_launcher": [
-    "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
-  ],
-  "apps_adguard": [
-    "com.adguard.android/com.adguard.android.ui.SplashActivity"
-  ],
-  "apps_alfabank": [
-    "ru.alfabank.mobile.android/ru.alfabank.mobile.android.presentation.feature.splash.activity.SplashActivity",
-    "ru.alfabank.mobile.ua.android/ru.alfabank.mobile.ua.android.presentation.feature.splash.activity.SplashActivity"
-  ],
   "apps_321_mediaplayer": [
     "photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity",
     "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"
@@ -481,6 +10,9 @@
   ],
   "apps_4g_lte_browser": [
     "hero.browser4g.internet/acr.browser.lightning.activity.SplashScreenActivity"
+  ],
+  "apps_4pda": [
+    "ru.fourpda.client/ru.fourpda.client.MainActivity"
   ],
   "apps_8g_browser": [
     "com.js.browserjstechgroup/com.mmbox.xbrowser.BrowserActivity"
@@ -501,6 +33,9 @@
   "apps_accountstudio_mp3_player": [
     "mp3songs.mp3player.mp3cutter.ringtonemaker/com.music.player.mp3.player.cut.MainActivity"
   ],
+  "apps_activity_launcher": [
+    "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
+  ],
   "apps_adaway": [
     "org.adaway/org.adaway.ui.MainActivity"
   ],
@@ -512,6 +47,15 @@
   ],
   "apps_adblock_plus": [
     "org.adblockplus.adblockplussbrowser/org.adblockplus.sbrowser.contentblocker.MainPreferences"
+  ],
+  "apps_adguard": [
+    "com.adguard.android/com.adguard.android.ui.SplashActivity"
+  ],
+  "apps_adobe_photoshop_express": [
+    "com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
+  ],
+  "apps_adobe_reader": [
+    "com.adobe.reader/com.adobe.reader.AdobeReader"
   ],
   "apps_aeondroid": [
     "io.github.phora.aeondroid/io.github.phora.aeondroid.activities.MainActivity"
@@ -529,6 +73,13 @@
     "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.ActivityAlarmClock",
     "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.AlarmClockActivity"
   ],
+  "apps_alfabank": [
+    "ru.alfabank.mobile.android/ru.alfabank.mobile.android.presentation.feature.splash.activity.SplashActivity",
+    "ru.alfabank.mobile.ua.android/ru.alfabank.mobile.ua.android.presentation.feature.splash.activity.SplashActivity"
+  ],
+  "apps_aliexpress": [
+    "com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.home.ui.MainActivity"
+  ],
   "apps_allcast": [
     "com.koushikdutta.cast.license/com.koushikdutta.cast.license.InstallFree",
     "com.koushikdutta.cast.receiver/com.koushikdutta.cast.receiver.MainActivity",
@@ -544,9 +95,21 @@
   "apps_andotp": [
     "org.shadowice.flocke.andotp/org.shadowice.flocke.andotp.Activities.MainActivity"
   ],
+  "apps_androidstudio": [
+    "com.okcoding.sai.androidstudio/com.okcoding.sai.androidstudio.MainActivity"
+  ],
+  "apps_ankidroid": [
+    "com.ichi2.anki/com.ichi2.anki.IntentHandler"
+  ],
   "apps_ankit_musicplayer": [
     "bitsie.playmee.musicplayer.free/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments",
     "bitsie.playmee.musicplayer.pro/bitsie.playmee.musicplayer.free.adapters.Activity_Fragments"
+  ],
+  "apps_antennapod": [
+    "de.danoeh.antennapod/de.danoeh.antennapod.activity.SplashActivity"
+  ],
+  "apps_anydesk": [
+    "com.anydesk.anydeskandroid/com.anydesk.anydeskandroid.gui.activity.MainActivity"
   ],
   "apps_appsddoz_video_player": [
     "video.audio.mp3.player.editor/video.audio.mp3.player.editor.gui.MainActivity"
@@ -582,17 +145,29 @@
   "apps_audioamp_video_player": [
     "videoplayerhd.musicplayer.videoaudioplayer/videoplayerhd.musicplayer.videoaudioplayer.gui.MainActivity"
   ],
+  "apps_audioknigi_online": [
+    "com.audioknigi.app/com.audioknigi.app.SplashActivity"
+  ],
   "apps_audiovision_music_player": [
     "stesch.visualplayer/stesch.visualplayer.activities.MainActivity"
   ],
   "apps_authorizer": [
     "net.tjado.passwdsafe/net.tjado.passwdsafe.FileListActivity"
   ],
+  "apps_authy": [
+    "com.authy.authy/com.authy.authy.activities.InitializationActivity"
+  ],
   "apps_autoairplanemode": [
     "org.miamplayer.autoairplanemode/org.miamplayer.autoairplanemode.MainActivity"
   ],
+  "apps_avito": [
+    "com.avito.android/com.avito.android.Launcher"
+  ],
   "apps_ax_player": [
     "com.axhdplayer.videoplayer.ad/com.axhdplayer.videoplayer.ad.MediaListActivity"
+  ],
+  "apps_banggood": [
+    "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
   ],
   "apps_bbc": [
     "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
@@ -618,12 +193,28 @@
   "apps_birthdaydroid": [
     "com.tmendes.birthdaydroid/com.tmendes.birthdaydroid.MainActivity"
   ],
+  "apps_bisq_notifications": [
+    "com.joachimneumann.bisq/com.joachimneumann.bisq.ActivityWelcome"
+  ],
+  "apps_bitcoin": [
+    "de.schildbach.wallet/de.schildbach.wallet.WalletActivity",
+    "com.bitcoin.mwallet/com.bitcoin.mwallet.MainActivity"
+  ],
   "apps_bitmask": [
     "se.leap.bitmaskclient/se.leap.bitmaskclient.Dashboard"
+  ],
+  "apps_bitwarden": [
+    "com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity"
   ],
   "apps_black_player": [
     "com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity",
     "com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity"
+  ],
+  "apps_bluebatt": [
+    "tk.alessio.bluebatt/tk.alessio.bluebatt.SplashActivity"
+  ],
+  "apps_bluejeans": [
+    "com.bluejeansnet.Base/com.bluejeansnet.Base.entry.SplashActivity"
   ],
   "apps_boat_browser": [
     "com.boatbrowser.free/com.boatbrowser.free.BrowserActivity",
@@ -631,6 +222,10 @@
   ],
   "apps_boat_browser_mini": [
     "com.boatgo.browser/com.boatgo.browser.BrowserActivity"
+  ],
+  "apps_boinc": [
+    "edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity",
+    "sk.boinc.androboinc/sk.boinc.androboinc.BoincManagerActivity"
   ],
   "apps_boomcap": [
     "qodeSter.beatbox.media.flash/qodeSter.beatbox.media.flash.SplashScreen"
@@ -663,6 +258,9 @@
     "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.bspmain",
     "com.bsplayer.bspandroid.full/com.bsplayer.bsplayeran.BSPMain_new"
   ],
+  "apps_buttercup": [
+    "com.buttercup/com.buttercup.MainActivity"
+  ],
   "apps_butterfly_browser": [
     "acr.browser.butterfly/acr.browser.butterfly.MainActivity"
   ],
@@ -676,12 +274,21 @@
   "apps_chromer_browser": [
     "arun.com.chromer/arun.com.chromer.MainActivity"
   ],
+  "apps_cisco_anyconnect": [
+    "com.cisco.anyconnect.vpn.android.avf/com.cisco.anyconnect.ui.PrimaryActivity"
+  ],
+  "apps_citrix_receiver": [
+    "com.citrix.Receiver/com.citrix.client.Receiver.ui.activities.SplashActivity"
+  ],
   "apps_clean_music": [
     "com.myskyspark.music/com.myskyspark.music.OpenActivity"
   ],
   "apps_clementine": [
     "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectDialog",
     "de.qspool.clementineremote/de.qspool.clementineremote.ui.ConnectActivity"
+  ],
+  "apps_clocksync": [
+    "ru.org.amip.ClockSync/ru.org.amip.ClockSync.view.Main"
   ],
   "apps_cloud_player_doubletwist": [
     "com.doubleTwist.cloudPlayer/com.doubleTwist.cloudPlayer.HomeActivity"
@@ -699,6 +306,9 @@
   "apps_cryptfs_password": [
     "org.nick.cryptfs.passwdmanager/org.nick.cryptfs.passwdmanager.MainActivity"
   ],
+  "apps_cryptomator": [
+    "org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity"
+  ],
   "apps_cryptopass": [
     "krasilnikov.alexey.cryptopass/krasilnikov.alexey.cryptopass.v14.StartActivity",
     "krasilnikov.alexey.cryptopass/krasilnikov.alexey.cryptopass.v8.StartActivity"
@@ -709,17 +319,36 @@
   "apps_d00r": [
     "com.hasi.hasid00r/com.hasi.d00r.MainActivity"
   ],
+  "apps_datovka": [
+    "cz.nic.mobiledatovka/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
   "apps_deadbeef": [
     "org.deadbeef.android/org.deadbeef.android.Deadbeef"
   ],
+  "apps_deezer": [
+    "deezer.android.app/com.deezer.android.ui.activity.LauncherActivity"
+  ],
+  "apps_deflemask": [
+    "com.deflemask.mobile/com.deflemask.mobile.DefleMask"
+  ],
+  "apps_deltachat": [
+    "chat.delta/org.thoughtcrime.securesms.RoutingActivity",
+    "chat.delta/org.thoughtcrime.securesms.ConversationListActivity"
+  ],
   "apps_derandom": [
     "org.asnelt.derandom/org.asnelt.derandom.MainActivity"
+  ],
+  "apps_difm_radio": [
+    "com.audioaddict.di/md5256881233f05e1a12873c405322115cb.SplashActivity"
   ],
   "apps_discord": [
     "com.discord/com.discord.screens.ScreenLoading",
     "com.discord/com.discord.screens.ScreenMain",
     "com.discord/com.discord.screens.ScreenAux$Main",
     "com.discord/com.discord.app.AppActivity$Main"
+  ],
+  "apps_dolphin_emu": [
+    "org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity"
   ],
   "apps_dolphin_web_browser": [
     "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity",
@@ -737,6 +366,16 @@
   "apps_dreams_player": [
     "com.team48dreams.player/com.team48dreams.player.Load"
   ],
+  "apps_dropbox": [
+    "com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
+  ],
+  "apps_drweb": [
+    "com.drweb.pro.market/com.drweb.ui.main.MainActivity",
+    "com.drweb/com.drweb.ui.main.MainActivity"
+  ],
+  "apps_drweb_mcc": [
+    "com.drweb.mcc/com.drweb.mcc.ui.MainActivity"
+  ],
   "apps_dub_music_player": [
     "hr.palamida/hr.palamida.Start"
   ],
@@ -746,19 +385,70 @@
   "apps_duck_duck_go": [
     "com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo"
   ],
+  "apps_dukto": [
+    "it.msec.dukto/it.msec.dukto.Dukto"
+  ],
+  "apps_duokan_reader": [
+    "com.duokan.reader/com.duokan.reader.DkReaderActivity"
+  ],
+  "apps_e_num": [
+    "ru.e_num/ru.e_num.app.view.EMainActivity"
+  ],
   "apps_ellen_mp3_player": [
     "media.mp3.mp3player/com.tarena.fashionmusic.FashionMusicActivity"
+  ],
+  "apps_emacs": [
+    "com.zielm.emacs/jackpal.androidterm.Term",
+    "com.zdivdev.ebook.emacs/com.zdivdev.ebook.emacs.MainActivity",
+    "teo.emacsreference/teo.emacsreference.EmacsQuickReferenceMainActivity"
+  ],
+  "apps_emby": [
+    "com.mb.android/com.mb.android.MainActivity"
+  ],
+  "apps_emule": [
+    "org.dkfsoft.AMule",
+    "org.dkfsoft.AndroidMuleFree/org.dkfsoft.AndroidMuleFree.FreeDonkey",
+    "it.emrc.android/it.emrc.android.activity.SplashActivity",
+    "org.dkf.jmule/org.dkf.jmule.activities.SplashActivity",
+    "com.devwom.amldonkey/com.devwom.amldonkey.MainActivity",
+    "org.genux.muledroid/org.genux.muledroid.MainActivity"
+  ],
+  "apps_encryptr": [
+    "org.devgeeks.encryptr/org.devgeeks.encryptr.MainActivity"
+  ],
+  "apps_enpass": [
+    "io.enpass.app/io.enpass.app.SplashScreenActivity",
+    "io.enpass.app/in.sinew.enpass.MainActivity",
+    "io.enpass.app.beta/io.enpass.app.SplashScreenActivity"
   ],
   "apps_equalizer_music_player_booster": [
     "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.LoadingActivity",
     "com.djit.equalizerplusforandroidfree/com.djit.equalizerplusforandroidfree.MainActivity",
     "com.djit.equalizerplusforandroidfree/com.djit.equalizerplus.activities.HomeActivity"
   ],
+  "apps_estmob_sendanywhere": [
+    "com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity"
+  ],
   "apps_etesync": [
     "com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity"
   ],
   "apps_etheremote": [
     "org.ligi.etheremote/org.ligi.etheremote.StatsActivity"
+  ],
+  "apps_ethereum_wallet": [
+    "eth.org.freewallet.app/eth.org.freewallet.app.MainActivity"
+  ],
+  "apps_ettercap": [
+    "jolt151.ettercapforandroid/jolt151.ettercapforandroid.MainActivity"
+  ],
+  "apps_everdo": [
+    "net.everdo.everdo/net.everdo.everdo.activity_main.MainActivity"
+  ],
+  "apps_evernote": [
+    "com.evernote/com.evernote.ui.HomeActivity"
+  ],
+  "apps_exodus_wallet": [
+    "exodusmovement.exodus/exodusmovement.exodus.MainActivity"
   ],
   "apps_exsoul_web_browser": [
     "com.exsoul/com.exsoul.ExsoulActivity"
@@ -770,11 +460,33 @@
   "apps_facebook": [
     "com.facebook.katana/com.facebook.katana.LoginActivity"
   ],
+  "apps_facebook_lite": [
+    "com.facebook.lite/com.facebook.lite.MainActivity"
+  ],
+  "apps_facebook_pages": [
+    "com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity"
+  ],
   "apps_fastest_mini_browser": [
     "com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"
   ],
+  "apps_fasthub": [
+    "com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity"
+  ],
   "apps_fbmessenger": [
     "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+  ],
+  "apps_fbmessenger_lite": [
+    "com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity"
+  ],
+  "apps_fbreader": [
+    "org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader",
+    "com.fbreader/com.fbreader.android.fbreader.FBReader"
+  ],
+  "apps_feedly_classic": [
+    "com.devhd.feedly.classic/com.devhd.feedly.Main"
+  ],
+  "apps_figma": [
+    "com.figma.mirror/com.figma.mirror.ViewerActivity"
   ],
   "apps_firefox": [
     "org.mozilla.firefox/org.mozilla.firefox.App",
@@ -785,8 +497,17 @@
   "apps_firefox_focus": [
     "org.mozilla.focus/org.mozilla.focus.activity.MainActivity"
   ],
+  "apps_firefox_reality": [
+    "org.mozilla.vrbrowser/org.mozilla.vrbrowser.VRBrowserActivity"
+  ],
   "apps_firefox_trunk": [
     "org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"
+  ],
+  "apps_flickr": [
+    "com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity"
+  ],
+  "apps_flux": [
+    "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
   ],
   "apps_flv_player": [
     "flv.mobile.android/flv.mobile.android.ui.activities.MainActivity"
@@ -806,9 +527,69 @@
   "apps_fotoable_music_player": [
     "com.fotoable.musicplayer/com.ytwd.mp3player.WelcomeActivity"
   ],
+  "apps_foursquare": [
+    "com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity"
+  ],
+  "apps_foxit_mobile": [
+    "com.foxit.mobile.pdf.lite/com.fuxin.app.frame.AppActivity"
+  ],
+  "apps_foxit_pdfscanner": [
+    "com.luratech.android.pdfscanner/com.luratech.android.pdfscanner.activity.BrowserAddDocumentActivity"
+  ],
+  "apps_freeciv": [
+    "pl.org.zielinscy.freeciv/org.libsdl.app.SDLActivity"
+  ],
+  "apps_freeoffice_planmaker": [
+    "softmaker.applications.planmakertrial/softmaker.applications.planmakertrial.PlanMaker",
+    "softmaker.applications.planmaker/softmaker.applications.planmaker.PlanMaker"
+  ],
+  "apps_freeoffice_planmaker_hd": [
+    "softmaker.applications.planmaker.hd.basic/softmaker.applications.planmaker.hd.basic.PlanMakerHDBasic",
+    "softmaker.applications.planmaker.hdtrial/softmaker.applications.planmaker.hdtrial.PlanMakerHDTrial",
+    "softmaker.applications.planmaker.hd/softmaker.applications.planmaker.hd.PlanMakerHD"
+  ],
+  "apps_freeoffice_presentations": [
+    "softmaker.applications.presentationstrial/softmaker.applications.presentationstrial.Presentations",
+    "softmaker.applications.presentations/softmaker.applications.presentations.Presentations"
+  ],
+  "apps_freeoffice_presentations_hd": [
+    "softmaker.applications.presentations.hd.basic/softmaker.applications.presentations.hd.basic.PresentationsHDBasic",
+    "softmaker.applications.presentations.hdtrial/softmaker.applications.presentations.hdtrial.PresentationsHDTrial",
+    "softmaker.applications.presentations.hd/softmaker.applications.presentations.hd.PresentationsHD"
+  ],
+  "apps_freeoffice_textmaker": [
+    "softmaker.applications.textmakertrial/softmaker.applications.textmakertrial.TextMaker",
+    "softmaker.applications.textmaker/softmaker.applications.textmaker.TextMaker"
+  ],
+  "apps_freeoffice_textmaker_hd": [
+    "softmaker.applications.textmaker.hd.basic/softmaker.applications.textmaker.hd.basic.TextMakerHDBasic",
+    "softmaker.applications.textmaker.hdtrial/softmaker.applications.textmaker.hdtrial.TextMakerHDTrial",
+    "softmaker.applications.textmaker.hd/softmaker.applications.textmaker.hd.TextMakerHD"
+  ],
+  "apps_gcstar": [
+    "com.gcstar.viewer/com.gcstar.viewer.GCstarViewer"
+  ],
+  "apps_gcstar_scanner": [
+    "com.gcstar.scanner/com.gcstar.scanner.GCstarScanner"
+  ],
+  "apps_gearcalculator": [
+    "com.gearcalculator/com.gearcalculator.ui.activities.MainActivity"
+  ],
+  "apps_geogebra_classic": [
+    "org.geogebra/org.geogebra.GeoGebra"
+  ],
   "apps_ghostery_privacy_browser": [
     "com.ghostery.android.ghostery/com.ghostery.android.ghostery.SplashActivity",
     "com.ghostery.android.ghostery/com.ghostery.android.ghostery.BrowserActivity"
+  ],
+  "apps_gimp": [
+    "org.dandroidmobile.xgimp/org.dandroidmobile.xgimp.gui.MainActivity"
+  ],
+  "apps_gitkraken": [
+    "com.axosoft.glo/com.axosoft.glo.MainActivity"
+  ],
+  "apps_gitter": [
+    "im.gitter.gitter/im.gitter.gitter.activities.StartActivity"
   ],
   "apps_gom_player": [
     "com.gretech.gomplayerko/com.gretech.activities.GSplashActivity",
@@ -820,11 +601,17 @@
   "apps_gplayer": [
     "gpc.myweb.hinet.net.PopupVideo/gpc.myweb.hinet.net.PopupVideo.PopupVideoActivity"
   ],
+  "apps_gps_data": [
+    "com.pierwiastek.gpsdata/com.pierwiastek.gpsdata.activities.MainActivity"
+  ],
   "apps_green_apple_mp3_player": [
     "com.app.studio.mp3player/com.app.studio.mp3player.activity.PermissionSeekActivity"
   ],
   "apps_green_banana_music": [
     "com.amapps.media.music/com.amapps.media.music.ui.main.MainActivity"
+  ],
+  "apps_guitartuna": [
+    "com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity"
   ],
   "apps_habit_browser": [
     "jp.ddo.pigsty.HabitBrowser/jp.ddo.pigsty.HabitBrowser.Features.Browser.BrowserActivity"
@@ -837,6 +624,12 @@
   ],
   "apps_hd_video_player": [
     "com.elift.hdplayer/com.ijoysoft.hdplayer.StartActivity"
+  ],
+  "apps_heavens_above": [
+    "com.heavens_above.viewer/com.heavens_above.viewer.ViewerActivity"
+  ],
+  "apps_here_wego": [
+    "com.here.app.maps/com.here.app.OneAppLauncherAlias"
   ],
   "apps_hipchat": [
     "com.hipchat/com.hipchat.activities.SignedOutActivity_"
@@ -889,6 +682,12 @@
   "apps_kdeconnect": [
     "org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity"
   ],
+  "apps_keepass2android": [
+    "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
+  ],
+  "apps_keepass2android_offline": [
+    "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass"
+  ],
   "apps_keepass_dx": [
     "com.kunzisoft.keepass.libre/com.kunzisoft.keepass.KeePass"
   ],
@@ -905,9 +704,15 @@
     "com.kmplayerpro/com.kmplayerpro.activity.googleAdVerIntro",
     "com.kmplayerpro/com.kmplayer.activity.SplashActivity"
   ],
+  "apps_komoot": [
+    "de.komoot.android/de.komoot.android.app.InspirationActivity"
+  ],
   "apps_kx_music_player": [
     "kx.music.equalizer.player/kx.music.equalizer.player.SplashActivity"
-    ],
+  ],
+  "apps_l_speed": [
+    "com.paget96.lspeed/com.paget96.lspeed.activities.SplashScreenActivity"
+  ],
   "apps_lark_player": [
     "com.dywx.larkplayer/com.dywx.larkplayer.gui.MainActivity"
   ],
@@ -916,6 +721,9 @@
   ],
   "apps_laya_music_player": [
     "com.mjc.mediaplayer/com.mjc.mediaplayer.LayaMainActivity"
+  ],
+  "apps_lichess": [
+    "org.lichess.mobileapp/org.lichess.mobileapp.MainActivity"
   ],
   "apps_lightning_web_browser": [
     "acr.browser.barebones/acr.browser.barebones.BrowserActivity",
@@ -929,6 +737,9 @@
   ],
   "apps_linconnect": [
     "com.willhauck.linconnectclient/com.willhauck.linconnectclient.SettingsActivity"
+  ],
+  "apps_listen_audiobook_player": [
+    "com.acmeandroid.listen/com.acmeandroid.listen.SplashActivity"
   ],
   "apps_litter_web_browser": [
     "com.explore.web.browser/com.ijoysoft.browser.activity.ActivityWelcome"
@@ -956,11 +767,60 @@
     "com.ventismedia.android.mediamonkeybeta/com.ventismedia.android.mediamonkey.StartActivity",
     "com.ventismedia.android.mediamonkeypro/com.ventismedia.android.mediamonkeypro.MediaMonkeyPro"
   ],
+  "apps_megabonus": [
+    "com.alibonus.alibonus/com.alibonus.alibonus.ui.activity.StartActivity"
+  ],
   "apps_mercury_browser": [
     "com.ilegendsoft.mercury/com.ilegendsoft.mercury.ui.activities.SplashActivity"
   ],
   "apps_mezzo_player": [
     "mr.dzianis.music_player/mr.dzianis.music_player.ActivityMain"
+  ],
+  "apps_mikrotik": [
+    "com.mikrotik.android.tikapp/com.mikrotik.android.tikapp.activities.MainActivity"
+  ],
+  "apps_miui_community": [
+    "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
+  ],
+  "apps_miui_feedback": [
+    "com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
+  ],
+  "apps_miui_games": [
+    "com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
+  ],
+  "apps_miui_market": [
+    "com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
+  ],
+  "apps_miui_mi_drop": [
+    "com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
+  ],
+  "apps_miui_mi_video": [
+    "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity",
+    "com.miui.video/com.miui.video.HomeActivity"
+  ],
+  "apps_miui_mipay": [
+    "com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity"
+  ],
+  "apps_miui_notes": [
+    "com.miui.notes/com.miui.notes.ui.NotesListActivity"
+  ],
+  "apps_miui_scanner": [
+    "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
+  ],
+  "apps_miui_screen_recorder": [
+    "com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
+  ],
+  "apps_miui_security": [
+    "com.miui.securitycenter/com.miui.securityscan.MainActivity"
+  ],
+  "apps_miui_shop": [
+    "com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity"
+  ],
+  "apps_miui_smarthome": [
+    "com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity"
+  ],
+  "apps_mixplorer": [
+    "com.mixplorer/com.mixplorer.activities.BrowseActivity"
   ],
   "apps_moboplayer": [
     "com.clov4r.android.nil.noplug/com.clov4r.android.nil.noplug.entrance.WelcomeActivity"
@@ -1022,6 +882,12 @@
     "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList",
     "com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX"
   ],
+  "apps_my_shows": [
+    "ru.myshows.activity/ru.myshows.activity.MainActivity"
+  ],
+  "apps_my_vodafone": [
+    "ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity"
+  ],
   "apps_n7player": [
     "com.n7mobile.nplayer/com.av111236.android.Launcher",
     "com.n7mobile.nplayer/com.n7mobile.nplayer.glscreen.Main",
@@ -1031,26 +897,47 @@
   "apps_netguard": [
     "eu.faircode.netguard/eu.faircode.netguard.ActivityMain"
   ],
+  "apps_network_tools": [
+    "net.he.networktools/net.he.networktools.MainActivity"
+  ],
   "apps_neutron_music_player": [
-   "com.neutroncode.mpeval/com.neutroncode.mp.NeutronMPCore",
-   "com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore"
+    "com.neutroncode.mpeval/com.neutroncode.mp.NeutronMPCore",
+    "com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore"
   ],
   "apps_next_browser": [
     "com.jiubang.browser/com.jiubang.browser.main.BrowserActivity"
+  ],
+  "apps_nightshift": [
+    "com.waddensky.nightshift/com.waddensky.nightshift.ActivitySplash"
   ],
   "apps_note_crypt_pro": [
     "com.notecryptpro/com.notecrypt.ui.MainActivity",
     "com.notecryptpro/com.notecrypt.ui.SelectDatabaseActivity"
   ],
+  "apps_nova_launcher": [
+    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
+  ],
+  "apps_nova_launcher_settings": [
+    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
+  ],
+  "apps_novaposhtaa": [
+    "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity"
+  ],
   "apps_nrg_player": [
     "com.mrgreensoft.nrg.player/com.mrgreensoft.nrg.player.activity.StartActivity",
     "com.mrgreensoft.nrg.player/com.mrgreensoft.nrg.player.startup.StartActivity"
+  ],
+  "apps_octodroid": [
+    "com.gh4a/com.gh4a.activities.Github4AndroidActivity"
   ],
   "apps_ok": [
     "ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity"
   ],
   "apps_ok_video": [
     "ru.ok.androidtv/ru.interfaced.tvplatform.MainActivity"
+  ],
+  "apps_olx": [
+    "ua.slando/pl.tablica2.app.startup.activity.StartupActivity"
   ],
   "apps_omnich_player": [
     "com.omichsoft.newplayer/com.omichsoft.newplayer.Main"
@@ -1071,6 +958,9 @@
   "apps_open_keychain": [
     "org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.KeyListActivity",
     "org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity"
+  ],
+  "apps_openhub": [
+    "com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity"
   ],
   "apps_openmentoring": [
     "org.iilab.openmentoring/org.iilab.openmentoring.MainActivity"
@@ -1104,6 +994,12 @@
   ],
   "apps_orweb": [
     "info.guardianproject.browser/info.guardianproject.browser.Browser"
+  ],
+  "apps_osmand": [
+    "net.osmand/net.osmand.plus.activities.MapActivity"
+  ],
+  "apps_osmand_plus": [
+    "net.osmand.plus/net.osmand.plus.activities.MapActivity"
   ],
   "apps_otpauth": [
     "net.bierbaumer.otp_authenticator/net.bierbaumer.otp_authenticator.MainActivity"
@@ -1167,11 +1063,11 @@
   "apps_plex": [
     "com.plexapp.android/com.plexapp.plex.activities.SplashActivity"
   ],
-  "apps_plex_vr": [
-    "com.plexapp.android.vr/com.plexapp.plex.activities.UnityPlayerActivity"
-  ],
   "apps_plex_server": [
     "com.plexapp.mediaserver.smb/com.plexapp.mediaserver.ui.main.MainActivity"
+  ],
+  "apps_plex_vr": [
+    "com.plexapp.android.vr/com.plexapp.plex.activities.UnityPlayerActivity"
   ],
   "apps_pocket": [
     "com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity"
@@ -1205,6 +1101,9 @@
     "com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity",
     "com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity"
   ],
+  "apps_privat24": [
+    "ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity"
+  ],
   "apps_prosto_radio": [
     "com.radio.helloworld/com.radio.helloworld.MainActivity"
   ],
@@ -1227,23 +1126,39 @@
   "apps_pyrope_browser": [
     "com.ninnix96.pyrope.browser/com.android.browser.BrowserLauncher"
   ],
+  "apps_qbittorrent": [
+    "com.lgallardo.qbittorrentclient/com.lgallardo.qbittorrentclient.MainActivity",
+    "com.lgallardo.qbittorrentclientpro/com.lgallardo.qbittorrentclient.MainActivity"
+  ],
   "apps_qrstream": [
     "com.github.xloem.qrstream/com.github.xloem.qrstream.Launcher"
   ],
   "apps_quark_browser": [
     "com.quark.browser/com.ucpro.MainActivity"
   ],
+  "apps_quickedit": [
+    "com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity"
+  ],
   "apps_reactive_fast_search": [
     "reactivephone.msearch/reactivephone.msearch.ui.activity.MainActivity"
   ],
+  "apps_readera": [
+    "org.readera/com.readera.MainActivity"
+  ],
   "apps_real_player": [
     "com.real.RealPlayer/com.real.IMP.home.Home"
+  ],
+  "apps_relive": [
+    "cc.relive.reliveapp/cc.relive.reliveapp.MainActivity"
   ],
   "apps_ripple": [
     "info.guardianproject.ripple/info.guardianproject.ripple.MainActivity"
   ],
   "apps_rocket_browser": [
     "net.rocket.browser/acr.browser.lightning.activity.MainActivity"
+  ],
+  "apps_rutaxi": [
+    "com.its.rto/com.its.app.client.activity.SplashActivity"
   ],
   "apps_s8_edge_music_player": [
     "com.fourhorsemen.musicvault/com.fourhorsemen.musicvault.activities.WelcomeActivity"
@@ -1257,9 +1172,15 @@
   "apps_sberbank": [
     "ru.sberbankmobile/ru.sberbankmobile.SplashActivity"
   ],
+  "apps_seconds_clock": [
+    "wan.util.barclock/wan.util.barclock.BarClockConfigActivity"
+  ],
   "apps_secret_codes": [
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.MainActivity",
     "fr.simon.marquis.secretcodes/fr.simon.marquis.secretcodes.ui.MainActivity"
+  ],
+  "apps_secure_settings": [
+    "com.intangibleobject.securesettings.plugin/com.intangibleobject.securesettings.plugin.Activities.MainTabsActivity"
   ],
   "apps_selinux": [
     "com.mrbimc.selinux/com.mrbimc.selinux.MainActivity"
@@ -1279,11 +1200,11 @@
     "com.skype.raider/com.skype.raider.Main",
     "com.skype.insiders/com.skype.raider.Main"
   ],
-  "apps_skype_lite": [
-    "com.skype.m2/com.skype.m2.views.HubActivity"
-  ],
   "apps_skype_business": [
     "com.microsoft.office.lync15/com.microsoft.office.sfb.common.ui.splash.EntryPoint"
+  ],
+  "apps_skype_lite": [
+    "com.skype.m2/com.skype.m2.views.HubActivity"
   ],
   "apps_slack": [
     "com.Slack/com.Slack.ui.HomeActivity"
@@ -1305,6 +1226,9 @@
   "apps_snoopsnitch": [
     "de.srlabs.snoopsnitch/de.srlabs.snoopsnitch.StartupActivity"
   ],
+  "apps_sound_meter": [
+    "com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi"
+  ],
   "apps_soundcloud": [
     "com.soundcloud.android/com.soundcloud.android.main.LauncherActivity"
   ],
@@ -1320,11 +1244,17 @@
   "apps_stellio_player": [
     "io.stellio.player/io.stellio.player.MainActivity"
   ],
+  "apps_strava": [
+    "com.strava/com.strava.SplashActivity"
+  ],
   "apps_stream_djit": [
     "com.djit.apps.stream/com.djit.apps.stream.Launcher"
   ],
   "apps_supergenpass": [
     "info.staticfree.SuperGenPass/info.staticfree.SuperGenPass.Super_Gen_Pass"
+  ],
+  "apps_supersu": [
+    "eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material"
   ],
   "apps_superuser": [
     "me.phh.superuser/com.koushikdutta.superuser.MainActivity"
@@ -1336,11 +1266,17 @@
     "com.issess.flashplayer/com.issess.flashplayer.activity.MainListActivity",
     "com.issess.flashplayerpro/com.issess.flashplayer.activity.MainListActivity"
   ],
+  "apps_syncthing": [
+    "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+  ],
   "apps_tangram_browser": [
     "com.onedepth.search/com.onedepth.search.MainActivity"
   ],
   "apps_telegram": [
     "org.telegram.messenger/org.telegram.ui.LaunchActivity"
+  ],
+  "apps_termux": [
+    "com.termux/com.termux.app.TermuxActivity"
   ],
   "apps_tinc": [
     "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"
@@ -1348,6 +1284,12 @@
   "apps_torrent_video_player_tvp": [
     "com.mobilityflow.tvp.prof/org.videolan.vlc.StartActivity",
     "com.mobilityflow.tvp/com.mobilityflow.vlc.gui.MainActivity"
+  ],
+  "apps_track24": [
+    "net.track24.android/net.track24.android.SplashActivity"
+  ],
+  "apps_trackbook": [
+    "org.y20k.trackbook/org.y20k.trackbook.MainActivity"
   ],
   "apps_transmission": [
     "net.yupol.transmissionremote.app/net.yupol.transmissionremote.app.MainActivity",
@@ -1371,14 +1313,17 @@
     "com.twitter.android/com.twitter.android.StartActivity",
     "com.twitter.android.lite/com.twitter.android.lite.TwitterLiteActivity"
   ],
+  "apps_twrp": [
+    "me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity"
+  ],
   "apps_uc_browser": [
     "com.UCMobile.intl/com.UCMobile.main.UCMobile"
   ],
-  "apps_uc_browser_turbo": [
-    "com.ucturbo/com.ucturbo.MainActivity"
-  ],
   "apps_uc_browser_mini": [
     "com.uc.browser.en/com.uc.browser.ActivityBrowser"
+  ],
+  "apps_uc_browser_turbo": [
+    "com.ucturbo/com.ucturbo.MainActivity"
   ],
   "apps_usb_audio_player": [
     "com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity"
@@ -1422,14 +1367,24 @@
   "apps_wherearetheeyes": [
     "org.daylightingsociety.wherearetheeyes/org.daylightingsociety.wherearetheeyes.MainActivity"
   ],
+  "apps_wifi_adb": [
+    "com.ttxapps.wifiadb/com.ttxapps.wifiadb.MainActivity"
+  ],
   "apps_wlanscanner": [
     "org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity"
   ],
   "apps_wondershare_player": [
     "com.wondershare.player/com.wondershare.player.MainActivity"
   ],
+  "apps_wps_wpa_tester": [
+    "as.wps.wpatester/as.wps.wpatester.ui.splash.SplashActivity",
+    "com.tester.wpswpatester/as.wps.wpatester.ui.splash.SplashActivity"
+  ],
   "apps_xenoamp_music_player": [
     "pl.qus.xenoamp/pl.qus.xenoamp.NewMainActivity"
+  ],
+  "apps_ximalaya_fm": [
+    "com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity"
   ],
   "apps_xplay_music_player": [
     "com.kane.xplay.activities/com.kane.xplay.activities.XplayActivity"
@@ -1443,19 +1398,58 @@
   "apps_yolo_browser": [
     "net.yoloapps.browser/com.google.android.apps.chrome.Main"
   ],
+  "apps_zarchiver": [
+    "ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver"
+  ],
+  "apps_zarchiver_pro": [
+    "ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver"
+  ],
+  "apps_zenmoney": [
+    "ru.zenmoney.androidsub/ru.zenmoney.android.activities.EnterActivity"
+  ],
+  "apps_zerotier_one": [
+    "com.zerotier.one/com.zerotier.one.ui.NetworkListActivity"
+  ],
   "apps_zgz_video_player": [
     "com.zgz.supervideo/com.zgz.videoplayer.activity.H5View"
+  ],
+  "games_ark": [
+    "com.studiowildcard.wardrumstudios.ark/com.epicgames.ue4.SplashActivity"
   ],
   "games_badland": [
     "com.frogmind.badland.ultimata/com.frogmind.badland.ultimata.Badland",
     "com.frogmind.badland/com.frogmind.badland.Badland"
   ],
+  "games_borderlands_2": [
+    "com.tt2kgames.Borderlands2/Downloader"
+  ],
+  "games_bridge_constructor_portal": [
+    "com.headupgames.bridgeconstructorportal/com.feng.ym.ad.YMLoginActivity"
+  ],
+  "games_dont_starve": [
+    "com.kleientertainment.doNotStarvePocket/com.kleientertainment.doNotStarvePocket.DoNotStarveActivity"
+  ],
+  "games_dont_starve_shipwrecked": [
+    "com.kleientertainment.doNotStarveShipwrecked/com.kleientertainment.doNotStarveShipwrecked.DoNotStarveActivity"
+  ],
+  "games_door_kickers": [
+    "com.khg.doorkickers/com.vmax.android.service.VmaxServiceManager"
+  ],
+  "games_eternal_lands": [
+    "com.purebinary.elc/ELCActivity"
+  ],
+  "games_evedroid": [
+    "dk.alxb.evedroid/dk.alxb.evedroid.character.CharacterActivity"
+  ],
+  "games_freedoom": [
+    "net.nullsum.freedoom/net.nullsum.freedoom.EntryActivity"
+  ],
+  "games_frozen_bubble": [
+    "org.jfedor.frozenbubble/com.efortin.frozenbubble.HomeScreen"
+  ],
   "games_limbo": [
     "com.playdead.limbo.full/com.playdead.limbo.LimboActivity",
     "com.playdead.limbo/com.playdead.limbo.LimboActivity"
-  ],
-  "google_google": [
-    "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
   "google_accessibility_auditor": [
     "com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity"
@@ -1644,8 +1638,14 @@
     "com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail",
     "com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity"
   ],
+  "google_gmail_go": [
+    "com.google.android.gm.lite/com.google.android.gm.ConversationListActivityGmail"
+  ],
   "google_goggles": [
     "com.google.android.apps.unveil/com.google.android.apps.unveil.CaptureActivity"
+  ],
+  "google_google": [
+    "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
   ],
   "google_hangouts": [
     "com.google.android.talk/com.google.android.talk.SigningInActivity"
