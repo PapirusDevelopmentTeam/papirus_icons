@@ -18,6 +18,11 @@ generate_drawable:
 	@env DRAWABLE_DIR=$(BITMAPS_DIR) DRAWABLE_FILE=$(DRAWABLE_FILE) \
 		bash scripts/generate_drawable.sh
 
+pretty:
+	@rm -f $(DB_FILE).sorted
+	@jq --sort-keys --raw-output '.' $(DB_FILE) > $(DB_FILE).sorted
+	@mv -f $(DB_FILE).sorted $(DB_FILE)
+
 __validate_json:
 	## Validate '$(DB_FILE)' file
 	@jq type $(DB_FILE) >/dev/null
@@ -49,4 +54,4 @@ __find_invalid_filenames:
 
 test: __validate_json __find_invalid_filenames __find_missing_icons __find_duplicates_activities __find_keys_without_activities
 
-.PHONY: build convert generate_appfilter generate_drawable test
+.PHONY: build convert generate_appfilter generate_drawable test pretty
