@@ -1,4 +1,29 @@
 {
+  "apps_firefox_reality": [
+    "org.mozilla.vrbrowser/org.mozilla.vrbrowser.VRBrowserActivity"
+  ],
+  "apps_figma": [
+    "com.figma.mirror/com.figma.mirror.ViewerActivity"
+  ],
+  "apps_fbreader": [
+    "org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader",
+    "com.fbreader/com.fbreader.android.fbreader.FBReader"
+  ],
+  "apps_facebook_pages": [
+    "com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity"
+  ],
+  "apps_fbmessenger_lite": [
+    "com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity"
+  ],
+  "apps_facebook_lite": [
+    "com.facebook.lite/com.facebook.lite.MainActivity"
+  ],
+  "apps_exodus_wallet": [
+    "exodusmovement.exodus/exodusmovement.exodus.MainActivity"
+  ],
+  "apps_evernote": [
+    "com.evernote/com.evernote.ui.HomeActivity"
+  ],
   "apps_everdo": [
     "net.everdo.everdo/net.everdo.everdo.activity_main.MainActivity"
   ],
