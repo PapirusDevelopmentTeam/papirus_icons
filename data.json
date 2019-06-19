@@ -224,7 +224,7 @@
     "se.leap.bitmaskclient/se.leap.bitmaskclient.Dashboard"
   ],
   "apps_bitwarden": [
-    "com.x8bit.bitwarden/md5b95ad25b85f158431f24aa9fc17a1c1e.SplashActivity"
+    "com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity"
   ],
   "apps_black_player": [
     "com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity",
@@ -812,7 +812,7 @@
     "com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
   ],
   "apps_miui_mi_drop": [
-    "com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
+    "com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen"
   ],
   "apps_miui_mi_video": [
     "com.miui.videoplayer/com.miui.video.global.app.LauncherActivity",
