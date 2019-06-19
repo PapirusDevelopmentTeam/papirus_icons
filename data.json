@@ -1,4 +1,22 @@
 {
+  "apps_java_editor": [
+    "air.JavaEditor/air.JavaEditor.AppEntry"
+  ],
+  "apps_jango_radio": [
+    "com.jangomobile.android/com.jangomobile.android.ui.activities.SplashActivity"
+  ],
+  "apps_irccloud": [
+    "com.irccloud.android/com.irccloud.android.activity.MainActivity"
+  ],
+  "apps_irccloud_enterprise": [
+    "com.irccloud.android.enterprise/com.irccloud.android.activity.MainActivity"
+  ],
+  "apps_ibkr_mobile": [
+    "atws.app/tws.activity.launcher.LauncherActivity"
+  ],
+  "apps_hubstaff": [
+    "com.netsoft.Hubstaff/com.netsoft.hubstaff.SplashActivity"
+  ],
   "games_hook": [
     "com.rt.hook/com.unity3d.player.UnityPlayerActivity"
   ],
