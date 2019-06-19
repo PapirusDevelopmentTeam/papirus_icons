@@ -1,4 +1,24 @@
 {
+  "games_hook": [
+    "com.rt.hook/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_half_life2": [
+    "com.nvidia.valvesoftware.halflife2/com.valvesoftware.ValveDownloader2",
+    "com.nvidia.valvesoftware.halflife2ep1/com.valvesoftware.ValveDownloader2",
+    "com.nvidia.valvesoftware.halflife2ep2/com.valvesoftware.ValveDownloader2"
+  ],
+  "games_grim_fandango_remastered": [
+    "com.doublefine.grimfandangoremastered/com.doublefine.grimfandangoremastered.GrimFandango_Installer"
+  ],
+  "google_chrome_dev": [
+    "com.chrome.dev/com.google.android.apps.chrome.Main"
+  ],
+  "google_chrome_beta": [
+    "com.chrome.beta/com.google.android.apps.chrome.Main"
+  ],
+  "apps_golly": [
+    "net.sf.golly/net.sf.golly.MainActivity"
+  ],
   "apps_321_mediaplayer": [
     "photogram.inc.tplayer/photogram.inc.tplayer.tplyrTapToStartActivity",
     "com.skovvart.mpcremote/com.skovvart.mpcremote.MPCRemoteActivity"
