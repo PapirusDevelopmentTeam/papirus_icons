@@ -1,4 +1,25 @@
 {
+  "apps_kirigami_gallery": [
+    "org.kde.kirigamigallery/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_klimbgrades": [
+    "org.kde.klimbgrades/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_kstars": [
+    "org.kde.kstars.lite/org.kde.kstars.DeviceOrientation"
+  ],
+  "apps_ktuberling": [
+    "org.kde.ktuberling/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_marble_behaim": [
+    "org.kde.marble.behaim/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_kalgebra": [
+    "org.kde.kalgebramobile/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_jellyfin": [
+    "org.jellyfin.mobile/org.jellyfin.mobile.MainActivity"
+  ],
   "apps_java_editor": [
     "air.JavaEditor/air.JavaEditor.AppEntry"
   ],
