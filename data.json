@@ -1,4 +1,22 @@
 {
+  "apps_lbry": [
+    "io.lbry.browser/io.lbry.browser.MainActivity"
+  ],
+  "apps_joplin": [
+    "net.cozic.joplin/net.cozic.joplin.MainActivity"
+  ],
+  "apps_language_tool": [
+    "org.softcatala.corrector/org.softcatala.corrector.WelcomeActivity"
+  ],
+  "apps_kore": [
+    "org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity"
+  ],
+  "apps_kodi": [
+    "org.xbmc.kodi/org.xbmc.kodi.Splash"
+  ],
+  "apps_keybase": [
+    "io.keybase.ossifrage/io.keybase.ossifrage.MainActivity"
+  ],
   "apps_kirigami_gallery": [
     "org.kde.kirigamigallery/org.qtproject.qt5.android.bindings.QtActivity"
   ],
