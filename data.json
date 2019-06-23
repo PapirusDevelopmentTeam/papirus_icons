@@ -1,4 +1,54 @@
 {
+  "apps_maxima": [
+    "jp.yhonda/jp.yhonda.MaximaOnAndroidActivity"
+  ],
+  "apps_mattermost_classic": [
+    "com.mattermost.mattermost/com.mattermost.mattermost.SplashScreenActivity"
+  ],
+  "apps_mattermost": [
+    "com.mattermost.rn/com.mattermost.rn.MainActivity",
+    "com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity"
+  ],
+  "apps_matlab": [
+    "com.mathworks.matlabmobile/com.mathworks.matlabmobile.LicenseAgreementActivity",
+    "com.irawen_info.MatLab/com.irawen_info.MatLab.Screen1"
+  ],
+  "games_manaplus": [
+    "org.evolonline.beta.manaplus/ManaPlus"
+  ],
+  "apps_mame4all": [
+    "com.seleuco.mame4all/com.seleuco.mame4all.MAME4all"
+  ],
+  "apps_mame4droid": [
+    "com.seleuco.mame4droid/com.seleuco.mame4droid.MAME4droid"
+  ],
+  "apps_lucidchart": [
+    "com.lucidchart.android.chart/com.lucidchart.android.chart.MainActivity"
+  ],
+  "apps_love": [
+    "org.love2d.android/GameActivity"
+  ],
+  "apps_logisim": [
+    "com.KAJORY.Logicsimulatorpro/com.unity3d.player.UnityPlayerNativeActivity"
+  ],
+  "apps_linphone": [
+    "org.linphone/org.linphone.LinphoneLauncherActivity"
+  ],
+  "apps_lightsoff": [
+    "com.pearl.main.android/com.pearl.main.android.AndroidLauncher"
+  ],
+  "apps_lifeograph": [
+    "net.sourceforge.lifeograph/net.sourceforge.lifeograph.ActivityLogin"
+  ],
+  "games_life_is_strange": [
+    "com.squareenix.lis/com.epicgames.ue4.SplashActivity"
+  ],
+  "apps_libreoffice_impress_remote": [
+    "org.libreoffice.impressremote/org.libreoffice.impressremote.activity.ComputersActivity"
+  ],
+  "apps_libreoffice": [
+    "org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity"
+  ],
   "apps_lbry": [
     "io.lbry.browser/io.lbry.browser.MainActivity"
   ],
