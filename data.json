@@ -1,4 +1,30 @@
 {
+  "apps_mixcloud": [
+    "com.mixcloud.player/com.mixcloud.player.activity.SplashActivity"
+  ],
+  "games_minetest": [
+    "net.minetest.minetest/net.minetest.minetest.MtNativeActivity"
+  ],
+  "games_minecraft": [
+    "com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity"
+  ],
+  "apps_microscope": [
+    "com.hantor.CozyMag/com.hantor.CozyMag.CozyMag",
+    "com.hantor.CozyMagPlus/com.hantor.CozyMagPlus.CozyMag",
+    "com.ciberdroix.microscope/com.example.splashscreen.MoreAppsActivity_v7"
+  ],
+  "apps_mgba": [
+    "com.mgba.romsemulators/com.imagine.Main"
+  ],
+  "apps_mega": [
+    "mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop"
+  ],
+  "apps_totalcmd": [
+    "com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander"
+  ],
+  "apps_far_manager": [
+    "com.openfarmanager.android/com.openfarmanager.android.Main"
+  ],
   "apps_maxima": [
     "jp.yhonda/jp.yhonda.MaximaOnAndroidActivity"
   ],
