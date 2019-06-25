@@ -1,4 +1,28 @@
 {
+  "apps_mpv": [
+    "is.xyz.mpv/is.xyz.mpv.MainActivity"
+  ],
+  "apps_mpdroid": [
+    "com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity"
+  ],
+  "apps_mpd": [
+    "org.musicpd/org.musicpd.Settings",
+    "org.chatminou.mpdcontrol/org.chatminou.mpdcontrol.MainActivity",
+    "net.prezz.mpr/net.prezz.mpr.ui.player.PlayerActivity"
+  ],
+  "apps_moonlight": [
+    "com.limelight/com.limelight.PcView",
+    "com.limelight.root/com.limelight.PcView"
+  ],
+  "apps_moneydance": [
+    "com.infinitekind.MoneydanceAndroid/com.infinitekind.MoneydanceAndroid.MoneydanceActivity"
+  ],
+  "apps_mnemosyne": [
+    "org.mnemosyne/org.mnemosyne.MnemosyneActivity"
+  ],
+  "apps_mediainfo": [
+    "net.mediaarea.mediainfo/net.mediaarea.mediainfo.ReportListActivity"
+  ],
   "apps_mixcloud": [
     "com.mixcloud.player/com.mixcloud.player.activity.SplashActivity"
   ],
