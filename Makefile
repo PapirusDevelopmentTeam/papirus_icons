@@ -6,6 +6,9 @@ BITMAPS_DIR ?= ./app/src/main/res/drawable-nodpi
 
 build: test generate_appfilter convert generate_drawable
 
+delete_pngs:
+	@find $(BITMAPS_DIR) -name '*.png' -delete
+
 convert:
 	@env SRC_DIR=$(SRC_DIR) DEST_DIR=$(BITMAPS_DIR) \
 		bash scripts/convert_to_png.sh
@@ -54,4 +57,4 @@ __find_invalid_filenames:
 
 test: __validate_json __find_invalid_filenames __find_missing_icons __find_duplicates_activities __find_keys_without_activities
 
-.PHONY: build convert generate_appfilter generate_drawable test pretty
+.PHONY: build delete_pngs convert generate_appfilter generate_drawable test pretty
