@@ -7,18 +7,18 @@ BITMAPS_DIR ?= ./app/src/main/res/drawable-nodpi
 build: test generate_appfilter convert generate_drawable
 
 delete_pngs:
-	@find $(BITMAPS_DIR) -name '*.png' -delete
+	find $(BITMAPS_DIR) -name '*.png' -delete
 
 convert:
-	@env SRC_DIR=$(SRC_DIR) DEST_DIR=$(BITMAPS_DIR) \
+	env SRC_DIR=$(SRC_DIR) DEST_DIR=$(BITMAPS_DIR) \
 		bash scripts/convert_to_png.sh
 
 generate_appfilter:
-	@env DB_FILE=$(DB_FILE) APPFILTER_FILE=$(APPFILTER_FILE) \
+	env DB_FILE=$(DB_FILE) APPFILTER_FILE=$(APPFILTER_FILE) \
 		python scripts/generate_appfilter.py
 
 generate_drawable:
-	@env DRAWABLE_DIR=$(BITMAPS_DIR) DRAWABLE_FILE=$(DRAWABLE_FILE) \
+	env DRAWABLE_DIR=$(BITMAPS_DIR) DRAWABLE_FILE=$(DRAWABLE_FILE) \
 		bash scripts/generate_drawable.sh
 
 pretty:
