@@ -1,7 +1,16 @@
-.gradle/
+# Android Studio
+*.iml
 .idea/
-local.properties
+captures/
+
+# Gradle
+.gradle/
 app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Generated files
 app/src/main/res/xml/drawable.xml
 app/src/main/res/xml/appfilter.xml
 app/src/main/res/drawable-nodpi/
