@@ -2008,7 +2008,8 @@
   "system_battery": [],
   "system_bluetooth": [],
   "system_browser": [
-    "com.android.browser/com.android.browser.BrowserActivity"
+    "com.android.browser/com.android.browser.BrowserActivity",
+    "org.lineageos.jelly/org.lineageos.jelly.MainActivity"
   ],
   "system_browser_2": [],
   "system_calculator": [
@@ -2064,7 +2065,9 @@
     "com.tct.calendar/com.tct.calendar.AllInOneActivity",
     "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity"
   ],
-  "system_camera": [],
+  "system_camera": [
+    "org.lineageos.snap/com.android.camera.CameraLauncher"
+  ],
   "system_camera_2": [],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
@@ -2431,7 +2434,9 @@
     "com.sony.snei.mu.phone/com.sony.snei.mu.phone.startup.StartupActivity",
     "net.oneplus.music/net.oneplus.music.activity.MainActivity"
   ],
-  "system_music_2": [],
+  "system_music_2": [
+    "org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity"
+  ],
   "system_music_3": [],
   "system_notes": [
     "com.android.notes/com.android.notes.Notes",
