@@ -860,10 +860,12 @@
     "org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity"
   ],
   "apps_keepass2android": [
-    "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass"
+    "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass",
+    "keepass2android.keepass2android/md5b85ab5ea2545156b0f09600c184a5178.KeePass"
   ],
   "apps_keepass2android_offline": [
-    "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass"
+    "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass",
+    "keepass2android.keepass2android_nonet/md5b85ab5ea2545156b0f09600c184a5178.KeePass"
   ],
   "apps_keepass_dx": [
     "com.kunzisoft.keepass.libre/com.kunzisoft.keepass.KeePass"
@@ -1098,7 +1100,8 @@
     "com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
   ],
   "apps_novaposhtaa": [
-    "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity"
+    "ua.novaposhtaa/ua.novaposhtaa.activities.StarterActivity",
+    "ua.novaposhtaa/ua.novaposhtaa.activity.StarterActivity"
   ],
   "apps_nrg_player": [
     "com.mrgreensoft.nrg.player/com.mrgreensoft.nrg.player.activity.StartActivity",
@@ -1279,7 +1282,8 @@
     "com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity"
   ],
   "apps_privat24": [
-    "ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity"
+    "ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity",
+    "ua.privatbank.ap24/ua.privatbank.ap24v6.MainActivity"
   ],
   "apps_prosto_radio": [
     "com.radio.helloworld/com.radio.helloworld.MainActivity"
