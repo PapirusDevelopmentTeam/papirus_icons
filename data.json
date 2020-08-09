@@ -17,6 +17,9 @@
   "apps_moneydance": [
     "com.infinitekind.MoneydanceAndroid/com.infinitekind.MoneydanceAndroid.MoneydanceActivity"
   ],
+  "apps_monobank": [
+    "com.ftband.mono/com.ftband.app.StartActivity.Mono"
+  ],
   "apps_mnemosyne": [
     "org.mnemosyne/org.mnemosyne.MnemosyneActivity"
   ],
