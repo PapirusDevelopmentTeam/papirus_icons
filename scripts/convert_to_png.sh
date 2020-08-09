@@ -3,6 +3,7 @@
 set -e
 
 SCRIPT_DIR="$(dirname "${BASH_SOURCE[0]}")"
+INKSCAPE_VERSION=$(inkscape --version 2>/dev/null | awk '/Inkscape[ ]/ {print $2; exit}')
 
 : "${DEST_DIR:="$SCRIPT_DIR"/../app/src/main/res/drawable-nodpi}"
 : "${SRC_DIR:="$SCRIPT_DIR"/../src}"
@@ -27,7 +28,12 @@ do_convert_to_png() {
 	fi
 
 	printf 'Converting "%s" -> "%s"\n' "$file" "$bitmap_file" >&2
-	inkscape -z "$file" -w "$ICON_SIZE" -h "$ICON_SIZE" -e "$bitmap_file" >/dev/null
+
+	if [ "${INKSCAPE_VERSION%%.*}" -eq 0 ]; then
+		inkscape -z -w "$ICON_SIZE" -h "$ICON_SIZE" -e "$bitmap_file" "$file" >/dev/null
+	else
+		inkscape -w "$ICON_SIZE" -h "$ICON_SIZE" -o "$bitmap_file" "$file" >/dev/null
+	fi
 }
 
 mkdir -p "$DEST_DIR"
