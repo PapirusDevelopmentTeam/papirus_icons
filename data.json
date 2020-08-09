@@ -762,6 +762,9 @@
   "apps_gimp": [
     "org.dandroidmobile.xgimp/org.dandroidmobile.xgimp.gui.MainActivity"
   ],
+  "apps_github": [
+    "com.github.android/com.github.android.activities.MainActivity"
+  ],
   "apps_gitkraken": [
     "com.axosoft.glo/com.axosoft.glo.MainActivity"
   ],
