@@ -1448,7 +1448,8 @@
     "com.issess.flashplayerpro/com.issess.flashplayer.activity.MainListActivity"
   ],
   "apps_syncthing": [
-    "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
+    "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity",
+    "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
   ],
   "apps_tangram_browser": [
     "com.onedepth.search/com.onedepth.search.MainActivity"
