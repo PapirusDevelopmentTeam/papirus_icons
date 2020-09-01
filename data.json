@@ -867,7 +867,8 @@
   ],
   "apps_keepass2android": [
     "keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass",
-    "keepass2android.keepass2android/md5b85ab5ea2545156b0f09600c184a5178.KeePass"
+    "keepass2android.keepass2android/md5b85ab5ea2545156b0f09600c184a5178.KeePass",
+    "keepass2android.keepass2android/crc64ae7e22645ed9821f.KeePass"
   ],
   "apps_keepass2android_offline": [
     "keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass",
