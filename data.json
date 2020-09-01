@@ -1491,6 +1491,12 @@
   "apps_trax_music_player": [
     "com.mhonn.dragtrax.b/com.mhonn.dragtrax.b.Trax"
   ],
+  "apps_true_phone": [
+    "com.hb.dialer.free/com.hb.dialer.ui.PhoneActivity"
+  ],
+  "apps_true_phone_contacts": [
+    "com.hb.dialer.free/com.hb.dialer.ui.ShcStartActivity$Contacts"
+  ],
   "apps_tunein": [
     "tunein.player/tunein.ui.actvities.TuneInHomeActivity"
   ],
