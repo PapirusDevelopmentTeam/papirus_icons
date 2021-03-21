@@ -1471,7 +1471,7 @@
     "com.termux/com.termux.app.TermuxActivity"
   ],
   "apps_tiktok": [
-  "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.main.MainActivity"
+  "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity"
   ],
   "apps_tinc": [
     "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"
