@@ -1,48 +1,69 @@
+// Remove '/*' and '*/' to Enable OneSignal
+/*
+buildscript {
+    repositories {
+        maven { url 'https://plugins.gradle.org/m2/' }
+    }
+    dependencies {
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.8'
+    }
+}
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+*/
 apply plugin: 'com.android.application'
 
 android {
-
     compileSdkVersion rootProject.ext.CompileSdk
-    buildToolsVersion rootProject.ext.BuildTools
-
-    android.applicationVariants.all { variant ->
-        variant.outputs.all { output ->
-            def appName = parent.name
-            def fileName = appName.replace(" ", "_")
-            outputFileName = "$fileName-v${variant.versionName}.apk"
-        }
-    }
 
     defaultConfig {
         applicationId "io.github.PapirusDevelopmentTeam.papirus_icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
-        versionName '0.1'
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        versionName "1.0"
+        multiDexEnabled true
+
+        // Naming app bundles
+        setArchivesBaseName("${parent.name}-v${versionCode}")
+
+        // Remove '/*' and '*/' below to enable OneSignal
+        /*
+        manifestPlaceholders = [
+           onesignal_app_id: "ONESIGNAL APP ID",
+           onesignal_google_project_number: "REMOTE"
+        ]
+        */
     }
 
     buildTypes {
         release {
+            debuggable false
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-
     /*
      * CandyBar Material Dashboard Library
      *
      * How to update?
-     * 1. See latest version at GitHub, https://github.com/danimahardhika/candybar-library/releases
+     * 1. See latest version at GitHub, https://github.com/zixpo/candybar/releases
      * 2. Change candybar dependency matching latest version
-     * 3. com.github.danimahardhika.candybar-library:core:$versionNumber
+     * 3. com.github.zixpo.candybar:$versionNumber
      * 4. Sync Project with Gradle Files
      * 5. Clean project
      * 6. Done
      */
-    implementation 'com.github.danimahardhika.candybar-library:core:3.5.0-b4'
+
+    implementation 'com.github.zixpo:candybar:3.9.1'
+
+    // Remove '//' below to Enable OneSignal
+    // implementation 'com.onesignal:OneSignal:3.15.0'
 }

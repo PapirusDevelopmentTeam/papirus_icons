@@ -3,10 +3,10 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>io.github.PapirusDevelopmentTeam.papirus_icons</packageName>
+    <packageName>com.your.package.name.here</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
-    <themeName>Papirus Icon Pack</themeName>
+    <themeName>Theme Name</themeName>
 
     <!-- Default Component Color -->
     <themePointColor>#ffffff</themePointColor>

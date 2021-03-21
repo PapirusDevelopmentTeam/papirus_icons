@@ -2,26 +2,21 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">November 7, 2016</string>
+    <string name="changelog_date">August 04, 2019</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
     * <i> for Italic
-    * <u> for Underline -->
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Fixed many bugs</item>
-        <item>More easy to customize dashboard</item>
-        <item>Improved premium request feature</item>
-        <item>Support Android N</item>
-        <item>And many more …</item>
-        <item><![CDATA[
-        This is an example changelog with html formatting
-        <b>Bold</b>, <i>Italic</i>, and <u>Underline</u>
-        ]]></item>
-        <item>Another changelog</item>
-        <item><![CDATA[
-        <b>Another</b> one
-        ]]></item>
+        <item>First Changelog</item>
+        <item>Second Changelog</item>
+        <item>
+            <![CDATA[
+            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
+            ]]>
+        </item>
     </string-array>
 
 </resources>

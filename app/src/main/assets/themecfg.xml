@@ -2,9 +2,9 @@
 <theme>
     <version>1</version>
 
-    <pkgName>io.github.PapirusDevelopmentTeam.papirus_icons</pkgName>
-	<themeName>Papirus Icon Pack</themeName>
-	<themeInfo>Info</themeInfo>
-	<preview img1="preview1" img2="preview2" />
-	
+    <pkgName>com.your.package.name.here</pkgName>
+    <themeName>Your Icon Pack Name</themeName>
+    <themeInfo>Info</themeInfo>
+    <preview img1="preview1" img2="preview2" />
+
 </theme>

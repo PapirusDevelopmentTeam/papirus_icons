@@ -1,12 +1,5 @@
 package io.github.PapirusDevelopmentTeam.papirus_icons.services;
 
-import com.dm.material.dashboard.candybar.services.CandyBarMuzeiService;
+import candybar.lib.services.CandyBarMuzeiService;
 
-public class MuzeiService extends CandyBarMuzeiService {
-
-    private static final String SOURCE_NAME = "CandyBar:MuzeiArtSource";
-
-    public MuzeiService() {
-        super(SOURCE_NAME);
-    }
-}
+public class MuzeiService extends CandyBarMuzeiService {}

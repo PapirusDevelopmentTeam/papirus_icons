@@ -1,9 +1,9 @@
 package io.github.PapirusDevelopmentTeam.papirus_icons.activities;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
-import com.dm.material.dashboard.candybar.activities.CandyBarMainActivity;
-import com.dm.material.dashboard.candybar.activities.configurations.ActivityConfiguration;
+import candybar.lib.activities.CandyBarMainActivity;
+
 import io.github.PapirusDevelopmentTeam.papirus_icons.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {

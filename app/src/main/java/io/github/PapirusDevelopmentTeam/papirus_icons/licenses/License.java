@@ -1,6 +1,6 @@
 package io.github.PapirusDevelopmentTeam.papirus_icons.licenses;
 
-import com.dm.material.dashboard.candybar.items.InAppBilling;
+import candybar.lib.items.InAppBilling;
 
 public class License {
 
@@ -48,7 +48,7 @@ public class License {
      * So make sure to name it properly, like include number of icons
      * Format: new InAppBilling("premium request product id", number of icons)
      */
-    private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[] {
+    private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[]{
             new InAppBilling("your.product.id", 1),
             new InAppBilling("your.product.id", 2),
             new InAppBilling("your.product.id", 3),
@@ -63,7 +63,7 @@ public class License {
      * So make sure to name it properly
      * Format: new InAppBilling("donation product id")
      */
-    private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[] {
+    private static final InAppBilling[] DONATION_PRODUCT = new InAppBilling[]{
             new InAppBilling("your.product.id"),
             new InAppBilling("your.product.id"),
             new InAppBilling("your.product.id"),
@@ -100,7 +100,7 @@ public class License {
 
     public static String[] getDonationProductsId() {
         String[] productId = new String[DONATION_PRODUCT.length];
-        for (int i = 0 ; i < DONATION_PRODUCT.length; i++) {
+        for (int i = 0; i < DONATION_PRODUCT.length; i++) {
             productId[i] = DONATION_PRODUCT[i].getProductId();
         }
         return productId;

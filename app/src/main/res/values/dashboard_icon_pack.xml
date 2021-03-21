@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">Papirus Icon Pack</string>
+    <string name="app_name">CandyBar Sample</string>
 
-    <string name="theme_title">Papirus Icon Pack</string>
-    <string name="theme_name">Papirus Icon Pack</string>
+    <string name="theme_title">Your Icon Pack Name</string>
+    <string name="theme_name">Your Icon Pack Name</string>
 
-    <string name="theme_author">Papirus Development Team</string>
-    <string name="developer_name">Papirus Development Team</string>
-    <string name="developerName">Papirus Development Team</string>
-    <string name="authorName">Papirus Development Team</string>
+    <string name="theme_author">Developer</string>
+    <string name="developer_name">Developer</string>
+    <string name="developerName">Developer</string>
+    <string name="authorName">Developer</string>
 
     <string name="authorLink">http://www.yourlink.com</string>
     <string name="developer_link">http://www.yourlink.com/</string>
 
-    <string name="theme_description">Material and flat icon theme for launchers.</string>
-    <string name="theme_info">Material and flat icon theme for launchers.</string>
-    <string name="theme_ad_msg">Material and flat icon theme for launchers.</string>
+    <string name="theme_description">Your Icon Pack Description</string>
+    <string name="theme_info">Your Icon Pack Description</string>
+    <string name="theme_ad_msg">Your Icon Pack Description</string>
 
     <string name="theme_feature">feature</string>
 
     <string name="theme_preview1">preview1</string>
     <string name="theme_preview2">preview2</string>
 
-    <string name="iconpack">com.varlesh.papirus.icons</string>
+    <string name="iconpack">com.your.package.name</string>
 
 </resources>
