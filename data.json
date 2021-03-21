@@ -2057,7 +2057,8 @@
     "com.wingtech.calc/com.wingtech.calc.Calculator",
     "com.zui.calculator/com.zui.calculator.Calculator",
     "my.android.calc/my.android.calc.MainActivity",
-    "org.mmin.handycalc/org.mmin.handycalc.HandyCalc"
+    "org.mmin.handycalc/org.mmin.handycalc.HandyCalc",
+    "com.transsion.calculator/com.transsion.calculator.Calculator"
   ],
   "system_calendar": [
     "cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity",
@@ -2086,7 +2087,8 @@
     "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity"
   ],
   "system_camera": [
-    "org.lineageos.snap/com.android.camera.CameraLauncher"
+    "org.lineageos.snap/com.android.camera.CameraLauncher",
+    "com.transsion.camera/com.android.camera.CameraLauncher"
   ],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
@@ -2124,7 +2126,8 @@
     "com.zui.deskclock/com.zui.deskclock.DeskClock",
     "net.oneplus.deskclock/net.oneplus.deskclock.DeskClock",
     "zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity",
-    "zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock"
+    "zte.com.cn.alarmclock/zte.com.cn.alarmclock.AlarmClock",
+    "com.transsion.deskclock/com.transsion.deskclock.DeskClock"
   ],
   "system_color": [
     "com.huaqin.personcenter/com.huaqin.personcenter.PersonCenterActivity",
@@ -2282,7 +2285,8 @@
     "org.openintents.filemanager/org.openintents.filemanager.FileManagerActivity",
     "xcxin.filexpert/xcxin.filexpert.FileLister",
     "zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity",
-    "zte.com.cn.filer/zte.com.cn.filer.FilerActivity"
+    "zte.com.cn.filer/zte.com.cn.filer.FilerActivity",
+    "com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity"
   ],
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
@@ -2333,7 +2337,8 @@
     "org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity",
     "org.mokee.venus/com.android.gallery3d.app.GalleryActivity",
     "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
-    "com.miui.gallery/com.miui.gallery.app.Gallery"
+    "com.miui.gallery/com.miui.gallery.app.Gallery",
+    "com.gallery20/com.gallery20.activities.GalleryActivity"
   ],
   "system_gesture_builder": [
     "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
@@ -2397,6 +2402,9 @@
   ],
   "system_mic": [
     "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
+  ],
+  "system_mic_2": [
+  "com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder"
   ],
   "system_music": [
     "cn.zte.music/cn.zte.music.activity.MusicBrowserActivity",
@@ -2484,7 +2492,8 @@
     "net.micode.notes/net.micode.notes.ui.NotesListActivity",
     "org.mightyfrog.android.simplenotepad/org.mightyfrog.android.simplenotepad.SimpleNotepad",
     "org.whiteglow.keepmynotes/org.whiteglow.keepmynotes.activity.MainActivity",
-    "zte.com.cn.cloudnotepad/zte.com.cn.cloudnotepad.ui.SplashActivity"
+    "zte.com.cn.cloudnotepad/zte.com.cn.cloudnotepad.ui.SplashActivity",
+    "com.transsion.notebook/com.transsion.notebook.NotesList"
   ],
   "system_phone": [
     "com.android.contacts/com.android.contacts.activities.CallLogActivity",
@@ -2546,7 +2555,8 @@
     "com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity",
     "com.yulong.android.contacts/com.yulong.android.contacts.dial.DialActivity",
     "com.yulong.coolmessage/com.yulong.android.contacts.dial.DialActivity",
-    "com.zui.contacts/com.android.newcontact.vl.activity.DialpadShutcut"
+    "com.zui.contacts/com.android.newcontact.vl.activity.DialpadShutcut",
+    "com.sh.smart.caller/com.android.dialer.main.impl.MainActivity"
   ],
   "system_photocam": [
     "com.acer.camera/com.acer.camera.CameraActivity",
@@ -2715,7 +2725,8 @@
     "com.vivo.FMRadio/com.vivo.FMRadio.FMRadio",
     "com.wind.fmradio/com.android.fmradio.FmMainActivity",
     "com.wingtech.fmradio/com.wingtech.fmradio.FMRadio",
-    "fm.a2d.s2/fm.a2d.s2.gui_act"
+    "fm.a2d.s2/fm.a2d.s2.gui_act",
+    "com.transsion.fmradio/com.transsion.fmradio.FmMainActivity"
   ],
   "system_recovery": [
     "com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity"
@@ -2877,7 +2888,8 @@
     "com.tct.weather.bb/com.tct.weather.MainActivity",
     "com.tct.weather/com.tct.weather.MainActivity",
     "net.oneplus.weather/net.oneplus.weather.app.MainActivity",
-    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
+    "com.miui.weather2/com.miui.weather2.ActivityWeatherMain",
+    "com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
