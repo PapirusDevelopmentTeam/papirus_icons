@@ -2022,20 +2022,16 @@
   "google_youtube_gaming": [
     "com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity"
   ],
-  "system_alarm": [],
   "system_android": [
     "org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity"
   ],
   "system_api_dev": [
     "com.example.android.apis/com.example.android.apis.ApiDemos"
   ],
-  "system_battery": [],
-  "system_bluetooth": [],
   "system_browser": [
     "com.android.browser/com.android.browser.BrowserActivity",
     "org.lineageos.jelly/org.lineageos.jelly.MainActivity"
   ],
-  "system_browser_2": [],
   "system_calculator": [
     "cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator",
     "com.amazon.calculator/com.android.calculator2.Calculator",
@@ -2092,7 +2088,6 @@
   "system_camera": [
     "org.lineageos.snap/com.android.camera.CameraLauncher"
   ],
-  "system_camera_2": [],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
     "com.android.alarmclock/com.android.alarmclock.AlarmClock",
@@ -2195,9 +2190,6 @@
     "com.yulong.coolmessage/com.yulong.android.contacts.ui.main.ContactMainActivity",
     "com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity"
   ],
-  "system_dash": [],
-  "system_dash_2": [],
-  "system_dash_3": [],
   "system_downloads": [
     "com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList",
     "com.android.providers.downloads/com.android.providers.downloads.ui.DownloadListUI",
@@ -2209,8 +2201,6 @@
     "com.appvn.mobi/com.appvn.mobi.SplashActivity",
     "com.google.android.ogyoutube/net.ogmods.youtube.OGDownloadManager1"
   ],
-  "system_downloads_2": [],
-  "system_downloads_3": [],
   "system_eq": [
     "com.android.musicfx/com.android.musicfx.ActivitySRS"
   ],
@@ -2297,7 +2287,6 @@
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
   ],
-  "system_flashlight": [],
   "system_gallery": [
     "com.acer.muse/com.acer.muse.app.GalleryActivity",
     "com.android.camera/com.android.camera.GalleryPicker",
@@ -2353,8 +2342,6 @@
     "com.android.settings/com.android.settings.Settings$TetherSettingsActivity",
     "com.littlesmartapps.wifiaccesspointwidget/com.littlesmartapps.wifiaccesspointwidget.MainActivity"
   ],
-  "system_internet_chat": [],
-  "system_keyboard": [],
   "system_mail": [
     "com.android.email/com.amazon.email.activity.EmailActivity",
     "com.android.email/com.android.email.activity.EmailActivity",
@@ -2411,8 +2398,6 @@
   "system_mic": [
     "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
   ],
-  "system_mic_2": [],
-  "system_mms": [],
   "system_music": [
     "cn.zte.music/cn.zte.music.activity.MusicBrowserActivity",
     "cn.zte.music/cn.zte.music.MusicBrowserActivity",
@@ -2461,7 +2446,6 @@
   "system_music_2": [
     "org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity"
   ],
-  "system_music_3": [],
   "system_notes": [
     "com.android.notes/com.android.notes.Notes",
     "com.android.smemo/com.android.smemo.ListActivity",
@@ -2736,7 +2720,6 @@
   "system_recovery": [
     "com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity"
   ],
-  "system_screenshot": [],
   "system_security": [
     "com.lenovo.security/com.lenovo.security.homepage.HomePageActivity"
   ],
