@@ -14,7 +14,7 @@
         - light
         - dark
     -->
-    <string name="default_theme">auto</string>
+    <string name="default_theme">dark</string>
 
 
     <!--
