@@ -962,6 +962,9 @@
   "apps_mezzo_player": [
     "mr.dzianis.music_player/mr.dzianis.music_player.ActivityMain"
   ],
+  "apps_microsoft_edge": [
+  "com.microsoft.emmx/com.microsoft.ruby.Main"
+  ],
   "apps_mikrotik": [
     "com.mikrotik.android.tikapp/com.mikrotik.android.tikapp.activities.MainActivity"
   ],
@@ -1466,6 +1469,9 @@
   ],
   "apps_termux": [
     "com.termux/com.termux.app.TermuxActivity"
+  ],
+  "apps_tiktok": [
+  "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.main.MainActivity"
   ],
   "apps_tinc": [
     "org.pacien.tincapp/org.pacien.tincapp.activities.StartActivity"

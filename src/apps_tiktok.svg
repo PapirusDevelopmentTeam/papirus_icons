@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="apps_tiktok.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter860"
+       x="-0.048"
+       width="1.096"
+       y="-0.048"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur862" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter876"
+       x="-0.052363636"
+       width="1.1047273"
+       y="-0.044307692"
+       height="1.0886154">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.92"
+         id="feGaussianBlur878" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.45"
+     inkscape:cx="24"
+     inkscape:cy="89.306122"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     style="opacity:0.2;stroke-width:4;filter:url(#filter860)"
+     cx="96"
+     cy="100"
+     r="80"
+     id="circle2" />
+  <circle
+     style="fill:#3f3f3f;stroke-width:4"
+     cx="96"
+     cy="96"
+     r="80"
+     id="circle4" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.2;stroke-width:4;filter:url(#filter876)"
+     d="M 100,46.999997 V 119 C 100,127.83656 92.836556,135 84,135 75.163444,135 68,127.83656 68,119 68,110.16344 75.163444,103 84,103 85.350408,103.0076 86.694428,103.18608 88,103.53125 V 87.289061 C 86.67402,87.109169 85.338064,87.012625 84,86.999997 66.326888,86.999997 52,101.32689 52,119 52,136.67311 66.326888,151 84,151 101.67311,151 116,136.67311 116,119 V 82.234373 C 122.86789,86.940753 131.04503,90.999997 140,90.999997 V 75.695309 71.914061 C 135.34232,71.916861 130.9028,70.609233 126.95312,68.140621 V 68.148621 C 121.57821,64.795929 117.60106,59.441769 116,53.140621 L 114.8,46.999997 Z"
+     id="path6" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:4"
+     d="M 100,44 V 116 C 100,124.83656 92.836556,132 84,132 75.163444,132 68,124.83656 68,116 68,107.16344 75.163444,100 84,100 85.350408,100.0076 86.694428,100.18608 88,100.53125 V 84.289064 C 86.67402,84.109172 85.338064,84.012628 84,84 66.326888,84 52,98.326888 52,116 52,133.67311 66.326888,148 84,148 101.67311,148 116,133.67311 116,116 V 79.234376 C 122.86789,83.940756 131.04503,88 140,88 V 72.695312 68.914064 C 135.34232,68.916864 130.9028,67.609236 126.95312,65.140624 V 65.148624 C 121.57821,61.795932 117.60106,56.441772 116,50.140624 L 114.8,44 Z"
+     id="path8" />
+  <path
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="M 96 16 A 80 80 0 0 0 16 96 A 80 80 0 0 0 16.017578 96.490234 A 80 80 0 0 1 96 17 A 80 80 0 0 1 175.97461 96.494141 A 80 80 0 0 0 176 96 A 80 80 0 0 0 96 16 z "
+     id="path10" />
+</svg>
