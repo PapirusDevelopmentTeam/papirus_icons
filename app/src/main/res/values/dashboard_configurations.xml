@@ -64,10 +64,9 @@
         -->
     <string name="home_description">
         <![CDATA[
-            <b>You</b> <i>can</i> use <u>formatted text</u> here.
+            Popular Linux icon theme now on Android!
             <br>
-            <br>
-            <a href="https://example.com">Even Links.</u>
+            <a href="https://github.com/PapirusDevelopmentTeam">Home page</u>
         ]]>
     </string>
 
@@ -262,15 +261,14 @@
     <string name="about_profile_image">profile_picture</string>
 
     <!-- The BIG text which is shown above the description and below the about profile image -->
-    <string name="about_title">Your name</string>
+    <string name="about_title">Papirus Development Team</string>
 
     <!-- The description which is shown below the about title.
         Put your markup/text inside of `<![CDATA[` and `]]>`
         ex: `<![CDATA[ There are - <b>Bold</b> <i>Italic</i> <u>Underline</u> <a href="url">Link</a> ]]>` -->
     <string name="about_desc">
         <![CDATA[
-            Say something about yourself. <b>You</b> <i>can</i> also use <u>formatted text</u> here.
-            And some <a href="https://example.com">links</a>
+            Popular Linux icon theme now on Android!
         ]]>
     </string>
 
@@ -284,16 +282,8 @@
         ex: <string-array name="about_social_links"></string-array>
         -->
     <string-array name="about_social_links">
-        <item>your@email.com</item>
-        <item>https://behance.net/yourusername</item>
-        <item>https://dribbble.com/yourusername</item>
-        <item>https://facebook.com/yourusername</item>
-        <item>https://github.com/yourusername</item>
-        <item>https://instagram.com/yourusername</item>
-        <item>https://pinterest.com/yourusername</item>
-        <item>https://twitter.com/yourusername</item>
-        <item>https://telegram.me/yourusername</item>
-        <item>https://your.webpage.com</item>
+        <item>varlesh@gmail.com</item>
+        <item>https://github.com/PapirusDevelopmentTeam</item>
     </string-array>
 
     <!-- Contributors dialog
