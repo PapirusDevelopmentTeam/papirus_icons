@@ -349,6 +349,9 @@
   "apps_banggood": [
     "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
   ],
+  "apps_barcode": [
+  "com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
+  ],
   "apps_bbc": [
     "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
     "bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"
@@ -646,6 +649,9 @@
   "apps_facebook_pages": [
     "com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity"
   ],
+  "apps_faceunlock": [
+  "com.transsion.faceid/com.transsion.faceid.FaceManagerActivity"
+  ],
   "apps_fastest_mini_browser": [
     "com.mmbox.browser/com.mmbox.xbrowser.BrowserActivity"
   ],
@@ -661,6 +667,9 @@
   "apps_fbreader": [
     "org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader",
     "com.fbreader/com.fbreader.android.fbreader.FBReader"
+  ],
+  "apps_feedback": [
+  "com.rlk.feedback/com.rlk.feedback.MainActivity"
   ],
   "apps_feedly_classic": [
     "com.devhd.feedly.classic/com.devhd.feedly.Main"
@@ -814,6 +823,21 @@
   "apps_here_wego": [
     "com.here.app.maps/com.here.app.OneAppLauncherAlias"
   ],
+  "apps_hi_wallpaper": [
+  "com.transsion.hilauncher/com.transsion.theme.common.WallpaperMain"
+  ],
+  "apps_hi_moment_apps": [
+  "com.transsion.hilauncher/com.transsion.flashapp.lobby.FlashAppLobbyActivity"
+  ],
+  "apps_hi_bottle": [
+  "com.transsion.hilauncher/com.transsion.xlauncher.drift.DriftWebActivity"
+  ],
+  "apps_hi_theme": [
+  "com.transsion.hilauncher/com.transsion.theme.common.XThemeMain"
+  ],
+  "apps_hios_launcher": [
+  "com.transsion.hilauncher/com.android.launcher3.DynamicVirtualEntryActivity"
+  ],
   "apps_hipchat": [
     "com.hipchat/com.hipchat.activities.SignedOutActivity_"
   ],
@@ -937,6 +961,9 @@
   "apps_locker": [
     "net.zygotelabs.locker/net.zygotelabs.locker.MainActivity"
   ],
+  "apps_magic_font": [
+  "com.transsion.magicfont/com.transsion.fantasyfont.fonts.activity.OnlineViewActivity"
+  ],
   "apps_mail_ru_cloud": [
     "ru.mail.cloud/ru.mail.cloud.ui.views.MainActivity",
     "ru.mail.cloud/ru.mail.cloud.FileListActivity",
@@ -967,6 +994,9 @@
   ],
   "apps_mikrotik": [
     "com.mikrotik.android.tikapp/com.mikrotik.android.tikapp.activities.MainActivity"
+  ],
+  "apps_minimizer_for_youtube": [
+  "com.alexopoulos.vlasis.youtubeminimizer5/com.alexopoulos.vlasis.youtubeminimizer5.Minimize_Activity"
   ],
   "apps_miui_community": [
     "com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
@@ -1216,6 +1246,9 @@
   "apps_phoenix_browser": [
     "com.transsion.phoenix/com.proj.sun.activity.LaunchActivity"
   ],
+  "apps_phone_master": [
+  "com.transsion.phonemaster/com.cyin.himgr.ads.SplashActivity"
+  ],
   "apps_phonograph_music_player": [
     "com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity"
   ],
@@ -1463,6 +1496,9 @@
   ],
   "apps_tangram_browser": [
     "com.onedepth.search/com.onedepth.search.MainActivity"
+  ],
+  "apps_tele2": [
+  "ru.tele2.mytele2/ru.tele2.mytele2.ui.splash.SplashActivity"
   ],
   "apps_telegram": [
     "org.telegram.messenger/org.telegram.ui.LaunchActivity"
@@ -2899,5 +2935,8 @@
   ],
   "system_worldtime": [
     "com.android.qworldclock/com.android.qworldclock.QWorldClock"
+  ],
+  "yandex_pogoda": [
+  "ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity"
   ]
 }
