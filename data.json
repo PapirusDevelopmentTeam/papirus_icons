@@ -1626,9 +1626,6 @@
   "apps_xplay_music_player": [
     "com.kane.xplay.activities/com.kane.xplay.activities.XplayActivity"
   ],
-  "apps_yandex_browser": [
-    "com.yandex.browser/com.yandex.browser.YandexBrowserActivity"
-  ],
   "apps_yo_browser": [
     "com.browser.yo.indian/io.github.mthli.Ninja.Activity.BrowserActivity"
   ],
@@ -2050,6 +2047,10 @@
   ],
   "google_youtube": [
     "com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+  ],
+  "google_youtube_kids": [
+  "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.activities.SplashScreenActivity",
+  "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity"
   ],
   "google_youtube_creator": [
     "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity",
@@ -2938,5 +2939,118 @@
   ],
   "yandex_pogoda": [
   "ru.yandex.weatherplugin/ru.yandex.weatherplugin.ui.activity.SplashActivity"
+  ],
+  "yandex_browser": [
+    "com.yandex.browser/com.yandex.browser.YandexBrowserActivity"
+  ],
+  "yandex_app": [
+  "ru.yandex.searchplugin/ru.yandex.searchplugin.MainActivity"
+  ],
+  "yandex_disk": [
+  "ru.yandex.disk/ru.yandex.disk.MainActivity"
+  ],
+  "yandex_mail": [
+  "ru.yandex.mail/ru.yandex.mail.ui.LoginActivity"
+  ],
+  "yandex_translate": [
+  "ru.yandex.translate/ru.yandex.translate.ui.activities.MainActivity"
+  ],
+  "yandex_navigator": [
+  "ru.yandex.yandexnavi/ru.yandex.yandexnavi.core.NavigatorActivity"
+  ],
+  "yandex_map": [
+  "ru.yandex.yandexmaps/ru.yandex.yandexmaps.SplashScreen"
+  ],
+  "yandex_taxi": [
+  "ru.yandex.taxi/ru.yandex.taxi.activity.StartActivity"
+  ],
+  "yandex_beru": [
+  "ru.beru.android/ru.yandex.market.ui.splash.MarketSplashActivity"
+  ],
+  "yandex_music": [
+  "ru.yandex.music/ru.yandex.music.main.MainScreenActivity"
+  ],
+  "yandex_keyboard": [
+  "ru.yandex.androidkeyboard/com.android.inputmethod.latin.setup.SetupYandexKeyboardActivity"
+  ],
+  "yandex_yango": [
+  "com.yandex.yango/ru.yandex.taxi.activity.StartActivity"
+  ],
+  "yandex_food": [
+  "ru.foodfox.client/ru.foodfox.client.ui.activities.MainActivity_R"
+  ],
+  "yandex_browser_lite": [
+  "com.yandex.browser.lite/com.yandex.browser.lite.mainactivity.MainActivity"
+  ],
+  "yandex_launcher": [
+  "com.yandex.launcher/com.yandex.launcher.SettingsActivity",
+  "com.yandex.launcher/com.yandex.launcher.Launcher"
+  ],
+  "yandex_taximeter": [
+  "ru.yandex.taximeter/ru.yandex.taximeter.LoginActivity"
+  ],
+  "yandex_key": [
+  "ru.yandex.key/ru.yandex.key.ui.activities.main.MainActivity"
+  ],
+  "yandex_alisa": [
+  "com.yandex.alice/ru.yandex.searchplugin.MainActivity"
+  ],
+  "yandex_metro": [
+  "ru.yandex.metro/ru.yandex.metro.LaunchActivity"
+  ],
+  "yandex_uslugi": [
+  "com.yandex.uslugi/ru.yandex.searchplugin.MainActivity"
+  ],
+  "yandex_uber": [
+  "ru.yandex.uber/ru.yandex.taxi.activity.StartActivity"
+  ],
+  "yandex_zapravki": [
+  "ru.yandex.mobile.gasstations/ru.yandex.mobile.gasstations.view.map.main.MainActivity"
+  ],
+  "yandex_lavka": [
+  "com.yandex.lavka/ru.yandex.lavka.common.MainActivity"
+  ],
+  "yandex_realty": [
+  "com.yandex.mobile.realty/com.yandex.mobile.realty.activity.SplashActivity"
+  ],
+  "yandex_drive": [
+  "com.yandex.mobile.drive/com.yandex.mobile.drive.ClientContainer"
+  ],
+  "yandex_rasp": [
+  "ru.yandex.rasp/ru.yandex.rasp.AMainActivity"
+  ],
+  "yandex_avia": [
+  "ru.yandex.mobile.avia/ru.yandex.mobile.avia.ui.activity.SplashActivity"
+  ],
+  "yandex_classified": [
+  "com.yandex.classified/ru.yandex.searchplugin.MainActivity"
+  ],
+  "yandex_taximeter_x": [
+  "ru.yandex.taximeter.x/ru.yandex.taximeter.LoginActivity"
+  ],
+  "yandex_radio": [
+  "ru.yandex.radio/ru.yandex.radio.app.WelcomeActivity"
+  ],
+  "yandex_yamb": [
+  "com.yandex.yamb/com.yandex.yamb.ui.activities.MainActivity"
+  ],
+  "yandex_efir": [
+  "com.yandex.efir/ru.yandex.searchplugin.MainActivity"
+  ],
+  "yandex_market": [
+  "ru.yandex.market/ru.yandex.market.ui.splash.SplashActivity",
+  "ru.yandex.market/ru.yandex.market.activity.main.MainActivity"
+  ],
+  "yandex_med": [
+  "ru.yandex.med/ru.yandex.med.ui.splash.SplashActivity"
+  ],
+  "yandex_direct": [
+  "ru.yandex.direct/ru.yandex.direct.newui.splash.SplashActivity"
+  ],
+  "yandex_widget": [
+  "com.yandex.widget/ru.yandex.searchlib.widget.standalone.WidgetLaunchActivity"
+  ],
+  "yandex_metrica": [
+  "ru.yandex.mobile.metrica/ru.yandex.metrica.ui.PreloaderActivity"
   ]
 }
