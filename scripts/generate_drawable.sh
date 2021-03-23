@@ -44,5 +44,8 @@ $(get_icons_from_category "Apps")
 
     <category title="Games" />
 $(get_icons_from_category "Games")
+
+    <category title="Yandex" />
+$(get_icons_from_category "Yandex")
 </resources>
 EOF
