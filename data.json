@@ -3052,5 +3052,8 @@
   ],
   "yandex_metrica": [
   "ru.yandex.mobile.metrica/ru.yandex.metrica.ui.PreloaderActivity"
+  ],
+  "yandex_subtitles": [
+  "ru.yandex.subtitles/ru.yandex.subtitles.ui.activity.SplashActivity"
   ]
 }
