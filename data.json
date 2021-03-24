@@ -3103,5 +3103,19 @@
   ],
   "apps_microsoft_todo": [
   "com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
+  ],
+  "apps_torrserve": [
+  "ru.yourok.torrserve/ru.yourok.torrserve.ui.activities.main.MainActivity"
+  ],
+  "apps_msx": [
+  "de.benzac.msx/de.benzac.tvx.activities.MainActivity"
+  ],
+  "apps_hd_videobox": [
+  "dkc.video.hdbox/com.dkc.fs.ui.activities.SplashActivity"
+  ],
+  "apps_netflix": [
+  "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity",
+  "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity",
+  "com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"
   ]
 }
