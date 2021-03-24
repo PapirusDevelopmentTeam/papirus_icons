@@ -3055,5 +3055,56 @@
   ],
   "yandex_subtitles": [
   "ru.yandex.subtitles/ru.yandex.subtitles.ui.activity.SplashActivity"
+  ],
+  "apps_microsoft_onenote": [
+  "com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity"
+  ],
+  "apps_microsoft_word": [
+  "com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity"
+  ],
+  "apps_microsoft_excel": [
+  "com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity",
+  "com.microsoft.office.excel/com.microsoft.office.excel.excelMainActivity"
+  ],
+  "apps_microsoft_outlook": [
+  "com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
+  ],
+  "apps_microsoft_onedrive": [
+  "com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+  ],
+  "apps_microsoft_powerpoint": [
+  "com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity",
+  "com.microsoft.office.powerpoint/com.microsoft.office.powerpoint.PPTActivity"
+  ],
+  "apps_microsoft_teams": [
+  "com.microsoft.teams/com.microsoft.skype.teams.Launcher"
+  ],
+  "apps_microsoft_office": [
+  "com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity",
+  "com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteLaunchActivity",
+  "com.microsoft.office.officehubrow/com.microsoft.office.officemobile.OfficeMobileActivity"
+  ],
+  "apps_microsoft_xbox": [
+  "com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.XLEActivity",
+  "com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.xle.app.XLEActivity",
+  "com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity",
+  "com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.xle.app.MainActivity",
+  "com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity",
+  "com.microsoft.xboxone.smartglass.beta/com.microsoft.xbox.MainActivity"
+  ],
+  "apps_microsoft_appmanager": [
+  "com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity",
+  "com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity"
+  ],
+  "apps_microsoft_azure_authenticator": [
+  "com.azure.authenticator/com.azure.authenticator.ui.MainActivity",
+  "com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity"
+  ],
+  "apps_microsoft_launcher": [
+  "com.microsoft.launcher/com.microsoft.launcher.EntryActivity",
+  "com.microsoft.launcher/com.microsoft.launcher.Launcher"
+  ],
+  "apps_microsoft_todo": [
+  "com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
   ]
 }
