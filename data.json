@@ -188,9 +188,6 @@
     "browser4g.fast.internetwebexplorer/browser.pro.zoomob.activities.BrowserActivityOldbrowser",
     "fastbrowser4g.internetwebexplorer/internet.explorer.ienew.browser.activities.BrowserActivity"
   ],
-  "apps_4g_lte_browser": [
-    "hero.browser4g.internet/acr.browser.lightning.activity.SplashScreenActivity"
-  ],
   "apps_4pda": [
     "ru.fourpda.client/ru.fourpda.client.MainActivity"
   ],

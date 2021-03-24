@@ -12,7 +12,7 @@
    version="1"
    id="svg30"
    sodipodi:docname="apps_bsplayer.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -83,9 +83,10 @@
      inkscape:cx="-88"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg30" />
+     inkscape:current-layer="svg30"
+     inkscape:document-rotation="0" />
   <path
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter870)"
      d="m 16,140 v 20 c 0,6.648 5.352,12 12,12 h 136 c 6.648,0 12,-5.352 12,-12 v -20 z"
@@ -95,7 +96,7 @@
      inkscape:connector-curvature="0"
      id="path2"
      d="M 28,24 C 21.352,24 16,29.352 16,36 V 136 H 176 V 36 c 0,-6.648 -5.352,-12 -12,-12 z"
-     style="fill:#289cc1;stroke-width:4" />
+     style="fill:#13a7d6;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.2;fill:#ffffff;stroke-width:4"
      d="M 28 24 C 21.352 24 16 29.352 16 36 L 16 37 C 16 30.352 21.352 25 28 25 L 164 25 C 170.648 25 176 30.352 176 37 L 176 36 C 176 29.352 170.648 24 164 24 L 28 24 z "
@@ -122,7 +123,7 @@
      x="28"
      height="8"
      width="84"
-     style="fill:#289cc1;stroke-width:4" />
+     style="fill:#13a7d6;stroke-width:4;fill-opacity:1" />
   <circle
      style="opacity:0.1;stroke-width:4;filter:url(#filter894)"
      id="circle12"

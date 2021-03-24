@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="apps_archos_video_player.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -83,9 +83,10 @@
      inkscape:cx="80.943994"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16">
+     inkscape:current-layer="svg16"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid838" />
@@ -109,7 +110,7 @@
      x="-176"
      height="160"
      width="160"
-     style="fill:#43acda;stroke-width:4" />
+     style="fill:#29b7f4;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.2;fill:#ffffff;stroke-width:4"
      d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "

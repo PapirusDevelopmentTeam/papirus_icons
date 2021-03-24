@@ -12,7 +12,7 @@
    version="1"
    id="svg20"
    sodipodi:docname="system_camera.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -79,13 +79,14 @@
      inkscape:window-height="1018"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="1"
+     inkscape:zoom="1.42"
      inkscape:cx="96"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20"
+     inkscape:document-rotation="0" />
   <rect
      id="rect2"
      transform="matrix(0,-1,-1,0,0,0)"
@@ -125,10 +126,10 @@
      r="36"
      cy="-96"
      cx="96"
-     style="fill:#ba174e;stroke-width:4" />
+     style="fill:#175fba;fill-opacity:1;stroke-width:4" />
   <path
      style="opacity:0.2;fill:#ffffff;stroke-width:4"
-     d="M 96 16 C 51.68 16 16 51.68 16 96 C 16 96.116813 16.005368 96.231684 16.007812 96.347656 C 16.356433 52.330881 51.897996 17 96 17 C 140.102 17 175.64357 52.330881 175.99219 96.347656 C 175.99459 96.231684 176 96.11681 176 96 C 176 51.68 140.32 16 96 16 z "
+     d="m 96,16 c -44.32,0 -80,35.68 -80,80 0,0.116813 0.0054,0.231684 0.0078,0.347656 C 16.356433,52.330881 51.897996,17 96,17 140.102,17 175.64357,52.330881 175.99219,96.347656 175.99459,96.231684 176,96.11681 176,96 176,51.68 140.32,16 96,16 Z"
      id="path12" />
   <circle
      id="circle14"
@@ -141,9 +142,9 @@
      r="24"
      cy="96"
      cx="96"
-     style="fill:#d67495;stroke-width:4" />
+     style="fill:#3198ff;fill-opacity:1;stroke-width:4" />
   <path
-     style="fill:#ffffff;stroke-width:4;opacity:0.2"
-     d="M 96 72 A 24 24 0 0 0 72 96 A 24 24 0 0 0 72.021484 96.582031 A 24 24 0 0 1 96 73 A 24 24 0 0 1 119.97852 96.417969 A 24 24 0 0 0 120 96 A 24 24 0 0 0 96 72 z "
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="M 96,72 A 24,24 0 0 0 72,96 24,24 0 0 0 72.021484,96.582031 24,24 0 0 1 96,73 24,24 0 0 1 119.97852,96.417969 24,24 0 0 0 120,96 24,24 0 0 0 96,72 Z"
      id="circle900" />
 </svg>

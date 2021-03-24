@@ -12,7 +12,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="apps_laya_music_player.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -83,9 +83,10 @@
      inkscape:cx="96"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16"
+     inkscape:document-rotation="0" />
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter853)"
      width="160"
@@ -105,7 +106,7 @@
      x="-176"
      height="160"
      width="160"
-     style="fill:#087abf;stroke-width:4" />
+     style="fill:#0862bf;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.2;fill:#ffffff;stroke-width:4"
      d="M 96 16 C 51.684 16 16.007812 51.68 16.007812 96 C 16.007812 96.33544 16.009812 96.667215 16.007812 97 C 16.007812 52.68 51.684 17 96 17 C 140.316 17 175.99219 52.68 175.99219 97 C 175.99019 96.667215 175.99219 96.33544 175.99219 96 C 175.99219 51.68 140.316 16 96 16 z "

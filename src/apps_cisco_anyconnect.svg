@@ -12,7 +12,7 @@
    version="1"
    id="svg14"
    sodipodi:docname="apps_cisco_anyconnect.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,9 +71,10 @@
      inkscape:cx="24"
      inkscape:cy="94.921986"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <path
      id="path841"
      d="M 95.9998,20.0004 C 51.679911,20.0004 16,55.680311 16,100.0002 16,144.32009 51.679911,180 95.9998,180 c 44.31989,0 79.9998,-35.67991 79.9998,-79.9998 0,-44.319889 -35.67991,-79.9998 -79.9998,-79.9998 z"
@@ -90,7 +91,7 @@
      id="path10" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#318bcf;stroke-width:3.99998999"
+     style="fill:#138fed;stroke-width:3.99998999;fill-opacity:1"
      d="M 71.99986,40.00035 A 79.9998,79.9998 0 0 0 28.609344,52.88313 C 20.657516,65.318975 16,80.082858 16,96.00021 c 0,4.47026 0.379895,8.85044 1.078122,13.11716 a 55.99986,55.99986 0 0 1 54.921738,-45.11708 55.99986,55.99986 0 0 1 55.99986,55.99986 55.99986,55.99986 0 0 1 -45.218639,54.90611 c 4.298765,0.70915 8.712942,1.09375 13.218719,1.09375 15.9828,0 30.80592,-4.69094 43.27333,-12.70309 a 79.9998,79.9998 0 0 0 12.72653,-43.29677 79.9998,79.9998 0 0 0 -79.9998,-79.9998 z"
      id="path4" />
   <path
@@ -100,7 +101,7 @@
      id="path6" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#7bc450;stroke-width:3.99998999"
+     style="fill:#7bc450;stroke-width:3.99998999;fill-opacity:1"
      d="m 95.9998,16.00041 c -0.380399,0 -0.753722,0.026 -1.132809,0.03124 a 79.9998,79.9998 0 0 0 -22.867131,55.96862 79.9998,79.9998 0 0 0 79.9998,79.9998 79.9998,79.9998 0 0 0 1.23437,-0.0625 c 7.5269,-7.70161 13.45793,-16.93488 17.39058,-27.18743 A 55.99986,55.99986 0 0 1 151.99966,128.00013 55.99986,55.99986 0 0 1 95.9998,72.00027 55.99986,55.99986 0 0 1 126.65597,22.070707 C 117.21947,18.172327 106.8768,16.00041 95.9998,16.00041 Z"
      id="path8" />
 </svg>

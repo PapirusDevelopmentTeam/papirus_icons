@@ -12,7 +12,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="system_messages.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -70,9 +70,10 @@
      inkscape:cx="96"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="svg18"
+     inkscape:document-rotation="0" />
   <path
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter855)"
      d="M 24.8888,28 C 19.9644,28 16,33.0756 16,38 v 104 c 0,4.924 3.9644,10 8.8888,10 h 75.112 l 20,20 20,-20 h 27.1112 c 4.924,0 8.888,-5.076 8.888,-10 V 38 c 0,-4.9244 -3.964,-10 -8.888,-10 z"
@@ -82,7 +83,7 @@
      inkscape:connector-curvature="0"
      id="path4"
      d="M 24.8888,24 C 19.9644,24 16,29.0756 16,34 v 104 c 0,4.924 3.9644,10 8.8888,10 h 75.112 l 20,20 20,-20 h 27.1112 c 4.924,0 8.888,-5.076 8.888,-10 V 34 c 0,-4.9244 -3.964,-10 -8.888,-10 z"
-     style="fill:#86b42c;stroke-width:4" />
+     style="fill:#5dbf21;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.2;fill:#ffffff;stroke-width:4"
      d="M 24.890625 24 C 19.965825 24 16 29.0756 16 34 L 16 35 C 16 30.0756 19.965825 25 24.890625 25 L 167.10938 25 C 172.03338 25 176 30.0756 176 35 L 176 34 C 176 29.0756 172.03338 24 167.10938 24 L 24.890625 24 z "

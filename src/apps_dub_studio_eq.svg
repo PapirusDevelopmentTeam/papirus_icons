@@ -12,7 +12,7 @@
    version="1"
    id="svg72"
    sodipodi:docname="apps_dub_studio_eq.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata78">
     <rdf:RDF>
@@ -80,13 +80,14 @@
      id="namedview74"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="1"
+     inkscape:zoom="3.77"
      inkscape:cx="96"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg72" />
+     inkscape:current-layer="svg72"
+     inkscape:document-rotation="0" />
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter937)"
      width="160"
@@ -182,7 +183,7 @@
   </g>
   <g
      id="g42"
-     style="fill:#ffdf42"
+     style="fill:#ffdb2d;fill-opacity:1"
      transform="scale(4)">
     <rect
        id="rect26"
@@ -191,7 +192,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect28"
        transform="scale(-1,1)"
@@ -199,7 +200,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect30"
        transform="scale(-1,1)"
@@ -207,7 +208,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect32"
        transform="scale(-1,1)"
@@ -215,7 +216,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect34"
        transform="scale(-1,1)"
@@ -223,7 +224,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect36"
        transform="scale(-1,1)"
@@ -231,7 +232,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect38"
        transform="scale(-1,1)"
@@ -239,7 +240,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
     <rect
        id="rect40"
        transform="scale(-1,1)"
@@ -247,11 +248,11 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ffdf42" />
+       style="fill:#ffdb2d;fill-opacity:1" />
   </g>
   <g
      id="g60"
-     style="fill:#ff6565"
+     style="fill:#ff4d4d;fill-opacity:1"
      transform="scale(4)">
     <rect
        id="rect44"
@@ -260,7 +261,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect46"
        transform="scale(-1,1)"
@@ -268,7 +269,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect48"
        transform="scale(-1,1)"
@@ -276,7 +277,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect50"
        transform="scale(-1,1)"
@@ -284,7 +285,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect52"
        transform="scale(-1,1)"
@@ -292,7 +293,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect54"
        transform="scale(-1,1)"
@@ -300,7 +301,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect56"
        transform="scale(-1,1)"
@@ -308,7 +309,7 @@
        x="-12"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
     <rect
        id="rect58"
        transform="scale(-1,1)"
@@ -316,7 +317,7 @@
        x="-19"
        height="2"
        width="6"
-       style="fill:#ff6565" />
+       style="fill:#ff4d4d;fill-opacity:1" />
   </g>
   <path
      inkscape:connector-curvature="0"

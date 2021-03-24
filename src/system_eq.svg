@@ -12,7 +12,7 @@
    version="1"
    id="svg28"
    sodipodi:docname="system_eq.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -70,9 +70,10 @@
      inkscape:cx="96"
      inkscape:cy="76.19802"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg28"
+     inkscape:document-rotation="0" />
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter871)"
      width="160"
@@ -97,7 +98,7 @@
      inkscape:connector-curvature="0"
      id="path6"
      d="M 48,83.598024 V 140 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 83.598024 Z M 88,113.58155 V 140 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 114.8995 Z M 128,86.233936 V 140 c 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 V 86.892916 Z"
-     style="fill:#007dba;stroke-width:4" />
+     style="fill:#0095dd;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.1;fill:#ffffff;stroke-width:4"
      d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z "
@@ -115,17 +116,17 @@
      inkscape:connector-curvature="0"
      id="path14"
      d="M 72,84 A 16,16 0 0 1 56,100 16,16 0 0 1 40,84 16,16 0 0 1 56,68 16,16 0 0 1 72,84 Z"
-     style="fill:#5b5b5b;stroke-width:4;fill-opacity:1" />
+     style="fill:#696969;stroke-width:4;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path18"
      d="m 112,116 a 16,16 0 0 1 -16,16 16,16 0 0 1 -16,-16 16,16 0 0 1 16,-16 16,16 0 0 1 16,16 z"
-     style="fill:#5b5b5b;stroke-width:4;fill-opacity:1" />
+     style="fill:#696969;stroke-width:4;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path22"
      d="m 152,88 a 16,16 0 0 1 -16,16 16,16 0 0 1 -16,-16 16,16 0 0 1 16,-16 16,16 0 0 1 16,16 z"
-     style="fill:#5b5b5b;stroke-width:4;fill-opacity:1" />
+     style="fill:#696969;stroke-width:4;fill-opacity:1" />
   <path
      style="opacity:0.1;fill:#ffffff;stroke-width:4"
      d="M 56 68 A 16 16 0 0 0 40 84 A 16 16 0 0 0 40.019531 84.439453 A 16 16 0 0 1 56 69 A 16 16 0 0 1 71.980469 84.591797 A 16 16 0 0 0 72 84 A 16 16 0 0 0 56 68 z M 136 72 A 16 16 0 0 0 120 88 A 16 16 0 0 0 120.01953 88.439453 A 16 16 0 0 1 136 73 A 16 16 0 0 1 151.98047 88.591797 A 16 16 0 0 0 152 88 A 16 16 0 0 0 136 72 z M 96 100 A 16 16 0 0 0 80 116 A 16 16 0 0 0 80.019531 116.43945 A 16 16 0 0 1 96 101 A 16 16 0 0 1 111.98047 116.5918 A 16 16 0 0 0 112 116 A 16 16 0 0 0 96 100 z "

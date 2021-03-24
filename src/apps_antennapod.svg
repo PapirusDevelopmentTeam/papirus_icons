@@ -12,7 +12,7 @@
    version="1"
    id="svg14"
    sodipodi:docname="apps_antennapod.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -80,14 +80,15 @@
      inkscape:window-height="1018"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="1"
+     inkscape:zoom="2.02"
      inkscape:cx="87.935185"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
-     showguides="false" />
+     showguides="false"
+     inkscape:document-rotation="0" />
   <ellipse
      ry="80.000008"
      rx="80"
@@ -96,7 +97,7 @@
      id="ellipse839"
      style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.93091476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter857)" />
   <ellipse
-     style="opacity:1;fill:#0089b7;fill-opacity:1;stroke:none;stroke-width:1.93091476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#00a1d6;fill-opacity:1;stroke:none;stroke-width:1.93091476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path821"
      cx="96"
      cy="95.999992"

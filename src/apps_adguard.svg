@@ -12,7 +12,7 @@
    version="1"
    id="svg24"
    sodipodi:docname="apps_adguard.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,9 +71,10 @@
      inkscape:cx="77.682596"
      inkscape:cy="103.25749"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24">
+     inkscape:current-layer="svg24"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid845" />
@@ -89,14 +90,14 @@
        style="fill:#000000" />
   </g>
   <g
-     style="fill:#6dbe76;fill-opacity:1"
+     style="fill:#5fcc6b;fill-opacity:1"
      id="g8"
      transform="matrix(0.44885822,0,0,0.45372951,16.851708,16.000001)">
     <path
        inkscape:connector-curvature="0"
        id="path6"
        d="M 324.48,51.943 177.99,0.285 c -1.076,-0.38 -2.25,-0.38 -3.326,0 L 28.174,51.943 c -1.999,0.705 -3.337,2.595 -3.337,4.715 0,52.278 13.834,112.71 37.956,165.8 19.566,43.069 54.751,100.52 111.25,129.62 0.719,0.37 1.504,0.555 2.29,0.555 0.786,0 1.571,-0.185 2.29,-0.555 56.496,-29.106 91.68,-86.556 111.25,-129.62 24.121,-53.094 37.955,-113.53 37.955,-165.8 0,-2.12 -1.338,-4.01 -3.337,-4.715 z"
-       style="fill:#6dbe76;fill-opacity:1" />
+       style="fill:#5fcc6b;fill-opacity:1" />
   </g>
   <g
      transform="matrix(0.44885822,0,0,0.45372951,16.851708,16.000001)"
