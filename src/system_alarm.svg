@@ -12,7 +12,7 @@
    version="1"
    id="svg26"
    sodipodi:docname="system_alarm.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -79,13 +79,14 @@
      inkscape:window-height="1018"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="1"
+     inkscape:zoom="3.28"
      inkscape:cx="96"
      inkscape:cy="96"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:current-layer="svg26"
+     inkscape:document-rotation="0" />
   <path
      inkscape:connector-curvature="0"
      id="path6"
@@ -116,7 +117,7 @@
      id="rect866"
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter884)" />
   <rect
-     style="fill:#e74c3c;stroke-width:4"
+     style="fill:#f54b3e;stroke-width:4;fill-opacity:1"
      id="rect12"
      transform="matrix(0,-1,-1,0,0,0)"
      ry="80"
@@ -148,14 +149,10 @@
      x="-164"
      height="136"
      width="136"
-     style="fill:#f8cac5;stroke-width:4" />
+     style="fill:#ffffff;stroke-width:4;fill-opacity:1" />
   <path
      inkscape:connector-curvature="0"
      id="path20"
      d="m 96,32 c -4.418276,0 -8,3.581722 -8,8 0,4.41828 3.581724,8 8,8 4.41828,0 8,-3.58172 8,-8 0,-4.418278 -3.58172,-8 -8,-8 z m 31.89062,35.781248 c -0.5156,0.06468 -1.02806,0.2308 -1.50781,0.507816 L 93.140624,87.484376 c -4.5348,2.2582 -6.25206,8.167536 -4.41406,11.585936 L 100.8125,120 c 2.21396,3.83468 7.08348,5.13804 10.92188,2.92188 3.83824,-2.216 5.14356,-7.08708 2.92968,-10.92188 l -12,-20.781248 27.71875,-16 c 1.91912,-1.108004 2.5685,-3.550312 1.46094,-5.468752 -0.83067,-1.43874 -2.40633,-2.16278 -3.95313,-1.968752 z M 40,88 c -4.418278,0 -8,3.581724 -8,8 0,4.41828 3.581722,8 8,8 4.418276,0 8,-3.58172 8,-8 0,-4.418276 -3.581724,-8 -8,-8 z m 112,0 c -4.41828,0 -8,3.581724 -8,8 0,4.41828 3.58172,8 8,8 4.41828,0 8,-3.58172 8,-8 0,-4.418276 -3.58172,-8 -8,-8 z m -56,56 c -4.418276,0 -8,3.58172 -8,8 0,4.41828 3.581724,8 8,8 4.41828,0 8,-3.58172 8,-8 0,-4.41828 -3.58172,-8 -8,-8 z"
      style="opacity:0.7;stroke-width:4" />
-  <path
-     style="opacity:0.2;fill:#ffffff;stroke-width:4"
-     d="M 96 28 C 58.328 28 28 58.328 28 96 C 28 96.117428 28.008796 96.232203 28.015625 96.347656 C 28.365106 58.980045 58.546804 29 96 29 C 133.4532 29 163.63489 58.980045 163.98438 96.347656 C 163.9912 96.232204 164 96.117429 164 96 C 164 58.328 133.672 28 96 28 z "
-     id="path22" />
 </svg>
