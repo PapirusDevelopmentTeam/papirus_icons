@@ -1120,6 +1120,9 @@
     "com.neutroncode.mpeval/com.neutroncode.mp.NeutronMPCore",
     "com.neutroncode.mp/com.neutroncode.mp.NeutronMPCore"
   ],
+  "apps_newpipe": [
+    "org.schabi.newpipe/org.schabi.newpipe.MainActivity"
+  ],
   "apps_next_browser": [
     "com.jiubang.browser/com.jiubang.browser.main.BrowserActivity"
   ],
@@ -1372,6 +1375,12 @@
   "apps_relive": [
     "cc.relive.reliveapp/cc.relive.reliveapp.MainActivity"
   ],
+  "apps_red_moon": [
+    "com.jmstudios.redmoon/com.jmstudios.redmoon.MainActivity"
+  ],
+  "games_retroarch": [
+    "com.retroarch/com.retroarch.browser.mainmenu.MainMenuActivity"
+  ],
   "apps_ripple": [
     "info.guardianproject.ripple/info.guardianproject.ripple.MainActivity"
   ],
@@ -1491,6 +1500,9 @@
     "com.github.catfriend1.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity",
     "com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.FirstStartActivity"
   ],
+  "apps_tachiyomi": [
+    "eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity"
+  ],
   "apps_tangram_browser": [
     "com.onedepth.search/com.onedepth.search.MainActivity"
   ],
@@ -1542,6 +1554,9 @@
   "apps_tunein_pro": [
     "radiotime.player/tunein.player.pro.Activity",
     "radiotime.player/tunein.ui.actvities.TuneInHomeActivity"
+  ],
+  "apps_turtl_request": [
+    "org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity"
   ],
   "apps_twitter": [
     "com.twitter.android/com.twitter.android.StartActivity",
