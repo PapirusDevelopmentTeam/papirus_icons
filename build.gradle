@@ -1,18 +1,17 @@
 buildscript {
     repositories {
-        jcenter()
+        mavenCentral()
         google()
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.0.2'
+        classpath 'com.android.tools.build:gradle:4.2.1'
     }
 }
 
 allprojects {
     repositories {
         mavenCentral()
-        jcenter()
         google()
         maven { url "https://jitpack.io" }
         maven { url 'https://maven.google.com' }
@@ -20,9 +19,8 @@ allprojects {
 
     rootProject.ext {
         MinSdk = 15
-        TargetSdk = 29
-        CompileSdk = 29
-        SupportLibrary = "27.1.1"
+        TargetSdk = 30
+        CompileSdk = 30
     }
 }
 

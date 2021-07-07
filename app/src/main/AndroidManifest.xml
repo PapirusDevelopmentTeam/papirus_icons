@@ -22,18 +22,18 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:networkSecurityConfig="@xml/network_config"
-        android:requestLegacyExternalStorage="true"
         android:label="Papirus Icon Pack"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        tools:replace="android:icon">
+        android:theme="@style/CandyBar.Theme.App"
+        tools:replace="android:icon"
+        tools:targetApi="n">
 
         <activity
             android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
-            android:theme="@style/SplashTheme">
+            android:theme="@style/CandyBar.Theme.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -46,7 +46,7 @@
         <activity
             android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.MainActivity"
             android:launchMode="singleTop"
-            android:theme="@style/AppTheme"
+            android:theme="@style/CandyBar.Theme.App"
             android:configChanges="uiMode|orientation|keyboardHidden|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
