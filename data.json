@@ -2133,7 +2133,8 @@
     "com.samsung.android.calendar/com.android.calendar.AllInOneActivity",
     "com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity",
     "com.tct.calendar/com.tct.calendar.AllInOneActivity",
-    "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity"
+    "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity",
+    "com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity"
   ],
   "system_camera": [
     "org.lineageos.snap/com.android.camera.CameraLauncher",
@@ -2752,6 +2753,7 @@
     "com.mikersmicros.fm_unlock/com.mikersmicros.fm_unlock.fm_apln",
     "com.miui.fm/com.miui.fmradio.FmActivity",
     "com.miui.fmradio/com.miui.fmradio.FmRadioActivity",
+    "com.miui.fm/com.miui.fmradio.FmRadioActivity",
     "com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity",
     "com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity",
     "com.motorola.fmplayer/com.motorola.fmplayer.FMPlayer",
@@ -3132,5 +3134,11 @@
   "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity",
   "com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity",
   "com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"
+  ],
+  "apps_miui_themeeditor": [
+  "com.mixapplications.miuithemeeditor/com.mixapplications.miuithemeeditor.MainActivity"
+  ],
+  "apps_miui_browser": [
+  "com.mi.globalbrowser/com.mi.globalbrowser.Main"
   ]
 }
