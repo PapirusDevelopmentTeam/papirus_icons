@@ -3140,5 +3140,20 @@
   ],
   "apps_miui_browser": [
   "com.mi.globalbrowser/com.mi.globalbrowser.Main"
+  ],
+  "apps_gosuslugi": [
+  "ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen"
+  ],
+  "apps_polish": [
+  "photo.editor.photoeditor.photoeditorpro/com.camerasideas.collagemaker.activity.DummyActivity"
+  ],
+  "apps_unistory": [
+  "instagramstory.instastory.storymaker/com.camerasideas.collagemaker.activity.DummyActivity"
+  ],
+  "apps_wildberries.": [
+  "com.wildberries.ru/ru.wildberries.SplashActivity"
+  ],
+  "apps_youperfect": [
+  "com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity"
   ]
 }
