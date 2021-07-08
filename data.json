@@ -3155,5 +3155,17 @@
   ],
   "apps_youperfect": [
   "com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity"
+  ],
+  "apps_magisk": [
+  "com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity"
+  ],
+  "apps_lucky_patcher": [
+  "ru.aaaaaabb.installer/ru.aaaaaabb.installer.MainActivity1"
+  ],
+  "apps_youtube_vanced": [
+  "com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+  ],
+  "apps_mabook": [
+  "mindmine.audiobook/mindmine.audiobook.Main"
   ]
 }
