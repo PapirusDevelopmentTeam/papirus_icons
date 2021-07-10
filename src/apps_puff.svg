@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192"
    height="192"
    version="1"
    id="svg27"
    sodipodi:docname="apps_puff.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata33">
     <rdf:RDF>
@@ -30,9 +30,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter868"
-       x="-0.045176471"
+       x="-0.04517647"
        width="1.0903529"
-       y="-0.0512"
+       y="-0.051199999"
        height="1.1024">
       <feGaussianBlur
          inkscape:collect="always"
@@ -56,9 +56,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter904"
-       x="-0.051428571"
+       x="-0.051428573"
        width="1.1028571"
-       y="-0.045"
+       y="-0.045000002"
        height="1.09">
       <feGaussianBlur
          inkscape:collect="always"
@@ -69,9 +69,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter933"
-       x="-0.048"
+       x="-0.048000001"
        width="1.096"
-       y="-0.048"
+       y="-0.048000001"
        height="1.096">
       <feGaussianBlur
          inkscape:collect="always"
@@ -89,16 +89,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1014"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="96"
-     inkscape:cy="76.19802"
+     inkscape:zoom="2.32"
+     inkscape:cx="95.905172"
+     inkscape:cy="76.077586"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg27" />
+     inkscape:current-layer="svg27"
+     inkscape:pagecheckerboard="0" />
   <path
      inkscape:connector-curvature="0"
      id="path2"
@@ -112,7 +113,7 @@
   <path
      inkscape:connector-curvature="0"
      d="m 32,48 a 8,8 0 0 0 -8,8 v 8 h -4 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 H 40 V 64 56 a 8,8 0 0 0 -8,-8 z"
-     style="fill:#b43636;stroke-width:4"
+     style="fill:#d73c3c;stroke-width:4;fill-opacity:1"
      id="ellipse836" />
   <path
      inkscape:connector-curvature="0"
@@ -138,7 +139,7 @@
      rx="68"
      cy="96"
      cx="88"
-     style="fill:#81a82d;stroke-width:4" />
+     style="fill:#84b124;stroke-width:4;fill-opacity:1" />
   <circle
      id="circle14"
      r="10"

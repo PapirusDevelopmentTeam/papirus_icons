@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192"
    height="192"
    version="1"
    id="svg28"
    sodipodi:docname="apps_wherearetheeyes.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -30,9 +30,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter871"
-       x="-0.048"
+       x="-0.048000001"
        width="1.096"
-       y="-0.048"
+       y="-0.048000001"
        height="1.096">
       <feGaussianBlur
          inkscape:collect="always"
@@ -56,9 +56,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter903"
-       x="-0.041599999"
+       x="-0.041599998"
        width="1.0832"
-       y="-0.056727274"
+       y="-0.056727273"
        height="1.1134545">
       <feGaussianBlur
          inkscape:collect="always"
@@ -76,16 +76,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1014"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="96"
-     inkscape:cy="96"
+     inkscape:cx="95.5"
+     inkscape:cy="96.5"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg28"
+     inkscape:pagecheckerboard="0" />
   <rect
      style="opacity:0.2;fill:#000000;stroke-width:4;filter:url(#filter871)"
      width="160"
@@ -130,7 +131,7 @@
      r="44"
      cy="92.000008"
      cx="96"
-     style="fill:#4492e1;stroke-width:4;fill-opacity:1" />
+     style="fill:#3392f2;stroke-width:4;fill-opacity:1" />
   <circle
      id="circle16"
      r="16"
@@ -148,7 +149,7 @@
      r="44"
      cy="140"
      cx="144"
-     style="fill:#d65050;stroke-width:4" />
+     style="fill:#e24444;stroke-width:4;fill-opacity:1" />
   <path
      style="fill:#ffffff;stroke-width:3.61407137"
      d="M 128.66755,117 121,124.66755 136.33157,140.00088 121,155.33245 128.66755,163 144.00088,147.66667 159.33245,163 167,155.33245 151.66667,140.00088 167,124.66755 159.33245,117 144.00088,132.33157 Z"

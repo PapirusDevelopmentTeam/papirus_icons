@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192"
    height="192"
    version="1"
    id="svg30"
    sodipodi:docname="apps_shuttle_music_player.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -30,9 +30,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter880"
-       x="-0.074823529"
+       x="-0.074823525"
        width="1.1496471"
-       y="-0.035333333"
+       y="-0.035333331"
        height="1.0706667">
       <feGaussianBlur
          inkscape:collect="always"
@@ -43,9 +43,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter896"
-       x="-0.05856"
+       x="-0.058560001"
        width="1.11712"
-       y="-0.040666667"
+       y="-0.040666668"
        height="1.0813333">
       <feGaussianBlur
          inkscape:collect="always"
@@ -63,16 +63,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1014"
      id="namedview32"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="96"
-     inkscape:cy="58.924096"
+     inkscape:cx="95.5"
+     inkscape:cy="58.5"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg30" />
+     inkscape:current-layer="svg30"
+     inkscape:pagecheckerboard="0" />
   <g
      id="g4"
      transform="matrix(4,0,0,4,4.00058,-1.776e-4)"
@@ -96,13 +97,13 @@
   <g
      id="g12"
      transform="matrix(4,0,0,4,4.00058,3.9998228)"
-     style="fill:#0490e6;fill-opacity:1">
+     style="fill:#0082ea;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path10"
        d="m 26,6 3,6 h 8 V 26.265625 C 36.347,26.092625 35.675,26.004 35,26 c -4.4183,0 -8,3.5817 -8,8 0,4.4183 3.5817,8 8,8 4.0287,-0.0038 7.426088,-3.0029 7.929688,-7 L 43,34 V 12 C 43.00029,8 41,5.9996822 37,6 Z"
        transform="translate(-1.000145,4.4348525e-5)"
-       style="fill:#0490e6;fill-opacity:1" />
+       style="fill:#0082ea;fill-opacity:1" />
   </g>
   <g
      id="g16"
@@ -117,13 +118,13 @@
   <g
      id="g20"
      transform="matrix(4,0,0,4,4.00058,-4.0001772)"
-     style="fill:#3dbeff;fill-opacity:1">
+     style="fill:#45c1ff;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path18"
        d="m 21,6 c -5,-8.87e-5 -6,2 -6,6 V 26.265625 C 14.347,26.092625 13.675,26.004 13,26 c -4.4183,0 -8,3.5817 -8,8 0,4.4183 3.5817,8 8,8 4.0287,-0.0038 7.426087,-3.0029 7.929688,-7 0,0 0.08269,-0.727601 0.07031,-1 V 12 H 30 L 28,6 Z"
        transform="translate(-1.000145,4.4348525e-5)"
-       style="fill:#3dbeff;fill-opacity:1" />
+       style="fill:#45c1ff;fill-opacity:1" />
   </g>
   <g
      id="g24"

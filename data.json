@@ -1212,9 +1212,6 @@
   "apps_orwall": [
     "org.ethack.orwall/org.ethack.orwall.TabbedMain"
   ],
-  "apps_orweb": [
-    "info.guardianproject.browser/info.guardianproject.browser.Browser"
-  ],
   "apps_osmand": [
     "net.osmand/net.osmand.plus.activities.MapActivity"
   ],
@@ -1733,9 +1730,6 @@
     "com.google.android.projection.gearhead/com.google.android.gearhead.vanagon.VnLaunchPadActivity",
     "com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.AndroidAutoActivity",
     "com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.SplashScreenActivity"
-  ],
-  "google_android_device_enrollment": [
-    "com.google.android.apps.edu.nfcprogrammer/com.google.android.apps.edu.nfcprogrammer.activities.WelcomeActivity"
   ],
   "google_android_device_policy": [
     "com.google.android.apps.work.clouddpc/com.google.android.apps.work.clouddpc.ui.MainActivity"
@@ -3167,5 +3161,23 @@
   ],
   "apps_mabook": [
   "mindmine.audiobook/mindmine.audiobook.Main"
+  ],
+  "apps_titanium_backup": [
+  "com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity"
+  ],
+  "apps_es_file_explorer": [
+  "com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity"
+  ],
+  "apps_jbak2": [
+  "com.jbak2.JbakKeyboard/com.jbak2.JbakKeyboard.JbKbdPreference"
+  ],
+  "apps_sd_maid": [
+  "eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity"
+  ],
+  "apps_tasker": [
+  "net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker"
+  ],
+  "apps_warpinator": [
+  "slowscript.warpinator/slowscript.warpinator.MainActivity"
   ]
 }
