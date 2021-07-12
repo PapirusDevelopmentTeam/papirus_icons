@@ -2776,6 +2776,9 @@
   "system_recovery": [
     "com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity"
   ],
+  "system_search": [
+  "com.android.quicksearchbox/com.android.quicksearchbox.SearchActivity"
+  ],
   "system_security": [
     "com.lenovo.security/com.lenovo.security.homepage.HomePageActivity"
   ],
@@ -2838,6 +2841,10 @@
   ],
   "system_todo": [
     "com.mediatek.todos/com.mediatek.todos.TodosActivity"
+  ],
+  "system_update": [
+  "com.android.updater/com.android.updater.ui.UpdaterMainActivity",
+  "com.android.updater/com.android.updater.MainActivity"
   ],
   "system_video": [
     "android.rk.RockVideoPlayer/android.rk.RockVideoPlayer.RockVideoPlayer",
@@ -3179,5 +3186,35 @@
   ],
   "apps_warpinator": [
   "slowscript.warpinator/slowscript.warpinator.MainActivity"
+  ],
+  "games_dolphin_emu": [
+  "org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity"
+  ],
+  "games_citra": [
+  "org.citra.citra_emu/org.citra.citra_emu.ui.main.MainActivity"
+  ],
+  "games_ppsspp": [
+  "org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity"
+  ],
+  "games_ppsspp_gold": [
+  "org.ppsspp.ppssppgold/org.ppsspp.ppsspp.PpssppActivity"
+  ],
+  "games_snes9x": [
+  "com.explusalpha.Snes9xPlus/com.imagine.BaseActivity"
+  ],
+  "apps_baidu_map": [
+  "com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen"
+  ],
+  "apps_mi_remote": [
+  "com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2"
+  ],
+  "apps_miui_backup": [
+  "com.miui.backup.transfer/com.miui.backup.transfer.ui.TransMainActivity"
+  ],
+  "apps_miui_virtualsim": [
+  "com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity"
+  ],
+  "apps_getapps": [
+  "com.xiaomi.mipicks/com.xiaomi.market.ui.MarketTabActivity"
   ]
 }
