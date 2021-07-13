@@ -527,9 +527,6 @@
     "com.discord/com.discord.screens.ScreenAux$Main",
     "com.discord/com.discord.app.AppActivity$Main"
   ],
-  "apps_dolphin_emu": [
-    "org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity"
-  ],
   "apps_dolphin_web_browser": [
     "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity",
     "mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.SplashActivity",
@@ -3280,5 +3277,25 @@
   ],
   "apps_lifecell": [
   "com.life.my/com.efectura.lifecell2.ui.activity.SplashActivity"
+  ],
+  "apps_airtel": [
+  "com.myairtelapp/com.myairtelapp.activity.HomeActivity",
+  "com.myairtelapp/com.myairtelapp.activity.OnboardingActivity",
+  "com.myairtelapp/com.myairtelapp.activity.SplashScreenActivity"
+  ],
+  "apps_telkomsel": [
+  "com.telkomsel.telkomselcm/com.telkomsel.telkomselcm.MainActivity"
+  ],
+  "apps_vplay": [
+  "com.vplay.tv/com.vplay.tv.ui.WebActivity"
+  ],
+  "games_cut_the_rope": [
+  "com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.CtrAppPaid",
+  "com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.Applanet_2",
+  "com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.CuttheRopeActivity",
+  "com.zeptolab.ctr.ads/com.zeptolab.ctr.CtrApp"
+  ],
+  "games_cut_the_rope_2": [
+  "com.zeptolab.ctr2.f2p.google/com.zeptolab.ctr2.CTR2Activity"
   ]
 }
