@@ -3216,5 +3216,69 @@
   ],
   "apps_getapps": [
   "com.xiaomi.mipicks/com.xiaomi.market.ui.MarketTabActivity"
+  ],
+  "games_super_mario_run": [
+  "com.nintendo.zara/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity"
+  ],
+  "apps_pure_tuber": [
+  "free.tube.premium.advanced.tuber/com.biomes.vanced.main.MainActivity"
+  ],
+  "app_getcontact": [
+  "app.source.getcontact/app.source.getcontact.ui.splash.SplashActivity"
+  ],
+  "apps_zenly": [
+  "app.zenly.locator/app.zenly.locator.MainActivity"
+  ],
+  "apps_ozon": [
+  "ru.ozon.app.android/ru.ozon.app.android.ui.start.PreStartActivity"
+  ],
+  "apps_shein": [
+  "com.zzkko/com.zzkko.bussiness.login.ui.WelcomeActivity"
+  ],
+  "apps_koshelek": [
+  "ru.cardsmobile.mw3/ru.cardsmobile.mw3.StartActivity"
+  ],
+  "apps_starmaker": [
+  "com.starmakerinteractive.starmaker/com.ushowmedia.starmaker.activity.SplashActivity"
+  ],
+  "apps_shareit": [
+  "com.lenovo.anyshare.gps/com.lenovo.anyshare.ApMainActivity"
+  ],
+  "apps_citymobil": [
+  "com.citymobil/com.citymobil.ui.SplashActivity"
+  ],
+  "apps_tinkoff": [
+  "com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity"
+  ],
+  "apps_raiffeisen": [
+  "ru.raiffeisennews/ru.raiffeisen.rmobile.activity.AuthActivity",
+  "com.raiffeisen.online.mobile/com.raiffeisen.online.mobile.MainActivity"
+  ],
+  "apps_mts": [
+  "ru.mts.mymts/ru.mts.service.ActivitySplash"
+  ],
+  "apps_megafon": [
+  "ru.megafon.mlk/ru.megafon.mlk.screens.auth.splash.SplashActivity",
+  "ru.megafon.mlk/ru.megafon.mlk.ui.activities.ActivityMain"
+  ],
+  "apps_yota": [
+  "ru.yota.android/ru.yota.android.presentation.view.splash.SplashActivity",
+  "ru.yota.android/ru.yota.android.activity.auth.SplashActivity"
+  ],
+  "apps_vodafone": [
+  "com.vodafone.mCare/com.vodafone.mCare.ui.HomeActivity"
+  "es.vodafone.mobile.mivodafone/es.vodafone.mobile.mivodafone.miVodafone",
+  "com.myvodafoneapp/com.myvodafoneapp.ui.activity.LaunchActivity",
+  "za.co.vodacom.android.app/za.co.vodacom.android.app.SplashActivity",
+  "com.myvodafone.android/com.myvodafone.android.front.intro.ActSplash",
+  "nz.co.vodafone.android.myaccount/nz.co.vodafone.android.myaccount.MainActivity",
+  "com.vodafone.selfservis/com.vodafone.selfservis.activities.SplashActivity",
+  "it.vodafone.my190/it.vodafone.my190.presentation.main.MainActivity",
+  "ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity",
+  "ro.vodafone.mcare.android/ro.vodafone.mcare.android.ui.activities.SplashScreenActivity",
+  "it.vodafone.my190/it.vodafone.my190.presentation.deeplinking.DeepLinkActivity"
+  ],
+  "apps_lifecell": [
+  "com.life.my/com.efectura.lifecell2.ui.activity.SplashActivity"
   ]
 }
