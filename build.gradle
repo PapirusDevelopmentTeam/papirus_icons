@@ -5,7 +5,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.2.1'
+        classpath 'com.android.tools.build:gradle:7.0.2'
     }
 }
 
@@ -18,7 +18,7 @@ allprojects {
     }
 
     rootProject.ext {
-        MinSdk = 15
+        MinSdk = 16
         TargetSdk = 30
         CompileSdk = 30
     }

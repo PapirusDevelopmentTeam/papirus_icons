@@ -1,11 +1,11 @@
-// Remove '/*' and '*/' to Enable OneSignal
+// TODO: Remove `/*` and `*/` below to enable OneSignal
 /*
 buildscript {
     repositories {
         maven { url 'https://plugins.gradle.org/m2/' }
     }
     dependencies {
-        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.12.9'
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:0.13.4'
     }
 }
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
@@ -25,16 +25,14 @@ android {
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionCode}")
-
-        // Remove '/*' and '*/' below to enable OneSignal
-        /*
-        manifestPlaceholders = [
-           onesignal_app_id: "ONESIGNAL APP ID",
-           onesignal_google_project_number: "REMOTE"
-        ]
-        */
     }
 
+    bundle {
+        language {
+            enableSplit false
+        }
+    }
+    
     buildTypes {
         release {
             debuggable false
@@ -53,17 +51,14 @@ dependencies {
     /*
      * CandyBar Material Dashboard Library
      *
-     * How to update?
-     * 1. See latest version at GitHub, https://github.com/zixpo/candybar/releases
-     * 2. Change candybar dependency matching latest version
-     * 3. com.github.zixpo.candybar:$versionNumber
-     * 4. Sync Project with Gradle Files
-     * 5. Clean project
-     * 6. Done
+     * TODO: How to update the dashboard?!
+     * Check this update guide for every version
+     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
+     * If you've missed some versions you've to also follow update guide for those versions
      */
 
-    implementation 'com.github.zixpo:candybar:3.11.6'
+    implementation 'com.github.zixpo:candybar:3.13.0'
 
-    // Remove '//' below to Enable OneSignal
-    // implementation 'com.onesignal:OneSignal:3.15.4'
+    // TODO: Remove `//` below to enable OneSignal
+    //implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
 }

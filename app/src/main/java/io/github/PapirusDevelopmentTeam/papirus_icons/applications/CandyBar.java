@@ -2,24 +2,22 @@ package io.github.PapirusDevelopmentTeam.papirus_icons.applications;
 
 import androidx.annotation.NonNull;
 
-// Remove `//` below to Enable OneSignal
+// TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;
 
 import candybar.lib.applications.CandyBarApplication;
 
 public class CandyBar extends CandyBarApplication {
 
-    // Remove '/*' and '*/' to Enable OneSignal
+    // TODO: Remove `/*` and `*/` below to enable OneSignal
     /*
     @Override
     public void onCreate() {
         super.onCreate();
 
         // OneSignal Initialization
-        OneSignal.startInit(this)
-                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
-                .unsubscribeWhenNotificationsAreDisabled(true)
-                .init();
+        OneSignal.initWithContext(this);
+        OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID_HERE");
     }
     */
 
