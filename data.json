@@ -1098,9 +1098,6 @@
   "apps_my_shows": [
     "ru.myshows.activity/ru.myshows.activity.MainActivity"
   ],
-  "apps_my_vodafone": [
-    "ua.vodafone.myvodafone/ua.vodafone.myvodafone.MainActivity"
-  ],
   "apps_n7player": [
     "com.n7mobile.nplayer/com.av111236.android.Launcher",
     "com.n7mobile.nplayer/com.n7mobile.nplayer.glscreen.Main",
@@ -3164,7 +3161,7 @@
   "apps_unistory": [
   "instagramstory.instastory.storymaker/com.camerasideas.collagemaker.activity.DummyActivity"
   ],
-  "apps_wildberries.": [
+  "apps_wildberries": [
   "com.wildberries.ru/ru.wildberries.SplashActivity"
   ],
   "apps_youperfect": [
@@ -3279,7 +3276,7 @@
   "ru.yota.android/ru.yota.android.activity.auth.SplashActivity"
   ],
   "apps_vodafone": [
-  "com.vodafone.mCare/com.vodafone.mCare.ui.HomeActivity"
+  "com.vodafone.mCare/com.vodafone.mCare.ui.HomeActivity",
   "es.vodafone.mobile.mivodafone/es.vodafone.mobile.mivodafone.miVodafone",
   "com.myvodafoneapp/com.myvodafoneapp.ui.activity.LaunchActivity",
   "za.co.vodacom.android.app/za.co.vodacom.android.app.SplashActivity",
@@ -3341,7 +3338,7 @@
   "apps_mullvad_vpn": [
   "net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity"
   ],
-  "com.duolingo": [
+  "apps_duolingo": [
   "com.duolingo/com.duolingo.app.LoginActivity"
   ],
   "apps_linkedin": [
