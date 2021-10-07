@@ -1734,7 +1734,8 @@
   "google_android_pay": [
     "com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.entrypoint.WalletRootActivity",
     "com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.WalletRootActivity",
-    "com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+    "com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity",
+    "com.google.android.apps.nbu.paisa.user/com.google.nbu.paisa.flutter.gpay.app.MainActivity"
   ],
   "google_android_tv_core_services": [
     "com.google.android.tvrecommendations/com.google.android.tvrecommendations.application.TvRecommendationsApplication"
@@ -1984,7 +1985,7 @@
   "google_playconsole": [
     "com.google.android.apps.playconsole/com.google.android.apps.playconsole.activity.MainAndroidActivity"
   ],
-  "google_plus": [
+  "google_currents": [
     "com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity",
     "com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity",
     "com.google.android.apps.plus/com.google.android.apps.plus.phone.PhotosLegacyLauncherActivity"
@@ -2061,6 +2062,15 @@
   ],
   "google_youtube_gaming": [
     "com.google.android.apps.youtube.gaming/com.google.android.apps.youtube.gaming.watchwhile.activity.WatchWhileActivity"
+  ],
+  "google_chat": [
+    "com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity"
+  ],
+  "google_youtube_music": [
+    "com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity"
+  ],
+  "google_family_link": [
+    "com.google.android.apps.kids.familylink/com.google.android.apps.kids.familylink.home.HomeActivity"
   ],
   "system_android": [
     "org.chromium.webview_shell/org.chromium.webview_shell.WebViewBrowserActivity"
@@ -3119,6 +3129,12 @@
   "apps_microsoft_todo": [
   "com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
   ],
+  "apps_microsoft_lens": [
+  "com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity"
+  ],
+  "apps_microsoft_gamepass": [
+  "com.gamepass/com.gamepass.MainActivity"
+  ],
   "apps_torrserve": [
   "ru.yourok.torrserve/ru.yourok.torrserve.ui.activities.main.MainActivity"
   ],
@@ -3297,5 +3313,80 @@
   ],
   "games_cut_the_rope_2": [
   "com.zeptolab.ctr2.f2p.google/com.zeptolab.ctr2.CTR2Activity"
+  ],
+  "apps_teamviewer": [
+  "com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
+  ],
+  "apps_teamviewer_quick_support": [
+  "com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity"
+  ],
+  "apps_teamviewer_host": [
+  "com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
+  ],
+  "apps_ebay": [
+  "com.ebay.mobile/com.ebay.mobile.activities.MainActivity"
+  ],
+  "apps_amazon_kindle": [
+  "com.amazon.kindle/com.amazon.kindle.UpgradePage"
+  ],
+  "apps_torbrowser": [
+  "org.torproject.torbrowser/org.torproject.torbrowser.App"
+  ],
+  "apps_express_vpn": [
+  "com.expressvpn.vpn/com.expressvpn.vpn.ui.SplashActivity"
+  ],
+  "apps_nord_vpn": [
+  "com.nordvpn.android/com.nordvpn.android.MainActivity"
+  ],
+  "apps_mullvad_vpn": [
+  "net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity"
+  ],
+  "com.duolingo": [
+  "com.duolingo/com.duolingo.app.LoginActivity"
+  ],
+  "apps_linkedin": [
+  "com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity"
+  ],
+  "apps_reddit": [
+  "com.reddit.frontpage/launcher.default"
+  ],
+  "apps_snapchat": [
+  "com.snapchat.android/com.snapchat.android.LandingPageActivity"
+  ],
+  "apps_signal": [
+  "org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity"
+  ],
+  "apps_textra": [
+  "com.textra/com.mplus.lib.ui.main.Main"
+  ],
+  "apps_cookpad": [
+  "com.mufumbo.android.recipe.search/com.cookpad.android.app.gateway.GatewayActivity"
+  ],
+  "apps_grubhub": [
+  "com.grubhub.android/com.grubhub.dinerapp.android.splash.SplashActivity"
+  ],
+  "apps_yelp": [
+  "com.yelp.android/com.yelp.android.home.ui.RootSingleActivity"
+  ],
+  "apps_adidas_running": [
+  "com.runtastic.android/com.runtastic.android.activities.StartActivity"
+  ],
+  "apps_clue": [
+  "com.clue.android/com.biowink.clue.splash.SplashActivity"
+  ],
+  "apps_fitbit": [
+  "com.fitbit.FitbitMobile/com.fitbit.FirstActivity"
+  ],
+  "apps_my_fitness_pal": [
+  "com.myfitnesspal.android/com.myfitnesspal.android.login.WelcomeActivity"
+  ],
+  "apps_bandcamp": [
+  "com.bandcamp.android/com.bandcamp.android.view.SplashActivity"
+  ],
+  "apps_live_x_live": [
+  "com.slacker.radio/com.slacker.gui.pivot.activities.PreLaunchActivity"
+  ],
+  "apps_songkick": [
+  "com.songkick/com.songkick.activity.Dashboard"
   ]
 }
