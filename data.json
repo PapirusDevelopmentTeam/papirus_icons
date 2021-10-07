@@ -3321,7 +3321,7 @@
   "com.teamviewer.quicksupport.market/com.teamviewer.quicksupport.ui.QSActivity"
   ],
   "apps_teamviewer_host": [
-  "com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
+  "com.teamviewer.host.market/com.teamviewer.host.ui.HostActivity"
   ],
   "apps_ebay": [
   "com.ebay.mobile/com.ebay.mobile.activities.MainActivity"
