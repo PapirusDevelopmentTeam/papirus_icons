@@ -3439,5 +3439,40 @@
   ],
   "apps_libby": [
   "com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main"
+  ],
+  "apps_rif_is_fun": [
+  "com.andrewshu.android.reddit/com.andrewshu.android.reddit.MainActivity",
+  "com.andrewshu.android.redditdonation/com.andrewshu.android.reddit.MainActivity"
+  ],
+  "apps_bitdefender": [
+  "com.bitdefender.security/com.bitdefender.security.BDMain",
+  "com.bitdefender.security/com.bitdefender.security.material.DashboardActivity",
+  "com.bitdefender.security/com.bitdefender.security.material.MainActivity"
+  ],
+  "apps_dashlane": [
+  "com.dashlane/com.dashlane.ui.activities.SplashScreen",
+  "com.dashlane/com.dashlane.ui.activities.Login",
+  "com.dashlane/com.dashlane.ui.activities.BrowserLauncherDispatcher"
+  ],
+  "apps_lastpass": [
+  "com.lastpass.lpandroid/com.lastpass.lpandroid.LPandroid",
+  "com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity",
+  "com.lastpass.lpandroid.sg/com.lastpass.lpandroid.WebBrowserActivity",
+  "com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity"
+  ],
+  "apps_kaspersky_internet_security": [
+  "com.kms.free/com.kms.permissions.gui.PermissionsActivity",
+  "com.kms.free/com.kms.free.gui.KMSEnterCodeActivity",
+  "com.kms.free/com.kms.KisMainActivity",
+  "com.kms.free/com.kms.free.PermissionsActivityLauncher"
+  ],
+  "apps_proton_vpn": [
+  "ch.protonvpn.android/com.protonvpn.android.ui.onboarding.SplashActivity"
+  ],
+  "apps_protonmail": [
+  "ch.protonmail.android/ch.protonmail.android.activities.SplashActivity"
+  ],
+  "apps_tunnelbear": [
+  "com.tunnelbear.android/com.tunnelbear.android.main.SplashActivity"
   ]
 }
