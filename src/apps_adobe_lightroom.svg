@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="apps_adobe_lightroom.svg"
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1805"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur1807" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2379"
+       x="-0.042461539"
+       y="-0.055200001"
+       width="1.0849231"
+       height="1.1104">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.84"
+         id="feGaussianBlur2381" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="24.5"
+     inkscape:cy="58.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <rect
+     x="16"
+     y="20"
+     width="160"
+     height="160"
+     rx="8"
+     ry="8"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;filter:url(#filter1805)"
+     id="rect1673" />
+  <rect
+     x="16"
+     y="16"
+     width="160"
+     height="160"
+     rx="8"
+     ry="8"
+     style="fill:#102f45;fill-opacity:1;stroke-width:4"
+     id="rect2" />
+  <path
+     id="path2341"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;filter:url(#filter2379)"
+     d="m 44,60 v 80 H 60 96 V 128 H 60 V 60 Z m 60,16 v 64 h 16 v -40 c 8,-8 28,-8 28,-8 V 76 c 0,0 -20,0 -28,8 v -8 z" />
+  <path
+     id="path10"
+     style="fill:#31a8ff;fill-opacity:1;stroke-width:4"
+     d="M 44 56 L 44 136 L 60 136 L 96 136 L 96 124 L 60 124 L 60 56 L 44 56 z M 104 72 L 104 136 L 120 136 L 120 96 C 128 88 148 88 148 88 L 148 72 C 148 72 128 72 120 80 L 120 72 L 104 72 z " />
+  <path
+     id="rect1861"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;opacity:0.1"
+     d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z " />
+  <path
+     id="path2383"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;opacity:0.2"
+     d="M 44 56 L 44 57 L 60 57 L 60 56 L 44 56 z M 104 72 L 104 73 L 120 73 L 120 72 L 104 72 z M 148 72 C 148 72 128 72 120 80 L 120 81 C 128 73 148 73 148 73 L 148 72 z M 60 124 L 60 125 L 96 125 L 96 124 L 60 124 z " />
+</svg>

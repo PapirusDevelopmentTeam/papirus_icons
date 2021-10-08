@@ -3385,5 +3385,59 @@
   ],
   "apps_songkick": [
   "com.songkick/com.songkick.activity.Dashboard"
+  ],
+  "apps_paypal": [
+  "com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+  ],
+  "apps_yoomoney": [
+  "ru.yoo.money/ru.yoo.money.view.EntryPointActivity"
+  ],
+  "apps_stitcher": [
+  "com.stitcher.app/com.stitcher.app.LaunchContainer",
+  "com.stitcher.app/com.stitcher.app.StitcherLauncher"
+  ],
+  "apps_adobe_lightroom": [
+  "com.adobe.lrmobile/com.adobe.lrmobile.LrMobileActivity",
+  "com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity"
+  ],
+  "apps_picsart_studio": [
+  "com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+  ],
+  "apps_picsart_color": [
+  "com.picsart.draw/com.palabs.artboard.activity.SplashScreenActivity"
+  ],
+  "apps_asana": [
+  "com.asana.app/com.asana.ui.activities.LaunchActivity",
+  "com.asana.app/com.asana.ui.activities.LoginActivity"
+  ],
+  "apps_doodle": [
+  "com.doodle.android/com.doodle.activities.SplashActivity"
+  ],
+  "apps_ifttt": [
+  "com.ifttt.ifttt/com.ifttt.ifttt.HomeActivity",
+  "com.ifttt.ifttt/com.ifttt.ifttt.home.HomeActivity"
+  ],
+  "apps_khan_academy": [
+  "org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity"
+  ],
+  "apps_todoist": [
+  "com.todoist/com.todoist.activity.HomeActivity"
+  ],
+  "apps_comixology": [
+  "com.iconology.comics/com.iconology.comics.app.ComicsActivity",
+  "com.iconology.amazon.comics/com.iconology.comics.app.AppShellActivity",
+  "com.iconology.comics/com.iconology.ui.navigation.RouterActivity"
+  ],
+  "apps_espn": [
+  "com.espn.score_center/com.espn.score_center.HomePage",
+  "com.espn.score_center/com.espn.score_center.ui.StartupActivity",
+  "com.espn.score_center/com.espn.sportscenter.ui.LaunchActivity",
+  "com.espn.score_center/com.espn.sportscenter.ui.EspnLaunchActivity"
+  ],
+  "apps_feedly": [
+  "com.devhd.feedly/com.devhd.feedly.Main"
+  ],
+  "apps_libby": [
+  "com.overdrive.mobile.android.libby/com.overdrive.mobile.android.nautilus.ui.Activity_Main"
   ]
 }

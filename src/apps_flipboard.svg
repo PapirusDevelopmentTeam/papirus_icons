@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1">
+ <defs>
+  <filter id="filter848" style="color-interpolation-filters:sRGB" width="1.096" height="1.096" x="-.05" y="-.05">
+   <feGaussianBlur id="feGaussianBlur850" stdDeviation="3.2"/>
+  </filter>
+  <filter id="filter1279" style="color-interpolation-filters:sRGB" width="1.143" height="1.291" x="-.07" y="-.14">
+   <feGaussianBlur id="feGaussianBlur1281" stdDeviation="2.12"/>
+  </filter>
+  <filter id="filter1283" style="color-interpolation-filters:sRGB" width="1.291" height="1.291" x="-.14" y="-.14">
+   <feGaussianBlur id="feGaussianBlur1285" stdDeviation="2.12"/>
+  </filter>
+  <filter id="filter1287" style="color-interpolation-filters:sRGB" width="1.291" height="1.096" x="-.14" y="-.05">
+   <feGaussianBlur id="feGaussianBlur1289" stdDeviation="2.12"/>
+  </filter>
+ </defs>
+ <rect style="opacity:0.2;filter:url(#filter848)" width="160" height="160" x="-180" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect style="fill:#e53935" width="160" height="160" x="-176" y="-176" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+ <rect style="opacity:0.2;shape-rendering:crispEdges;filter:url(#filter1283)" width="35" height="35" x="78" y="81"/>
+ <rect style="fill:#f7bfbf;shape-rendering:crispEdges" width="35" height="35" x="78" y="78"/>
+ <rect style="opacity:0.2;shape-rendering:crispEdges;filter:url(#filter1279)" width="71" height="35" x="78" y="46"/>
+ <rect style="fill:#fbe2e0;shape-rendering:crispEdges" width="71" height="35" x="78" y="43"/>
+ <rect style="opacity:0.2;shape-rendering:crispEdges;filter:url(#filter1287)" width="35" height="106" x="43" y="46"/>
+ <rect style="fill:#ffffff;shape-rendering:crispEdges" width="35" height="106" x="43" y="43"/>
+</svg>
