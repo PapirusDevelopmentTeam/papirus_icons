@@ -3474,5 +3474,33 @@
   ],
   "apps_tunnelbear": [
   "com.tunnelbear.android/com.tunnelbear.android.main.SplashActivity"
+  ],
+  "apps_pinterest": [
+  "com.pinterest/com.pinterest.activity.PinterestActivity",
+  "com.pinterest/com.pinterest.classic.activity.PinterestActivity",
+  "com.pinterest/com.pinterest.activity.ExperimentPinterestActivity"
+  ],
+  "apps_pinterest_lite": [
+  "com.pinterest.twa/com.pinterest.twa.LauncherActivity"
+  ],
+  "apps_vimeo": [
+  "com.vimeo.android.videoapp/com.vimeo.android.videoapp.launch.LaunchActivity"
+  ],
+  "apps_airbnb": [
+  "com.airbnb.android/com.airbnb.android.feat.homescreen.HomeActivity"
+  ],
+  "apps_citymapper": [
+  "com.citymapper.app.release/com.citymapper.app.MainActivity"
+  ],
+  "apps_eventbrite": [
+  "com.eventbrite.attendee/com.eventbrite.attendee.activities.MainActivity"
+  ],
+  "apps_transit": [
+  "com.thetransitapp.droid/com.thetransitapp.droid.TransitActivity",
+  "com.thetransitapp.droid/com.thetransitapp.droid.SplashActivity",
+  "com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity"
+  ],
+  "apps_weather_underground": [
+  "com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity"
   ]
 }
