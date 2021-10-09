@@ -3502,5 +3502,55 @@
   ],
   "apps_weather_underground": [
   "com.wunderground.android.weather/com.wunderground.android.weather.ui.splash.WeatherHomeActivity"
+  ],
+  "apps_grammarly": [
+  "com.grammarly.android.keyboard/com.grammarly.android.keyboard.welcome.GetStartedActivity"
+  ],
+  "apps_network_analyzer": [
+  "net.techet.netanalyzerlite.an/net.techet.netanalyzerlite.an.activity.MainActivity"
+  ],
+  "apps_otter": [
+  "com.aisense.otter/com.aisense.otter.ui.activity.SplashActivity"
+  ],
+  "apps_speedtest": [
+  "org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity"
+  ],
+  "games_steamlink": [
+  "com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity"
+  ],
+  "games_steam": [
+  "com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+  ],
+  "apps_microsoft_swiftkey": [
+  "com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon"
+  ],
+  "apps_papirus": [
+  "io.github.PapirusDevelopmentTeam.papirus_icons/io.github.PapirusDevelopmentTeam.papirus_icons.activities.SplashActivity"
+  ],
+  "apps_barcode_scanner": [
+  "com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity"
+  ],
+  "apps_qr_scanner": [
+  "com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
+  ],
+  "apps_twitch": [
+  "tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+  ],
+  "apps_nimo_tv": [
+  "com.huya.nimo/com.huya.nimo.homepage.ui.activity.SplashActivity"
+  ],
+  "games_geforce_now": [
+  "com.nvidia.geforcenow/com.nvidia.tegrazone.MainActivity"
+  ],
+  "games_amd_link": [
+  "com.amd.link/com.amd.link.view.activities.SplashActivity"
+  ],
+  "apps_androidterm": [
+  "jackpal.androidterm/jackpal.androidterm.Term"
+  ],
+  "apps_root_checker": [
+  "com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity",
+  "org.freeandroidtools.root_checker/org.freeandroidtools.rootchecker.RootCheckerActivity",
+  "com.jrummyapps.rootchecker/com.jrummyapps.rootchecker.activities.MainActivity"
   ]
 }

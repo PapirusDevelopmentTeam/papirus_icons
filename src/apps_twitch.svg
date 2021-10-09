@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" version="1.1">
+ <defs>
+  <filter id="filter963" style="color-interpolation-filters:sRGB" width="1.096" height="1.096" x="-.05" y="-.05">
+   <feGaussianBlur id="feGaussianBlur965" stdDeviation="3.2"/>
+  </filter>
+  <filter id="filter967" style="color-interpolation-filters:sRGB" width="1.103" height="1.09" x="-.05" y="-.04">
+   <feGaussianBlur id="feGaussianBlur969" stdDeviation="2.24"/>
+  </filter>
+ </defs>
+ <rect style="opacity:0.2;filter:url(#filter963)" width="160" height="160" x="16" y="20" rx="8" ry="8"/>
+ <rect style="fill:#8650db" width="160" height="160" x="16" y="16" rx="8" ry="8"/>
+ <path fill-rule="evenodd" opacity=".2" style="filter:url(#filter967)" d="m 48,39.000004 -4,20 V 147 h 20 v 12 h 16 l 12,-12 h 16 l 40,-40 V 39.000004 Z m 12,8 h 80 V 102.672 L 124,119 H 96 L 80,135 V 119 H 60 Z m 24,20 v 32 h 12 v -32 z m 28,0 v 32 h 12 v -32 z"/>
+ <path fill="#ffffff" fill-rule="evenodd" d="m 48,36 -4,20 v 88 h 20 v 12 h 16 l 12,-12 h 16 l 40,-40 V 36 Z m 12,8 h 80 V 99.672 L 124,116 H 96 L 80,132 V 116 H 60 Z M 84,64 V 96 H 96 V 64 Z m 28,0 v 32 h 12 V 64 Z"/>
+ <path style="opacity:0.2;fill:#ffffff" d="m 24,16 c -4.432,0 -8,3.568 -8,8 v 1 c 0,-4.432 3.568,-8 8,-8 h 144 c 4.432,0 8,3.568 8,8 v -1 c 0,-4.432 -3.568,-8 -8,-8 z"/>
+</svg>
