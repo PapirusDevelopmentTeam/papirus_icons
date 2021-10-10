@@ -1503,8 +1503,9 @@
   "apps_telegram": [
     "org.telegram.messenger/org.telegram.ui.LaunchActivity"
   ],
-  "apps_termux": [
-    "com.termux/com.termux.app.TermuxActivity"
+  "apps_terminal": [
+    "com.termux/com.termux.app.TermuxActivity",
+    "jackpal.androidterm/jackpal.androidterm.Term"
   ],
   "apps_tiktok": [
   "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity"
@@ -3233,7 +3234,7 @@
   "apps_pure_tuber": [
   "free.tube.premium.advanced.tuber/com.biomes.vanced.main.MainActivity"
   ],
-  "app_getcontact": [
+  "apps_getcontact": [
   "app.source.getcontact/app.source.getcontact.ui.splash.SplashActivity"
   ],
   "apps_zenly": [
@@ -3545,12 +3546,18 @@
   "games_amd_link": [
   "com.amd.link/com.amd.link.view.activities.SplashActivity"
   ],
-  "apps_androidterm": [
-  "jackpal.androidterm/jackpal.androidterm.Term"
-  ],
   "apps_root_checker": [
   "com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity",
   "org.freeandroidtools.root_checker/org.freeandroidtools.rootchecker.RootCheckerActivity",
   "com.jrummyapps.rootchecker/com.jrummyapps.rootchecker.activities.MainActivity"
+  ],
+  "apps_cpu_x": [
+  "com.abs.cpu_z_advance/com.abs.cpu_z_advance.MainActivity"
+  ],
+  "apps_cpu_z": [
+  "com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity"
+  ],
+  "apps_vnc_viewer": [
+  "com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity"
   ]
 }
