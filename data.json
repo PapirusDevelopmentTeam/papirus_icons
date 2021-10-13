@@ -109,7 +109,7 @@
     "net.cozic.joplin/net.cozic.joplin.MainActivity"
   ],
   "apps_language_tool": [
-    "org.softcatala.corrector/org.softcatala.corrector.WelcomeActivity"
+    "es.optadroid.langtool/es.optadroid.webapp.MainActivity"
   ],
   "apps_kore": [
     "org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity"
@@ -345,9 +345,6 @@
   ],
   "apps_banggood": [
     "com.banggood.client/com.banggood.client.module.startup.SplashActivity"
-  ],
-  "apps_barcode": [
-  "com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
   ],
   "apps_bbc": [
     "bbc.mobile.news.ww/bbc.mobile.news.ww.HomeWwActivity",
@@ -925,9 +922,6 @@
   ],
   "apps_laya_music_player": [
     "com.mjc.mediaplayer/com.mjc.mediaplayer.LayaMainActivity"
-  ],
-  "apps_lichess": [
-    "org.lichess.mobileapp/org.lichess.mobileapp.MainActivity"
   ],
   "apps_lightning_web_browser": [
     "acr.browser.barebones/acr.browser.barebones.BrowserActivity",
@@ -1886,7 +1880,7 @@
   "google_hangouts": [
     "com.google.android.talk/com.google.android.talk.SigningInActivity"
   ],
-  "google_hangouts_meet": [
+  "google_meet": [
     "com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity"
   ],
   "google_help": [
@@ -3559,5 +3553,788 @@
   ],
   "apps_vnc_viewer": [
   "com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity"
+  ],
+  "apps_1password": [
+  "com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
+  ],
+  "apps_2gis": [
+  "ru.dublgis.dgismobile4preview/ru.dublgis.dgismobile.GrymMobileActivity",
+  "ru.dublgis.dgismobile/ru.dublgis.dgismobile.GrymMobileActivity"
+  ],
+  "apps_9gag": [
+  "com.ninegag.android.app/com.ninegag.android.app.ui.home.HomeActivity"
+  ],
+  "apps_acestream": [
+  "org.acestream.media/org.videolan.vlc.StartActivity",
+  "org.acestream.core/org.acestream.engine.StartActivity"
+  ],
+  "apps_activitywatch": [
+  "net.activitywatch.android/net.activitywatch.android.MainActivity"
+  ],
+  "apps_amazon_workspaces": [
+  "com.amazon.workspaces/crc64047a0d770568f918.MainActivity"
+  ],
+  "apps_android_file_transfer": [
+  "com.delitestudio.filetransferfree/com.delitestudio.filetransfer.FileChooserActivity"
+  ],
+  "apps_arduino": [
+  "name.antonsmirnov.android.arduinodroid2/name.antonsmirnov.android.arduinodroid.ui.OnboardingActivity",
+  "my.countable.navbar/my.countable.navbar.splash_screen"
+  ],
+  "apps_atomic": [
+  "io.atomicwallet/io.atomicwallet.MainActivity"
+  ],
+  "apps_audacity": [
+  "happypt.knk.AudacityLite.shortcuts/com.smartmobi.SplashScreenActivity",
+  "com.TecnoveApp.CursoAudacityFREE/io.kodular.manulito45.CursoAudacityGratis_.Screen1"
+  ],
+  "apps_audible": [
+  "com.audible.application/com.audible.application.SplashScreen"
+  ],
+  "apps_bitshares": [
+  "org.bitshares.app/com.btsplusplus.fowallet.ActivityLaunch",
+  "cy.agorise.bitsybitshareswallet/cy.agorise.bitsybitshareswallet.activities.SplashActivity"
+  ],
+  "apps_brosix": [
+  "com.brosix.android/com.brosix.android.LoginActivity"
+  ],
+  "apps_caffeine": [
+  "moe.zhs.caffeine/moe.zhs.caffeine.MainActivity"
+  ],
+  "apps_celestia": [
+  "space.celestia.mobilecelestia/space.celestia.mobilecelestia.MainActivity"
+  ],
+  "apps_check_engine": [
+  "com.ovz.carscanner/carScannerXamarinForms.Droid.MainActivity",
+  "com.vizorg.obd2_code/vizorg.obd2_new.MainActivity",
+  "rg.prowl.torquefree/org.prowl.torquefree.Torque",
+  "org.prowl.torque/org.prowl.torque.landing.FrontPage",
+  "org.prowl.torque/org.prowl.torque.Torque",
+  "com.trentapps.cel/com.trentapps.cel.MainActivity",
+  "com.pnn.obdcardoctor/com.pnn.obdcardoctor_full.gui.activity.SplashActivity"
+  ],
+  "apps_clickup": [
+  "co.mangotechnologies.clickup/co.mangotechnologies.clickup.MainActivity",
+  "com.clickup.app/com.clickup.app.MainActivity"
+  ],
+  "apps_clockify": [
+  "me.clockify.android/me.clockify.android.presenter.SplashActivity"
+  ],
+  "apps_color_chooser": [
+  "gmikhail.colorpicker/gmikhail.colorpicker.activities.MainActivity",
+  "com.bittle.colorpicker/com.bittle.colorpicker.ColorPickerMainActivity",
+  "com.csw.colourpicker/io.kodular.papamame262.colour.Screen1",
+  "com.loomatix.colorgrab/com.loomatix.colorgrab.SplashActivity"
+  ],
+  "apps_dash_wallet": [
+  "hashengineering.darkcoin.wallet/de.schildbach.wallet.ui.OnboardingActivity"
+  ],
+  "apps_devhub": [
+  "com.devhubapp/com.devhubapp.MainActivity"
+  ],
+  "apps_deviantart": [
+  "com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity"
+  ],
+  "apps_dosbox": [
+  "com.fishstix.dosboxfree/com.fishstix.dosboxfree.DBMain",
+  "lb.myapp.ldosbox/lb.myapp.ldosbox.Ldosbox",
+  "com.fishstix.dosboxlauncher/com.fishstix.dosboxlauncher.DosBoxLauncherActivity",
+  "com.fishstix.dosbox/com.fishstix.dosbox.DBMain"
+  ],
+  "apps_droidcam": [
+  "com.dev47apps.droidcam/com.dev47apps.droidcam.DroidCam",
+  "com.dev47apps.droidcamx/com.dev47apps.droidcamx.DroidCamX"
+  ],
+  "apps_duplicati": [
+  "com.kaerosduplicatescleaner/crc64b2e0967e656e2bf1.DemoScreenActivity",
+  "com.duplicatefilefixer/com.duplicatefilefixer.Splash"
+  ],
+  "apps_electron_cash": [
+  "org.electroncash.wallet/org.electroncash.electroncash3.MainActivity"
+  ],
+  "apps_electrum": [
+  "org.electrum.electrum/org.kivy.android.PythonActivity"
+  ],
+  "apps_element": [
+  "im.vector.app/im.vector.app.features.Alias"
+  ],
+  "apps_fluent_reader": [
+  "me.hyliu.fluent_reader_lite/me.hyliu.fluent_reader_lite.MainActivity"
+  ],
+  "apps_fluffychat": [
+  "chat.fluffy.fluffychat/chat.fluffy.fluffychat.MainActivity"
+  ],
+  "apps_forticlient": [
+  "com.fortinet.forticlient_fa/com.fortinet.forticlient_fa.start.StartActivity"
+  ],
+  "apps_forticlient_legacy": [
+  "com.fortinet.forticlient/com.fortinet.forticlient.start.StartActivity"
+  ],
+  "apps_forticlient_vpn": [
+  "com.fortinet.forticlient_vpn/com.fortinet.forticlient_vpn.start.StartActivity"
+  ],
+  "apps_forti_token": [
+  "com.fortinet.android.ftm/com.fortinet.android.ftm.StartActivity"
+  ],
+  "apps_free_download_manager": [
+  "org.freedownloadmanager.fdm/org.freedownloadmanager.fdm.MyActivity"
+  ],
+  "apps_frostwire": [
+  "com.frostwire.android/com.frostwire.android.gui.activities.MainActivity"
+  ],
+  "apps_hidemy_name": [
+  "com.fourksoft.openvpn/com.fourksoft.vpn.gui.activity.splash.SplashActivity"
+  ],
+  "apps_hp": [
+  "com.hp.android.printservice/com.hp.android.printservice.launcher.SplashActivity"
+  ],
+  "apps_jdownloader": [
+  "org.appwork.myjdandroid/org.appwork.myjdandroid.SecondLevelLaunch"
+  ],
+  "apps_jitsi": [
+  "org.jitsi.meet/org.jitsi.meet.MainActivity"
+  ],
+  "apps_kiwix": [
+  "org.kiwix.kiwixmobile/org.kiwix.kiwixmobile.main.KiwixMainActivity"
+  ],
+  "apps_ledger_live": [
+  "com.ledger.live/com.ledger.live.MainActivity"
+  ],
+  "apps_listen_moe": [
+  "me.echeung.moemoekyun/me.echeung.moemoekyun.ui.activity.MainActivity"
+  ],
+  "apps_litecoin": [
+  "crypto.aliens.ltc/crypto.aliens.ltc.Main",
+  "com.ml.freelitecoin/com.ml.freelitecoin.gn",
+  "ltcc.org.freewallet.app/ltcc.org.freewallet.app.MainActivity"
+  ],
+  "games_lyne": [
+  "com.thomasbowker.lynerelease/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_mail_ru_agent": [
+  "ru.mail/ru.mail.instantmessanger.flat.main.MainActivity"
+  ],
+  "apps_maple": [
+  "com.maplesoft.companion/io.flutter.embedding.android.FlutterActivity"
+  ],
+  "apps_mediaget": [
+  "com.mediaget.android/com.mediaget.android.MainActivity"
+  ],
+  "games_melvor_idle": [
+  "com.malcs.melvoridle/com.malcs.melvoridle.MainActivity"
+  ],
+  "apps_metronome": [
+  "com.andymstone.metronome/com.andymstone.metronome.MetronomeBeatsActivity"
+  ],
+  "apps_monero": [
+  "xmr.org.freewallet.app/xmr.org.freewallet.app.MainActivity"
+  ],
+  "apps_musescore": [
+  "com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity"
+  ],
+  "games_nethack": [
+  "com.tbd.NetHack/com.tbd.forkfront.ForkFront",
+  "com.tbd.UnNetHack/com.tbd.forkfront.ForkFront"
+  ],
+  "apps_nextcloud": [
+  "com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity"
+  ],
+  "apps_nitroshare": [
+  "net.nitroshare.android/net.nitroshare.android.ui.transfer.TransferActivity"
+  ],
+  "apps_nomachine": [
+  "com.nomachine.nxplayer/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_notion": [
+  "notion.id/notion.local.id.MainActivity"
+  ],
+  "apps_nozbe": [
+  "com.nozbe.mobile/com.nozbe.mobile.CordovaApp"
+  ],
+  "apps_nutstore": [
+  "nutstore.android/nutstore.android.SplashScreen"
+  ],
+  "apps_obd_auto_doctor": [
+  "com.obdautodoctor/com.obdautodoctor.splashview.SplashActivity"
+  ],
+  "apps_obsidian": [
+  "md.obsidian/md.obsidian.MainActivity"
+  ],
+  "apps_octave": [
+  "com.gnuroot.octave/com.gnuroot.octave.OctaveMain"
+  ],
+  "apps_onlyoffice": [
+  "com.onlyoffice.documents/app.editors.manager.ui.activities.login.SplashActivity"
+  ],
+  "apps_openlp": [
+  "org.openlp.android2/org.openlp.android2.OpenLP"
+  ],
+  "apps_openttd": [
+  "org.matt.openttdtoolbox/org.matt.openttdtoolbox.OttdToolboxMainActivity",
+  "com.zdenekskrobak.openttdtimetabletools/com.zdenekskrobak.openttdtimetabletools.MainActivity"
+  ],
+  "apps_owncloud": [
+  "com.ocloud24.android/com.ocloud24.android.ui.activity.FileDisplayActivity",
+  "online.owncloud.com.Android/online.owncloud.com.Android.ui.activity.FileDisplayActivity"
+  ],
+  "apps_palette": [
+  "com.blogspot.yashas003.colorpalette/com.blogspot.yashas003.colorpalette.Activities.SplashScreen",
+  "com.guidapasquale.justpalette/com.guidapasquale.justpalette.MainActivity",
+  "ge.init5.spektra/ge.init5.spektra.SplashActivity",
+  "com.apps.offbeat.colorpalette/com.apps.offbeat.colorpalette.MainActivity"
+  ],
+  "apps_pcloud": [
+  "com.pcloud.pcloud/com.pcloud.screens.Main"
+  ],
+  "apps_pdfstudio": [
+  "com.qoppa.activities.viewer/com.qoppa.activities.viewer.ViewerActivity"
+  ],
+  "apps_phantompeer": [
+  "com.phantompeer/com.spectersolutions.vpnclient.ui.main.MainActivity"
+  ],
+  "apps_photocollage": [
+  "photocollage.photoeditor.collagemaker/com.camerasideas.collagemaker.activity.DummyActivity",
+  "photoeditor.layout.collagemaker/com.camerasideas.collagemaker.activity.DummyActivity",
+  "collage.maker.photoeditor/com.doozy.collage.MainPage",
+  "com.zentertain.photocollage/com.langki.photocollage.ui.activity.SplashActivity",
+  "mobi.charmer.fotocollage/mobi.charmer.fotocollage.NewHomeActivity"
+  ],
+  "apps_piwigo": [
+  "org.piwigo.android/org.piwigo.ui.launcher.LauncherActivity",
+  "com.piwigo.piwigo_ng/com.remi.piwigo_ng.MainActivity"
+  ],
+  "apps_plexamp": [
+  "tv.plex.labs.plexamp/com.plexamp.MainActivity"
+  ],
+  "apps_pomodoneapp": [
+  "com.pomodoneappmobile/com.pomodoneappmobile.MainActivity"
+  ],
+  "apps_popcorn_time": [
+  "org.t_popcorn.shbox.freemoviesandtvshows/org.t_popcorn.shbox.freemoviesandtvshows.activities.MainActivity",
+  "com.pocketdeals.popcorn/com.peasinapod.gameon.views.SplashActivity",
+  "dp.ws.popcorntime/se.popcorn_time.mobile.ui.MainActivity",
+  "io.free_time.mobile/se.popcorn_time.mobile.ui.MainActivity"
+  ],
+  "games_powermanga": [
+  "axblare.powermanga/axblare.powermanga.MyKernel"
+  ],
+  "apps_pulse_sms": [
+  "xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity"
+  ],
+  "apps_pulseui": [
+  "net.pulsesecure.pulsesecure/net.juniper.junos.pulse.android.ui.LaunchActivity"
+  ],
+  "apps_pushbullet": [
+  "com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity"
+  ],
+  "apps_python": [
+  "ru.iiec.pydroid3/ru.iiec.pydroid.MainActivity",
+  "com.sololearn.python/com.sololearn.app.MainActivity",
+  "org.qpython.qpy3/org.qpython.qpy3.MIndexActivity"
+  ],
+  "apps_quassel": [
+  "com.iskrembilen.quasseldroid/de.kuschku.quasseldroid.ui.chat.ChatActivity"
+  ],
+  "apps_radiotunes": [
+  "com.audioaddict.sky/md5256881233f05e1a12873c405322115cb.SplashActivity"
+  ],
+  "apps_raspcontroller": [
+  "it.Ettore.raspcontroller/it.Ettore.raspcontroller.activity.ActivityStart"
+  ],
+  "apps_redis": [
+  "com.ladcat.redis/com.ladcat.redis.MainActivity"
+  ],
+  "apps_rememberthemilk": [
+  "com.rememberthemilk.MobileRTM/com.rememberthemilk.MobileRTM.Activities.RTMLauncher"
+  ],
+  "apps_repl_it": [
+  "com.replit.twa/com.replit.twa.LauncherActivity"
+  ],
+  "apps_rescuetime": [
+  "com.rescuetime.android/com.rescuetime.android.HomeActivity"
+  ],
+  "games_residualvm": [
+  "org.residualvm.residualvm/org.residualvm.residualvm.ResidualVMActivity"
+  ],
+  "games_scummvm": [
+  "org.scummvm.scummvm/org.scummvm.scummvm.SplashActivity"
+  ],
+  "apps_resilio_sync": [
+  "com.resilio.sync/com.resilio.sync.ui.activity.StartActivity"
+  ],
+  "apps_rocketchat": [
+  "chat.rocket.android/com.zoontek.rnbootsplash.RNBootSplashActivity"
+  ],
+  "apps_rustdesk": [
+  "com.carriez.flutter_hbb/com.carriez.flutter_hbb.MainActivity"
+  ],
+  "apps_seafile": [
+  "com.seafile.seadroid2/com.seafile.seadroid2.ui.activity.BrowserActivity"
+  ],
+  "apps_semaphor": [
+  "com.spideroak.semaphor/com.spideroak.semaphor.MainActivity"
+  ],
+  "apps_serviio": [
+  "com.serviigo/com.serviigo.ui.CDSLauncher",
+  "com.serviidroid/com.serviidroid.ui.LauncherActivity"
+  ],
+  "apps_session": [
+  "network.loki.messenger/network.loki.messenger.RoutingActivity"
+  ],
+  "apps_sharik": [
+  "dev.monora.sharik/dev.monora.sharik.MainActivity"
+  ],
+  "apps_simplenote": [
+  "com.automattic.simplenote/com.automattic.simplenote.NotesActivity"
+  ],
+  "apps_soundwire": [
+  "com.georgie.SoundWireFree/com.georgie.SoundWire.SoundWire",
+  "com.georgie.SoundWire/com.georgie.SoundWire.SoundWire"
+  ],
+  "apps_stellarium": [
+  "com.noctuasoftware.stellarium_free/com.noctuasoftware.stellarium_free.Stellarium",
+  "com.noctuasoftware.stellarium_plus/com.noctuasoftware.stellarium_plus.Stellarium"
+  ],
+  "apps_stremio": [
+  "com.stremio.one/com.stremio.MainActivity"
+  ],
+  "apps_sublime_text": [
+  "com.csgroup.texteditor/com.maskyn.fileeditor.HomeActivity"
+  ],
+  "apps_subsonic": [
+  "net.sourceforge.subsonic.androidapp/net.sourceforge.subsonic.androidapp.activity.MainActivity"
+  ],
+  "apps_sunvox": [
+  "nightradio.sunvox/nightradio.sunvox.MyNativeActivity"
+  ],
+  "apps_superproductivity": [
+  "com.superproductivity.superproductivity/com.superproductivity.superproductivity.FullscreenActivity"
+  ],
+  "apps_tamtam_app": [
+  "ru.ok.messages/ru.ok.tamtam.views.ActLaunch"
+  ],
+  "apps_teamspeak3": [
+  "com.teamspeak.ts3client/com.teamspeak.ts3client.StartGUIFragment"
+  ],
+  "apps_termius": [
+  "com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SplashScreenActivity"
+  ],
+  "apps_text_editor": [
+  "com.byteexperts.texteditor/com.byteexperts.texteditor.activities.editor.TEEditorActivity",
+  "com.maxistar.textpad/com.maxistar.textpad.activities.EditorActivity",
+  "joa.zipper.editor/joa.zipper.editor.Main",
+  "jp.sblo.pandora.jota.plus/jp.sblo.pandora.jotaplus.Main",
+  "com.maskyn.fileeditor/com.maskyn.fileeditor.FabricEditorActivity",
+  "jp.sblo.pandora.jota/jp.sblo.pandora.jota.Main"
+  ],
+  "apps_tinder": [
+  "com.tinder/com.tinder.activities.LoginActivity",
+  "com.tinder.tinderlite/com.tinder.lite.DeviceInfoLauncherActivity"
+  ],
+  "apps_trello": [
+  "com.trello/com.trello.authentication.AuthLoginActivity",
+  "com.trello/com.trello.home.HomeActivity"
+  ],
+  "apps_tresorit": [
+  "com.tresorit.mobile/com.tresorit.android.activity.RootTresoritActivity"
+  ],
+  "apps_trilium": [
+  "io.github.zadam.triliumsender/io.github.zadam.triliumsender.MainActivity"
+  ],
+  "apps_trinity": [
+  "com.iota.trinity/com.iota.trinity.MainActivity"
+  ],
+  "apps_tumblr": [
+  "com.tumblr/com.tumblr.ui.activity.JumpoffActivity"
+  ],
+  "apps_tupitube": [
+  "org.maefloresta.tupitube/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "apps_tutanota": [
+  "de.tutao.tutanota/de.tutao.tutanota.MainActivity"
+  ],
+  "games_tux": [
+  "org.lethargik.supertux2/org.lethargik.supertux2.MainActivity"
+  ],
+  "apps_unified_remote": [
+  "com.Relmtech.RemotePaid/com.unified.v3.frontend.views.MainActivity",
+  "com.Relmtech.Remote/com.unified.v3.frontend.views.MainActivity"
+  ],
+  "apps_unity": [
+  "com.unity3d.mobileremote/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_upwork": [
+  "com.upwork.android.apps.client/com.upwork.android.apps.main.MainActivity"
+  ],
+  "apps_upwork_freelancer": [
+  "com.upwork.android.apps.main/com.upwork.android.apps.main.MainActivity"
+  ],
+  "apps_utox": [
+  "ltd.evilcorp.atox/ltd.evilcorp.atox.MainActivity",
+  "chat.tox.antox/chat.tox.antox.SplashActivity",
+  "org.protox/org.protox.activity.QtActivityEx",
+  "com.zoffcc.applications.trifa/com.zoffcc.applications.trifa.StartMainActivityWrapper"
+  ],
+  "apps_vim": [
+  "com.droidvim/jackpal.androidterm.Term",
+  "com.llerrad.vimreference/com.llerrad.vimreference.VimRefActivity",
+  "com.markino.vimcheatsheet/com.markino.vimcheatsheet.MainActivity"
+  ],
+  "apps_visual_studio_code": [
+  "lk.visual.code.mobile/lk.visual.code.mobile.MainActivity"
+  ],
+  "apps_vivaldi_snapshot": [
+  "com.vivaldi.browser.snapshot/com.google.android.apps.chrome.Main"
+  ],
+  "apps_vivaldi": [
+  "com.vivaldi.browser/com.google.android.apps.chrome.Main"
+  ],
+  "apps_vuze": [
+  "com.vuze.torrent.downloader/com.vuze.torrent.downloader.activity.MainActivity"
+  ],
+  "apps_wire": [
+  "com.wire/com.waz.zclient.LaunchActivity"
+  ],
+  "apps_wordpress": [
+  "org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity"
+  ],
+  "apps_xnconvert": [
+  "com.xnview.xnconvert/com.xnview.xnconvert.activities.MainActivity"
+  ],
+  "apps_xnretro": [
+  "com.xnview.XnRetro/com.xnview.XnRetro.MainActivity"
+  ],
+  "apps_xnsketch": [
+  "com.xnview.XnSketch/com.xnview.XnSketch.MainActivity"
+  ],
+  "apps_zoom": [
+  "us.zoom.videomeetings/com.zipow.videobox.LauncherActivity"
+  ],
+  "google_tasks": [
+  "com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity"
+  ],
+  "apps_zulip": [
+  "com.zulipmobile/com.zulipmobile.MainActivity"
+  ],
+  "apps_pia_manager": [
+  "com.privateinternetaccess.android/com.privateinternetaccess.android.ui.LauncherActivity"
+  ],
+  "games_2048": [
+  "com.merge.cube.winner/com.luckyxyz.cubezx.MainActivity",
+  "com.androbaby.original2048/com.androbaby.original2048.MainActivity",
+  "com.alexblackapps.game2048/com.alexblackapps.game2048.Game",
+  "com.gabrielecirulli.app2048/com.gabrielecirulli.app2048.MainActivity",
+  "com.androbaby.game2048/com.androbaby.game2048.MainActivity",
+  "com.colobolo.chainball/com.unity3d.player.UnityPlayerActivity",
+  "com.dupuz.game2048.yellow/com.dupuz.game2048.yellow.StartAct",
+  "com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity",
+  "com.greatapps.the2048game/com.greatapps.the2048game.MainDrawerActivity",
+  "apps.r.twothousandfortyeight/com.unity3d.player.UnityPlayerActivity",
+  "com.s2apps.game2048/com.s2apps.game2048.MainActivity",
+  "com.scn.twok48/com.scn.twok48.MenuActivity",
+  "com.gmtmobile.game2048.plus/com.gmtmobile.game2048.plus.MainActivity"
+  ],
+  "games_6180_the_moon": [
+  "com.TurtleCream.themoon6180/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_adventure_capitalist": [
+  "com.kongregate.mobile.adventurecapitalist.google/com.unity3d.player.UnityPlayerNativeActivity"
+  ],
+  "games_albion_online": [
+  "com.albiononline/com.albion.AlbionActivity"
+  ],
+  "games_among_us": [
+  "com.innersloth.spacemafia/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_armello": [
+  "com.leagueofgeeks.armello/com.google.firebase.MessagingUnityPlayerActivity"
+  ],
+  "games_baba_is_you": [
+  "org.hempuli.baba/org.hempuli.baba.ChowdrenActivity"
+  ],
+  "games_baldis_basics": [
+  "com.BasicallyGames.BaldisBasicsClassic/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_beamng_drive": [
+  "com.beamng.remotecontrol/com.beamng.remotecontrol.WelcomeActivity"
+  ],
+  "games_beat_hazard_2": [
+  "com.coldbeamgames.beathazard2/com.coldbeamgames.beathazard2.SDLActivityBeatHazard2"
+  ],
+  "games_beat_hazard": [
+  "com.coldbeamgames.beathazardultragooglefull/com.coldbeamgames.beathazardultra.Main"
+  ],
+  "games_beholder": [
+  "com.creativemobile.beholderfree/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_bendy_and_the_ink_machine": [
+  "com.jds.batim/com.jds.batimaar.core.BATIMMainActivity"
+  ],
+  "games_blobby": [
+  "pl.bartoszwesolowski.blobbyvolley/com.unity3d.player.UnityPlayerActivity",
+  "com.jeski.beachvolleyball/com.unity3d.player.UnityPlayerNativeActivity"
+  ],
+  "games_bridge_constructor_medieval": [
+  "com.headupgames.bridgeconstructormedieval/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_bridge_constructor_playground": [
+  "com.headupgames.bridgeconstructorplayground/com.prime31.UnityPlayerActivity",
+  "com.headupgames.bridgeconstructorplaygroundfree/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_bridge_constructor_stunts": [
+  "com.headupgames.bridgeconstructorstuntsfree/com.prime31.UnityPlayerNativeActivity",
+  "com.headupgames.bridgeconstructorstunts/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_bridge_constructor": [
+  "com.headupgames.bridgeconstructor/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_cataclysm_dda": [
+  "com.cleverraven.cataclysmdda/com.cleverraven.cataclysmdda.SplashScreen",
+  "com.MichaelDavies.CataclysmDDA/com.MichaelDavies.CataclysmDDA.SplashScreen"
+  ],
+  "games_cats_are_liquid": [
+  "com.lastquarterstudios.catsareliquidabp/com.lastquarterstudios.catsareliquidabp.UnityPlayerActivity"
+  ],
+  "games_cave_story": [
+  "com.kevinchen1992.outerwallpaper/com.kevinchen1992.outerwallpaper.OuterWallpaperLauncher"
+  ],
+  "games_chess": [
+  "com.chess/com.chess.splash.SplashActivity",
+  "org.lichess.mobileapp/org.lichess.mobileapp.MainActivity",
+  "uk.co.aifactory.chessfree/uk.co.aifactory.chessfree.ChessFreeActivity",
+  "com.jetstartgames.chess/com.jetstartgames.chess.MenuActivity"
+  ],
+  "games_chiaki": [
+  "com.metallic.chiaki/com.metallic.chiaki.main.MainActivity"
+  ],
+  "games_civilization6": [
+  "com.aspyr.civvi/com.aspyr.civvi.BootstrapActivity"
+  ],
+  "games_clustertruck": [
+  "com.nvidia.tinyBuildGames.ClusterTruck/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_crush_crush": [
+  "com.sadpanda.mobile.crushcrush.google/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_danganronpa": [
+  "jp.co.spike_chunsoft.DR1/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_dead_cells": [
+  "com.playdigious.deadcells.mobile/com.playdigious.deadcells.mobile.DeadCellsLoading"
+  ],
+  "games_desmume": [
+  "com.opendoorstudios.ds4droid/com.opendoorstudios.ds4droid.MainActivity",
+  "com.supernds.free/com.opendoorstudios.ds4droid.RequestPermissions",
+  "com.cpu.free.dsemulatorv6/org.cocos2dx.cpp.AppActivity",
+  "com.lukos.FastNDS/com.retro.retrobox.loading_admobpub"
+  ],
+  "games_drastic": [
+  "com.dsemu.drastic/com.dsemu.drastic.DraSticActivity"
+  ],
+  "games_devilutionx": [
+  "org.diasurgical.devilutionx/org.diasurgical.devilutionx.MainActivity"
+  ],
+  "games_doom": [
+  "com.bethsoft.DOOM/com.idsoftware.Doom.DoomActivity"
+  ],
+  "games_doom3": [
+  "com.n0n3m4.DIII4A/com.n0n3m4.DIII4A.GameLauncher"
+  ],
+  "games_duckstation": [
+  "com.github.stenzek.duckstation/com.github.stenzek.duckstation.MainActivity"
+  ],
+  "games_dungeon_crawl": [
+  "com.crawlmb/com.crawlmb.activity.SplashActivity"
+  ],
+  "games_edge": [
+  "net.mobigame.edge.demo/net.mobigame.Edge.EdgeActivity",
+  "net.mobigame.edge.extended/net.mobigame.Edge.EdgeActivity"
+  ],
+  "games_forager": [
+  "com.humblebundle.forager/com.humblebundle.forager.RunnerActivity"
+  ],
+  "games_fran_bow": [
+  "com.KillmondayGames.FranBowCh1/com.KillmondayGames.FranBowCh1.RunnerActivity"
+  ],
+  "games_freedroid": [
+  "net.sourceforge.freedroid/net.sourceforge.freedroid.MainActivity"
+  ],
+  "games_funkin": [
+  "friday.night.funkin.fairytale/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_gta_vice_city": [
+  "com.rockstargames.gtavc/com.rockstargames.gtavc.GTAVC"
+  ],
+  "games_gta_3": [
+  "com.rockstar.gta3/com.rockstar.gta3.GTA3"
+  ],
+  "games_gta_5": [
+  "com.rockstargames.gtavmanual/com.rockstargames.gtavmanual.GTAVManual"
+  ],
+  "games_hollow_knight": [
+  "com.quasistellar.hollowdungeon/com.quasistellar.hollowdungeon.android.AndroidLauncher"
+  ],
+  "games_incredipede": [
+  "air.com.northwaygames.Incredipede/air.com.northwaygames.Incredipede.AppEntry"
+  ],
+  "games_machinarium": [
+  "net.Amanita.Design.Machinarium.GP.Demo/net.Amanita.Design.Machinarium.GP.Demo.ActivityMain",
+  "air.net.machinarium.Machinarium.GP/air.net.machinarium.Machinarium.GP.ActivityMain"
+  ],
+  "games_melonds": [
+  "me.magnum.melonds/me.magnum.melonds.ui.romlist.RomListActivity"
+  ],
+  "games_moe_era": [
+  "era.moe.moeera/org.renpy.android.DownloaderActivity"
+  ],
+  "games_muse_dash": [
+  "com.prpr.musedash/com.prpr.overseasaccount.OverseasAccountActivity"
+  ],
+  "games_nihilumbra": [
+  "com.BeautiFunGames.Nihilumbra/com.unity3d.player.UnityPlayerNativeActivity"
+  ],
+  "games_octodad_dadliest_catch": [
+  "com.younghorses.octodad/com.younghorses.octodad.OctodadNativeActivity"
+  ],
+  "games_open_liero_x": [
+  "openlierox.net/openlierox.net.MainActivity"
+  ],
+  "games_openarena": [
+  "ws.openarena.sdl/ws.openarena.sdl.MainActivity"
+  ],
+  "games_opentyrian": [
+  "com.googlecode.opentyrian/com.googlecode.opentyrian.MainActivity"
+  ],
+  "games_payday2": [
+  "com.trijin.bigoilselector/com.trijin.bigoilselector.FirstActivity",
+  "com.pd2skills.pd2app/com.pd2skills.pd2app.MainActivity"
+  ],
+  "games_pekka_kana_2": [
+  "org.pgnapps.pk2/org.pgnapps.pk2.PK2Activity"
+  ],
+  "games_plague_inc_evolved": [
+  "com.miniclip.plagueinc/com.miniclip.plagueinc.PlagueIncActivity"
+  ],
+  "games_play": [
+  "com.virtualapplications.play/com.virtualapplications.play.MainActivity"
+  ],
+  "games_portal": [
+  "com.nvidia.valvesoftware.portal/com.valvesoftware.ValveDownloader2"
+  ],
+  "games_psx": [
+  "com.skyemu.ps1emulatormulti/com.retro.retrobox.loading_admobpub",
+  "com.pentawire.emupsxxl/com.pentawire.emupsxxl.MainActivity",
+  "com.superpsx.plus/com.swordfish.superpsx.app.SplashScreen",
+  "com.epsxe.opengl/com.epsxe.opengl.ePSXeGL",
+  "com.epsxe.ePSXe/com.epsxe.ePSXe.ePSXe",
+  "com.emulator.fpse/com.emulator.fpse.Main"
+  ],
+  "games_read_only_memories": [
+  "com.midboss.rom/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_redirection": [
+  "net.dan200.redirection/md5631963e5e74f1e54377bb90f9d9d6bf8.MainActivity"
+  ],
+  "games_redream": [
+  "io.recompiled.redream/io.recompiled.redream.MainActivity"
+  ],
+  "games_reicast": [
+  "com.reicast.emulator/com.reicast.emulator.MainActivity"
+  ],
+  "games_reigns": [
+  "com.devolver.reigns/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_rust": [
+  "com.facepunch.rust.companion/host.exp.exponent.MainActivity"
+  ],
+  "games_skullgirls": [
+  "com.autumn.skullgirls/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_sonic_kart": [
+  "com.adventuredash.kartboom/com.unity3d.player.UnityPlayerActivity",
+  "com.rimle.kartdashracing/com.unity3d.player.UnityPlayerActivity",
+  "com.race.hedgehogboom/com.race.hedgehogboom.PTPlayer"
+  ],
+  "games_supermeatboy": [
+  "com.teammeat.supermeatboyshield/com.teammeat.supermeatboyshield.SMBActivity"
+  ],
+  "games_supertuxkart": [
+  "org.supertuxkart.stk/org.supertuxkart.stk.SuperTuxKartActivity",
+  "org.supertuxkart.stk_beta/org.supertuxkart.stk_beta.SuperTuxKartActivity"
+  ],
+  "games_tamagotchi": [
+  "eu.bandainamcoent.mytamagotchiforever/com.prime31.UnityPlayerNativeActivity"
+  ],
+  "games_terraria": [
+  "com.and.games505.TerrariaPaid/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_teslagrad": [
+  "com.Rain.Teslagrad/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_the_binding_of_isaac_rebirth": [
+  "slaughter.guideforbindingofisaacrebirth/slaughter.guideforbindingofisaacrebirth.activities.HomeActivity",
+  "tboi.com.goodappsfy/tboi.com.goodappsfy.SplashScreenActivity"
+  ],
+  "games_the_cave": [
+  "com.doublefine.thecave/com.doublefine.thecave.CaveActivity"
+  ],
+  "games_the_escapists_2": [
+  "com.team17.escapists2/com.team17.escapists2.Sexcrpwmf"
+  ],
+  "games_the_sims": [
+  "com.ea.games.simsfreeplay_row/com.ea.games.simsfreeplay.GameActivity"
+  ],
+  "games_the_talos_principle": [
+  "com.devolver.Talos/com.devolver.InitialActivityCT"
+  ],
+  "games_tibia": [
+  "com.tigerhood.tibiaandroid/view.activity.MainActivity"
+  ],
+  "games_toby_the_secret_mine": [
+  "com.headupgames.tobythesecretmine/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_toki_tori": [
+  "gameclub.tokitori/gameclub.ttdev.SplashActivity"
+  ],
+  "games_trine2": [
+  "com.frozenbyte.Trine2/com.frozenbyte.game.Downloader"
+  ],
+  "games_type_rider": [
+  "com.bulkypix.typerider/com.unity3d.player.UnityPlayerProxyActivity"
+  ],
+  "games_world_of_goo": [
+  "com.twodboy.worldofgoofull/com.twodboy.worldofgoofull.WorldOfGooFull"
+  ],
+  "games_worms_armageddon": [
+  "com.worms2armageddon.app/com.worms2armageddon.app.Main"
+  ],
+  "games_zx_spectrum": [
+  "app.usp/app.usp.Main",
+  "com.fms.speccy/com.fms.emulib.FileChooser",
+  "com.spectaculator.spectaculator/com.spectaculator.spectaculator.GameListActivity",
+  "com.seleuco.xpectrum/com.seleuco.xpectrum.Xpectroid",
+  "eu.licentia.games.spectacol/org.qtproject.qt5.android.bindings.QtActivity"
+  ],
+  "games_the_witcher": [
+  "com.spokko.witchermonsterslayer/com.spokko.mycustomnative.CustomUnityActivity"
+  ],
+  "games_horizon_chase": [
+  "com.aquiris.horizonchase/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_foobar2000": [
+  "com.foobar2000.foobar2000/com.foobar2000.foobar2000.MainActivity"
+  ],
+  "apps_openvpn": [
+  "net.openvpn.openvpn/net.openvpn.openvpn.OpenVPNClient",
+  "net.openvpn.openvpn/net.openvpn.unified.MainActivity"
+  ],
+  "apps_lazy_media_deluxe": [
+  "com.lazycatsoftware.lmd/com.lazycatsoftware.lazymediadeluxe.ActivityStart"
+  ],
+  "apps_kinotrend": [
+  "ru.tiardev.kinotrend/ru.tiardev.kinotrend.ui.SplashActivity"
+  ],
+  "yandex_kinopoisk": [
+  "ru.kinopoisk/ru.kinopoisk.activity.MainActivity"
   ]
 }

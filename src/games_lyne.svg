@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg12"
+   sodipodi:docname="apps_lyne.svg"
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter845"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur847" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter849"
+       x="-0.048400002"
+       y="-0.047606559"
+       width="1.0968"
+       height="1.0952131">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.42"
+         id="feGaussianBlur851" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.16"
+     inkscape:cx="23.842593"
+     inkscape:cy="23.842593"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:0.2;stroke-width:4;filter:url(#filter845)"
+     width="160"
+     height="160"
+     x="16"
+     y="20"
+     rx="8"
+     ry="8"
+     id="rect2" />
+  <rect
+     style="fill:#f2385a;stroke-width:4"
+     width="160"
+     height="160"
+     x="16"
+     y="16"
+     rx="8"
+     ry="8"
+     id="rect4" />
+  <path
+     id="path6"
+     style="opacity:0.2;stroke-width:4;fill:#ffffff"
+     d="M 24 16 C 19.568 16 16 19.568 16 24 L 16 25 C 16 20.568 19.568 17 24 17 L 168 17 C 172.432 17 176 20.568 176 25 L 176 24 C 176 19.568 172.432 16 168 16 L 24 16 z " />
+  <path
+     style="opacity:0.2;stroke-width:4;filter:url(#filter849)"
+     d="M 40,34 V 58 H 56 V 54.921876 H 42.460936 V 34 Z m 28,0 c 0.443156,3.835897 1.378868,6.905688 2.804688,9.203124 1.310212,2.112824 3.225912,4.11282 5.75,6 V 58 h 2.890624 v -8.796876 c 2.524088,-1.88718 4.439792,-3.887176 5.75,-6 C 86.621132,40.905688 87.556836,37.835897 88,34 h -2.921876 c -0.38536,3.138462 -1.156428,5.651884 -2.3125,7.539064 -1.079,1.7641 -2.665432,3.43614 -4.765624,5.015624 C 75.899812,44.975204 74.313372,43.303164 73.234376,41.539064 72.0783,39.651884 71.307228,37.138462 70.921876,34 Z m 36,0 v 24 h 2.39062 V 41.109376 L 120,58 V 34 h -2.39062 v 16.828124 z m 32,0 v 24 h 16 v -3.078124 h -13.53906 v -8.58594 h 9.84375 v -3.078124 h -9.84375 V 37.078125 H 152 V 34 Z M 48,68 36,80 48,92 60,80 Z M 80,68 68,80 80,92 92,80 Z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m -96,32 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m -96,32 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z"
+     id="path8" />
+  <path
+     style="fill:#ffffff;stroke-width:4"
+     d="M 40,32 V 56 H 56 V 52.921876 H 42.460936 V 32 Z m 28,0 c 0.443156,3.835897 1.378868,6.905689 2.804688,9.203124 1.310212,2.112824 3.225912,4.11282 5.75,6 V 56 h 2.890624 v -8.796876 c 2.524088,-1.88718 4.439792,-3.887176 5.75,-6 C 86.621132,38.905689 87.556836,35.835897 88,32 h -2.921876 c -0.385356,3.138462 -1.156428,5.651883 -2.3125,7.539062 C 81.686624,41.303164 80.100192,42.975204 78,44.554688 75.899812,42.975204 74.313372,41.303164 73.234376,39.539062 72.0783,37.651883 71.307228,35.138462 70.921876,32 Z m 36,0 v 24 h 2.39062 V 39.109375 L 120,56 V 32 h -2.39062 v 16.828124 z m 32,0 v 24 h 16 v -3.078124 h -13.53906 v -8.58594 h 9.84375 v -3.078124 h -9.84375 V 35.078125 H 152 V 32 Z M 48,66 36,78 48,90 60,78 Z M 80,66 68,78 80,90 92,78 Z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m -96,32 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m -96,32 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z m 32,0 -12,12 12,12 12,-12 z"
+     id="path10" />
+</svg>

@@ -10,13 +10,14 @@
     <!-- Enable or disable icon name replacer
     * Enable -> true
     * Disable -> false -->
-    <bool name="enable_icon_name_replacer">false</bool>
+    <bool name="enable_icon_name_replacer">true</bool>
 
     <string-array name="icon_name_replacer">
         <!-- Word "app_" will be replaced with "" -->
-        <item>app_,</item>
         <!-- Word "icon_" will be replaced with "app_" -->
-        <item>icon_,app_</item>
+        <item>apps_,</item>
+        <item>games_,</item>
+        <item>system_,</item>
     </string-array>
 
 </resources>
