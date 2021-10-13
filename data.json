@@ -4349,5 +4349,11 @@
   ],
   "games_angry_birds_2": [
   "com.rovio.baba/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "games_world_of_tanks_blitz": [
+  "net.wargaming.wot.blitz/com.dava.engine.DavaActivity"
+  ],
+  "games_world_of_tanks_assistant": [
+  "ru.worldoftanks.mobile/net.wargaming.mobile.screens.nativelogin.splash.SplashActivity"
   ]
 }

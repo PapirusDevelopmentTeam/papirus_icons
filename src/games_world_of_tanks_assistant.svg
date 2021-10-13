@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg20"
+   sodipodi:docname="games_world_of_tanks_assistant.svg"
+   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter861"
+       x="-0.055999999"
+       y="-0.042000001"
+       width="1.112"
+       height="1.084">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7999999"
+         id="feGaussianBlur863" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter865"
+       x="-0.058909093"
+       y="-0.040500002"
+       width="1.1178182"
+       height="1.081">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.16"
+         id="feGaussianBlur867" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="23.5"
+     inkscape:cy="84.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <path
+     style="opacity:0.2;stroke-width:4;filter:url(#filter861)"
+     d="m 76,20.000001 c -4.243184,8.17e-4 -8.312312,1.686953 -11.3125,4.68759 l -24,24.000457 c -2.624736,2.631176 -4.2086,6.044332 -4.585636,9.629488 L 36,68.00092 v 52.96977 c 8.18e-4,4.24327 1.686921,8.31247 4.6875,11.31272 l 15.515624,15.51592 16.484376,15.51593 12,12.00022 c 6.248476,6.24602 16.37652,6.24602 22.625,0 l 12,-12.00022 16.48438,-15.51593 15.51562,-15.51592 c 3.00058,-3.00025 4.68668,-7.06945 4.6875,-11.31272 V 68.00092 l -0.0216,-8.449496 c -0.11028,-4.02896 -1.74186,-7.93134 -4.666,-10.863376 l -24,-24.000457 C 124.31231,21.686954 120.24318,20.000818 116,20.000001 Z"
+     id="path2" />
+  <path
+     style="fill:#fd541a;fill-opacity:1;stroke-width:4"
+     d="m 76,16 c -4.243184,8.17e-4 -8.312312,1.686952 -11.3125,4.68759 l -24,24.000458 c -2.624736,2.631176 -4.2086,6.044332 -4.585636,9.629488 L 36,64.00092 v 52.96977 c 8.18e-4,4.24327 1.686921,8.31247 4.6875,11.31272 l 15.515624,15.51592 16.484376,15.51593 12,12.00022 c 6.248476,6.24602 16.37652,6.24602 22.625,0 l 12,-12.00022 16.48438,-15.51593 15.51562,-15.51592 c 3.00058,-3.00025 4.68668,-7.06945 4.6875,-11.31272 V 64.00092 l -0.0216,-8.449496 c -0.11028,-4.02896 -1.74186,-7.93134 -4.666,-10.863376 l -24,-24.000458 C 124.31231,17.686952 120.24318,16.000817 116,16 Z"
+     id="path4" />
+  <path
+     style="opacity:0.2;stroke-width:4;filter:url(#filter865)"
+     d="M 76,34 52,58 h 32 v 59.03125 l -8,-8 V 66 H 52 v 52.96875 L 67.515624,134.48438 84,118 v 32 l 12,12 12,-12 V 118 L 124.48438,134.48438 140,118.96875 V 66 h -24 v 43.03125 l -8,8 V 58 h 32 L 116,34 Z"
+     id="path6" />
+  <path
+     id="path8"
+     style="fill:#ffffff;stroke-width:4"
+     d="M 76,32 52,56 h 32 v 59.03125 L 76,107.0293 V 64 H 52 v 52.9707 L 67.515625,132.48438 84,116 v 32 l 12,12 12,-12 V 116 L 124.48438,132.48438 140,116.9707 V 64 h -24 v 43.0293 l -8,8.00195 V 56 h 32 L 116,32 Z" />
+  <path
+     id="path18"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="m 76,16 c -4.243184,8.17e-4 -8.312312,1.686862 -11.3125,4.6875 l -24,24 c -2.624736,2.631176 -4.2089,6.047657 -4.585938,9.632812 L 36,64 v 1 l 0.101562,-9.679688 C 36.4786,51.735157 38.062764,48.318676 40.6875,45.6875 l 24,-24 C 67.687688,18.686862 71.756816,17.000817 76,17 h 40 c 4.24318,8.17e-4 8.31257,1.686862 11.3125,4.6875 l 24,24 c 2.92413,2.932036 4.55378,6.838228 4.66406,10.867188 L 156,65 v -1 l -0.0234,-8.445312 c -0.11028,-4.02896 -1.73993,-7.935152 -4.66406,-10.867188 l -24,-24 C 124.31257,17.686862 120.24318,16.000817 116,16 Z" />
+</svg>
