@@ -4336,5 +4336,18 @@
   ],
   "yandex_kinopoisk": [
   "ru.kinopoisk/ru.kinopoisk.activity.MainActivity"
+  ],
+  "apps_wikipedia": [
+  "org.wikipedia/org.wikipedia.main.MainActivity",
+  "org.wikipedia.beta/org.wikipedia.main.MainActivity"
+  ],
+  "games_call_of_duty_mobile": [
+  "com.activision.callofduty.mobile/com.activision.callofduty.splash.SplashActivity_"
+  ],
+  "games_call_of_duty_companion": [
+  "com.activision.callofduty.companion/com.activision.callofduty.companion.MainActivity"
+  ],
+  "games_angry_birds_2": [
+  "com.rovio.baba/com.unity3d.player.UnityPlayerActivity"
   ]
 }
