@@ -4355,5 +4355,14 @@
   ],
   "games_world_of_tanks_assistant": [
   "ru.worldoftanks.mobile/net.wargaming.mobile.screens.nativelogin.splash.SplashActivity"
+  ],
+  "apps_ccleaner": [
+  "com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity"
+  ],
+  "games_roblox": [
+  "com.roblox.client/com.roblox.client.startup.ActivitySplash"
+  ],
+  "apps_joom": [
+  "com.joom/com.joom.ui.main.MainActivity"
   ]
 }
