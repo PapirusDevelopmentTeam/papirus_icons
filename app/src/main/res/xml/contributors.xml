@@ -2,24 +2,19 @@
 <resources>
 
     <contributor
-        name="Name 1"
-        contribution="Contribution 1, contribution 2"
-        image="https://avatars1.githubusercontent.com/u/23138905?v=3&amp;s=300"
+        name="Alexey Varfolomeev"
+        contribution="Main designer"
+        image="https://avatars.githubusercontent.com/u/8083855?v=4"
         link="" />
     <contributor
-        name="Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3"
-        image=""
+        name="creepertron95"
+        contribution="Designer"
+        image="https://avatars.githubusercontent.com/u/53346722?v=4"
         link="" />
     <contributor
-        name="Another Name"
-        contribution="Contribution 1"
-        image=""
-        link="http://plus.google.com/..." />
-    <contributor
-        name="Another Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"
-        image=""
-        link="http://www.link.com" />
+        name="Sergei Eremenko"
+        contribution="A developer"
+        image="https://avatars.githubusercontent.com/u/819186?v=4"
+        link="" />
 
 </resources>

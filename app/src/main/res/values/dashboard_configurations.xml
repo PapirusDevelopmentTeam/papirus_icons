@@ -119,7 +119,7 @@
 
     <!-- Navigation view header text
         Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">CandyBar</string>
+    <string name="navigation_view_header_title">version</string>
 
 
     <!--
@@ -249,7 +249,7 @@
         - landscape
         - portrait
     -->
-    <string name="wallpaper_grid_preview_style">square</string>
+    <string name="wallpaper_grid_preview_style">portrait</string>
 
 
     <!--
@@ -262,7 +262,7 @@
 
         If you want to use a solid color, you can put the hex color code here
         ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">https://source.unsplash.com/_8WAobqAJog/1400x0</string>
+    <string name="about_image">home_image</string>
 
     <!-- About profile image
         If you want to use an image from url, just put the url here
@@ -293,13 +293,13 @@
         -->
     <string-array name="about_social_links">
         <item>varlesh@gmail.com</item>
-        <item>https://github.com/PapirusDevelopmentTeam</item>
+        <item>https://github.com/PapirusDevelopmentTeam/papirus_icons</item>
     </string-array>
 
     <!-- Contributors dialog
         If you want to show contributors dialog unable this, if not then disable this.
         Take a look inside res/xml/contributors.xml to add contributors -->
-    <bool name="show_contributors_dialog">false</bool>
+    <bool name="show_contributors_dialog">true</bool>
 
     <!-- Privacy policy link.
         Leave empty to disable this.
