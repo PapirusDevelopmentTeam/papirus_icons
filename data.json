@@ -4364,5 +4364,44 @@
   ],
   "apps_joom": [
   "com.joom/com.joom.ui.main.MainActivity"
+  ],
+  "google_compose_material_catalog": [
+  "androidx.compose.material.catalog/androidx.compose.material.catalog.CatalogActivity"
+  ],
+  "google_grasshopper": [
+  "com.area120.grasshopper/com.area120.grasshopper.MainActivity"
+  ],
+  "google_sound_amplifier": [
+  "com.google.android.accessibility.soundamplifier/com.google.android.accessibility.soundamplifier.ui.SoundAmplifierSettingActivity"
+  ],
+  "google_action_blocks": [
+  "com.google.android.apps.accessibility.maui.actionblocks/com.google.android.apps.accessibility.maui.actionblocks.home.HomeActivity"
+  ],
+  "google_voice_access": [
+  "com.google.android.apps.accessibility.voiceaccess/com.google.android.apps.accessibility.voiceaccess.activities.LaunchActivity"
+  ],
+  "google_cameos": [
+  "com.google.android.apps.cameos/com.google.android.apps.cameos.classes.ui.activity.Activity"
+  ],
+  "google_camera_poseidon": [
+  "com.google.android.apps.camera.poseidon/com.google.android.apps.camera.poseidon.MainActivity"
+  ],
+  "google_assistant": [
+  "com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity"
+  ],
+  "google_material_gallery": [
+  "com.google.android.apps.improv/com.google.android.apps.improv.main.activity.MainActivity"
+  ],
+  "google_family_link_helper": [
+  "com.google.android.apps.kids.familylinkhelper/com.google.android.apps.kids.familylinkhelper.home.FamilyLinkLauncher"
+  ],
+  "google_clips": [
+  "com.google.android.apps.cerebra.links/com.google.android.apps.cerebra.links.splash.SplashActivity"
+  ],
+  "google_gallery_go": [
+  "com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity"
+  ],
+  "google_podcasts": [
+  "com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity"
   ]
 }
