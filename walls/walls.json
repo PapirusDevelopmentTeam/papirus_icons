@@ -1,5 +1,11 @@
 [
   {
+    "name": "Materia Dark",
+    "author": "Alexey Varfolomeev",
+    "url": "https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/walls/materia-dark.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/walls/materia-dark-thumb.jpg"
+  },
+  {
     "name": "Lines",
     "author": "Jean-Philippe Delberghe",
     "url": "https://source.unsplash.com/75xPHEQBmvA/1400x0",
@@ -40,5 +46,5 @@
     "author": "Olga Subach",
     "url": "https://source.unsplash.com/9ke71hQLItg/1400x0",
     "thumbUrl": "https://source.unsplash.com/9ke71hQLItg/200x0"
-  },
+  }
 ]
