@@ -1736,7 +1736,8 @@
     "com.google.android.leanbacklauncher/com.google.android.leanbacklauncher.DummyActivity"
   ],
   "google_android_tv_remote": [
-    "com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity"
+    "com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity",
+    "com.google.android.tv.remote.service/com.google.android.tv.remote.service.settings.SettingsActivity"
   ],
   "google_android_wear": [
     "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity",
@@ -1812,7 +1813,8 @@
   ],
   "google_crowdsource": [
     "com.google.android.apps.village.boond/com.google.android.apps.village.boond.activities.SplashActivity",
-    "com.google.android.apps.village.boond/com.google.android.apps.village.boond.SplashActivity"
+    "com.google.android.apps.village.boond/com.google.android.apps.village.boond.SplashActivity",
+    "com.google.android.apps.village.boond/com.google.android.apps.crowdsource.beetle.MainActivity"
   ],
   "google_cyclops": [
     "com.google.vr.cyclops/com.google.android.apps.cyclops.MainActivity",
@@ -4403,5 +4405,26 @@
   ],
   "google_podcasts": [
   "com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity"
+  ],
+  "google_recorder": [
+  "com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.LauncherActivity"
+  ],
+  "google_youtube_vr": [
+  "com.google.android.apps.youtube.vr/com.google.android.apps.youtube.vr.activities.YouTubeVrActivity"
+  ],
+  "google_phonescreen": [
+  "com.google.android.projection.gearhead.phonescreen/com.google.android.projection.gearhead.phonescreen.ShortcutActivity"
+  ],
+  "google_wearable": [
+  "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity"
+  ],
+  "google_lens": [
+  "com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+  ],
+  "google_arcore_elements": [
+  "com.google.ar.unity.ddelements/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "google_socratic": [
+  "com.google.socratic/com.google.android.apps.education.bloom.app.home.HomeActivity"
   ]
 }
