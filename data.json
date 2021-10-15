@@ -4426,5 +4426,65 @@
   ],
   "google_socratic": [
   "com.google.socratic/com.google.android.apps.education.bloom.app.home.HomeActivity"
+  ],
+  "apps_sportmaster": [
+  "ru.sportmaster.app/ru.sportmaster.app.activity.MainActivity"
+  ],
+  "apps_magnit": [
+  "ru.tander.magnit/ru.tander.magnit.presentation.MainActivity"
+  ],
+  "apps_pyaterochka": [
+  "ru.tander.magnit/pyaterochka.app.main.base.presentation.MainActivity"
+  ],
+  "apps_fixprice": [
+  "ru.bestprice.fixprice/ru.bestprice.fixprice.application.splash.ui.SplashActivity"
+  ],
+  "apps_lenta": [
+  "com.icemobile.lenta.prod/com.icemobile.lenta.ui.main.OnboardingActivity"
+  ],
+  "apps_krasnoe_beloe": [
+  "ru.napoleonit.kb/ru.napoleonit.kb.screens.root.RootActivity"
+  ],
+  "apps_dixy": [
+  "com.ru.dixy/com.dixy.MainActivity"
+  ],
+  "apps_spar": [
+  "ru.myspar/ru.myspar.presentation.screen.splash.SplashActivity"
+  ],
+  "apps_leroy_merlin": [
+  "ru.leroymerlin.mobile/ru.leroymerlin.mobile.presentation.features.app.ui.AppActivity"
+  ],
+  "apps_detmir": [
+  "ru.detmir.dmbonus/ru.detmir.dmbonus.MainActivity"
+  ],
+  "apps_sberbank_spasibo": [
+  "ru.sberbank.spasibo/ru.sberbank.spasibo.StartActivity"
+  ],
+  "apps_sber_market": [
+  "ru.instamart/com.sbermarket.LaunchActivity"
+  ],
+  "apps_m_video": [
+  "ru.filit.mvideo.b2c/ru.filit.mvideo.b2c.ui.splash.view.SplashScreen"
+  ],
+  "apps_citilink": [
+  "ru.citilink/ru.citilink.app.presentation.start.StartActivity"
+  ],
+  "apps_auchan": [
+  "ru.myauchan.droid/crc6459f82684e172cd40.StartActivity"
+  ],
+  "apps_auto_ru": [
+  "ru.auto.ara/ru.auto.ara.SplashActivity"
+  ],
+  "apps_blablacar": [
+  "com.comuto/com.comuto.proxy.ProxyActivity"
+  ],
+  "apps_metro_store": [
+  "www.metro.com/app.metro.digital.leto.metro_android.splash.presentation.SplashScreenActivity"
+  ],
+  "apps_hh": [
+  "ru.hh.android/ru.hh.android.feature.root.ApplicantRootActivity"
+  ],
+  "apps_youla": [
+  "com.allgoritm.youla/com.allgoritm.youla.AppInitActivity"
   ]
 }
