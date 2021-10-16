@@ -1739,10 +1739,6 @@
     "com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity",
     "com.google.android.tv.remote.service/com.google.android.tv.remote.service.settings.SettingsActivity"
   ],
-  "google_android_wear": [
-    "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity",
-    "com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity"
-  ],
   "google_androidify": [
     "com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify"
   ],
@@ -4416,7 +4412,8 @@
   "com.google.android.projection.gearhead.phonescreen/com.google.android.projection.gearhead.phonescreen.ShortcutActivity"
   ],
   "google_wearable": [
-  "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity"
+  "com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity",
+  "com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity"
   ],
   "google_lens": [
   "com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
@@ -4484,7 +4481,107 @@
   "apps_hh": [
   "ru.hh.android/ru.hh.android.feature.root.ApplicantRootActivity"
   ],
+  "apps_action_launcher": [
+  "com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity"
+  ],
+  "apps_adw_launcher": [
+  "org.adw.launcher/org.adw.launcher.LauncherActivity"
+  ],
+  "apps_apex_launcher": [
+  "com.anddoes.launcher/com.anddoes.launcher.Launcher",
+  "com.anddoes.gingerapex/com.anddoes.launcher.Launcher",
+  "com.anddoes.launcher.pro/com.anddoes.launcher.Launcher",
+  "com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity"
+  ],
+  "apps_blackberry_launcher": [
+  "com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity"
+  ],
+  "apps_apus_launcher": [
+  "com.apusapps.launcher/com.apusapps.launcher.app.DynamicVirtualEntryActivity"
+  ],
+  "apps_apus_launcher_pro": [
+  "com.apusapps.launcher.pro/com.eaionapps.project_xal.launcher.DynamicVirtualEntryActivity"
+  ],
+  "apps_go_launcher": [
+  "com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade",
+  "com.gau.go.launcherex.s/com.jiubang.golauncher.GOLauncherFacade"
+  ],
+  "apps_m_launcher": [
+  "com.mh.apps.m.launcher/com.mh.xiaomilauncher.activity.SplashActivity"
+  ],
+  "apps_poco_launcher": [
+  "com.mi.android.globallauncher/com.miui.home.launcher.SplashActivity"
+  ],
+  "apps_holo_launcher_hd": [
+  "com.mobint.hololauncher.hd/com.mobint.hololauncher.Launcher"
+  ],
+  "apps_holo_launcher": [
+  "com.mobint.hololauncher/com.mobint.hololauncher.Launcher"
+  ],
+  "apps_holo_launcher_plus": [
+  "com.mobint.hololauncherplus/com.mobint.hololauncherplus.MainActivity"
+  ],
+  "apps_holo_launcher_froyo": [
+  "com.mobint.hololauncher.froyo/com.mobint.hololauncher.froyo.Launcher"
+  ],
+  "apps_lucid_launcher": [
+  "com.powerpoint45.launcher/com.powerpoint45.launcherpro.MainActivity"
+  ],
+  "apps_lucid_launcher_pro": [
+  "com.powerpoint45.launcherpro/com.powerpoint45.launcherpro.MainActivity"
+  ],
+  "apps_square_home_launcher": [
+  "com.ss.squarehome2/com.ss.squarehome2.MainActivity"
+  ],
+  "apps_square_home_settings": [
+  "com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity"
+  ],
+  "apps_flick_launcher": [
+  "com.universallauncher.universallauncher/com.android.launcher3.Launcher"
+  ],
+  "apps_flick_launcher_pro": [
+  "com.universallauncher.flicklauncherpro/com.universallauncher.flicklauncherpro.MainActivity"
+  ],
+  "apps_zero_launcher": [
+  "com.Zerolauncher.themes.wallpapers.ioslauncher/com.Zerolauncher.themes.wallpapers.ioslauncher.SplashActivity"
+  ],
+  "apps_smart_launcher": [
+  "ginlemon.flowerfree/ginlemon.flower.HomeScreen"
+  ],
+  "apps_smart_launcher_pro": [
+  "ginlemon.flowerpro/ginlemon.flower.HomeScreen",
+  "ginlemon.flowerpro/ginlemon.flower.Workspace"
+  ],
+  "apps_solo_launcher": [
+  "home.solo.launcher.free/home.solo.launcher.free.SplashActivity"
+  ],
+  "apps_nougat_launcher": [
+  "me.craftsapp.nlauncher/com.android.launcher3.Launcher"
+  ],
+  "apps_posidon_launcher": [
+  "posidon.launcher/posidon.launcher.Home"
+  ],
+  "apps_hyperion_launcher": [
+  "projekt.launcher/projekt.launcher.ProjektLauncher"
+  ],
+  "apps_hyperion_launcher_supreme": [
+  "projekt.launcher.launcherkey"
+  ],
+  "apps_niagara_launcher": [
+  "bitpit.launcher/bitpit.launcher.ui.HomeActivity"
+  ],
+  "apps_lawnchair_launcher": [
+  "ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher"
+  ],
+  "apps_lawnchair_settings": [
+  "ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity"
+  ],
   "apps_youla": [
   "com.allgoritm.youla/com.allgoritm.youla.AppInitActivity"
+  ],
+  "apps_flipboard": [
+  "flipboard.app/flipboard.activities.TOCActivity",
+  "flipboard.app/flipboard.activities.LaunchActivity",
+  "flipboard.app/flipboard.activities.LaunchActivityAlias"
   ]
 }
