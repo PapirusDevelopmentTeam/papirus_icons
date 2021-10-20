@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">2021.10.14</string>
+    <string name="changelog_date">2021.10.20</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,7 +10,7 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Added 1106 icons</item>
+        <item>Added 1224 icons</item>
     </string-array>
 
 </resources>

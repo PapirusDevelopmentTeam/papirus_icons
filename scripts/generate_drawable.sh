@@ -33,17 +33,17 @@ cat > "$DRAWABLE_FILE" << EOF
     <item drawable="keyboard" />
     -->
 
-    <category title="System" />
-$(get_icons_from_category "System")
-
-    <category title="Google" />
-$(get_icons_from_category "Google")
-
     <category title="Apps" />
 $(get_icons_from_category "Apps")
 
     <category title="Games" />
 $(get_icons_from_category "Games")
+
+    <category title="System" />
+$(get_icons_from_category "System")
+
+    <category title="Google" />
+$(get_icons_from_category "Google")
 
     <category title="Yandex" />
 $(get_icons_from_category "Yandex")

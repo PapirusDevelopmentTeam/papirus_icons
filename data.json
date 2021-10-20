@@ -952,6 +952,9 @@
   "apps_magic_font": [
   "com.transsion.magicfont/com.transsion.fantasyfont.fonts.activity.OnlineViewActivity"
   ],
+  "apps_magic_font_swap": [
+  "com.transsion.magicfont/com.transsion.fantasyfont.fonts.activity.OnekeyPreviewActivity"
+  ],
   "apps_mail_ru_cloud": [
     "ru.mail.cloud/ru.mail.cloud.ui.views.MainActivity",
     "ru.mail.cloud/ru.mail.cloud.FileListActivity",
@@ -1928,7 +1931,8 @@
   "google_my_maps": [
     "com.google.android.apps.m4b/com.google.android.apps.m4b.piC.Ul",
     "com.google.android.apps.m4b/com.google.android.apps.m4b.ui.signin.SignInActivity",
-    "com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity"
+    "com.google.android.apps.m4b/com.google.android.apps.mymaps.activities.maplist.MapListActivity",
+    "com.google.android.apps.maps/com.google.android.maps.MapsActivity"
   ],
   "google_myglass": [
     "com.google.glass.companion/com.google.glass.companion.Launcher",
@@ -2409,9 +2413,6 @@
     "com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL",
     "com.sonymobile.email/com.sonymobile.email.activity.Welcome",
     "com.tct.email/com.tct.email.activity.Welcome"
-  ],
-  "system_maps": [
-    "com.google.android.apps.maps/com.google.android.maps.MapsActivity"
   ],
   "system_messages": [
     "cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity",
