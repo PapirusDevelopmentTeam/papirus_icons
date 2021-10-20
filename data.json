@@ -2127,10 +2127,6 @@
     "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity",
     "com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity"
   ],
-  "system_camera": [
-    "org.lineageos.snap/com.android.camera.CameraLauncher",
-    "com.transsion.camera/com.android.camera.CameraLauncher"
-  ],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
     "com.android.alarmclock/com.android.alarmclock.AlarmClock",
@@ -2172,7 +2168,10 @@
   ],
   "system_color": [
     "com.huaqin.personcenter/com.huaqin.personcenter.PersonCenterActivity",
-    "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+    "com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity",
+    "com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity",
+    "com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity",
+    "com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity"
   ],
   "system_compass": [
     "apps.r.compass/apps.r.compass.StartActivity",
@@ -2327,7 +2326,8 @@
     "xcxin.filexpert/xcxin.filexpert.FileLister",
     "zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity",
     "zte.com.cn.filer/zte.com.cn.filer.FilerActivity",
-    "com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity"
+    "com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity",
+    "com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity"
   ],
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
@@ -2441,11 +2441,10 @@
     "com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity",
     "com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity"
   ],
-  "system_mic": [
-    "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
-  ],
   "system_mic_2": [
-  "com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder"
+  "com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder",
+  "com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity",
+  "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
   ],
   "system_music": [
     "cn.zte.music/cn.zte.music.activity.MusicBrowserActivity",
@@ -2534,7 +2533,8 @@
     "org.mightyfrog.android.simplenotepad/org.mightyfrog.android.simplenotepad.SimpleNotepad",
     "org.whiteglow.keepmynotes/org.whiteglow.keepmynotes.activity.MainActivity",
     "zte.com.cn.cloudnotepad/zte.com.cn.cloudnotepad.ui.SplashActivity",
-    "com.transsion.notebook/com.transsion.notebook.NotesList"
+    "com.transsion.notebook/com.transsion.notebook.NotesList",
+    "com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
   ],
   "system_phone": [
     "com.android.contacts/com.android.contacts.activities.CallLogActivity",
@@ -2669,7 +2669,10 @@
     "jp.kyocera.camera/jp.kyocera.camera.activity.CameraActivity",
     "org.codeaurora.snapcam/com.android.camera.CameraActivity",
     "org.codeaurora.snapcam/com.android.camera.CameraLauncher",
-    "org.cyanogenmod.snap/com.android.camera.CameraLauncher"
+    "org.cyanogenmod.snap/com.android.camera.CameraLauncher",
+    "org.lineageos.snap/com.android.camera.CameraLauncher",
+    "com.transsion.camera/com.android.camera.CameraLauncher",
+    "com.google.android.gallery3d/com.android.camera.CameraLauncher"
   ],
   "system_preferences": [
     "com.android.hisiliconsetting/com.android.hisiliconsetting.MainActivity",
@@ -3014,7 +3017,8 @@
   "com.yandex.uslugi/ru.yandex.searchplugin.MainActivity"
   ],
   "yandex_uber": [
-  "ru.yandex.uber/ru.yandex.taxi.activity.StartActivity"
+  "ru.yandex.uber/ru.yandex.taxi.activity.StartActivity",
+  "com.ubercab/com.ubercab.presidio.app.core.root.RootActivity"
   ],
   "yandex_zapravki": [
   "ru.yandex.mobile.gasstations/ru.yandex.mobile.gasstations.view.map.main.MainActivity"
@@ -4583,5 +4587,156 @@
   "flipboard.app/flipboard.activities.TOCActivity",
   "flipboard.app/flipboard.activities.LaunchActivity",
   "flipboard.app/flipboard.activities.LaunchActivityAlias"
+  ],
+  "games_mario_kart_tour": [
+  "games_mario_kart_tour/com.google.firebase.MessagingUnityPlayerActivity"
+  ],
+  "apps_threema": [
+  "ch.threema.app/ch.threema.app.activities.MainActivity"
+  ],
+  "apps_threema_work": [
+  "ch.threema.app.work/ch.threema.app.activities.MainActivity"
+  ],
+  "apps_touch_retouch": [
+  "com.advasoft.touchretouch/com.advasoft.touchretouch4.LicenseActivity"
+  ],
+  "apps_amazon_prime_video": [
+  "com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity"
+  ],
+  "apps_amazon_photos": [
+  "com.amazon.clouddrive.photos/com.amazon.clouddrive.photos.display.LauncherActivity"
+  ],
+  "apps_amazon_music": [
+  "com.amazon.mp3/com.amazon.mp3.client.activity.LauncherActivity"
+  ],
+  "apps_amazon_drive": [
+  "com.amazon.drive/com.amazon.drive.activity.MainActivity"
+  ],
+  "apps_wish": [
+  "com.contextlogic.wish/com.contextlogic.wish.activity.browse.BrowseActivity"
+  ],
+  "apps_foxfi": [
+  "com.foxfi/com.foxfi.HotspotSettings",
+  "com.foxfi.key/com.foxfi.key.FFKeyActivity"
+  ],
+  "google_youtube_go": [
+  "com.google.android.apps.youtube.mango/com.google.android.apps.youtube.lite.frontend.activities.SplashActivity"
+  ],
+  "apps_huawei_backup": [
+  "com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity"
+  ],
+  "apps_huawei_hi_care": [
+  "com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity"
+  ],
+  "apps_imo": [
+  "com.imo.android.imoim/com.imo.android.imoim.activities.Home",
+  "com.imo.android.imoimhd/com.imo.android.imoim.activities.Home"
+  ],
+  "apps_cam_scanner": [
+  "com.intsig.camscannerhd/com.intsig.camscanner.WelcomeActivity",
+  "com.intsig.lic.camscanner/com.intsig.lic.camscanner.CamScannerLicense"
+  ],
+  "apps_beautiful_widgets": [
+  "com.levelup.beautifulwidgets.free/com.levelup.beautifulwidgets.free.activities.WelcomeActivityFree"
+  ],
+  "apps_beautiful_widgets_pro": [
+  "com.levelup.beautifulwidgets/com.levelup.beautifulwidgets.BeautifulLauncher"
+  ],
+  "apps_b612": [
+  "com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera"
+  ],
+  "apps_samsung_smart_things": [
+  "com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity"
+  ],
+  "apps_samsung_members": [
+  "com.samsung.android.voc/com.samsung.android.voc.LauncherActivity"
+  ],
+  "apps_samsung_secure_folder": [
+  "com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity"
+  ],
+  "apps_samsung_link": [
+  "com.sec.pcw/com.sec.pcw.MobileChargesNotificationActivity"
+  ],
+  "apps_hot_schedules": [
+  "com.tdr3.hs.android/com.tdr3.hs.android.ui.auth.login.withCredentials.LoginActivity"
+  ],
+  "google_camera": [
+  "com.google.android.GoogleCamera/com.android.camera.CameraLauncher",
+  "com.google.android.GoogleCameraNX1/com.android.camera.CameraLauncher",
+  "com.google.android.GoogleCameraMOD/com.android.camera.CameraLauncher",
+  "com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher",
+  "com.google.android.GoogleCamera.Urnyx/com.android.camera.CameraLauncher"
+  ],
+  "apps_truecaller": [
+  "com.truecaller/com.truecaller.ui.TruecallerInit"
+  ],
+  "apps_sleep_as_android": [
+  "com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock"
+  ],
+  "apps_wolfram_alpha": [
+  "com.wolfram.android.alpha/com.wolfram.android.alpha.activity.SplashScreenActivity"
+  ],
+  "apps_webmoney": [
+  "com.webmoney.my/com.webmoney.my.v3.screen.main.MasterActivity"
+  ],
+  "apps_home_workouts_gym_pro": [
+  "fitness.workouts.home.workoutspro/fitness.workouts.home.workoutspro.activity.SplashActivity"
+  ],
+  "apps_flipboard_briefing": [
+  "flipboard.boxer.app/flipboard.activities.LaunchActivityAliasForBriefing"
+  ],
+  "apps_line_lite": [
+  "com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity"
+  ],
+  "apps_line": [
+  "jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"
+  ],
+  "apps_camera_zoom_fx": [
+  "slide.cameraZoom/slide.cameraZoom.CheckPermissionsActivity"
+  ],
+  "apps_amazon_fire_tv": [
+  "com.amazon.storm.lightning.client.aosp/com.amazon.bison.SplashScreen",
+  "com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity"
+  ],
+  "apps_likee": [
+  "video.like/com.yy.iheima.startup.MainActivity"
+  ],
+  "apps_likee_lite": [
+  "video.like.lite/video.like.lite.ui.home.HomeActivity"
+  ],
+  "apps_poweraudio_music_player": [
+  "xsoftstudio.musicplayer/xsoftstudio.musicplayer.ActivityMain",
+  "xsoftstudio.musicplayer.pro/xsoftstudio.musicplayer.ActivityMain",
+  "power.amp.musicplayer.pi.audioplayer/xsoftstudio.musicplayer.ActivityMain"
+  ],
+  "apps_verizon_messages": [
+  "com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning"
+  ],
+  "apps_verizon_call_filter": [
+  "com.vzw.ecid/com.cequint.hs.client.frontend.WebShell"
+  ],
+  "apps_verizon_digital_secure": [
+  "com.securityandprivacy.android.verizon.vms/com.mcafee.app.LauncherDelegateActivity"
+  ],
+  "apps_news_break": [
+  "com.particlenews.newsbreak/com.hipu.yidian.ui.guide.UserGuideActivity"
+  ],
+  "apps_tiktok_downloader": [
+  "com.smartapps.videodownloaderfortiktok/com.example.videodownloader.tik.activity.SplashScreenActivity"
+  ],
+  "apps_pandora": [
+  "com.pandora.android/com.pandora.android.LauncherActivity"
+  ],
+  "apps_cash_app": [
+  "com.squareup.cash/com.squareup.cash.ui.MainActivity"
+  ],
+  "apps_samsung_pay": [
+  "com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity"
+  ],
+  "apps_walmart": [
+  "com.walmart.android/com.walmart.glass.integration.splash.SplashActivity"
+  ],
+  "apps_metro_zone": [
+  "com.metropcs.metrozone/com.mobileposse.firstapp.MainActivity"
   ]
 }

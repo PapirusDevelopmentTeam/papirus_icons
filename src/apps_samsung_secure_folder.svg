@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg16"
+   sodipodi:docname="apps_samsung_secure_folder.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter853"
+       x="-0.039600002"
+       y="-0.060923079"
+       width="1.0792"
+       height="1.1218462">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.64"
+         id="feGaussianBlur855" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1355"
+       x="-0.033987436"
+       y="-0.081672442"
+       width="1.0679749"
+       height="1.1633449">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2658292"
+         id="feGaussianBlur1357" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="82.5"
+     inkscape:cy="79.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <rect
+     style="opacity:0.2;stroke-width:4;filter:url(#filter853)"
+     width="160"
+     height="104"
+     x="16"
+     y="68"
+     rx="8"
+     ry="8"
+     id="rect2" />
+  <path
+     style="fill:#4877b1;stroke-width:4"
+     d="m 16,136 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 V 48 c 0,-4.432 -3.568,-8 -8,-8 H 96 C 84,40 80,24 68,24 H 24 c -4.432,0 -8,3.568 -8,8"
+     id="path4" />
+  <path
+     id="rect6"
+     style="opacity:0.2;stroke-width:4;filter:url(#filter1355)"
+     d="m 24,60 h 144 c 4.432,0 8,3.568 8,8 v 5.877243 l -16.51195,16.074416 c -3.17569,3.09154 -3.32222,36.168531 -7.75418,36.189411 l -93.805302,0.44184 c -4.43195,0.0209 -9.32409,-28.777186 -13.141582,-31.028714 L 16,78.575851 V 68 c 0,-4.432 3.568,-8 8,-8 z"
+     sodipodi:nodetypes="ssscsssscss" />
+  <rect
+     style="fill:#e4e4e4;stroke-width:4"
+     width="144"
+     height="64"
+     x="24"
+     y="52"
+     rx="8"
+     ry="8"
+     id="rect8" />
+  <rect
+     style="fill:#5294e2;stroke-width:4"
+     width="160"
+     height="104"
+     x="16"
+     y="64"
+     rx="8"
+     ry="8"
+     id="rect10" />
+  <path
+     id="path12"
+     style="opacity:0.1;fill:#ffffff;stroke-width:4"
+     d="M 24 24 C 19.568 24 16 27.568 16 32 L 16 33 C 16 28.568 19.568 25 24 25 L 68 25 C 80 25 84 41 96 41 L 168 41 C 172.432 41 176 44.568 176 49 L 176 48 C 176 43.568 172.432 40 168 40 L 96 40 C 84 40 80 24 68 24 L 24 24 z " />
+  <path
+     style="fill:#1d344f;stroke-width:4"
+     d="m 96,88 c -8.864,0 -16,7.284 -16,16.248 V 112 h -4 c -2.216,0 -4,1.784 -4,4 v 24 c 0,2.216 1.784,4 4,4 h 40 c 2.216,0 4,-1.784 4,-4 v -24 c 0,-2.216 -1.784,-4 -4,-4 h -4 v -7.752 C 112,95.288 104.864,88 96,88 Z m 0,8 c 4.432,0 8,3.564 8,8 v 8 H 88 v -8 c 0,-4.436 3.568,-8 8,-8 z"
+     id="path14" />
+</svg>
