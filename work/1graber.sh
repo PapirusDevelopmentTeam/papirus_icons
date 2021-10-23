@@ -21,7 +21,6 @@ androguard arsc $PACKAGE.apk --id $(grep -m 1 -oP '(?<=android:icon="@)[a-zA-Z0-
 # set copy icon to this directory
 sed -i "s/.*\=\ '/cp\ '$PACKAGE\//g" icon.sh
 # fix
-mkdir icons
 sed -i "s/png'/png'\ 'icons\/$PACKAGE\.png'/g" icon.sh
 sed -i "s/webp'/webp'\ 'icons\/$PACKAGE\.webp'/g" icon.sh
 chmod +x icon.sh
