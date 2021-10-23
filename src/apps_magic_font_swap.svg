@@ -52,6 +52,19 @@
          stdDeviation="1.828125"
          id="feGaussianBlur6955" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter836"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur838" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -81,7 +94,7 @@
        id="grid820" />
   </sodipodi:namedview>
   <circle
-     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:10.5763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:10.5763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter836)"
      id="path8542"
      cx="96"
      cy="100"

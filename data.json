@@ -4739,5 +4739,11 @@
   ],
   "apps_metro_zone": [
   "com.metropcs.metrozone/com.mobileposse.firstapp.MainActivity"
+  ],
+  "apps_num": [
+  "ru.yourok.num/ru.yourok.num.activity.collections.CollectionsActivity"
+  ],
+  "apps_lampa": [
+  "ru.twicker.lampa/ru.twicker.lampa.ui.MainActivity"
   ]
 }
