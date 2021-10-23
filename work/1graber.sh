@@ -27,13 +27,13 @@ chmod +x icon.sh
 # copy icon
 ./icon.sh
 # get package label from apk
-aapt dump badging $PACKAGE.apk | grep -oP "(?<=application-label:')[^*]+" | awk '{print tolower($0)}' | sed "s/'$//" | sed "s/\ /_/g" | sed "s/-/_/g" >> output.txt
+aapt dump badging $PACKAGE.apk | grep -oP "(?<=application-label:')[^*]+" | awk '{print tolower($0)}' | sed "s/'$//" | sed "s/\ /_/g" | sed "s/-/_/g" >> result.txt
 # get package name from apk
-aapt dump badging $PACKAGE.apk | sed -n "/package/ s/.*name=.\([a-zA-Z0-9.]\+\)..*/\1/p" >> output.txt
+aapt dump badging $PACKAGE.apk | sed -n "/package/ s/.*name=.\([a-zA-Z0-9.]\+\)..*/\1/p" >> result.txt
 # get launch activity from apk
-aapt dump badging $PACKAGE.apk | sed -n "/launchable-activity/ s/.*name=.\([a-zA-Z0-9.]\+\)..*/\1/p" >> output.txt
+aapt dump badging $PACKAGE.apk | sed -n "/launchable-activity/ s/.*name=.\([a-zA-Z0-9.]\+\)..*/\1/p" >> result.txt
 # add separator
-echo "*********" >> output.txt
+echo "*********" >> result.txt
 # clean
 rm -rf $PACKAGE
 rm $PACKAGE.apk
