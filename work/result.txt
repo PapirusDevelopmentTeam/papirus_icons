@@ -1,4 +1,0 @@
-application_name
-package_name
-launchable_activity
-*********
