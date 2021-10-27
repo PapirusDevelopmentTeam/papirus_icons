@@ -4783,7 +4783,7 @@
   "apps_bluemail": [
   "me.bluemail.mail/com.trtf.blue.activity.Accounts"
   ],
-  "apps_camera_connect_&_control": [
+  "apps_camera_connect_and_control": [
   "com.rupiapps.cameraconnectcast/com.rupiapps.cameraconnectcast.ConnectActivity",
   "jp.co.canon.ic.cameraconnect/jp.co.canon.ic.cameraconnect.top.CCTopActivity"
   ],
