@@ -9,6 +9,7 @@
 for entry in $(cat list.txt)
 do
 export PACKAGE="$entry"
+mkdir -p icons
 # download package from Google Play
 gplaydl download --packageId $PACKAGE
 # set package name on scraper for download icon from Google Play

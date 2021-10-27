@@ -14,3 +14,7 @@ local.properties
 app/src/main/res/xml/drawable.xml
 app/src/main/res/xml/appfilter.xml
 app/src/main/res/drawable-nodpi/
+
+# Working files
+work/icons/
+work/*.txt
