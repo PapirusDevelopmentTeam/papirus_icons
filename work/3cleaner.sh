@@ -12,7 +12,6 @@ case "$item" in
         ;;
 esac
 rm -rf icons/*.png
-rm -rf icons/*.webp
 rm list.txt result.txt failed.txt
 touch list.txt
 echo "application_name" >> result.txt
