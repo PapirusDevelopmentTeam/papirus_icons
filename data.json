@@ -1015,7 +1015,11 @@
     "com.miui.notes/com.miui.notes.ui.NotesListActivity"
   ],
   "apps_miui_scanner": [
-    "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
+    "com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity",
+    "com.indymobileapp.document.scanner/com.indymobile.app.activity.MainActivity",
+    "com.coolmobilesolution.fastscannerfree/com.coolmobilesolution.activity.common.SplashActivity",
+    "com.appxy.tinyscanner/com.appxy.tinyscanfree.Activity",
+    "com.piksoft.turboscan.free/com.piksoft.turboscan.ui.LauncherActivity"
   ],
   "apps_miui_screen_recorder": [
     "com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
@@ -2942,7 +2946,8 @@
     "com.tct.weather/com.tct.weather.MainActivity",
     "net.oneplus.weather/net.oneplus.weather.app.MainActivity",
     "com.miui.weather2/com.miui.weather2.ActivityWeatherMain",
-    "com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity"
+    "com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity",
+    "com.devexpert.weather/com.devexpert.weather.view.MainActivity"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
@@ -4998,5 +5003,168 @@
   ],
   "google_sky_map": [
   "com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity"
+  ],
+  "apps_ampere": [
+  "com.gombosdev.ampere/com.gombosdev.ampere.MainActivity"
+  ],
+  "apps_any_do": [
+  "com.anydo/com.anydo.activity.SplashActivity"
+  ],
+  "apps_artflow": [
+  "com.bytestorm.artflow/com.bytestorm.artflow.Editor"
+  ],
+  "apps_atmosphere": [
+  "com.peakpocketstudios.atmosphere/com.peakpocketstudios.atmosphere50.splashscreen.SplashScreenActivity"
+  ],
+  "apps_audiobooks_com": [
+  "com.audiobooks.androidapp/com.audiobooks.androidapp.activities.SplashActivity"
+  ],
+  "apps_babycenter": [
+  "com.babycenter.pregnancytracker/com.babycenter.pregnancytracker.app.InitialDispatcherActivity"
+  ],
+  "apps_band": [
+  "com.nhn.android.band/com.nhn.android.band.SplashActivity"
+  ],
+  "apps_battery_monitor": [
+  "com.fsinib.batterymonitor/com.fsinib.batterymonitor.activity.ParentTab"
+  ],
+  "apps_battery_widget_reborn": [
+  "net.hubalek.android.reborn.beta/net.hubalek.android.apps.reborn.beta.activities.MainActivityBeta"
+  ],
+  "apps_brainly": [
+  "co.brainly/com.brainly.StartActivity"
+  ],
+  "apps_call_blocker": [
+  "com.cuiet.blockCalls/com.cuiet.blockCalls.SplashScreen"
+  ],
+  "apps_callapp_contacts": [
+  "com.callapp.contacts/com.callapp.contacts.activity.contact.list.ContactsListActivity"
+  ],
+  "apps_chronus": [
+  "com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain"
+  ],
+  "apps_coursera": [
+  "org.coursera.android/org.coursera.android.MainActivity"
+  ],
+  "apps_databot": [
+  "com.testa.databot/com.testa.databot.SplashScreen"
+  ],
+  "apps_dotpict": [
+  "net.dotpicko.dotpict/net.dotpicko.dotpict.RoutingActivity"
+  ],
+  "apps_drink_water_reminder": [
+  "hydration.watertracker.waterreminder.drinkwaterreminder/hydration.watertracker.waterreminder.drinkwaterreminder.SplashActivity"
+  ],
+  "apps_drupe": [
+  "mobi.drupe.app/mobi.drupe.app.boarding.BoardingMActivity",
+  "mobi.drupe.app/mobi.drupe.app.DialerIconActivity"
+  ],
+  "apps_extreme_assistant": [
+  "com.multiverse.jarvis/com.multiverse.jarvis.main"
+  ],
+  "apps_gsam_battery_monitor": [
+  "com.gsamlabs.bbm/com.gsamlabs.bbm.lib.activities.MainActivity"
+  ],
+  "apps_guilded": [
+  "com.gg.guilded/com.guilded.guildedapp.MainActivity"
+  ],
+  "apps_hydro": [
+  "com.freshware.hydro/com.freshware.hydro.Hydro"
+  ],
+  "apps_ibispaint_x": [
+  "jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity"
+  ],
+  "apps_kobo_books": [
+  "com.kobobooks.android/com.kobobooks.android.screens.AppLoading"
+  ],
+  "apps_learning": [
+  "com.linkedin.android.learning/com.linkedin.android.learning.launchscreen.LaunchScreenActivity"
+  ],
+  "apps_life360": [
+  "com.life360.android.safetymapd/com.life360.koko.root.RootActivity"
+  ],
+  "apps_life_reminders": [
+  "com.payneservices.LifeReminders/com.payneservices.LifeReminders.UI.SplashActivity"
+  ],
+  "apps_merriam_webster_dictionary": [
+  "com.merriamwebster/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity"
+  ],
+  "apps_microsoft_translator": [
+  "com.microsoft.translator/com.microsoft.translator.activity.SplashActivity"
+  ],
+  "apps_molotov": [
+  "tv.molotov.app/tv.molotov.android.splash.SplashActivity"
+  ],
+  "apps_month": [
+  "com.candl.chronos/com.candl.chronos.MainActivity"
+  ],
+  "apps_overdrive": [
+  "com.overdrive.mobile.android.mediaconsole/com.overdrive.mobile.android.mediaconsole.Activity"
+  ],
+  "apps_photomath": [
+  "com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity"
+  ],
+  "apps_pregnancy_plus": [
+  "com.hp.pregnancy.lite/com.hp.pregnancy.lite.onboarding.SplashScreenActivity"
+  ],
+  "apps_quizoid": [
+  "de.habanero.quizoid/de.habanero.quizoid.MainActivity"
+  ],
+  "apps_reminders": [
+  "com.bzzzapp/com.bzzzapp.ux.MainActivity"
+  ],
+  "apps_smart_audiobook_player": [
+  "ak.alizandro.smartaudiobookplayer/ak.alizandro.smartaudiobookplayer.PlayerActivity"
+  ],
+  "apps_sololearn": [
+  "com.sololearn/com.sololearn.app.ui.launcher.LauncherActivity"
+  ],
+  "apps_speech_texter": [
+  "com.speechtexter.speechtexter/com.speechtexter.speechtexter.MainActivity"
+  ],
+  "apps_speechnotes": [
+  "co.speechnotes.speechnotes/co.speechnotes.speechnotes.MainActivity"
+  ],
+  "apps_sprout": [
+  "com.mas.apps.pregnancy/com.mas.apps.pregnancy.LaunchActivity"
+  ],
+  "apps_stop_call_me": [
+  "com.mglab.scm/com.mglab.scm.MainActivity"
+  ],
+  "apps_swiftscan": [
+  "net.doo.snap/io.scanbot.app.ui.main.SplashActivity"
+  ],
+  "apps_tasks": [
+  "com.tasks.android/com.tasks.android.activities.MainActivity"
+  ],
+  "apps_ted": [
+  "com.ted.android/com.ted.android.view.splash.SplashActivity"
+  ],
+  "apps_time_until": [
+  "com.brunoschalch.timeuntil/com.brunoschalch.timeuntil.Timer"
+  ],
+  "apps_to_do_list": [
+  "com.splendapps.splendo/com.splendapps.splendo.MainActivity"
+  ],
+  "apps_uccw": [
+  "in.vineetsirohi.customwidget/in.vineetsirohi.customwidget.Main2Activity"
+  ],
+  "apps_water_time": [
+  "com.mobilecreatures.drinkwater/com.mobilecreatures.drinkwater._logic.Activity.MainTabActivity"
+  ],
+  "apps_what_to_expect": [
+  "com.wte.view/com.whattoexpect.ui.StartupActivity"
+  ],
+  "apps_white_noise_generator": [
+  "net.relaxio.relaxio/net.relaxio.relaxio.SplashActivity"
+  ],
+  "apps_white_noise_lite": [
+  "com.tmsoft.whitenoise.lite/com.tmsoft.whitenoise.lite.MainSplashActivity"
+  ],
+  "apps_yowindow": [
+  "yo.app.free/yo.activity.MainActivity"
+  ],
+  "games_gamejolt": [
+  "com.gamejolt.app/com.gamejolt.app.MainActivity"
   ]
 }

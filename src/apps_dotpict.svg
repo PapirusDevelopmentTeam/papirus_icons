@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg28"
+   sodipodi:docname="apps_dotpict.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6495"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur6497" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11363"
+       x="-0.033218542"
+       y="-0.086482755"
+       width="1.0664371"
+       height="1.1729655">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.09"
+         id="feGaussianBlur11365" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="158.5"
+     inkscape:cy="41.5"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid841" />
+  </sodipodi:namedview>
+  <rect
+     id="rect6457"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="12"
+     rx="12"
+     y="-176"
+     x="-180"
+     height="160"
+     width="160"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;filter:url(#filter6495)" />
+  <rect
+     id="rect2"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="12"
+     rx="12"
+     y="-176"
+     x="-176"
+     height="160"
+     width="160"
+     style="fill:#fe92a1;fill-opacity:1;stroke-width:4" />
+  <path
+     id="path11325"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:77.4597;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter11363)"
+     d="m 28,18 v 4 h -4 v 4 h -4 v 30 h 4 v 4 h 4 v 4 h 22 v 4 h 4 v 4 h 4 v 4 h 4 V 64 h 25 v -4 h 9 v -4 h 29 v 4 h 9 v 4 h 29 v -4 h 4 v -4 h 4 V 26 h -4 v -4 h -4 V 18 H 32 Z" />
+  <path
+     id="path3106"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:77.4597;stroke-linecap:round;stroke-linejoin:round"
+     d="M 28 16 L 28 20 L 24 20 L 24 24 L 20 24 L 20 54 L 24 54 L 24 58 L 28 58 L 28 62 L 50 62 L 50 66 L 54 66 L 54 70 L 58 70 L 58 74 L 62 74 L 62 62 L 87 62 L 87 58 L 96 58 L 96 54 L 125 54 L 125 58 L 134 58 L 134 62 L 163 62 L 163 58 L 167 58 L 167 54 L 171 54 L 171 24 L 167 24 L 167 20 L 163 20 L 163 16 L 32 16 L 28 16 z " />
+  <path
+     id="rect1037"
+     style="opacity:1;fill:#5e4f5f;stroke-width:17.9463;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 147 29 L 147 33 L 147 37 L 151 37 L 151 33 L 151 29 L 147 29 z M 41 33 L 41 37 L 41 41 L 41 45 L 45 45 L 49 45 L 53 45 L 53 41 L 53 37 L 53 33 L 49 33 L 45 33 L 41 33 z M 58 33 L 58 37 L 58 41 L 58 45 L 62 45 L 66 45 L 70 45 L 70 41 L 70 37 L 70 33 L 66 33 L 62 33 L 58 33 z M 75 33 L 75 37 L 79 37 L 79 41 L 79 45 L 83 45 L 83 41 L 83 37 L 87 37 L 87 33 L 83 33 L 79 33 L 75 33 z M 92 33 L 92 37 L 92 41 L 92 45 L 96 45 L 100 45 L 104 45 L 104 41 L 104 37 L 104 33 L 100 33 L 96 33 L 92 33 z M 109 33 L 109 37 L 109 41 L 109 45 L 113 45 L 113 41 L 113 37 L 113 33 L 109 33 z M 117 33 L 117 37 L 117 41 L 117 45 L 121 45 L 125 45 L 125 41 L 121 41 L 121 37 L 125 37 L 125 33 L 121 33 L 117 33 z M 130 33 L 130 37 L 134 37 L 134 41 L 134 45 L 138 45 L 138 41 L 138 37 L 142 37 L 142 33 L 138 33 L 134 33 L 130 33 z M 45 37 L 49 37 L 49 41 L 45 41 L 45 37 z M 62 37 L 66 37 L 66 41 L 62 41 L 62 37 z M 96 37 L 100 37 L 100 41 L 96 41 L 96 37 z M 96 54 L 96 58 L 125 58 L 125 54 L 96 54 z M 125 58 L 125 62 L 134 62 L 134 58 L 125 58 z M 134 62 L 134 66 L 138 66 L 138 62 L 134 62 z M 138 66 L 138 70 L 142 70 L 142 66 L 138 66 z M 142 70 L 142 79 L 146 79 L 146 70 L 142 70 z M 146 79 L 146 88 L 150 88 L 150 79 L 146 79 z M 150 88 L 150 113 L 154 113 L 154 88 L 150 88 z M 150 113 L 146 113 L 146 117 L 150 117 L 150 113 z M 150 117 L 150 125 L 154 125 L 154 117 L 150 117 z M 150 125 L 142 125 L 142 121 L 138 121 L 138 125 L 134 125 L 134 129 L 138 129 L 138 133 L 142 133 L 142 141 L 146 141 L 146 145 L 146 158 L 150 158 L 150 149 L 154 149 L 154 162 L 158 162 L 158 146 L 154 146 L 154 137 L 150 137 L 150 133 L 146 133 L 146 129 L 150 129 L 150 125 z M 154 162 L 150 162 L 150 166 L 154 166 L 154 162 z M 150 166 L 142 166 L 142 162 L 138 162 L 138 166 L 130 166 L 130 170 L 150 170 L 150 166 z M 142 162 L 146 162 L 146 158 L 142 158 L 142 162 z M 134 125 L 134 121 L 130 121 L 130 125 L 134 125 z M 130 125 L 113 125 L 113 129 L 109 129 L 109 125 L 83 125 L 83 121 L 79 121 L 79 130 L 71 130 L 71 134 L 75 134 L 75 138 L 71 138 L 71 142 L 67 142 L 67 151 L 63 151 L 63 163 L 67 163 L 67 167 L 71 167 L 71 171 L 75 171 L 79 171 L 79 167 L 75 167 L 75 150 L 75 146 L 79 146 L 79 138 L 83 138 L 83 133 L 87 133 L 87 129 L 101 129 L 101 133 L 105 133 L 105 137 L 109 137 L 113 137 L 113 133 L 117 133 L 117 129 L 121 129 L 121 133 L 125 133 L 125 129 L 130 129 L 130 125 z M 125 133 L 125 137 L 129 137 L 129 133 L 125 133 z M 129 137 L 129 141 L 133 141 L 133 137 L 129 137 z M 133 141 L 133 145 L 137 145 L 137 141 L 133 141 z M 137 145 L 137 149 L 137 153 L 141 153 L 141 149 L 141 145 L 137 145 z M 137 153 L 129 153 L 129 157 L 137 157 L 137 153 z M 129 153 L 129 149 L 129 145 L 125 145 L 125 149 L 125 153 L 129 153 z M 125 153 L 121 153 L 121 157 L 125 157 L 125 153 z M 121 157 L 105 157 L 105 153 L 100 153 L 96 153 L 92 153 L 92 157 L 88 157 L 88 161 L 92 161 L 92 165 L 88 165 L 88 169 L 96 169 L 96 165 L 99 165 L 99 161 L 109 161 L 109 168 L 113 168 L 113 172 L 109 172 L 109 176 L 113 176 L 117 176 L 117 161 L 121 161 L 121 157 z M 109 172 L 109 168 L 105 168 L 105 172 L 109 172 z M 88 165 L 88 161 L 84 161 L 84 165 L 88 165 z M 92 153 L 92 149 L 88 149 L 88 153 L 92 153 z M 88 149 L 88 145 L 88 141 L 84 141 L 84 145 L 84 149 L 88 149 z M 88 141 L 92 141 L 96 141 L 96 137 L 92 137 L 88 137 L 88 141 z M 96 137 L 101 137 L 101 133 L 96 133 L 96 137 z M 125 145 L 125 141 L 121 141 L 121 145 L 125 145 z M 71 130 L 71 122 L 67 122 L 67 130 L 71 130 z M 71 122 L 75 122 L 75 113 L 71 113 L 71 122 z M 71 113 L 71 88 L 67 88 L 67 113 L 71 113 z M 71 88 L 75 88 L 75 79 L 71 79 L 71 88 z M 75 79 L 79 79 L 79 70 L 75 70 L 75 79 z M 79 70 L 83 70 L 83 66 L 79 66 L 79 70 z M 83 66 L 87 66 L 87 62 L 83 62 L 83 66 z M 87 62 L 96 62 L 96 58 L 87 58 L 87 62 z M 83 96 L 83 100 L 83 104 L 88 104 L 88 108 L 92 108 L 96 108 L 96 104 L 96 100 L 92 100 L 92 96 L 88 96 L 83 96 z M 113 96 L 113 100 L 113 104 L 117 104 L 117 108 L 121 108 L 125 108 L 125 104 L 125 100 L 121 100 L 121 96 L 117 96 L 113 96 z " />
+  <path
+     id="rect7345"
+     style="opacity:1;fill:#fbded1;fill-opacity:1;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
+     d="M 92 71 L 92 75 L 96 75 L 100 75 L 100 71 L 96 71 L 92 71 z M 92 75 L 88 75 L 79 75 L 79 79 L 88 79 L 92 79 L 92 75 z M 79 79 L 75 79 L 75 83 L 79 83 L 79 79 z M 105 71 L 105 75 L 109 75 L 109 71 L 105 71 z M 92 83 L 92 92 L 88 92 L 88 96 L 92 96 L 92 100 L 96 100 L 96 83 L 92 83 z M 96 100 L 96 104 L 96 108 L 96 112 L 96 117 L 92 117 L 88 117 L 88 112 L 83 112 L 83 121 L 83 125 L 105 125 L 105 121 L 101 121 L 101 117 L 113 117 L 113 121 L 113 125 L 121 125 L 121 121 L 125 121 L 125 117 L 121 117 L 117 117 L 117 113 L 113 113 L 113 104 L 113 92 L 109 92 L 109 104 L 100 104 L 100 100 L 96 100 z M 134 100 L 134 113 L 138 113 L 138 109 L 142 109 L 142 100 L 134 100 z M 125 141 L 125 145 L 129 145 L 129 149 L 133 149 L 133 153 L 137 153 L 137 149 L 137 145 L 133 145 L 133 141 L 129 141 L 125 141 z " />
+  <path
+     id="rect6416"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4"
+     d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z" />
+  <path
+     id="rect8234"
+     style="opacity:1;fill:#6090c1;fill-opacity:1;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
+     d="M 142 117 L 142 125 L 150 125 L 150 117 L 142 117 z M 83 121 L 83 125 L 87 125 L 87 121 L 83 121 z M 134 121 L 134 125 L 138 125 L 138 121 L 134 121 z M 71 122 L 71 130 L 79 130 L 79 125 L 75 125 L 75 122 L 71 122 z " />
+  <path
+     id="path7101"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:16;stroke-linecap:round;stroke-linejoin:round"
+     d="M 83 104 L 83 108 L 83 112 L 88 112 L 88 108 L 88 104 L 83 104 z M 113 104 L 113 113 L 117 113 L 117 104 L 113 104 z M 92 112 L 92 117 L 96 117 L 96 112 L 92 112 z M 121 112 L 121 117 L 125 117 L 125 112 L 121 112 z M 109 137 L 109 145 L 105 145 L 105 157 L 110 157 L 113 157 L 113 161 L 117 161 L 117 157 L 121 157 L 121 153 L 125 153 L 125 145 L 121 145 L 121 141 L 117 141 L 117 137 L 109 137 z M 96 145 L 96 149 L 101 149 L 101 145 L 96 145 z M 96 149 L 92 149 L 92 153 L 96 153 L 96 149 z " />
+  <path
+     id="rect1437"
+     style="opacity:1;fill:#e85c79;stroke-width:17.9463;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 49 29 L 49 33 L 53 33 L 53 29 L 49 29 z M 79 29 L 79 33 L 83 33 L 83 29 L 79 29 z M 109 29 L 109 33 L 113 33 L 113 29 L 109 29 z M 134 29 L 134 33 L 138 33 L 138 29 L 134 29 z M 147 41 L 147 45 L 151 45 L 151 41 L 147 41 z M 92 45 L 92 49 L 96 49 L 96 45 L 92 45 z M 138 70 L 138 74 L 142 74 L 142 70 L 138 70 z M 92 79 L 92 83 L 96 83 L 96 79 L 92 79 z M 130 79 L 130 83 L 134 83 L 134 79 L 130 79 z M 134 83 L 134 87 L 134 91 L 134 100 L 142 100 L 142 109 L 138 109 L 138 113 L 134 113 L 134 121 L 138 121 L 142 121 L 142 117 L 146 117 L 146 113 L 150 113 L 150 88 L 146 88 L 146 87 L 146 83 L 146 79 L 142 79 L 142 83 L 142 87 L 142 91 L 138 91 L 138 87 L 138 83 L 134 83 z M 109 88 L 109 92 L 113 92 L 113 88 L 109 88 z M 75 104 L 75 125 L 79 125 L 79 121 L 83 121 L 83 108 L 79 108 L 79 104 L 75 104 z M 88 108 L 88 112 L 88 117 L 92 117 L 92 112 L 96 112 L 96 108 L 92 108 L 88 108 z M 117 108 L 117 112 L 117 117 L 121 117 L 121 112 L 125 112 L 125 108 L 121 108 L 117 108 z M 121 121 L 121 125 L 125 125 L 125 121 L 121 121 z M 105 141 L 105 145 L 109 145 L 109 141 L 105 141 z M 105 145 L 101 145 L 101 149 L 96 149 L 96 153 L 105 153 L 105 149 L 105 145 z M 150 149 L 150 158 L 154 158 L 154 149 L 150 149 z M 150 158 L 146 158 L 146 162 L 150 162 L 150 158 z M 88 161 L 88 165 L 92 165 L 92 161 L 88 161 z M 109 168 L 109 172 L 113 172 L 113 168 L 109 168 z " />
+  <rect
+     style="opacity:1;fill:#865c90;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+     id="rect8370"
+     width="4"
+     height="4"
+     x="109"
+     y="125" />
+  <rect
+     style="opacity:1;fill:#865c90;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+     id="rect8390"
+     width="4"
+     height="4"
+     x="101"
+     y="141" />
+  <rect
+     style="opacity:1;fill:#865c90;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+     id="rect8392"
+     width="4"
+     height="4"
+     x="105"
+     y="137" />
+  <path
+     id="rect8728"
+     style="opacity:1;fill:#b2d8df;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+     d="M 101 133 L 101 141 L 105 141 L 105 133 L 101 133 z M 101 141 L 96 141 L 96 145 L 101 145 L 101 141 z M 96 145 L 92 145 L 92 149 L 96 149 L 96 145 z M 113 133 L 113 137 L 117 137 L 117 133 L 113 133 z M 117 137 L 117 141 L 121 141 L 121 137 L 117 137 z " />
+</svg>
