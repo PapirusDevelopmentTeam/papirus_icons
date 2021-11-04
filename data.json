@@ -5166,5 +5166,42 @@
   ],
   "games_gamejolt": [
   "com.gamejolt.app/com.gamejolt.app.MainActivity"
+  ],
+  "apps_beatfind": [
+  "com.beat.light/com.beat.light.activities.MainActivity"
+  ],
+  "apps_headspace": [
+  "com.getsomeheadspace.android/com.getsomeheadspace.android.splash.SplashActivity"
+  ],
+  "apps_home_workout": [
+  "homeworkout.homeworkouts.noequipment/homeworkout.homeworkouts.noequipment.SplashActivity"
+  ],
+  "apps_inkhunter": [
+  "tattoo.inkhunter/tattoo.inkhunter.ui.activity.main.MainActivity"
+  ],
+  "apps_lifesum": [
+  "com.sillens.shapeupclub/com.lifesum.android.main.MainActivity"
+  ],
+  "apps_medibang_paint": [
+  "com.medibang.android.paint.tablet/com.medibang.android.paint.tablet.ui.activity.LauncherActivity"
+  ],
+  "apps_nasa": [
+  "gov.nasa/gov.nasa.MainActivity"
+  ],
+  "apps_paperdraw": [
+  "com.eyewind.paperone/com.kong.paper.Main"
+  ],
+  "apps_sketchbook": [
+  "com.adsk.sketchbook/com.adsk.sketchbook.SketchBook"
+  ],
+  "apps_soundhound": [
+  "com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SoundHound",
+  "com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity",
+  "com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SoundHound",
+  "com.melodis.midomiMusicIdentifier/com.melodis.midomiMusicIdentifier.view.SoundHound",
+  "com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity"
+  ],
+  "apps_star_chart": [
+  "com.escapistgames.starchart/causallink.assets.DeepLinkBridge"
   ]
 }
