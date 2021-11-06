@@ -1975,7 +1975,8 @@
     "com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity"
   ],
   "google_play_music": [
-    "com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+    "com.google.android.music/com.android.music.activitymanagement.TopLevelActivity",
+    "com.google.android.music/com.google.android.music.tombstone.LauncherActivity"
   ],
   "google_play_press": [
     "com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
@@ -5203,5 +5204,65 @@
   ],
   "apps_star_chart": [
   "com.escapistgames.starchart/causallink.assets.DeepLinkBridge"
+  ],
+  "apps_andropen_office": [
+  "com.andropenoffice/aoo.android.TopActivity"
+  ],
+  "apps_dingtone": [
+  "me.dingtone.app.im/me.dingtone.app.im.activity.SplashActivity"
+  ],
+  "apps_docs_to_go": [
+  "com.dataviz.docstogo/com.dataviz.dxtg.common.launcher.android.LauncherActivity"
+  ],
+  "apps_homify": [
+  "com.online.homify/com.online.homify.views.activities.SplashActivity"
+  ],
+  "apps_houzz": [
+  "com.houzz.app/com.houzz.app.SplashScreenActivity"
+  ],
+  "apps_iherb": [
+  "com.iherb/com.iherb.mobile.content.splash.view.SplashActivity"
+  ],
+  "apps_jotterpad": [
+  "com.jotterpad.x/com.jotterpad.x.MainActivity"
+  ],
+  "apps_kitchen_3d": [
+  "com.kitchensketches/com.kitchensketches.activities.SplashActivity"
+  ],
+  "apps_magicplan": [
+  "com.sensopia.magicplan/com.sensopia.magicplan.ui.splash.activities.SplashActivity"
+  ],
+  "apps_mytherapy": [
+  "eu.smartpatient.mytherapy/eu.smartpatient.mytherapy.onboarding.WelcomeActivity"
+  ],
+  "apps_nhl": [
+  "com.nhl.gc1112.free/com.nhl.gc1112.free.appstart.splash.SplashActivity"
+  ],
+  "apps_officesuite": [
+  "com.mobisystems.office/com.mobisystems.office.splashScreen.SplashScreenActivity"
+  ],
+  "apps_planner_5d": [
+  "com.planner5d.planner5d/com.planner5d.library.activity.Main"
+  ],
+  "apps_polaris_office": [
+  "com.infraware.office.link/com.infraware.service.ActLauncher"
+  ],
+  "apps_room_planner": [
+  "com.icandesignapp.all/com.google.firebase.MessagingUnityPlayerActivity"
+  ],
+  "apps_smartoffice": [
+  "com.picsel.tgv.app.smartoffice/com.artifex.sonui.SplashActivity"
+  ],
+  "apps_the_athletic": [
+  "com.theathletic/com.theathletic.activity.SplashActivity"
+  ],
+  "apps_wps_office": [
+  "cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity"
+  ],
+  "apps_wps_office_lite": [
+  "cn.wps.moffice_i18n/cn.wps.moffice.documentmanager.PreStartActivity"
+  ],
+  "apps_writer_plus": [
+  "co.easy4u.writer/co.easy4u.writer.ui.DirListActivity"
   ]
 }

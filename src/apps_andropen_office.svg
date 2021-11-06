@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg28"
+   sodipodi:docname="apps_andropen_office.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1827"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur1829" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="25.5"
+     inkscape:cy="69"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid841" />
+  </sodipodi:namedview>
+  <path
+     id="circle1761"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.9005;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1827)"
+     d="M 55,20 A 39,39 0 0 0 16,59 39,39 0 0 0 55,98 39,39 0 0 0 94,59 39,39 0 0 0 55,20 Z m 82,0 A 39,39 0 0 0 98,59 39,39 0 0 0 137,98 39,39 0 0 0 176,59 39,39 0 0 0 137,20 Z m 0,82 a 39,39 0 0 0 -39,39 39,39 0 0 0 39,39 39,39 0 0 0 39,-39 39,39 0 0 0 -39,-39 z" />
+  <circle
+     style="opacity:1;fill:#2195f1;stroke:none;stroke-width:13.9005;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1177"
+     cx="55"
+     cy="55"
+     r="39" />
+  <circle
+     style="opacity:1;fill:#4bae4f;stroke:none;stroke-width:13.9005;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="circle1261"
+     cx="-137"
+     cy="55"
+     r="39"
+     transform="scale(-1,1)" />
+  <circle
+     style="opacity:1;fill:#fd5622;stroke:none;stroke-width:13.9005;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="circle1271"
+     cx="-137"
+     cy="-137"
+     r="39"
+     transform="scale(-1)" />
+  <path
+     id="path1804"
+     style="opacity:0.2;fill:#ffffff;stroke:none;stroke-width:13.9005;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 55 16 A 39 39 0 0 0 16 55 A 39 39 0 0 0 16.048828 55.5 A 39 39 0 0 1 55 17 A 39 39 0 0 1 93.974609 55.265625 A 39 39 0 0 0 94 55 A 39 39 0 0 0 55 16 z M 137 16 A 39 39 0 0 0 98 55 A 39 39 0 0 0 98.048828 55.5 A 39 39 0 0 1 137 17 A 39 39 0 0 1 175.97461 55.265625 A 39 39 0 0 0 176 55 A 39 39 0 0 0 137 16 z M 137 98 A 39 39 0 0 0 98 137 A 39 39 0 0 0 98.048828 137.5 A 39 39 0 0 1 137 99 A 39 39 0 0 1 175.97461 137.26562 A 39 39 0 0 0 176 137 A 39 39 0 0 0 137 98 z " />
+</svg>
