@@ -5264,5 +5264,80 @@
   ],
   "apps_writer_plus": [
   "co.easy4u.writer/co.easy4u.writer.ui.DirListActivity"
+  ],
+  "apps_alive": [
+  "com.alivestory.android.alive/com.alivestory.android.alive.ui.activity.SplashScreenActivity"
+  ],
+  "apps_bittorrent": [
+  "com.bittorrent.client/com.bittorrent.app.Main"
+  ],
+  "apps_cake_browser": [
+  "com.cake.browser/com.cake.browser.Original"
+  ],
+  "apps_classdojo": [
+  "com.classdojo.android/com.classdojo.android.core.splash.ClassDojoActivity"
+  ],
+  "apps_edmodo": [
+  "com.fusionprojects.edmodo/com.edmodo.app.page.launch.SplashActivity"
+  ],
+  "apps_edx": [
+  "org.edx.mobile/org.edx.mobile.view.SplashActivity"
+  ],
+  "apps_filmorago": [
+  "com.wondershare.filmorago/com.filmorago.phone.ui.SplashActivity"
+  ],
+  "apps_flud": [
+  "com.delphicoder.flud/com.delphicoder.flud.MainActivity"
+  ],
+  "apps_funimate": [
+  "com.avcrbt.funimate/com.avcrbt.funimate.feature.social.onboarding.StartActivity"
+  ],
+  "apps_gopro_quik": [
+  "com.gopro.smarty/com.gopro.smarty.activity.HomeActivity"
+  ],
+  "apps_hi_q_mp3_rec": [
+  "com.hiqrecorder.free/yuku.perekammp3.RekamActivity"
+  ],
+  "apps_incognito_browser": [
+  "com.androidbull.incognito.browser/com.androidbull.incognito.browser.MainActivity"
+  ],
+  "apps_inshot": [
+  "com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity"
+  ],
+  "apps_kinemaster": [
+  "com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity"
+  ],
+  "apps_open_camera": [
+  "net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity"
+  ],
+  "apps_qksms": [
+  "com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity"
+  ],
+  "apps_remind": [
+  "com.remind101/com.remind101.splash.SplashActivity"
+  ],
+  "apps_sofascore": [
+  "com.sofascore.results/com.sofascore.results.main.StartActivity"
+  ],
+  "apps_thescore": [
+  "com.fivemobile.thescore/com.fivemobile.thescore.ui.MainActivity"
+  ],
+  "apps_transdrone": [
+  "org.transdroid.lite/org.transdroid.core.gui.TorrentsActivity"
+  ],
+  "apps_utorrent": [
+  "com.utorrent.client/com.bittorrent.app.Main"
+  ],
+  "apps_vivavideo": [
+  "com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity"
+  ],
+  "apps_wallet": [
+  "com.droid4you.application.wallet/com.droid4you.application.wallet.SplashScreenActivity"
+  ],
+  "apps_yahoo_fantasy": [
+  "com.yahoo.mobile.client.android.fantasyfootball/com.yahoo.mobile.client.android.fantasyfootball.ui.FantasyHomeActivity"
+  ],
+  "apps_yahoo_finance": [
+  "com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity"
   ]
 }
