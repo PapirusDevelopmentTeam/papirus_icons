@@ -5390,5 +5390,44 @@
   ],
   "apps_tiny_fax": [
   "com.appxy.tinyfax/com.example.faxtest.Activity_Start"
+  ],
+  "apps_ad_director": [
+  "com.cyberlink.addirector/com.cyberlink.videoaddesigner.activity.SplashActivity"
+  ],
+  "apps_esurance": [
+  "com.esurance.app/com.esurance.app.SplashScreen"
+  ],
+  "apps_fidelity_investments": [
+  "com.fidelity.android/com.fidelity.android.activity.AppConfigLoaderActivity"
+  ],
+  "apps_fl_studio_mobile": [
+  "com.imageline.FLM/com.imageline.FLM.FLMActivity"
+  ],
+  "apps_fooducate": [
+  "com.fooducate.nutritionapp/com.fooducate.android.lib.nutritionapp.ui.activity.splash.SplashActivity"
+  ],
+  "apps_geico": [
+  "com.geico.mobile/com.geico.mobile.android.ace.geicoapppresentation.splash.mvvm.view.AceSplashActivity"
+  ],
+  "apps_healow": [
+  "com.ecw.healow/com.ecw.healow.MainActivity"
+  ],
+  "apps_hound": [
+  "com.hound.android.app/com.hound.android.appcommon.activity.ActivityLauncher"
+  ],
+  "apps_lowes": [
+  "com.lowes.android/com.lowes.android.controller.util.OnboardingActivity"
+  ],
+  "apps_pregnancy_and_baby_tracker": [
+  "com.gravid.gravid/com.example.gravidkalender.MainActivity"
+  ],
+  "apps_runkeeper": [
+  "com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.SplashActivity"
+  ],
+  "apps_textplus": [
+  "com.gogii.textplus/com.gogii.textplus.view.startup.InitActivity",
+  "com.gogii.textplusgold/com.gogii.textplusgold.view.startup.InitActivity",
+  "com.gogii.textplus/com.gogii.textplus.view.BaseActivity$Root",
+  "com.gogii.textplus/com.nextplus.android.activity.SplashScreenActivity"
   ]
 }
