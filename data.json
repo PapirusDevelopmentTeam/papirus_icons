@@ -5339,5 +5339,56 @@
   ],
   "apps_yahoo_finance": [
   "com.yahoo.mobile.client.android.finance/com.yahoo.mobile.client.android.finance.main.MainActivity"
+  ],
+  "apps_acorns": [
+  "com.acorns.android/com.acorns.android.splash.SplashActivity"
+  ],
+  "apps_adobe_illustrator_draw": [
+  "com.adobe.creativeapps.draw/com.adobe.creativeapps.draw.activity.SplashActivity"
+  ],
+  "apps_adobe_premiere_rush": [
+  "com.adobe.premiererush.videoeditor/com.adobe.rush.splashscreen.controllers.SplashScreenActivity"
+  ],
+  "apps_allstate": [
+  "com.allstate.view/com.allstate.accountmanagementlibrary.SplashActivity"
+  ],
+  "apps_autolist": [
+  "com.autolist.autolist/com.autolist.autolist.activities.SrpActivity"
+  ],
+  "apps_autotrader": [
+  "com.autotrader.android/com.autotrader.android.MainActivity"
+  ],
+  "apps_carfax": [
+  "com.carfax.consumer/com.carfax.consumer.NewSearchActivity"
+  ],
+  "apps_carmax": [
+  "com.carmax.carmax/com.carmax.carmax.SplashActivity"
+  ],
+  "apps_carmudi": [
+  "com.carmudi.android/com.carmudi.android.ui.activity.SplashActivity"
+  ],
+  "apps_cars_com": [
+  "com.cars.android/com.cars.android.MainActivity"
+  ],
+  "apps_carvana": [
+  "com.carvana.carvana/com.carvana.carvana.features.splash.SplashActivity"
+  ],
+  "apps_credit_karma": [
+  "com.creditkarma.mobile/com.creditkarma.mobile.welcome.ui.WelcomeActivity"
+  ],
+  "apps_cricket_line_guru": [
+  "com.app.cricketapp/com.app.cricketapp.ui.activities.splash.SplashActivity"
+  ],
+  "apps_easy_fax": [
+  "com.coolmobilesolution.easyfax/com.coolmobilesolution.easyfax.MainActivity"
+  ],
+  "apps_quicklyric": [
+  "com.geecko.QuickLyric/com.geecko.QuickLyric.MainActivity"
+  ],
+  "apps_scribd": [
+  "com.scribd.app.reader0/com.scribd.app.ui.SplashScreen"
+  ],
+  "apps_tiny_fax": [
+  "com.appxy.tinyfax/com.example.faxtest.Activity_Start"
   ]
 }
