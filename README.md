@@ -20,7 +20,7 @@ Flick, Holo, Lawnchair, Lucid, Nova, Posidon, Smart, HiOS and others...
 - 8 Cloud Wallpapers
 
 # Install
-You can [download icon pack](https://www.pling.com/p/1662847/) directly from the Android browser or download to PC and send to phone via KDE Connect/Send Anywhere/Android File Transfer.
+You can [download icon pack](https://www.pling.com/p/1662847/) directly from the Android browser or download on PC and send to phone via KDE Connect/Send Anywhere/Android File Transfer.
 Application have "Check Update" button for features updates.
 
 # Priority icon requests:
