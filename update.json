@@ -1,0 +1,10 @@
+{
+  "latestVersion": "20211020",
+  "latestVersionCode": 1,
+  "url": "http://example.com/app.apk",
+  "releaseNotes": [
+    "This is the text which will be shown on update changelog",
+    "Another release note",
+    "You can use <b>text</b> <i>formatting</i> <u>here</u>"
+  ]
+}

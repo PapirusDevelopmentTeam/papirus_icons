@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="apps_microsoft_rdc.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2081"
+       x="-0.043200002"
+       y="-0.054000002"
+       width="1.0864"
+       height="1.108">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.88"
+         id="feGaussianBlur2083" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2085"
+       x="-0.056"
+       y="-0.042"
+       width="1.112"
+       height="1.084">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.24"
+         id="feGaussianBlur2087" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2089"
+       x="-0.0384375"
+       y="-1.5375"
+       width="1.076875"
+       height="4.075">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.5625"
+         id="feGaussianBlur2091" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2093"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.75"
+         id="feGaussianBlur2095" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.88"
+     inkscape:cx="24.202128"
+     inkscape:cy="23.404255"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <rect
+     style="opacity:0.2;stroke-width:4;filter:url(#filter2085)"
+     width="96"
+     height="128"
+     x="48"
+     y="44"
+     rx="8"
+     ry="8"
+     id="rect2" />
+  <rect
+     style="fill:#8e8e8e;stroke-width:4"
+     width="96"
+     height="128"
+     x="48"
+     y="40"
+     rx="8"
+     ry="8"
+     id="rect4" />
+  <rect
+     style="opacity:0.2;stroke-width:4;filter:url(#filter2081)"
+     width="160"
+     height="128"
+     x="16"
+     y="28"
+     rx="8"
+     ry="8"
+     id="rect6" />
+  <path
+     style="fill:#3f3f3f;stroke-width:4"
+     d="m 16,136 v 8 c 0,4.432 3.568,8 8,8 h 144 c 4.432,0 8,-3.568 8,-8 v -8 z"
+     id="path8" />
+  <rect
+     style="opacity:0.2;stroke-width:4;filter:url(#filter2089)"
+     width="160"
+     height="4"
+     x="16"
+     y="136"
+     id="rect14" />
+  <path
+     style="fill:#0085e5;stroke-width:4"
+     d="m 24,24 c -4.432,0 -8,3.568 -8,8 V 136 H 176 V 32 c 0,-4.432 -3.568,-8 -8,-8 z"
+     id="path10" />
+  <path
+     id="path12"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="M 24 24 C 19.568 24 16 27.568 16 32 L 16 33 C 16 28.568 19.568 25 24 25 L 168 25 C 172.432 25 176 28.568 176 33 L 176 32 C 176 27.568 172.432 24 168 24 L 24 24 z " />
+  <circle
+     style="opacity:0.2;stroke-width:4;filter:url(#filter2093)"
+     cx="144"
+     cy="141"
+     r="44"
+     id="circle16" />
+  <circle
+     style="fill:#f15a38;fill-opacity:1;stroke-width:4"
+     cx="144"
+     cy="137"
+     r="44"
+     id="circle18" />
+  <path
+     style="fill:#ffffff;stroke-width:4"
+     d="M 123.25901,124.99999 116,131.99967 129.48198,144.99999 116,158.00031 l 7.25901,6.99968 20.74099,-20 z"
+     id="path20" />
+  <path
+     style="fill:#ffffff;stroke-width:4"
+     d="M 160.74099,104.99999 168,111.99967 154.51802,124.99999 168,138.00031 l -7.25901,6.99968 -20.74099,-20 z"
+     id="path22" />
+</svg>

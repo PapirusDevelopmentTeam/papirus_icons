@@ -6,6 +6,9 @@
 
     <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
     <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <!-- If you are not using license checker, you need to remove CHECK_LICENSE permission -->
     <uses-permission android:name="com.android.vending.CHECK_LICENSE" />

@@ -26,7 +26,22 @@ public class CandyBar extends CandyBarApplication {
     public Configuration onInit() {
         // Sample configuration
         Configuration configuration = new Configuration();
-
+        
+        DonationLink[] donationLinks = new DonationLink[] {
+        new DonationLink(
+                // You can use png file (without extension) inside drawable-nodpi folder or url
+                "apps_paypal",
+                "PayPal",
+                "Donate me on PayPal",
+                "https://www.paypal.me/varlesh"),
+        new DonationLink(
+                // You can use png file (without extension) inside drawable-nodpi folder or url
+                "apps_yoomoney",
+                "YooMoney",
+                "Donate me on YooMoney",
+                "https://yoomoney.ru/to/410013316426627")
+                };
+        configuration.setDonationLinks(donationLinks);
         configuration.setGenerateAppFilter(true);
         configuration.setGenerateAppMap(true);
         configuration.setGenerateThemeResources(true);

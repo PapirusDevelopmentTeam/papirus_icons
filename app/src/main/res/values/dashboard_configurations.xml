@@ -92,7 +92,7 @@
 
     <!-- Enable "Check for update" button.
         It needs the option "config_json" to be configured in order to work -->
-    <bool name="enable_check_update">false</bool>
+    <bool name="enable_check_update">true</bool>
 
     <!-- More apps at Google Play Store
         Link to Google Play Store developer page.
@@ -205,8 +205,8 @@
     <!-- Email to use when sending icon requests.
         Regular request email address will be used to send bug reports.
         You can leave "premium_request_email" empty to use the regular request's email to send premium icon requests. -->
-    <string name="regular_request_email">varlesh@gmail.com</string>
-    <string name="premium_request_email">varlesh@gmail.com</string>
+    <string name="regular_request_email">varlesh@yandex.ru</string>
+    <string name="premium_request_email">varlesh@yandex.ru</string>
 
     <!-- Icon request email subjects. Leave empty to use default Subject. -->
     <string name="regular_request_email_subject"></string>
@@ -317,7 +317,7 @@
     -->
     <!-- Enable/disable donation
         Show support development option in the home page. -->
-    <bool name="enable_donation">false</bool>
+    <bool name="enable_donation">true</bool>
 
     <!-- Take a look inside License.java for donation product -->
 
@@ -331,7 +331,7 @@
     <!-- Link to CandyBar config JSON
         You can use this to control your dashboard remotely.
         Learn more at https://github.com/zixpo/candybar-sample/wiki/Setting-up-the-config-json -->
-    <string name="config_json"></string>
+    <string name="config_json">https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/master/update.json</string>
 
     <!-- Show intro guides on first run -->
     <bool name="show_intro">true</bool>

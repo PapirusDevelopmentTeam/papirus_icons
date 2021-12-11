@@ -5429,5 +5429,65 @@
   "com.gogii.textplusgold/com.gogii.textplusgold.view.startup.InitActivity",
   "com.gogii.textplus/com.gogii.textplus.view.BaseActivity$Root",
   "com.gogii.textplus/com.nextplus.android.activity.SplashScreenActivity"
+  ],
+  "apps_befree": [
+  "com.ddgcorp.befree/com.ddgcorp.befree.MainActivity"
+  ],
+  "apps_ile_de_beaute": [
+  "com.iledebeaute.mobileapp/com.ltst.app.ui.screen.start.StartActivity"
+  ],
+  "apps_kwgt": [
+  "org.kustom.widget/org.kustom.widget.picker.WidgetPicker"
+  ],
+  "apps_microsoft_rdc": [
+  "com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity"
+  ],
+  "apps_mysugr": [
+  "com.mysugr.android.companion/com.mysugr.logbook.product.LogbookProductActivity"
+  ],
+  "apps_ovia_fertility": [
+  "com.ovuline.fertility/com.ovuline.fertility.ui.activities.SplashActivity"
+  ],
+  "apps_ovia_pregnancy": [
+  "com.ovuline.pregnancy/com.ovuline.pregnancy.ui.activity.SplashActivity"
+  ],
+  "apps_pbs_kids_video": [
+  "org.pbskids.video/org.pbskids.video.activities.SplashActivity"
+  ],
+  "apps_plantix": [
+  "com.peat.GartenBank/com.rob.plantix.base.activities.LaunchActivity"
+  ],
+  "apps_progressive": [
+  "com.phonevalley.progressive/com.phonevalley.progressive.common.activities.SplashActivity"
+  ],
+  "apps_robin": [
+  "com.magnifis.parking/com.magnifis.parking.Launchable"
+  ],
+  "apps_robinhood": [
+  "com.robinhood.android/com.robinhood.android.activity.WelcomeActivity"
+  ],
+  "apps_robokiller": [
+  "com.robokiller.app/com.robokiller.app.main.MainActivity"
+  ],
+  "apps_statefarm": [
+  "com.statefarm.pocketagent/com.statefarm.pocketagent.ui.login.activity.SplashScreenActivity"
+  ],
+  "apps_talkatone": [
+  "com.talkatone.android/com.talkatone.vedroid.Loading"
+  ],
+  "apps_td_ameritrade": [
+  "com.tdameritrade.mobile3/com.tdameritrade.mobile3.activities.HomeActivity"
+  ],
+  "apps_the_bump": [
+  "com.xogrp.thebump/com.xogrp.thebump.mobile.module.main.view.activity.WelcomeActivity"
+  ],
+  "apps_tmobile": [
+  "com.tmobile.services.nameid/com.tmobile.services.nameid.startup.IdentifyingNumbersActivity"
+  ],
+  "apps_truecar": [
+  "com.truecar.mobile.android.consumer/com.truecar.mobile.android.consumer.MainActivity"
+  ],
+  "apps_wavemarket": [
+  "com.wavemarket.finder.mobile/com.locationlabs.finder.android.core.SignInActivity"
   ]
 }

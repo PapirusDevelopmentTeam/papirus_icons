@@ -20,7 +20,7 @@ android {
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
-        versionName "2021.10.20"
+        versionName "20211020"
         multiDexEnabled true
 
         // Naming app bundles
@@ -57,7 +57,7 @@ dependencies {
      * If you've missed some versions you've to also follow update guide for those versions
      */
 
-    implementation 'com.github.zixpo:candybar:3.13.0'
+    implementation 'com.github.zixpo:candybar:3.13.3'
 
     // TODO: Remove `//` below to enable OneSignal
     //implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
