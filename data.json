@@ -214,7 +214,8 @@
     "de.szalkowski.activitylauncher/de.szalkowski.activitylauncher.MainActivity"
   ],
   "apps_adaway": [
-    "org.adaway/org.adaway.ui.MainActivity"
+    "org.adaway/org.adaway.ui.MainActivity",
+    "org.adaway/org.adaway.ui.home.HomeActivity"
   ],
   "apps_adblock": [
     "com.betafish.adblocksbrowser/com.betafish.sbrowser.contentblocker.MainPreferences"
@@ -996,7 +997,8 @@
     "com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
   ],
   "apps_miui_games": [
-    "com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
+    "com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity",
+    "com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity"
   ],
   "apps_miui_market": [
     "com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
@@ -1429,7 +1431,8 @@
     "com.skype.m2/com.skype.m2.views.HubActivity"
   ],
   "apps_slack": [
-    "com.Slack/com.Slack.ui.HomeActivity"
+    "com.Slack/com.Slack.ui.HomeActivity",
+    "com.Slack/slack.app.ui.HomeActivity"
   ],
   "apps_smart_eq": [
     "com.smartandroidapps.equalizer/com.smartandroidapps.equalizer.activities.MainActivity",
@@ -2134,7 +2137,8 @@
     "com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity",
     "com.tct.calendar/com.tct.calendar.AllInOneActivity",
     "com.yulong.android.calendar/com.yulong.android.calendar.ui.base.LaunchActivity",
-    "com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity"
+    "com.xiaomi.calendar/com.android.calendar.homepage.AllInOneActivity",
+    "org.lineageos.etar/com.android.calendar.AllInOneActivity"
   ],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
@@ -2240,7 +2244,8 @@
     "com.tct.contacts/com.tct.contacts.activities.PeopleActivity",
     "com.yulong.android.contacts/com.yulong.android.contacts.ui.main.ContactMainActivity",
     "com.yulong.coolmessage/com.yulong.android.contacts.ui.main.ContactMainActivity",
-    "com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity"
+    "com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity",
+    "com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
   ],
   "system_downloads": [
     "com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList",
@@ -2336,7 +2341,8 @@
     "zte.com.cn.filer/zte.com.cn.filer.FileMgrActivity",
     "zte.com.cn.filer/zte.com.cn.filer.FilerActivity",
     "com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity",
-    "com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity"
+    "com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity",
+    "com.google.android.documentsui/com.android.documentsui.LauncherActivity"
   ],
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
@@ -2388,7 +2394,8 @@
     "org.mokee.venus/com.android.gallery3d.app.GalleryActivity",
     "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
     "com.miui.gallery/com.miui.gallery.app.Gallery",
-    "com.gallery20/com.gallery20.activities.GalleryActivity"
+    "com.gallery20/com.gallery20.activities.GalleryActivity",
+    "com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"
   ],
   "system_gesture_builder": [
     "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
@@ -2603,7 +2610,9 @@
     "com.yulong.android.contacts/com.yulong.android.contacts.dial.DialActivity",
     "com.yulong.coolmessage/com.yulong.android.contacts.dial.DialActivity",
     "com.zui.contacts/com.android.newcontact.vl.activity.DialpadShutcut",
-    "com.sh.smart.caller/com.android.dialer.main.impl.MainActivity"
+    "com.sh.smart.caller/com.android.dialer.main.impl.MainActivity",
+    "com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity",
+    "com.android.dialer/com.android.dialer.main.impl.MainActivity"
   ],
   "system_photocam": [
     "com.acer.camera/com.acer.camera.CameraActivity",
@@ -2678,7 +2687,8 @@
     "org.cyanogenmod.snap/com.android.camera.CameraLauncher",
     "org.lineageos.snap/com.android.camera.CameraLauncher",
     "com.transsion.camera/com.android.camera.CameraLauncher",
-    "com.google.android.gallery3d/com.android.camera.CameraLauncher"
+    "com.google.android.gallery3d/com.android.camera.CameraLauncher",
+    "com.motorola.camera2/com.motorola.camera.Camera"
   ],
   "system_preferences": [
     "com.android.hisiliconsetting/com.android.hisiliconsetting.MainActivity",
@@ -5489,5 +5499,233 @@
   ],
   "apps_wavemarket": [
   "com.wavemarket.finder.mobile/com.locationlabs.finder.android.core.SignInActivity"
+  ],
+  "apps_apteka_ru": [
+  "ru.apteka/ru.apteka.screen.splash.presentation.view.SplashScreen"
+  ],
+  "apps_cdek": [
+  "com.logistic.sdek/com.logistic.sdek.v2.modules.splash.ui.SplashV2Activity"
+  ],
+  "apps_ikea": [
+  "com.ingka.ikea.app/com.ingka.ikea.app.splash.SplashActivity"
+  ],
+  "apps_kdv": [
+  "com.magonline.app/com.magdv.general.presentation.main.MainActivity"
+  ],
+  "apps_lamoda": [
+  "com.lamoda.lite/com.lamoda.lite.Launcher"
+  ],
+  "apps_oneplus_clone_phone": [
+  "com.oneplus.backuprestore/com.oplus.phoneclone.PhoneCloneMainActivity"
+  ],
+  "apps_oneplus_community": [
+  "net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity"
+  ],
+  "apps_oneplus_diagnostic": [
+  "com.oneplus.healthcheck/com.oneplus.healthcheck.MainActivity"
+  ],
+  "apps_oneplus_store": [
+  "com.oneplus.store/com.oneplus.mall.view.SplashActivity"
+  ],
+  "apps_pfrf": [
+  "com.pfrf.mobile/com.pfrf.mobile.ui.splash.SplashActivity"
+  ],
+  "apps_posylka_net": [
+  "net.posylka.posylka/net.posylka.posylka.ui.screens.initial.SplashActivity"
+  ],
+  "apps_russian_post": [
+  "com.octopod.russianpost.client.android/com.octopod.russianpost.client.android.ui.splash.SplashActivity"
+  ],
+  "apps_vseinstrumenti": [
+  "com.notissimus.allinstruments.android/ru.handh.vseinstrumenti.ui.splash.SplashActivity"
+  ],
+  "apps_vsemayki": [
+  "com.vsemayki.app/com.vsemayki.app.activities.MainActivity"
+  ],
+  "google_tv": [
+  "com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint"
+  ],
+  "apps_here_ar": [
+  "com.here.unity.arprojection/com.apkupdater.activity.MainActivity"
+  ],
+  "apps_boxberry": [
+  "ru.boxberry.mobile/ru.handh.android.boxberry.ui.activity.MainActivity"
+  ],
+  "apps_chipdip": [
+  "ru.chipdip.mobile/ru.chipdip.mobile.activities.MainActivity"
+  ],
+  "apps_dellin": [
+  "ru.dellin.cabinet/ru.dellin.cabinet.ui.activity.DrawerActivity"
+  ],
+  "apps_dochki_sinochki": [
+  "ru.dochkisinochki.android/ru.dochkisinochki.android.ui.main.MainActivity"
+  ],
+  "apps_dpd": [
+  "ru.dpd.recipient/ru.dpd.features.launch.AppActivity"
+  ],
+  "apps_fns": [
+  "ru.fns.lkfl/ru.fns.lkfl.MainActivity"
+  ],
+  "apps_packageradar": [
+  "ru.gdeposylka.delta/ru.gdeposylka.delta.ui.tracklist.TracklistActivity"
+  ],
+  "games_bloons_td_6": [
+  "com.ninjakiwi.bloonstd6/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_bromite": [
+  "org.bromite.bromite/com.google.android.apps.chrome.Main"
+  ],
+  "apps_smt_contacts": [
+  "com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Green"
+  ],
+  "games_i_love_hue": [
+  "com.zutgames.ilovehue/com.ansca.corona.CoronaActivity"
+  ],
+  "apps_iceraven": [
+  "io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App"
+  ],
+  "apps_intercept_x": [
+  "com.sophos.smsec/com.sophos.smsec.ui.DroidGuardMainActivity"
+  ],
+  "apps_iptv": [
+  "ru.iptvremote.android.iptv/ru.iptvremote.android.iptv.ChannelsActivity"
+  ],
+  "apps_nba": [
+  "com.nbaimd.gametime.nba2011/com.neulion.nba.base.LaunchDispatcherActivity"
+  ],
+  "games_sonicforces": [
+  "com.sega.sprint/com.sega.gamelib.ActivityGame"
+  ],
+  "apps_spurs": [
+  "uk.co.spurs.official/com.concertlive.core.activity.splashScreen.SplashScreenActivity"
+  ],
+  "apps_totalplay": [
+  "com.TotalPlay.totalplay/mx.com.totalplay.core2.home.Core2SplashActivity"
+  ],
+  "apps_wwe": [
+  "com.wwe.universe/axis.android.sdk.app.startup.ui.StartupActivity"
+  ],
+  "apps_k_9_posta": [
+  "com.fsck.k9/com.fsck.k9.activity.MessageList"
+  ],
+  "apps_nekogram_x": [
+  "nekox.messenger/org.telegram.ui.LaunchActivity"
+  ],
+  "apps_wickr_me": [
+  "com.mywickr.wickr2/com.wickr.enterprise.dashboard.DashboardActivity"
+  ],
+  "apps_goldendict": [
+  "mobi.goldendict.android/mobi.goldendict.android.GoldenDict"
+  ],
+  "apps_here_wego": [
+  "com.here.app.maps/com.here.app.wego.MainActivity"
+  ],
+  "apps_notify_for_mi_band": [
+  "com.mc.miband1/com.mc.miband1.ui.MainActivity"
+  ],
+  "apps_telegram_x": [
+  "org.thunderdog.challegram/org.thunderdog.challegram.MainActivity"
+  ],
+  "apps_wireguard": [
+  "com.wireguard.android/com.wireguard.android.activity.MainActivity"
+  ],
+  "apps_ajustes_de_microg": [
+  "com.google.android.gms/org.microg.gms.ui.SettingsActivity"
+  ],
+  "apps_alarmio": [
+  "me.jfenn.alarmio/me.jfenn.alarmio.activities.MainActivity"
+  ],
+  "apps_audiofx": [
+  "org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic"
+  ],
+  "apps_aurora_droid": [
+  "com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity"
+  ],
+  "apps_aurora_services": [
+  "com.aurora.services/com.aurora.services.view.ui.activities.AuroraActivity"
+  ],
+  "apps_aurora_store": [
+  "com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity"
+  ],
+  "apps_binary_eye": [
+  "de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity"
+  ],
+  "apps_cabify": [
+  "com.cabify.rider/com.cabify.rider.presentation.splash.SplashActivity"
+  ],
+  "apps_collabora_office": [
+  "com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity"
+  ],
+  "apps_davx_5": [
+  "at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity"
+  ],
+  "apps_fairemail": [
+  "eu.faircode.email/eu.faircode.email.ActivityMain"
+  ],
+  "apps_fennec": [
+  "org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App"
+  ],
+  "apps_fleksy": [
+  "com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.SplashActivity"
+  ],
+  "apps_greentooth": [
+  "com.smilla.greentooth/com.smilla.greentooth.MainActivity"
+  ],
+  "apps_mercado_libre": [
+  "com.mercadolibre/com.mercadolibre.activities.SplashActivity"
+  ],
+  "apps_mix": [
+  "com.mixplorer.silver/com.mixplorer.activities.BrowseActivity"
+  ],
+  "apps_mondaycom": [
+  "com.monday.monday/com.dapulse.dapulse.refactor.starter.context.StarterActivity"
+  ],
+  "apps_omega_launcher": [
+  "com.saggitt.omega.dev/com.saggitt.omega.OmegaLauncher"
+  ],
+  "apps_organic_maps": [
+  "app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity"
+  ],
+  "apps_orgzly": [
+  "com.orgzly/com.orgzly.android.ui.LauncherActivity"
+  ],
+  "apps_password_store": [
+  "dev.msfjarvis.aps/com.zeapo.pwdstore.LaunchActivity"
+  ],
+  "apps_pdf_viewer_plus": [
+  "com.gsnathan.pdfviewer/com.gsnathan.pdfviewer.LauncherAlias"
+  ],
+  "apps_perfect_viewer": [
+  "com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup"
+  ],
+  "apps_psono": [
+  "com.psono.psono/com.psono.psono.MainActivity"
+  ],
+  "apps_reportador_vlc": [
+  "org.videolan.vlc/org.videolan.vlc.gui.SendCrashActivity"
+  ],
+  "apps_sticker_maker": [
+  "com.marsvard.stickermakerforwhatsapp/com.marsvard.stickermakerforwhatsapp.main.MainActivity"
+  ],
+  "apps_styx_browser": [
+  "com.jamal2367.styx/com.jamal2367.styx.MainActivity"
+  ],
+  "apps_termbot": [
+  "org.sufficientlysecure.termbot/org.connectbot.HostListActivity"
+  ],
+  "apps_twidere": [
+  "org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity"
+  ],
+  "apps_vanced_manager": [
+  "com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity"
+  ],
+  "games_angry_birds_friends": [
+  "com.rovio.angrybirdsfriends/com.amazon.securebrowser.SecureBrowserActivity"
+  ],
+  "games_star_wars_heroes": [
+  "com.ea.game.starwarscapital_row/com.ea.games.capitalgames.CapitalGamesActivity"
+  ],
+  "games_rayman_adventures": [
+  "com.ubisoft.raymanadventures/com.ubisoft.uaf.SplashActivity"
   ]
 }

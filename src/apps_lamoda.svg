@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="apps_lamoda.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter845"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur847" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2412"
+       x="-0.070937101"
+       y="-0.07955658"
+       width="1.1418742"
+       height="1.1591132">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6518859"
+         id="feGaussianBlur2414" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="68.5"
+     inkscape:cy="105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1737" />
+  </sodipodi:namedview>
+  <rect
+     x="16"
+     y="20"
+     width="160"
+     height="160"
+     rx="16"
+     ry="16"
+     style="opacity:0.2;stroke-width:4;filter:url(#filter845)"
+     id="rect2" />
+  <rect
+     x="16"
+     y="16"
+     width="160"
+     height="160"
+     rx="16"
+     ry="16"
+     style="fill:#ff541f;stroke-width:4;fill-opacity:1"
+     id="rect4" />
+  <path
+     id="path10"
+     style="opacity:0.2;fill:#ffffff;stroke-width:4"
+     d="M 32 16 C 23.136 16 16 23.136 16 32 L 16 33 C 16 24.136 23.136 17 32 17 L 160 17 C 168.864 17 176 24.136 176 33 L 176 32 C 176 23.136 168.864 16 160 16 L 32 16 z " />
+  <path
+     id="path2374"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.01521;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter2412)"
+     d="M 59.761719,54 51,124.19922 65.238281,126 74,55.800781 Z M 106.5,78 A 25.5,27.5 0 0 0 81,105.5 25.5,27.5 0 0 0 106.5,133 25.5,27.5 0 0 0 120.46289,128.49219 L 120,132.19922 134.23828,134 l 6.48242,-51.943359 -14.26367,-1.59961 -0.85351,6.835938 A 25.5,27.5 0 0 0 106.5,78 Z m 1.35547,13.001953 c 4.79065,0.01528 8.04089,0.651025 10.99414,2.150391 1.83568,0.931963 3.66361,2.74795 4.29492,4.267578 1.96642,4.733348 0.36637,15.230768 -3,19.677738 -0.39816,0.52597 -1.56294,1.36665 -2.61328,1.88672 -1.7636,0.87321 -2.12854,0.94365 -5.27539,1.00781 -1.85949,0.0379 -4.15519,-0.0531 -5.10156,-0.20117 -6.33497,-0.9912 -9.771395,-2.89681 -11.236331,-6.23243 -2.124178,-4.83671 -0.357473,-15.804211 3.203125,-19.882809 0.475954,-0.545195 1.687186,-1.373429 2.691406,-1.839843 1.75484,-0.815028 1.98924,-0.846907 6.04297,-0.833985 z" />
+  <path
+     id="rect1748"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.01521;stroke-linecap:round;stroke-linejoin:round"
+     d="M 59.761719 52 L 51 122.19922 L 65.238281 124 L 74 53.800781 L 59.761719 52 z M 106.5 76 A 25.5 27.5 0 0 0 81 103.5 A 25.5 27.5 0 0 0 106.5 131 A 25.5 27.5 0 0 0 120.46289 126.49219 L 120 130.19922 L 134.23828 132 L 140.7207 80.056641 L 126.45703 78.457031 L 125.60352 85.292969 A 25.5 27.5 0 0 0 106.5 76 z M 107.85547 89.001953 C 112.64612 89.017233 115.89636 89.652978 118.84961 91.152344 C 120.68529 92.084307 122.51322 93.900294 123.14453 95.419922 C 125.11095 100.15327 123.5109 110.65069 120.14453 115.09766 C 119.74637 115.62363 118.58159 116.46431 117.53125 116.98438 C 115.76765 117.85759 115.40271 117.92803 112.25586 117.99219 C 110.39637 118.03009 108.10067 117.93911 107.1543 117.79102 C 100.81933 116.79982 97.382905 114.89421 95.917969 111.55859 C 93.793791 106.72188 95.560496 95.754379 99.121094 91.675781 C 99.597048 91.130586 100.80828 90.302352 101.8125 89.835938 C 103.56734 89.02091 103.80174 88.989031 107.85547 89.001953 z " />
+</svg>
