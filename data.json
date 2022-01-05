@@ -1131,7 +1131,8 @@
     "com.notecryptpro/com.notecrypt.ui.SelectDatabaseActivity"
   ],
   "apps_nova_launcher": [
-    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler"
+    "com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler",
+    "com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity"
   ],
   "apps_nova_launcher_settings": [
     "com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity"
@@ -1467,7 +1468,8 @@
     "ru.sputnik.browser/ru.sputnik.browser.app.MainActivity"
   ],
   "apps_stellio_player": [
-    "io.stellio.player/io.stellio.player.MainActivity"
+    "io.stellio.player/io.stellio.player.MainActivity",
+    "io.stellio.music/air.stellio.player.MainActivity"
   ],
   "apps_strava": [
     "com.strava/com.strava.SplashActivity"
@@ -1697,7 +1699,8 @@
     "com.google.android.apps.accessibility.auditor/com.google.android.apps.accessibility.auditor.ui.MainActivity"
   ],
   "google_adm": [
-    "com.google.android.apps.adm/com.google.android.apps.adm.MainActivity"
+    "com.google.android.apps.adm/com.google.android.apps.adm.MainActivity",
+    "com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity"
   ],
   "google_admin": [
     "com.google.android.apps.enterprise.cpanel/com.google.android.apps.enterprise.cpanel.activities.EntryPointActivity"
@@ -2110,7 +2113,8 @@
     "com.zui.calculator/com.zui.calculator.Calculator",
     "my.android.calc/my.android.calc.MainActivity",
     "org.mmin.handycalc/org.mmin.handycalc.HandyCalc",
-    "com.transsion.calculator/com.transsion.calculator.Calculator"
+    "com.transsion.calculator/com.transsion.calculator.Calculator",
+    "com.coloros.calculator/com.android.calculator2.Calculator"
   ],
   "system_calendar": [
     "cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity",
@@ -2342,7 +2346,8 @@
     "zte.com.cn.filer/zte.com.cn.filer.FilerActivity",
     "com.transsion.filemanagerx/com.transsion.filemanagerx.MainFilemanagerActivity",
     "com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity",
-    "com.google.android.documentsui/com.android.documentsui.LauncherActivity"
+    "com.google.android.documentsui/com.android.documentsui.LauncherActivity",
+    "com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity"
   ],
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
@@ -2395,7 +2400,8 @@
     "com.miui.gallery/com.miui.gallery.activity.HomePageActivity",
     "com.miui.gallery/com.miui.gallery.app.Gallery",
     "com.gallery20/com.gallery20.activities.GalleryActivity",
-    "com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity"
+    "com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity",
+    "com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity"
   ],
   "system_gesture_builder": [
     "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
@@ -2452,12 +2458,15 @@
     "com.pantech.app.mms/com.pantech.app.mms.ui.EntryActivity",
     "com.samsung.android.messaging/com.android.mms.ui.ConversationComposer",
     "com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity",
-    "com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity"
+    "com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity",
+    "com.oneplus.mms/com.android.mms.ui.ConversationList"
   ],
   "system_mic_2": [
   "com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder",
   "com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity",
-  "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
+  "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder",
+  "com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder",
+  "com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile"
   ],
   "system_music": [
     "cn.zte.music/cn.zte.music.activity.MusicBrowserActivity",
@@ -2688,7 +2697,8 @@
     "org.lineageos.snap/com.android.camera.CameraLauncher",
     "com.transsion.camera/com.android.camera.CameraLauncher",
     "com.google.android.gallery3d/com.android.camera.CameraLauncher",
-    "com.motorola.camera2/com.motorola.camera.Camera"
+    "com.motorola.camera2/com.motorola.camera.Camera",
+    "com.mediatek.camera/com.mediatek.camera.CameraLauncher"
   ],
   "system_preferences": [
     "com.android.hisiliconsetting/com.android.hisiliconsetting.MainActivity",
@@ -2912,7 +2922,8 @@
     "com.sphinxvn.lgvideos/com.sphinxvn.lgvideos.VideoActivity",
     "com.yulong.android.videoplayer/com.android.gallery3d.app.galleryforvideo",
     "com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity",
-    "com.zui.videoplayer/com.zui.videoplayer.activity.MainActivity"
+    "com.zui.videoplayer/com.zui.videoplayer.activity.MainActivity",
+    "com.coloros.video/com.oplus.video.VideoListActivity"
   ],
   "system_videocam": [
     "com.android.camera2/com.android.camera.VideoCamera",
@@ -2958,7 +2969,8 @@
     "net.oneplus.weather/net.oneplus.weather.app.MainActivity",
     "com.miui.weather2/com.miui.weather2.ActivityWeatherMain",
     "com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity",
-    "com.devexpert.weather/com.devexpert.weather.view.MainActivity"
+    "com.devexpert.weather/com.devexpert.weather.view.MainActivity",
+    "com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
@@ -3545,7 +3557,8 @@
   "com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity"
   ],
   "apps_qr_scanner": [
-  "com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity"
+  "com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity",
+  "com.simprosys.scan.qrcode.barcode.reader/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity"
   ],
   "apps_twitch": [
   "tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
@@ -4424,7 +4437,8 @@
   "com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity"
   ],
   "google_recorder": [
-  "com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.LauncherActivity"
+  "com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.LauncherActivity",
+  "com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity"
   ],
   "google_youtube_vr": [
   "com.google.android.apps.youtube.vr/com.google.android.apps.youtube.vr.activities.YouTubeVrActivity"
@@ -5681,7 +5695,8 @@
   "com.monday.monday/com.dapulse.dapulse.refactor.starter.context.StarterActivity"
   ],
   "apps_omega_launcher": [
-  "com.saggitt.omega.dev/com.saggitt.omega.OmegaLauncher"
+  "com.saggitt.omega.dev/com.saggitt.omega.OmegaLauncher",
+  "com.saggitt.omega/com.saggitt.omega.OmegaLauncher"
   ],
   "apps_organic_maps": [
   "app.organicmaps/com.mapswithme.maps.DownloadResourcesActivity"
@@ -5727,5 +5742,161 @@
   ],
   "games_rayman_adventures": [
   "com.ubisoft.raymanadventures/com.ubisoft.uaf.SplashActivity"
+  ],
+  "apps_astro": [
+  "com.metago.astro/com.metago.astro.MainActivity"
+  ],
+  "apps_notification_widget": [
+  "com.kuma.notificationwidget/com.kuma.notificationwidget.MainActivity"
+  ],
+  "apps_pdf_converter": [
+  "swati4star.createpdf/swati4star.createpdf.activity.MainActivity"
+  ],
+  "apps_automatag": [
+  "com.fillobotto.mp3tagger/activities.MainActivity"
+  ],
+  "google_wellbeing": [
+  "com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
+  ],
+  "apps_dailyart": [
+  "com.moiseum.dailyart2/eu.eastcodes.dailybase.views.main.SplashActivity"
+  ],
+  "apps_jakdojade": [
+  "com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity"
+  ],
+  "apps_phonemanager": [
+  "com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity"
+  ],
+  "apps_retro_music": [
+  "code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity"
+  ],
+  "apps_1dm_plus": [
+  "idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity"
+  ],
+  "apps_1dm_browser_plus": [
+  "idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher"
+  ],
+  "apps_calces": [
+  "advanced.scientific.calculator.calc991.plus/advanced.scientific.calculator.calc991.plus.main.ytivitcArotaluclaCecneicS_kLCneODahnPWsyfdoUSygLOxHQLt_e"
+  ],
+  "apps_connectips": [
+  "com.infodev.nchl_android/com.infodev.nchl_android.ui.splash.mvp.SplashActivity"
+  ],
+  "apps_enmb": [
+  "com.nmb.mobile/com.nmb.mobile.MainActivity"
+  ],
+  "apps_esewa": [
+  "com.f1soft.esewa/com.f1soft.esewa.activity.SplashScreenActivity"
+  ],
+  "apps_freezer": [
+  "f.f.freezer/f.f.freezer.MainActivity"
+  ],
+  "apps_hamro_patro": [
+  "com.hamropatro/com.hamropatro.activities.SplashActivity"
+  ],
+  "apps_khalti": [
+  "com.khalti/com.khalti.MainActivity"
+  ],
+  "apps_lockwise": [
+  "mozilla.lockbox/mozilla.lockbox.view.RootActivity"
+  ],
+  "games_minesweeper": [
+  "ee.dustland.android.minesweeper/ee.dustland.android.minesweeper.MinesweeperHostActivity"
+  ],
+  "apps_nagarik_app": [
+  "com.yajtech.nagarikapp/com.example.nagarikapp.MainActivity"
+  ],
+  "apps_ncell_app": [
+  "com.mventus.ncell.activity/com.mventus.ncell.activity.SplashActivity"
+  ],
+  "apps_nepal_telecom": [
+  "shirantech.android.nepaltelecom/shirantech.android.nepaltelecom.ui.activities.SplashActivity"
+  ],
+  "apps_overdrop": [
+  "widget.dd.com.overdrop.free/widget.dd.com.overdrop.activity.SplashScreenActivity"
+  ],
+  "apps_pathao": [
+  "com.pathao.user/com.pathao.user.ui.core.splash.view.SplashActivity"
+  ],
+  "apps_relay_pro": [
+  "reddit.news/reddit.news.RedditNavigation"
+  ],
+  "apps_ventusky": [
+  "cz.ackee.ventusky/cz.ackee.ventusky.screens.MainActivity"
+  ],
+  "apps_walli_4k": [
+  "com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity"
+  ],
+  "apps_app_watcher": [
+  "com.anod.appwatcher/com.anod.appwatcher.AppWatcherActivity"
+  ],
+  "apps_ard_mediathek": [
+  "de.swr.avp.ard/de.ard.ardmediathek.ui.main.MainActivity"
+  ],
+  "apps_balance": [
+  "com.elevatelabs.geonosis/com.elevatelabs.geonosis.MainActivity"
+  ],
+  "games_best_fiends": [
+  "com.Seriously.BestFiends/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_bring": [
+  "ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity"
+  ],
+  "apps_corona_warn": [
+  "de.rki.coronawarnapp/de.rki.coronawarnapp.ui.launcher.LauncherActivity"
+  ],
+  "apps_covpass": [
+  "de.rki.covpass.app/de.rki.covpass.app.main.MainActivity"
+  ],
+  "apps_doctolib": [
+  "fr.doctolib.www/fr.doctolib.www.MainActivity"
+  ],
+  "apps_birthdays": [
+  "org.xjiop.contactsbirthdays/org.xjiop.contactsbirthdays.MainActivity"
+  ],
+  "google_one": [
+  "com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity"
+  ],
+  "apps_graphie": [
+  "com.pavelrekun.graphie/com.pavelrekun.graphie.containers.PrimaryContainerActivity"
+  ],
+  "apps_inoreader": [
+  "com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity"
+  ],
+  "apps_kptncook": [
+  "com.kptncook.app.kptncook/com.kptncook.app.kptncook.SplashscreenActivity"
+  ],
+  "google_safetyhub": [
+  "com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity"
+  ],
+  "apps_on_air_tv": [
+  "de.stanwood.onair.phonegap/de.stanwood.onair.phonegap.activities.StartUpActivity"
+  ],
+  "google_pixel_tipps": [
+  "com.google.android.apps.tips/com.google.android.apps.tips.TipsMain"
+  ],
+  "apps_poweramp_equalizer": [
+  "com.maxmpz.equalizer/com.maxmpz.equalizer.standard_adaptive"
+  ],
+  "apps_productivity_launcher": [
+  "com.devswhocare.productivitylauncher/com.devswhocare.productivitylauncher.ui.home.MainActivity"
+  ],
+  "apps_ps_camera": [
+  "com.adobe.lens.android/com.adobe.photocam.ui.viewfinder.LauncherActivity"
+  ],
+  "apps_seriesguide": [
+  "com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity"
+  ],
+  "apps_starmoney": [
+  "com.starfinanz.smob.android.starmoney/com.starfinanz.mobile.android.starmoney.STARmoney"
+  ],
+  "apps_voice_audiobook_player": [
+  "de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity"
+  ],
+  "apps_wetter​online": [
+  "de.wetteronline.wetterapppro/de.wetteronline.wetterapp.MainActivityGoogle"
+  ],
+  "apps_zdfmediathek": [
+  "com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity"
   ]
 }
