@@ -5893,10 +5893,37 @@
   "apps_voice_audiobook_player": [
   "de.ph1b.audiobook/de.ph1b.audiobook.features.MainActivity"
   ],
-  "apps_wetter​online": [
+  "apps_wetter_online": [
   "de.wetteronline.wetterapppro/de.wetteronline.wetterapp.MainActivityGoogle"
   ],
   "apps_zdfmediathek": [
   "com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity"
+  ],
+  "apps_kari": [
+  "ru.kari.android/ru.kari.android.presentation.screens.SplashScreenActivity"
+  ],
+  "apps_korablik": [
+  "ru.korablik/ru.korablik.app.korablikandroid.activities.SplashActivit"
+  ],
+  "apps_letual": [
+  "ru.letu/ru.letu.ui.SplashActivity"
+  ],
+  "apps_eldorado": [
+  "ru.mvm.eldo/ru.mvm.eldo.presentation.splash.activity.SplashActivity"
+  ],
+  "apps_ostin": [
+  "ru.ostin.android.app/ru.ostin.android.app.app.splash.SplashView"
+  ],
+  "apps_pek": [
+  "ru.pecom.android/ru.pecom.android.activity.SplashActivity"
+  ],
+  "apps_rive_gauche": [
+  "ru.rivegauche.app/ru.rivegauche.app.f_splash.SplashActivityView"
+  ],
+  "apps_rosnalog": [
+  "ru.rostaxes.android/ru.rosfines.android.splash.SplashActivity"
+  ],
+  "apps_my_iml": [
+  "ru.iml.my/ru.iml.my.MainActivity"
   ]
 }
