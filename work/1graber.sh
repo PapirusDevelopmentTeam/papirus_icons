@@ -3,7 +3,7 @@
 # Dependencies:
 # googleplay https://github.com/89z/googleplay
 # wget https://www.gnu.org/software/wget/
-# google-play-scraper https://github.com/JoMingyu/google-play-scraper
+# play-scraper https://github.com/danieliu/play-scraper
 # aapt https://android.googlesource.com/platform/frameworks/base/
 # How it's worked:
 # First you need create Application Password on Google Account for "googleplay" tool.
