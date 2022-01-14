@@ -39,7 +39,13 @@ public class CandyBar extends CandyBarApplication {
                 "apps_yoomoney",
                 "YooMoney",
                 "Donate me on YooMoney",
-                "https://yoomoney.ru/to/410013316426627")
+                "https://yoomoney.ru/to/410013316426627"),
+        new DonationLink(
+                // You can use png file (without extension) inside drawable-nodpi folder or url
+                "apps_patreon",
+                "Patreon",
+                "Donate me on Patreon",
+                "https://patreon.com/varlesh")
                 };
         configuration.setDonationLinks(donationLinks);
         configuration.setGenerateAppFilter(true);
