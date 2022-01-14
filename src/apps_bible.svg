@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg28"
+   sodipodi:docname="apps_bible.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2177"
+       x="-0.045"
+       y="-0.051428571"
+       width="1.09"
+       height="1.1028571">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3"
+         id="feGaussianBlur2179" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2302"
+       x="-0.091071429"
+       y="-0.06375"
+       width="1.1821429"
+       height="1.1275">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.65625"
+         id="feGaussianBlur2304" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="120"
+     inkscape:cy="104"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid841" />
+  </sodipodi:namedview>
+  <rect
+     id="rect2139"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="12"
+     rx="12"
+     y="-166"
+     x="-180"
+     height="140"
+     width="160"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:3.74166;filter:url(#filter2177)" />
+  <rect
+     id="rect2"
+     transform="matrix(0,-1,-1,0,0,0)"
+     ry="12"
+     rx="12"
+     y="-166"
+     x="-176"
+     height="140"
+     width="160"
+     style="fill:#7d5b4f;fill-opacity:1;stroke-width:3.74166" />
+  <path
+     id="rect1216"
+     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round"
+     d="M 38 16 C 31.352 16 26 21.352 26 28 L 26 164 C 26 170.648 31.352 176 38 176 L 50 176 L 50 16 L 38 16 z " />
+  <path
+     id="path2264"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.15413;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter2302)"
+     d="M 102,48 V 74 H 73 v 12 h 29 v 62 h 12 V 86 h 29 V 74 H 114 V 48 Z" />
+  <path
+     id="rect1448"
+     style="opacity:1;fill:#ffdb0a;fill-opacity:1;stroke:none;stroke-width:8.15413;stroke-linecap:round;stroke-linejoin:round"
+     d="M 102 46 L 102 72 L 73 72 L 73 84 L 102 84 L 102 146 L 114 146 L 114 84 L 143 84 L 143 72 L 114 72 L 114 46 L 102 46 z " />
+  <path
+     id="rect2181"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:3.74166;opacity:0.1"
+     d="M 38 16 C 31.352 16 26 21.352 26 28 L 26 29 C 26 22.352 31.352 17 38 17 L 154 17 C 160.648 17 166 22.352 166 29 L 166 28 C 166 21.352 160.648 16 154 16 L 38 16 z " />
+  <path
+     id="path2223"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.15413;stroke-linecap:round;stroke-linejoin:round"
+     d="M 102 46 L 102 47 L 114 47 L 114 46 L 102 46 z M 73 72 L 73 73 L 102 73 L 102 72 L 73 72 z M 114 72 L 114 73 L 143 73 L 143 72 L 114 72 z " />
+</svg>

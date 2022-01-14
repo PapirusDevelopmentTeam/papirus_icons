@@ -29,26 +29,26 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1067"
-       x="-0.040274839"
-       y="-0.060412258"
-       width="1.0805497"
-       height="1.1208245">
+       x="-0.090618388"
+       y="-0.13592758"
+       width="1.1812368"
+       height="1.2718552">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.2082452"
+         stdDeviation="2.7185516"
          id="feGaussianBlur1069" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1071"
-       x="-0.047999999"
-       y="-0.047999999"
-       width="1.096"
-       height="1.096">
+       x="-0.108"
+       y="-0.108"
+       width="1.216"
+       height="1.216">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.96"
+         stdDeviation="2.16"
          id="feGaussianBlur1073" />
     </filter>
   </defs>
@@ -62,10 +62,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.06"
-     inkscape:cx="117.81046"
-     inkscape:cy="76.633987"
+     inkscape:cx="117.97386"
+     inkscape:cy="76.797386"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"

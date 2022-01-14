@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192"
    height="192"
    version="1.1"
    id="svg14"
-   sodipodi:docname="apps_tachiyomi2.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   sodipodi:docname="apps_tachiyomi.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -31,9 +30,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter860"
-       x="-0.048"
+       x="-0.048000001"
        width="1.096"
-       y="-0.048"
+       y="-0.048000001"
        height="1.096">
       <feGaussianBlur
          inkscape:collect="always"
@@ -44,9 +43,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter880"
-       x="-0.054"
+       x="-0.054000002"
        width="1.108"
-       y="-0.0432"
+       y="-0.043200002"
        height="1.0864">
       <feGaussianBlur
          inkscape:collect="always"
@@ -63,17 +62,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview16"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="103.12411"
-     inkscape:cy="86.365256"
-     inkscape:window-x="-12"
-     inkscape:window-y="-2"
+     inkscape:cx="103.32204"
+     inkscape:cy="86.237289"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14">
+     inkscape:current-layer="svg14"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid856" />
@@ -88,7 +88,7 @@
      ry="8"
      id="rect2" />
   <rect
-     style="fill:#2c82bd;stroke-width:4"
+     style="fill:#0b88de;stroke-width:4;fill-opacity:1"
      width="128"
      height="160"
      x="32"
@@ -97,7 +97,7 @@
      ry="8"
      id="rect4" />
   <path
-     style="opacity:0.2;stroke-width:4"
+     style="opacity:0.25;stroke-width:4;fill:#ffffff"
      d="m 40,16 c -4.432,0 -8,3.568 -8,8 v 144 c 0,4.432 3.568,8 8,8 H 56 V 16 Z"
      id="path10"
      inkscape:connector-curvature="0" />
@@ -112,7 +112,7 @@
      cy="100"
      r="40" />
   <circle
-     style="opacity:1;vector-effect:none;fill:#ca2929;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"
+     style="opacity:1;vector-effect:none;fill:#b42727;fill-opacity:1;stroke-width:4;paint-order:stroke fill markers"
      id="path858"
      cx="108"
      cy="96"

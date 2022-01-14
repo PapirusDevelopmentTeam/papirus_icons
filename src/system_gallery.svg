@@ -5,7 +5,7 @@
    version="1"
    id="svg28"
    sodipodi:docname="system_gallery.svg"
-   inkscape:version="1.1-rc (1:1.1+rc+202105232036+f4db50c7c1)"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,26 +29,26 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1067"
-       x="-0.040274839"
-       y="-0.060412258"
-       width="1.0805497"
-       height="1.1208245">
+       x="-0.090618388"
+       y="-0.13592758"
+       width="1.1812368"
+       height="1.2718552">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.2082452"
+         stdDeviation="2.7185516"
          id="feGaussianBlur1069" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1071"
-       x="-0.047999999"
-       y="-0.047999999"
-       width="1.096"
-       height="1.096">
+       x="-0.108"
+       y="-0.108"
+       width="1.216"
+       height="1.216">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.96"
+         stdDeviation="2.16"
          id="feGaussianBlur1073" />
     </filter>
   </defs>
@@ -61,11 +61,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="91.5"
-     inkscape:cy="24"
+     inkscape:zoom="3.28"
+     inkscape:cx="67.987805"
+     inkscape:cy="97.256098"
      inkscape:window-width="1920"
-     inkscape:window-height="1014"
+     inkscape:window-height="1022"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
