@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg12"
+   sodipodi:docname="apps_kinedu.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter955"
+       x="-0.048000001"
+       width="1.096"
+       y="-0.048000001"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur957" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18275"
+       x="-0.11604256"
+       y="-0.101"
+       width="1.2320851"
+       height="1.202">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.545"
+         id="feGaussianBlur18277" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="17"
+     inkscape:cy="87"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     showguides="false"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid852" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4;filter:url(#filter955)"
+     width="160"
+     height="160"
+     x="16"
+     y="20"
+     rx="30"
+     ry="30"
+     id="rect953" />
+  <rect
+     style="fill:#e4e4e4;fill-opacity:1;stroke-width:4"
+     width="160"
+     height="160"
+     x="16"
+     y="16"
+     rx="30"
+     ry="30"
+     id="rect4" />
+  <path
+     id="rect18230"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:6.06856;stroke-linecap:round;filter:url(#filter18275)"
+     d="M 49,44 V 94 H 86 V 44 Z m 66,8 A 21,21 0 0 0 94,73 21,21 0 0 0 115,94 21,21 0 0 0 136,73 21,21 0 0 0 115,52 Z m -66,50 v 50 h 37 v -50 z m 45,0 v 50 h 49 c 0,-43.06888 -41.66265,-50 -49,-50 z" />
+  <path
+     id="rect959"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:4;opacity:0.2"
+     d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z " />
+  <rect
+     style="fill:#40c74a;fill-opacity:1;stroke-width:6.06856;stroke-linecap:round"
+     id="rect1041"
+     width="37"
+     height="50"
+     x="49"
+     y="42" />
+  <rect
+     style="fill:#0086d8;fill-opacity:1;stroke-width:6.06856;stroke-linecap:round"
+     id="rect1315"
+     width="37"
+     height="50"
+     x="49"
+     y="100" />
+  <path
+     id="rect1443"
+     style="fill:#e83f75;fill-opacity:1;stroke-width:6.98366;stroke-linecap:round"
+     d="m 94,100 c 7.33735,0 49,6.93112 49,50 H 94 Z"
+     sodipodi:nodetypes="cccc" />
+  <circle
+     style="fill:#ffb52f;fill-opacity:1;stroke-width:6.11563;stroke-linecap:round"
+     id="path1700"
+     cx="115"
+     cy="71"
+     r="21" />
+</svg>

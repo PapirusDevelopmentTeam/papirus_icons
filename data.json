@@ -245,7 +245,8 @@
   "apps_aimp": [
     "com.aimp.player/com.aimp.player.views.Main.MainActivity",
     "com.aimp.player/com.aimp.player.views.MainActivity.MainActivity",
-    "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity"
+    "com.invised.aimp.rc/com.invised.aimp.rc.launcher.LauncherActivity",
+    "com.aimp.player/com.aimp.player.ui.activities.main.MainActivity"
   ],
   "apps_alarm_clock": [
     "com.angrydoughnuts.android.alarmclock/com.angrydoughnuts.android.alarmclock.ActivityAlarmClock",
@@ -1318,7 +1319,8 @@
   ],
   "apps_poweramp": [
     "com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity",
-    "com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity"
+    "com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity",
+    "com.maxmpz.audioplayer/com.maxmpz.audioplayer.white_play_adaptive"
   ],
   "apps_privat24": [
     "ua.privatbank.ap24/ua.privatbank.ap24.beta.SplashActivity",
@@ -2305,9 +2307,6 @@
     "com.htc.htccnfilemanager/com.htc.htccnfilemanager.htccnFileManager",
     "com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager",
     "com.huawei.hidisk/com.huawei.hidisk.Main",
-    "com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity",
-    "com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity",
-    "com.jrdcom.filemanager/com.jrdcom.filemanager.FileBrowserActivity",
     "com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain",
     "com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain",
     "com.lenovo.FileBrowser/com.lenovo.FileBrowser.FileBrowserActivity",
@@ -2977,7 +2976,8 @@
     "com.transsion.weathers/com.rlk.weathers.activity.WeatherMainActivity",
     "com.devexpert.weather/com.devexpert.weather.view.MainActivity",
     "com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity",
-    "aplicacion.tiempo/aplicacion.InicialActivity"
+    "aplicacion.tiempo/aplicacion.InicialActivity",
+    "com.exovoid.weather.app/com.exovoid.weather.app.MainActivity"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
@@ -3183,7 +3183,8 @@
   "com.mixapplications.miuithemeeditor/com.mixapplications.miuithemeeditor.MainActivity"
   ],
   "apps_miui_browser": [
-  "com.mi.globalbrowser/com.mi.globalbrowser.Main"
+  "com.mi.globalbrowser/com.mi.globalbrowser.Main",
+  "com.mi.globalbrowser/com.android.browser.LauncherActivity"
   ],
   "apps_gosuslugi": [
   "ru.rostel/rt.gosuslugi.client.droid.views.SplashScreen"
@@ -3570,7 +3571,8 @@
   "com.simprosys.scan.qrcode.barcode.reader/com.zipoapps.premiumhelper.ui.splash.PHSplashActivity"
   ],
   "apps_twitch": [
-  "tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+  "tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity",
+  "tv.twitchmod.android.app/tv.twitch.android.app.core.LandingActivity"
   ],
   "apps_nimo_tv": [
   "com.huya.nimo/com.huya.nimo.homepage.ui.activity.SplashActivity"
@@ -6139,7 +6141,8 @@
   "com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity"
   ],
   "apps_piano": [
-  "com.bilkon.easypiano/com.unity3d.player.UnityPlayerActivity"
+  "com.bilkon.easypiano/com.unity3d.player.UnityPlayerActivity",
+  "com.famousbluemedia.piano/com.famousbluemedia.piano.ui.activities.SplashActivity"
   ],
   "apps_bodbot": [
   "com.bodbot.trainer/com.bodbot.trainer.BodBot"
@@ -6459,5 +6462,221 @@
   ],
   "games_hpwu": [
   "com.nianticlabs.hpwu.prod/com.wbgames.xenon.mainactivity.MainActivity"
+  ],
+  "apps_nekogram": [
+  "tw.nekomimi.nekogram/org.telegram.ui.LaunchActivity"
+  ],
+  "apps_telegram_beta": [
+  "org.telegram.messenger.beta/org.telegram.ui.LaunchActivity"
+  ],
+  "apps_digilocker": [
+  "com.digilocker.android/com.digilocker.android.ui.activity.dashboard.activity.MainDashboardActivity"
+  ],
+  "games_pubg": [
+  "com.tencent.ig/com.epicgames.ue4.SplashActivity"
+  ],
+  "games_fortnite": [
+  "com.epicgames.fortnite/com.epicgames.ue4.SplashActivity"
+  ],
+  "apps_magnit_dostavka": [
+  "ru.magnit.express.android/ru.magnit.client.AppActivity"
+  ],
+  "apps_aeat": [
+  "es.aeat.dgc.mobile/es.aeat.dgc.mobile.ui.splash.SplashActivity"
+  ],
+  "apps_aptoide": [
+  "cm.aptoide.pt/cm.aptoide.pt.view.MainActivity"
+  ],
+  "apps_basic_fit": [
+  "com.basicfit.trainingApp/com.basicfit.trainingApp.MainActivity"
+  ],
+  "apps_boom": [
+  "com.logitech.ueboom/com.logitech.ue.howhigh.activities.SplashActivity"
+  ],
+  "apps_canva": [
+  "com.canva.editor/com.canva.app.editor.splash.SplashActivity"
+  ],
+  "apps_chollometro": [
+  "com.chollometro/com.pepper.apps.android.presentation.MainActivity"
+  ],
+  "apps_forest": [
+  "cc.forestapp/cc.forestapp.applications.SplashActivity"
+  ],
+  "apps_quora": [
+  "com.quora.android/com.quora.android.components.activities.LauncherActivity"
+  ],
+  "google_stadia": [
+  "com.google.stadia.android/com.google.chrome.cloudcast.client.mobile.android.MobileActivity"
+  ],
+  "apps_ata_football": [
+  "com.smartboxtv.nunchee.android.atafootball/com.smartboxtv.nunchee.android.atafootball.atafootballSplashActivity"
+  ],
+  "apps_mi_services_and_comments": [
+  "com.miui.miservice/com.miui.miservice.main.MainActivity"
+  ],
+  "games_tetravex": [
+  "com.iglabs.tetravex/ig.tetravex.android.activities.SplashActivity"
+  ],
+  "apps_totalplay_control": [
+  "com.totalplay.controlremotototalplay/com.totalplay.controlremotototalplay.Activity.SplashActivity"
+  ],
+  "apps_terabox": [
+  "com.dubox.drive/com.dubox.drive.ui.Navigate"
+  ],
+  "apps_groovepad": [
+  "com.easybrain.make.music/com.agminstruments.drumpadmachine.activities.SplashActivity"
+  ],
+  "apps_dailyhunt": [
+  "com.eterno/com.newshunt.app.view.activity.Splash"
+  ],
+  "apps_josh": [
+  "com.eterno.shortvideos/com.eterno.shortvideos.views.splash.activities.SplashActivity"
+  ],
+  "apps_evermatch": [
+  "com.evermatch/com.evermatch.activity.WelcomeActivity"
+  ],
+  "apps_ezhld_recipe": [
+  "com.ezhld.recipe/com.ezhld.recipe.MainActivity"
+  ],
+  "apps_lithium": [
+  "com.faultexception.reader/com.faultexception.reader.MainActivity"
+  ],
+  "apps_pomelo_file_explorer": [
+  "com.file.explorer.manager.space.clean/com.file.explorer.manager.space.clean.splash.SplashScreen"
+  ],
+  "apps_fitify": [
+  "com.fitifyworkouts.bodyweight.workoutapp/com.fitifyapps.fitify.ui.onboarding.OnboardingActivity"
+  ],
+  "apps_fiton": [
+  "com.fiton.android/com.fiton.android.ui.login.SplashShowActivity"
+  ],
+  "apps_flightradar24": [
+  "com.flightradar24free/com.flightradar24free.SplashActivity"
+  ],
+  "apps_swarm": [
+  "com.foursquare.robin/com.foursquare.robin.activities.MainActivity"
+  ],
+  "apps_my_net_diary": [
+  "com.fourtechnologies.mynetdiary.ad/com.mynetdiary.ui.AuthActivity"
+  ],
+  "apps_freeletics": [
+  "com.freeletics.lite/com.freeletics.activities.StartActivity"
+  ],
+  "apps_vn_video_editor": [
+  "com.frontrow.vlog/com.frontrow.vlog.ui.splash.SplashActivity"
+  ],
+  "apps_la_banque_postale": [
+  "com.fullsix.android.labanquepostale.accountaccess/com.fullsix.android.labanquepostale.accountaccess.BanquePostale"
+  ],
+  "apps_filmigo": [
+  "com.funcamerastudio.videomaker/com.xvideostudio.videoeditor.activity.SplashActivity"
+  ],
+  "apps_gemini": [
+  "com.gemini.android.app/com.gemini.android.MainActivity"
+  ],
+  "apps_geozilla": [
+  "com.geozilla.family/com.mteam.mfamily.ui.SplashScreenActivity"
+  ],
+  "apps_getir": [
+  "com.getir/com.getir.core.feature.splash.SplashActivity"
+  ],
+  "apps_giphy": [
+  "com.giphy.messenger/com.giphy.messenger.app.OnboardingActivity"
+  ],
+  "apps_beat_maker_go": [
+  "com.gismart.drum.pads.machine/com.gismart.drum.pads.machine.main.MainActivity"
+  ],
+  "apps_glassdoor": [
+  "com.glassdoor.app/com.glassdoor.app.launch.activities.LaunchActivity"
+  ],
+  "apps_glide": [
+  "com.glidetalk.glideapp/com.glidetalk.glideapp.GlideLoginActivity"
+  ],
+  "apps_foodpanda": [
+  "com.global.foodpanda.android/com.global.foodpanda.android.activities.SplashScreenActivity",
+  "com.global.foodpanda.android/de.foodora.android.ui.launcher.LauncherActivity",
+  "com.india.foodpanda.android/com.india.foodpanda.android.welcome.activities.SplashScreenActivity"
+  ],
+  "apps_goibibo": [
+  "com.goibibo/com.goibibo.common.HomeActivity"
+  ],
+  "apps_rappi": [
+  "com.grability.rappi/com.grability.app.splash.SplashActivity"
+  ],
+  "apps_grab": [
+  "com.grabtaxi.passenger/com.grab.pax.newface.presentation.newface.NewFace"
+  ],
+  "apps_blinkit": [
+  "com.grofers.customerapp/com.grofers.customerapp.activities.ActivitySplashScreen"
+  ],
+  "apps_groupme": [
+  "com.groupme.android/com.groupme.android.HomeActivity"
+  ],
+  "apps_guardian": [
+  "com.guardian/com.guardian.ui.activities.HomePageActivity",
+  "com.guardian/com.guardian.ui.activities.HomeActivity",
+  "com.guardian/com.guardian.feature.stream.HomeActivity",
+  "com.guardian/com.guardian.feature.stream.NewHomeActivity"
+  ],
+  "apps_hotels_com": [
+  "com.hcom.android/com.hcom.android.presentation.initial.presenter.InitialActivity"
+  ],
+  "apps_hotmart_sparkle": [
+  "com.hotmart.sparkle/com.hotmart.sparkle.splash.presenter.SplashActivity"
+  ],
+  "apps_huawei_health": [
+  "com.huawei.health/com.huawei.health.MainActivity"
+  ],
+  "apps_pln_mobile": [
+  "com.icon.pln123/com.icon.pln123.MainActivity"
+  ],
+  "apps_vk_job": [
+  "com.iconjob.android/com.iconjob.android.ui.activity.SplashActivity"
+  ],
+  "apps_idealista": [
+  "com.idealista.android/com.idealista.android.app.MainActivity"
+  ],
+  "apps_imdb": [
+  "com.imdb.mobile/com.imdb.mobile.HomeActivity"
+  ],
+  "apps_indeed_job_search": [
+  "com.indeed.android.jobsearch/com.indeed.android.jobsearch.LaunchActivity"
+  ],
+  "apps_lime_hd_tv": [
+  "com.infolink.limeiptv/com.infolink.limeiptv.StartupActivity"
+  ],
+  "apps_yemeksepeti": [
+  "com.inovel.app.yemeksepeti/com.inovel.app.yemeksepeti.ui.splash.SplashActivity"
+  ],
+  "apps_bloom": [
+  "com.jaumo.prime/com.jaumo.Main"
+  ],
+  "apps_facer": [
+  "com.jeremysteckling.facerrel/com.jeremysteckling.facerrel.ui.activities.MainActivity",
+  "com.jeremysteckling.facerrel/com.jeremysteckling.facerrel.Launcher"
+  ],
+  "apps_jobstreet": [
+  "com.jobstreet.jobstreet/com.seekasiamobileapp.MainActivity"
+  ],
+  "apps_jora_jobs": [
+  "com.jora.android/com.jora.android.presentation.activities.NavigationActivity"
+  ],
+  "apps_jrdcom_file_manager": [
+  "com.jrdcom.filemanager/com.jrdcom.filemanager.activity.FileBrowserActivity"
+  ],
+  "apps_kakaostory": [
+  "com.kakao.story/com.kakao.story.ui.activity.SplashActivity"
+  ],
+  "apps_kakaotalk": [
+  "com.kakao.talk/com.kakao.talk.activity.SplashActivity"
+  ],
+  "apps_kariyer_net": [
+  "com.kariyer.androidproject/com.kariyer.androidproject.ui.login.LoginActivity"
+  ],
+  "apps_kinedu": [
+  "com.kinedu.appkinedu/com.kinedu.splash.SplashActivity"
+  ],
+  "apps_pdf_reader_pro": [
+  "com.kmo.pdf.editor/com.kmo.pdf.editor.bootpage.splash.SplashActivity"
   ]
 }
