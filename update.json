@@ -1,9 +1,8 @@
 {
-  "latestVersion": "20220114",
-  "latestVersionCode": 5,
-  "url": "https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDIxMzYyNzIiLCJ1IjoiNDM4MDc4IiwibHQiOiJkb3dubG9hZCIsInMiOiI5ZmU3ODMxNWViYTkwZWFmZWYwNTNkZmE1YjlhZWVlODM2ZDBjZjI0ZWJiM2VlMTczMjc1ZjQ5ZjE3NmIwMWI4MmNiMWYxMjIwNmZlNWY0ZWMyZjM2MWZmMzJjODY4ODRiZGZjZDc2MzhmY2MyOGU4MjYzZGJmM2Y5NzVhZTkyNCIsInQiOjE2NDIxMzk5NDYsInN0ZnAiOiJjMGYzOTdjODA2ZWYxYTg1NjhkNzNjMmQ0NzMwMGMyZSIsInN0aXAiOiIxNzguMTc2LjE4My4xNDMifQ.m2MdKeJLjamduXckEDqyu5P4mCHmlUcnF-EtKrMYF5c/papirus_icons_20220114.apk",
+  "latestVersion": "20220121",
+  "latestVersionCode": 6,
+  "url": "https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTY0Mjc1MTk5OCwidSI6IjQzODA3OCIsImx0IjoiZG93bmxvYWQiLCJzIjoiNWYwY2M0ODc5NGFiZTM5YTIxNGQ1NmRkMjM2NmM4N2Y1YzhmOTY0MTgzYjY3NTkyZjNkNTUyMzYxNmU0M2NiNGNlNDExODZlODE4OTJkMDE1YTFhM2Q3NTliOWVlOGYwZTk2ZTQxZTFmOThmNzBiMTdiN2ViNzYzODY4YzllY2QiLCJ0IjoxNjQyNzU0NzEwLCJzdGZwIjoiM2Q5YzgzOTAwNWFjMDEyYzcyYzI1NjY1M2UxNjgxMTYiLCJzdGlwIjoiMTc4LjE3Ni4xODIuMTIwIn0.mrVzqRnlajqP2JvShL0uQ716CIy7tjK7PNunzYWgyTw/papirus_icons_20220121.apk",
   "releaseNotes": [
-    "Added 170 icons",
-    "Added Patreon Donation"
+    "Added 70 icons"
   ]
 }
