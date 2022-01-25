@@ -4,7 +4,7 @@
    height="192"
    version="1"
    id="svg28"
-   sodipodi:docname="apps_mix.svg"
+   sodipodi:docname="apps_zhanghai_files.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -42,15 +42,28 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2558"
-       x="-0.062171053"
-       y="-0.0945"
-       width="1.1243421"
-       height="1.189">
+       id="filter18744"
+       x="-0.087230769"
+       y="-0.14175"
+       width="1.1744615"
+       height="1.2835">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.953125"
-         id="feGaussianBlur2560" />
+         stdDeviation="3.78"
+         id="feGaussianBlur18746" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter18748"
+       x="-0.049020151"
+       y="-0.15956871"
+       width="1.0980403"
+       height="1.3191374">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1242065"
+         id="feGaussianBlur18750" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -63,18 +76,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1016"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="102"
-     inkscape:cy="66"
+     inkscape:cx="65.5"
+     inkscape:cy="111.5"
      inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg28"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="false">
     <inkscape:grid
        type="xygrid"
@@ -99,17 +112,35 @@
      x="-176"
      height="160"
      width="160"
-     style="fill:#1e88e5;fill-opacity:1;stroke-width:4" />
+     style="fill:#1f76e9;fill-opacity:1;stroke-width:4" />
   <path
      id="rect6416"
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:4"
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:4"
      d="m 28,16 c -6.648,0 -12,5.352 -12,12 v 1 c 0,-6.648 5.352,-12 12,-12 h 136 c 6.648,0 12,5.352 12,12 v -1 c 0,-6.648 -5.352,-12 -12,-12 z" />
   <path
-     id="path2520"
-     style="opacity:0.2;fill:#000000;stroke-width:15.5318;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter2558)"
-     d="m 36,63 v 53 H 88 V 63 L 62,80.810547 Z m 59,23 v 30 h 12 V 86 Z m 18,9 10.25586,21.5 L 113,138 h 37 L 139.20508,116.5 150,95 Z" />
+     id="path18704"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.9704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.9408, 1.9704;filter:url(#filter18748)"
+     d="m 52,54 c -4.432,0 -8,3.568 -8,8 V 85.949219 H 148 V 72 c 0,-4.432 -3.568,-8 -8,-8 H 97.235142 c 0,0 -1.339605,-0.0488 -2.035652,-0.759141 l -8.120723,-8.287443 c 0,0 -0.97882,-0.953416 -1.982338,-0.953416 z"
+     sodipodi:nodetypes="ssccssccccs" />
   <path
-     id="rect1129"
-     style="opacity:1;fill:#ffffff;stroke-width:15.5318;stroke-linecap:round;stroke-linejoin:round"
-     d="M 36 61 L 36 114 L 88 114 L 88 61 L 62 78.810547 L 36 61 z M 95 84 L 95 114 L 107 114 L 107 84 L 95 84 z M 113 93 L 123.25586 114.5 L 113 136 L 150 136 L 139.20508 114.5 L 150 93 L 113 93 z " />
+     id="rect1362"
+     style="opacity:1;fill:#ebeeef;fill-opacity:1;stroke-width:1.9704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.9408, 1.9704"
+     d="m 52,52 c -4.432,0 -8,3.568 -8,8 V 83.949219 H 148 V 70 c 0,-4.432 -3.568,-8 -8,-8 H 97.235142 c 0,0 -1.339605,-0.0488 -2.035652,-0.759141 l -8.120723,-8.287443 c 0,0 -0.97882,-0.953416 -1.982338,-0.953416 z"
+     sodipodi:nodetypes="ssccssccccs" />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:1.9704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.9408, 1.9704;filter:url(#filter18744)"
+     id="rect18706"
+     width="104"
+     height="64"
+     x="44"
+     y="78"
+     rx="8" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:1.9704;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.9408, 1.9704;fill-opacity:1"
+     id="rect1142"
+     width="104"
+     height="64"
+     x="44"
+     y="76"
+     rx="8" />
 </svg>

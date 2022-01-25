@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg18"
+   sodipodi:docname="apps_background_eraser.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="95.5"
+     inkscape:cy="5.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs6">
+    <filter
+       id="filter955"
+       style="color-interpolation-filters:sRGB"
+       width="1.096"
+       height="1.096"
+       x="-0.048000001"
+       y="-0.048000001">
+      <feGaussianBlur
+         id="feGaussianBlur957"
+         stdDeviation="3.2" />
+    </filter>
+    <filter
+       id="filter1588"
+       style="color-interpolation-filters:sRGB"
+       width="1.1243591"
+       height="1.1889013"
+       x="-0.06217957"
+       y="-0.094450636">
+      <feGaussianBlur
+         id="feGaussianBlur1590"
+         stdDeviation="3.109" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter22458"
+       x="-0.075156355"
+       y="-0.15053263"
+       width="1.1503127"
+       height="1.3010653">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8124632"
+         id="feGaussianBlur22460" />
+    </filter>
+  </defs>
+  <rect
+     style="fill:#c3c3c3;fill-opacity:1;stroke-width:0.99375"
+     width="159"
+     height="159"
+     x="16.5"
+     y="16.5"
+     rx="29.8125"
+     ry="29.8125"
+     id="rect10" />
+  <rect
+     style="opacity:0.2;filter:url(#filter955)"
+     width="160"
+     height="160"
+     x="16"
+     y="20"
+     rx="30"
+     ry="30"
+     id="rect8" />
+  <path
+     id="rect1013"
+     style="opacity:1;fill:#dbdbdb;stroke-width:8.58077;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 48 L 48 48 L 48 16 L 46 16 z M 48 48 L 48 80 L 80 80 L 80 48 L 48 48 z M 80 48 L 112 48 L 112 16 L 80 16 L 80 48 z M 112 48 L 112 80 L 144 80 L 144 48 L 112 48 z M 144 48 L 176 48 L 176 46 C 176 29.38 162.62 16 146 16 L 144 16 L 144 48 z M 144 80 L 144 112 L 176 112 L 176 80 L 144 80 z M 144 112 L 112 112 L 112 144 L 144 144 L 144 112 z M 144 144 L 144 176 L 146 176 C 162.62 176 176 162.62 176 146 L 176 144 L 144 144 z M 112 144 L 80 144 L 80 176 L 112 176 L 112 144 z M 80 144 L 80 112 L 48 112 L 48 144 L 80 144 z M 48 144 L 16 144 L 16 146 C 16 162.62 29.38 176 46 176 L 48 176 L 48 144 z M 48 112 L 48 80 L 16 80 L 16 112 L 48 112 z M 80 112 L 112 112 L 112 80 L 80 80 L 80 112 z " />
+  <path
+     id="rect1095"
+     style="opacity:1;fill:#ffffff;stroke-width:8.58077;stroke-linecap:round;stroke-linejoin:round"
+     d="M 48 16 L 48 48 L 80 48 L 80 16 L 48 16 z M 80 48 L 80 80 L 112 80 L 112 48 L 80 48 z M 112 48 L 144 48 L 144 16 L 112 16 L 112 48 z M 144 48 L 144 80 L 176 80 L 176 48 L 144 48 z M 144 80 L 112 80 L 112 112 L 144 112 L 144 80 z M 144 112 L 144 144 L 176 144 L 176 112 L 144 112 z M 144 144 L 112 144 L 112 176 L 144 176 L 144 144 z M 112 144 L 112 112 L 80 112 L 80 144 L 112 144 z M 80 144 L 48 144 L 48 176 L 80 176 L 80 144 z M 48 144 L 48 112 L 16 112 L 16 144 L 48 144 z M 48 112 L 80 112 L 80 80 L 48 80 L 48 112 z M 48 80 L 48 48 L 16 48 L 16 80 L 48 80 z " />
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:4.73111;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter22458)"
+     id="rect22420"
+     width="89.811592"
+     height="44.840191"
+     x="-46.320339"
+     y="114.75912"
+     ry="6.3081508"
+     transform="rotate(-45)" />
+  <rect
+     style="fill:#eb4b3f;fill-opacity:1;stroke-width:4.73111;stroke-linecap:round;stroke-linejoin:round"
+     id="rect2236"
+     width="89.811592"
+     height="44.840191"
+     x="-44.905968"
+     y="113.34475"
+     ry="6.3081508"
+     transform="rotate(-45)" />
+  <path
+     id="rect2442"
+     style="fill:#c6362b;fill-opacity:1;stroke-width:4.73111;stroke-linecap:round;stroke-linejoin:round"
+     d="m 52.853355,107.43938 c -2.471137,2.47114 -2.471143,6.44993 0,8.92107 l 22.786192,22.7862 c 2.471137,2.47113 6.449935,2.47113 8.921072,0 l 4.615172,-4.61518 -31.707264,-31.70726 z" />
+  <path
+     id="rect2571"
+     style="fill:#2a6db3;fill-opacity:1;stroke-width:5.59145;stroke-linecap:round;stroke-linejoin:round"
+     d="M 85.393705,74.899033 117.10097,106.6063 139.14665,84.560619 c 2.47113,-2.471137 2.47113,-6.449935 0,-8.921072 L 116.36046,52.853355 c -2.47115,-2.471143 -6.44994,-2.471137 -8.92108,0 z" />
+  <path
+     id="rect22037"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2.89672;stroke-linecap:round;stroke-linejoin:round"
+     d="m 52.853355,107.43938 c -0.281633,0.28164 -0.527458,0.58534 -0.744882,0.90169 l 31.550454,31.55046 c 0.316347,-0.21744 0.62006,-0.46325 0.901692,-0.74488 l 0.977917,-0.97792 -31.707264,-31.70726 z" />
+  <path
+     style="fill:#ffffff;opacity:0.2"
+     d="M 46 16 C 29.38 16 16 29.38 16 46 L 16 47 C 16 30.38 29.38 17 46 17 L 146 17 C 162.62 17 176 30.38 176 47 L 176 46 C 176 29.38 162.62 16 146 16 L 46 16 z"
+     id="path12" />
+</svg>
