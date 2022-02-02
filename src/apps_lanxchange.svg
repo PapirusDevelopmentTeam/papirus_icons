@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1"
+   id="svg14"
+   sodipodi:docname="apps_lanxchange.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1841"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.125"
+         id="feGaussianBlur1843" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2621"
+       x="-0.048000001"
+       y="-0.048000001"
+       width="1.096"
+       height="1.096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2"
+         id="feGaussianBlur2623" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="2.02"
+     inkscape:cx="105.44554"
+     inkscape:cy="78.465347"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5193" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.777736;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter2621)"
+     id="rect2583"
+     width="160"
+     height="160"
+     x="16"
+     y="20"
+     ry="20" />
+  <rect
+     style="opacity:1;fill:#e4e4e4;fill-opacity:1;stroke-width:0.777736;stroke-linecap:round;stroke-linejoin:round"
+     id="rect2219"
+     width="160"
+     height="160"
+     x="16"
+     y="16"
+     ry="20" />
+  <path
+     style="fill:#38adfa"
+     d="m 688.80525,256.99648 c -0.33229,-0.33229 -1.1948,-0.36781 -1.91667,-0.0789 -0.79773,0.31922 -0.56078,0.55618 0.60417,0.60416 1.05416,0.0434 1.64479,-0.19293 1.3125,-0.52522 z"
+     id="path1063" />
+  <path
+     id="path1800"
+     style="opacity:0.2;fill:#000000;fill-opacity:1;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;filter:url(#filter1841)"
+     d="M 30,32 59.34375,98 30,164 96,98 Z M 96,98 162,164 132.65625,98 162,32 Z" />
+  <path
+     id="rect952"
+     style="opacity:1;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;fill:#f44336;fill-opacity:1"
+     d="M 30,30 96,96 30,162 59.343692,96 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path1294"
+     style="opacity:1;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;fill:#3ebd44;fill-opacity:1"
+     d="M 162,30 96,96 162,162 132.65631,96 Z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="rect2625"
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.777736;stroke-linecap:round;stroke-linejoin:round"
+     d="M 36 16 C 24.92 16 16 24.92 16 36 L 16 37 C 16 25.92 24.92 17 36 17 L 156 17 C 167.08 17 176 25.92 176 37 L 176 36 C 176 24.92 167.08 16 156 16 L 36 16 z " />
+</svg>
