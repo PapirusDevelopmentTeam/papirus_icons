@@ -19,8 +19,8 @@ android {
         applicationId "io.github.PapirusDevelopmentTeam.papirus_icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 8
-        versionName "20220202"
+        versionCode 9
+        versionName "20220209"
         multiDexEnabled true
 
         // Naming app bundles
