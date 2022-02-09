@@ -1615,7 +1615,8 @@
     "com.tencent.mm/com.tencent.mm.ui.LauncherUI"
   ],
   "apps_whatsapp": [
-    "com.whatsapp/com.whatsapp.Main"
+    "com.whatsapp/com.whatsapp.Main",
+    "com.whatsapp/com.whatsapp.0"
   ],
   "apps_whatsapp_business": [
     "com.whatsapp.w4b/com.whatsapp.Main"
@@ -2228,7 +2229,8 @@
     "kr.sira.compass/kr.sira.compass.MsgCheck",
     "net.micode.compass/net.micode.compass.CompassActivity",
     "app.melon.icompass/app.melon.icompass.CompassActivi",
-    "com.ktwapps.digitalcompass/com.ktwapps.digitalcompass.SplashScreen"
+    "com.ktwapps.digitalcompass/com.ktwapps.digitalcompass.SplashScreen",
+    "com.coloros.compass2/com.coloros.compass.flat.FlatCompass"
   ],
   "system_contacts": [
     "com.android.contacts/com.android.contacts.activities.FineOSPeopleActivity",
@@ -3222,7 +3224,8 @@
   "com.cyberlink.youperfect/com.cyberlink.youperfect.activity.SplashActivity"
   ],
   "apps_magisk": [
-  "com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity"
+  "com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity",
+  "com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity"
   ],
   "apps_lucky_patcher": [
   "ru.aaaaaabb.installer/ru.aaaaaabb.installer.MainActivity1",
@@ -3248,7 +3251,8 @@
   "eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity"
   ],
   "apps_tasker": [
-  "net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker"
+  "net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker",
+  "net.dinglisch.android.taskerm/com.joaomgcd.taskerm.util.ActivitySecondaryApp"
   ],
   "apps_warpinator": [
   "slowscript.warpinator/slowscript.warpinator.MainActivity"
@@ -5804,10 +5808,12 @@
   "com.citynav.jakdojade.pl.android/com.citynav.jakdojade.pl.android.SplashScreenActivity"
   ],
   "apps_phonemanager": [
-  "com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity"
+  "com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity",
+  "com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity"
   ],
   "apps_retro_music": [
-  "code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity"
+  "code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity",
+  "io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity"
   ],
   "apps_1dm_plus": [
   "idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity"
@@ -5979,7 +5985,8 @@
   "com.etsy.android/com.etsy.android.ui.homescreen.HomescreenTabsActivity"
   ],
   "apps_feeder": [
-  "com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity"
+  "com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity",
+  "com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity"
   ],
   "apps_goodreads": [
   "com.goodreads/com.goodreads.kindle.ui.activity.SplashActivity"
@@ -6160,7 +6167,8 @@
   "apps_bible": [
   "com.bestweatherfor.bibleoffline_pt_ra/com.bestweatherfor.bibleoffline_pt_ra.bibleoffline.splash.Splash",
   "simple.bible.bbe/king.james.bible.android.activity.LaunchActivity",
-  "bible.king.james.app/king.james.bible.android.activity.LaunchActivity"
+  "bible.king.james.app/king.james.bible.android.activity.LaunchActivity",
+  "net.bible.android.activity/net.bible.android.activity.StartupActivity"
   ],
   "apps_bigbasket": [
   "com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity"
@@ -6365,7 +6373,8 @@
   ],
   "apps_smt_gallery": [
   "com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Blue",
-  "com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+  "com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange",
+  "com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal"
   ],
   "apps_geonet": [
   "nz.org.geonet.quake/nz.org.geonet.quake.activity.MainActivity"
@@ -6857,7 +6866,8 @@
   "br.com.vivo/br.com.vivo.MainActivity"
   ],
   "apps_nubank": [
-  "com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity"
+  "com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity",
+  "com.nu.production/br.com.nubank.app.ProxyActivity"
   ],
   "apps_okta_verify": [
   "com.okta.android.auth/com.okta.android.auth.activity.SplashActivity"
@@ -7356,5 +7366,185 @@
   ],
   "apps_wordreference": [
   "com.wordreference/com.wordreference.MainApp"
+  ],
+  "apps_autosync": [
+  "com.ttxapps.autosync/com.ttxapps.sync.app.MainActivity"
+  ],
+  "apps_yuka": [
+  "io.yuka.android/io.yuka.android.Main.RootActivity"
+  ],
+  "apps_bibi_mob_passageiro": [
+  "br.com.client.bibimob/br.com.client.bibimob.MainActivity"
+  ],
+  "apps_castro": [
+  "com.itemstudio.castro.pro/com.itemstudio.castro.containers.PrimaryContainerActivity"
+  ],
+  "apps_e_titulo": [
+  "br.jus.tse.eleitoral.etitulo/br.jus.tse.eleitoral.etitulo.MainActivity"
+  ],
+  "apps_seguros_unimed": [
+  "br.com.segurosunimed.reembolsodigital/br.com.segurosunimed.reembolsodigital.MainActivity"
+  ],
+  "apps_unip": [
+  "br.unip.secretariaonlineunip/br.unip.secretariaonlineunip.SplashActivity"
+  ],
+  "apps_wifiman": [
+  "com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity"
+  ],
+  "apps_skit_premium": [
+  "com.pavelrekun.skit.premium/com.pavelrekun.skit.containers.PrimaryContainerActivity"
+  ],
+  "apps_99": [
+  "com.taxis99/com.didi.sdk.app.DidiLoadDexActivity"
+  ],
+  "apps_anysoftkeyboard_canary": [
+  "com.menny.android.anysoftkeyboard/com.menny.android.anysoftkeyboard.LauncherSettingsActivity"
+  ],
+  "apps_carteira_de_trabalho_digital": [
+  "br.gov.dataprev.carteiradigital/br.gov.dataprev.carteiradigital.MainActivity"
+  ],
+  "apps_invizible_pro": [
+  "pan.alexander.tordnscrypt/pan.alexander.tordnscrypt.MainActivity"
+  ],
+  "apps_librera_pro": [
+  "com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2"
+  ],
+  "games_magic_touch": [
+  "com.nitrome.magictouch/com.unity3d.player.UnityPlayerActivity"
+  ],
+  "apps_user_manual": [
+  "com.sec.android.usermanual/com.sec.android.usermanual.UserManualActivity"
+  ],
+  "apps_minha_escola_sp": [
+  "br.gov.sp.educacao.minhaescola/br.gov.sp.educacao.minhaescola.view.SplashActivity"
+  ],
+  "apps_picpay": [
+  "com.picpay/com.picpay.features.enter.ReleasePicPayEnter"
+  ],
+  "apps_chromium": [
+  "org.ungoogled.chromium.stable/com.google.android.apps.chrome.Main"
+  ],
+  "apps_anlinux": [
+  "exa.lnx.a/exa.lnx.a.MainUI"
+  ],
+  "apps_huawei_appgallery": [
+  "com.huawei.appmarket/com.huawei.appmarket.MainActivity"
+  ],
+  "apps_florisboard": [
+  "dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias"
+  ],
+  "apps_itinerary": [
+  "org.kde.itinerary/org.kde.itinerary.Activity"
+  ],
+  "apps_salatuk": [
+  "com.masarat.salati/com.masarat.salati.ui.activities.MainActivity"
+  ],
+  "apps_huawei_theme_manager": [
+  "com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+  ],
+  "apps_userland": [
+  "tech.ula/tech.ula.MainActivity"
+  ],
+  "apps_dns66": [
+  "org.jak_linux.dns66/org.jak_linux.dns66.MainActivity"
+  ],
+  "apps_la_mia_banca": [
+  "com.db.pbc.miabanca/it.cedacri.hb3.achille.ui.login.LoginActivity"
+  ],
+  "apps_another_widget": [
+  "com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity"
+  ],
+  "apps_smt_file_manager": [
+  "com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange"
+  ],
+  "apps_ftm": [
+  "nl.ftm.ftmpulse/nl.ftm.ftmpulse.MainActivity"
+  ],
+  "apps_kuroba": [
+  "com.github.adamantcheese.chan/com.github.adamantcheese.chan.StartActivity"
+  ],
+  "apps_migrate_flasher": [
+  "balti.migrate.flasher/balti.migrate.flasher.simpleActivities.MainActivity"
+  ],
+  "apps_migrate": [
+  "balti.migrate/balti.migrate.simpleActivities.MainActivityKotlin"
+  ],
+  "apps_jabra_sound_plus": [
+  "com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity"
+  ],
+  "apps_untappd": [
+  "com.untappdllc.app/com.untappdllc.mosaic.MainActivity"
+  ],
+  "apps_gdmss_plus": [
+  "com.mm.android.direct.gdmssphone/com.mm.android.direct.gdmssphone.SplashActivity"
+  ],
+  "games_water_sort_puzzle": [
+  "sort.water.puzzle.pour.color.tubes.sorting.game/com.google.firebase.MessagingUnityPlayerActivity"
+  ],
+  "apps_birdnet": [
+  "de.tu_chemnitz.mi.kahst.birdnet/de.tu_chemnitz.mi.kahst.birdnet.Activity_SplashScreen"
+  ],
+  "apps_bob_world": [
+  "com.bankofbaroda.mconnect/com.bankofbaroda.mconnect.activities.SplashActivity"
+  ],
+  "games_bombsquad": [
+  "net.froemling.bombsquad/net.froemling.bombsquad.MainActivity"
+  ],
+  "apps_bsnl_selfcare": [
+  "com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity"
+  ],
+  "apps_bsremote": [
+  "net.froemling.bsremote/net.froemling.bsremote.ScanActivity"
+  ],
+  "apps_gcmob": [
+  "com.mm.android.direct.g_CMOB_XU/com.mm.android.direct.gdmssphone.SplashActivity"
+  ],
+  "apps_meme_generator": [
+  "com.zombodroid.MemeGenerator/com.zombodroid.memegen6source.SplashActivity"
+  ],
+  "games_pokemon_unite": [
+  "jp.pokemon.pokemonunite/com.nishiki.pgame.n.PGameActivity"
+  ],
+  "apps_powerschool": [
+  "com.powerschool.portal/com.pearson.powerschool.android.portal.PortalActivity"
+  ],
+  "apps_whoosh": [
+  "com.punicapp.whoosh/com.punicapp.whoosh.activities.SplashActivity"
+  ],
+  "apps_myim3": [
+  "com.pure.indosat.care/com.pure.indosat.care.activities.SplashActivity"
+  ],
+  "apps_remote_lg": [
+  "com.quanticapps.remotelgtvs/com.quanticapps.remotelgtvs.activity.ActivitySplash"
+  ],
+  "apps_remote_tv": [
+  "com.quanticapps.remotetvs/com.quanticapps.remotetvs.activity.ActivitySplash"
+  ],
+  "apps_eboox": [
+  "com.reader.books/com.reader.books.gui.activities.MainActivity"
+  ],
+  "apps_ringid": [
+  "com.ringid.ring/com.ringid.ringme.HomeActivity"
+  ],
+  "apps_filemaster": [
+  "com.root.clean.boost.explorer.filemanager/com.best.filemaster.StartActivity"
+  ],
+  "apps_rs_file_manager": [
+  "com.rs.explorer.filemanager/com.edili.filemanager.module.activity.FirstActivity"
+  ],
+  "apps_mobizen": [
+  "com.rsupport.mvagent/com.rsupport.mvagent.ui.activity.splash.SplashActivity"
+  ],
+  "apps_ruangguru": [
+  "com.ruangguru.livestudents/com.ruangguru.livestudents.modules.front.ui.splash.SplashActivity"
+  ],
+  "apps_safeincloud": [
+  "com.safeincloud.free/com.safeincloud.EntryActivity"
+  ],
+  "apps_penup": [
+  "com.sec.penup/com.sec.penup.ui.SplashActivity"
+  ],
+  "apps_shopify": [
+  "com.shopify.arrive/com.shopify.arrive.MainActivity"
   ]
 }
