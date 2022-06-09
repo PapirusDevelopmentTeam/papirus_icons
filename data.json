@@ -2105,6 +2105,11 @@
     "com.android.browser/com.android.browser.BrowserActivity",
     "org.lineageos.jelly/org.lineageos.jelly.MainActivity",
     "com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity"
+    "com.htc.sense.browser/com.htc.sense.browser.BrowserActivity"
+    "com.huawei.browser/com.huawei.browser.Main2"
+    "com.android.browser/com.android.browser.launch.SplashActivity"
+    "org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher"
+    "com.vivo.browser/com.vivo.browser.BrowserActivity"
   ],
   "system_calculator": [
     "cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator",
@@ -2134,6 +2139,7 @@
     "org.mmin.handycalc/org.mmin.handycalc.HandyCalc",
     "com.transsion.calculator/com.transsion.calculator.Calculator",
     "com.coloros.calculator/com.android.calculator2.Calculator"
+    "com.vivo.calculator/com.vivo.calculator.Calculator"
   ],
   "system_calendar": [
     "cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity",
@@ -2164,6 +2170,7 @@
     "org.lineageos.etar/com.android.calendar.AllInOneActivity",
     "com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity",
     "ws.xsoh.etar/com.android.calendar.AllInOneActivity"
+    "com.android.calendar/com.android.calendar.LaunchTasksActivity"
   ],
   "system_clock": [
     "com.acer.deskclock/com.acer.deskclock.DeskClock",
@@ -2211,6 +2218,17 @@
     "com.huawei.android.thememanager/com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity",
     "com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity",
     "com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity"
+    "com.asus.themeapp/com.asus.themeapp.ThemeAppActivity"
+    "com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity"
+    "com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.SkinPickerActivity"
+    "com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.PackagePickerActivity"
+    "com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.ApplySkinActivity"
+    "com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.AutoApplySkinActivity"
+    "com.android.thememanager/com.android.thememanager.business.startup.view.StartupActivity"
+    "org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher"
+    "org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity"
+    "com.nearme.themestore/com.nearme.themespace.activities.ThemeActivity"
+    "com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity"
   ],
   "system_compass": [
     "apps.r.compass/apps.r.compass.StartActivity",
@@ -2276,6 +2294,8 @@
     "com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity",
     "com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity",
     "com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity"
+    "com.asus.contacts/com.android.contacts.activities.PeopleActivity"
+    "com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity"
   ],
   "system_downloads": [
     "com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList",
@@ -2290,6 +2310,7 @@
   ],
   "system_eq": [
     "com.android.musicfx/com.android.musicfx.ActivitySRS"
+    "com.asus.maxxaudio.audiowizard/com.asus.maxxaudio.audiowizard.MainActivity"
   ],
   "system_file_manager": [
     "com.adao.android.afm/com.adao.android.afm.CoverActivity",
@@ -2372,6 +2393,15 @@
     "com.google.android.documentsui/com.android.documentsui.LauncherActivity",
     "com.coloros.filemanager/com.coloros.filemanager.filerefactor.ui.main.MainActivity",
     "com.coloros.filemanager/com.oplus.filemanager.main.ui.MainActivity"
+    "com.nbc.filemanager/com.fihtdc.filemanager.FileManager"
+    "com.huawei.filemanager/com.huawei.hidisk.filemanager.FileManager"
+    "com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+    "com.android.filemanager/com.android.filemanager.FirstPermissionActivity"
+  ],
+    "system_flashlight": [
+    "com.asus.flashlight/com.asus.flashlight.FlashLightMainActivity"
+    "com.htc.flashlight/com.htc.flashlight.FlashlightActivity"
+    "com.android.systemui/com.android.systemui.flashlight.FlashlightActivity"
   ],
   "system_fingerprint": [
     "com.android.fingerprintlauncher/com.android.fingerprintlauncher.MainActivity"
@@ -2428,6 +2458,11 @@
     "com.coloros.gallery3d/com.coloros.gallery3d.app.MainActivity",
     "com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity",
     "com.sonyericsson.album/com.sonyericsson.album.MainActivity"
+    "com.asus.gallery/com.asus.gallery.app.EPhotoActivity"
+    "com.htc.album/com.htc.photoenhancer.LandingPage"
+    "com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity"
+    "com.nextbit.gallery/com.nextbit.gallery.main.MainActivity"
+    "com.oneplus.gallery/com.oneplus.gallery.app.MainActivity"
   ],
   "system_gesture_builder": [
     "com.android.gesture.builder/com.android.gesture.builder.GestureBuilderActivity"
@@ -2457,6 +2492,9 @@
     "com.samsung.android.email.ui/com.samsung.android.email.ui.activity.MessageListXL",
     "com.sonymobile.email/com.sonymobile.email.activity.Welcome",
     "com.tct.email/com.tct.email.activity.Welcome"
+    "com.motorola.email/com.android.email.activity.ComposeActivityEmail"
+    "com.android.email/com.android.email.login.activity.WelcomeActivity"
+    "com.vivo.email/com.vivo.email.activity.Welcome"
   ],
   "system_messages": [
     "cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity",
@@ -2486,6 +2524,7 @@
     "com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity",
     "com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity",
     "com.oneplus.mms/com.android.mms.ui.ConversationList"
+    "com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
   ],
   "system_mic_2": [
   "com.transsion.soundrecorder/com.transsion.soundrecorder.SoundRecorder",
@@ -2493,6 +2532,17 @@
   "com.android.soundrecorder/com.android.soundrecorder.SoundRecorder",
   "com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder",
   "com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile"
+  "com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder"
+  "com.evenwell.voicenote/com.evenwell.voicenote.MainActivity"
+  "com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG"
+  "com.android.soundrecorder/com.android.soundrecorder.RecordListActivity"
+  "com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder"
+  "com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder"
+  "com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder"
+  "com.lenovo.recorder/com.lenovo.recorder.SoundRecorder"
+  "com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity"
+  "com.android.bbksoundrecorder/com.android.activity.ReclistActivity"
+  "com.vivo.soundrecorder/com.vivo.activity.ReclistActivity"
   ],
   "system_music": [
     "cn.zte.music/cn.zte.music.activity.MusicBrowserActivity",
@@ -2540,6 +2590,10 @@
     "net.oneplus.music/net.oneplus.music.activity.MainActivity",
     "com.sonyericsson.music/com.sonyericsson.music.MusicActivity",
     "com.heytap.music/com.nearme.music.splash.SplashActivity"
+    "com.nbc.music/com.nbc.music.MusicBrowserActivity"
+    "com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity"
+    "com.oppo.music/com.nearme.music.splash.SplashActivity"
+    "com.android.bbkmusic/com.android.bbkmusic.WidgetToTrackActivity"
   ],
   "system_music_2": [
     "org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity"
@@ -2585,6 +2639,15 @@
     "zte.com.cn.cloudnotepad/zte.com.cn.cloudnotepad.ui.SplashActivity",
     "com.transsion.notebook/com.transsion.notebook.NotesList",
     "com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
+    "com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity"
+    "com.asus.supernote/com.asus.supernote.picker.NoteBookPickerActivity"
+    "com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity"
+    "com.htc.lucy/com.htc.lucy.editor.LandingActivity"
+    "com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity"
+    "com.oneplus.note/com.nearme.note.main.MainActivity"
+    "com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity"
+    "com.samsung.android.app.memo/com.samsung.android.app.memo.Main"
+    "com.coloros.note/com.nearme.note.main.MainActivity"
   ],
   "system_phone": [
     "com.android.contacts/com.android.contacts.activities.CallLogActivity",
@@ -2652,6 +2715,8 @@
     "com.android.dialer/com.android.dialer.main.impl.MainActivity",
     "com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity",
     "com.sonymobile.android.dialer/com.android.dialer.main.impl.MainActivity"
+    "com.asus.dialer/com.android.contacts.activities.DialtactsActivity"
+    "com.android.contacts/com.android.contacts.TwelveKeyDialer"
   ],
   "system_photocam": [
     "com.acer.camera/com.acer.camera.CameraActivity",
@@ -2732,6 +2797,16 @@
     "com.oplus.camera/com.oplus.camera.Camera",
     "com.android.MGC/com.android.camera.CameraLauncher",
     "com.android.MGC.not.stable/com.android.camera.CameraLauncher"
+    "com.essential.klik/com.essential.klik.Camera"
+    "com.evenwell.camera2/com.android.camera.CameraLauncher"
+    "com.hmdglobal.app.camera/com.hmdglobal.app.camera.GuideActivity"
+    "com.hmdglobal.camera2/com.android.camera.CameraLauncher"
+    "com.hmdglobal.camera2lite/com.android.camera.CameraLauncher"
+    "com.htc.camera2/com.htc.camera2.CameraEntry"
+    "com.motorola.cameraone/com.motorola.camera.Camera"
+    "com.motorola.camera1/com.motorola.camera.Camera"
+    "com.motorola.camera3/com.motorola.camera.Camera"
+    "com.nextbit.camera/com.nextbit.camera.ui.CameraActivity"
   ],
   "system_preferences": [
     "com.android.hisiliconsetting/com.android.hisiliconsetting.MainActivity",
@@ -2831,6 +2906,8 @@
     "com.wingtech.fmradio/com.wingtech.fmradio.FMRadio",
     "fm.a2d.s2/fm.a2d.s2.gui_act",
     "com.transsion.fmradio/com.transsion.fmradio.FmMainActivity"
+    "com.huawei.android.FMRadio/com.huawei.FMRadio.page.PageActivity"
+    "com.sonymobile.fmradio/com.sonymobile.fmradio.ui.FmRadioActivity"
   ],
   "system_recovery": [
     "com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity"
@@ -2840,6 +2917,7 @@
   ],
   "system_security": [
     "com.lenovo.security/com.lenovo.security.homepage.HomePageActivity"
+    "com.asus.mobilemanager/com.asus.mobilemanager.entry.FunctionActivity"
   ],
   "system_settings": [
     "com.android.customlocale2/com.android.customlocale2.CustomLocaleActivity",
@@ -2957,6 +3035,9 @@
     "com.zte.videoplayer/com.zte.videoplayer.VideoBrowserActivity",
     "com.zui.videoplayer/com.zui.videoplayer.activity.MainActivity",
     "com.coloros.video/com.oplus.video.VideoListActivity"
+    "com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity"
+    "com.android.gallery3d/com.android.gallery3d.app.VideoListWrapper"
+    "com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList"
   ],
   "system_videocam": [
     "com.android.camera2/com.android.camera.VideoCamera",
@@ -3009,6 +3090,12 @@
     "com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity",
     "de.beowulf.wetter/de.beowulf.wetter.LaunchActivity",
     "com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity"
+    "com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings"
+    "com.htc.Weather/com.htc.Weather.WeatherEntry"
+    "com.htc.Weather/com.htc.Weather.WeatherEntryAlias"
+    "com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome"
+    "com.coloros.weather2/com.coloros.weather.OppoMainActivity"
+    "com.vivo.weather/com.vivo.weather.WeatherMain"
   ],
   "system_widget_preview": [
     "com.android.widgetpreview/com.android.widgetpreview.WidgetPreviewActivity"
