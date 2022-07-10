@@ -5,13 +5,9 @@
     package="io.github.PapirusDevelopmentTeam.papirus_icons">
 
     <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
-    <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
-    <!-- If you are not using license checker, you need to remove CHECK_LICENSE permission -->
-    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
 
     <supports-screens
         android:smallScreens="true"
@@ -36,7 +32,8 @@
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
-            android:theme="@style/CandyBar.Theme.Splash">
+            android:theme="@style/CandyBar.Theme.Splash"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -50,7 +47,8 @@
             android:name="io.github.PapirusDevelopmentTeam.papirus_icons.activities.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/CandyBar.Theme.App"
-            android:configChanges="uiMode|orientation|keyboardHidden|screenSize">
+            android:configChanges="uiMode|orientation|keyboardHidden|screenSize"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
@@ -201,7 +199,8 @@
                 android:value="@color/muzei_color" />
         </provider>
 
-        <receiver android:name="io.github.PapirusDevelopmentTeam.papirus_icons.services.ClockWidget" android:label="Clock Widget">
+        <receiver android:name="io.github.PapirusDevelopmentTeam.papirus_icons.services.ClockWidget" android:label="Clock Widget"
+            android:exported="false">
 
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
