@@ -6,21 +6,29 @@
 Popular Linux icon theme now on Android!
 
 # Supported Launchers:
-This launchers recommend use with Papirus Icon Pack:
+Below launchers have been tested to be working successfully with Papirus Icon among others. Feel free to add yours:
 
-Flick, Holo, Lawnchair, Lucid, Nova, Posidon, Smart, HiOS and others...
+- Flick
+- Holo
+- Lawnchair
+- Lucid
+- Nova
+- Posidon
+- Smart
+- HiOS
+- _and many others..._
 
 # Features:
-- Open source code
+- Fully Open Source
 - Pixel perfect
-- More 1500 icons
-- Material design application
+- More than 1500 icons
+- Inspired by Material design
 - Icon Request option
 - Check Update function
 - 8 Cloud Wallpapers
 
 # Install
-You can [download icon pack](https://www.pling.com/p/1662847/) directly from the Android browser or download on PC and send to phone via KDE Connect/Send Anywhere/Android File Transfer.
+You can [download icon pack](https://www.pling.com/p/1662847/) directly from the Android browser or download on PC and send to phone via KDE Connect/Send Anywhere/Android File Transfer or adb.
 Application have "Check Update" button for features updates.
 
 # Priority icon requests:
